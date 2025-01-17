@@ -16,6 +16,12 @@ https://xyzdddd.mizhls.ru/lb/premium769/index.m3u8
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cbs-2-wcbs-us.png" tvg-name="CBSNY",CBSNY
 https://xyzdddd.mizhls.ru/lb/premium767/index.m3u8
 
+#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" tvg-name="FOXNY",FOXNY
+https://xyzdddd.mizhls.ru/lb/premium768/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox.News.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png" tvg-name="Fox News",Fox News
+https://xyzdddd.mizhls.ru/lb/premium347/index.m3u8
+
 #EXTINF:-1 tvg-id="9206" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" tvg-name="BBC News Channel HD",BBC News Channel HD
 https://xyzdddd.mizhls.ru/lb/premium349/index.m3u8
 
