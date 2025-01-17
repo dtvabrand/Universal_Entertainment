@@ -1,10 +1,7 @@
 #EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/guidatv.sky.it.xml, https://xmltv.tvkaista.net/guides/mediasetinfinity.mediaset.it.xml, https://xmltv.tvkaista.net/guides/raiplay.it.xml, https://xmltv.tvkaista.net/guides/superguidatv.it.xml"
 #EXTM3U url-tvg="https://github.com/dtankdempse/daddylive-m3u/raw/refs/heads/main/epg.xml"
-#EXTINF:-1 tvg-name="TV 2000" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-id="TV2000.va" group-title="Italy",TV 2000
+#EXTINF:-1 tvg-name="TV 2000" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-id="TV2000.va",TV 2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png" tvg-name="Disney Channel",Disney Channel
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png" tvg-name="Disney Channel",Disney Channel
 https://xyzdddd.mizhls.ru/lb/premium312/index.m3u8
