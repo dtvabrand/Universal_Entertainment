@@ -28,6 +28,9 @@ https://xyzdddd.mizhls.ru/lb/premium349/index.m3u8
 #EXTINF:-1 tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png" tvg-name="HGTV",HGTV
 https://xyzdddd.mizhls.ru/lb/premium382/index.m3u8
 
+#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/e-entertainment-us.png" tvg-name="E! Entertainment Television",E! Entertainment Television
+https://xyzdddd.mizhls.ru/lb/premium315/index.m3u8
+
 #EXTINF:-1 tvg-id="CW.(WUCW).St..Paul,.MN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" tvg-name="CW (WUCW)",CW (WUCW)
 https://xyzdddd.mizhls.ru/lb/premium300/index.m3u8
 
