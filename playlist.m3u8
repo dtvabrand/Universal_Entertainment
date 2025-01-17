@@ -13,6 +13,9 @@ https://xyzdddd.mizhls.ru/lb/premium766/index.m3u8
 #EXTINF:-1 tvg-id="9206" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" tvg-name="BBC News Channel HD",BBC News Channel HD
 https://xyzdddd.mizhls.ru/lb/premium349/index.m3u8
 
+#EXTINF:-1 tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png" tvg-name="HGTV",HGTV
+https://xyzdddd.mizhls.ru/lb/premium382/index.m3u8
+
 #EXTINF:-1 tvg-id="CW.(WUCW).St..Paul,.MN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" tvg-name="CW (WUCW)",CW (WUCW)
 https://xyzdddd.mizhls.ru/lb/premium300/index.m3u8
 
