@@ -34,6 +34,9 @@ https://xyzdddd.mizhls.ru/lb/premium300/index.m3u8
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" tvg-name="Boomerang",Boomerang
 https://xyzdddd.mizhls.ru/lb/premium648/index.m3u8
 
+#EXTINF:-1 tvg-id="MeTV.Toons" tvg-logo="https://metvtoons.com/images/metvtoons_logo_blue.png" tvg-name="MeTV Toons", MeTV Toons
+http://doubleclicktv.live:80/70376812/52663544/494103
+
 #EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png" tvg-name="Disney Channel",Disney Channel
 https://xyzdddd.mizhls.ru/lb/premium312/index.m3u8
 
