@@ -10,6 +10,12 @@ https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABCNY",ABCNY
 https://xyzdddd.mizhls.ru/lb/premium766/index.m3u8
 
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/2077px-NBC_logo.svg.png" tvg-name="NBCNY",NBCNY
+https://xyzdddd.mizhls.ru/lb/premium769/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cbs-2-wcbs-us.png" tvg-name="CBSNY",CBSNY
+https://xyzdddd.mizhls.ru/lb/premium767/index.m3u8
+
 #EXTINF:-1 tvg-id="9206" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" tvg-name="BBC News Channel HD",BBC News Channel HD
 https://xyzdddd.mizhls.ru/lb/premium349/index.m3u8
 
