@@ -1,41 +1,43 @@
-name: Scrape Live Stream URL
+name: Update playlist.m3u8
 
 on:
-  workflow_dispatch:
-    inputs:
-      url:
-        description: "The URL to scrape for m3u8 links"
-        required: true
-        default: "https://www.youtube.com/watch?v=2Xn1Bb697A0"
+  schedule:
+    - cron: "0 */6 * * *"  # Esegui ogni 6 ore
 
 jobs:
-  scrape:
+  update-playlist:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '16'
+      - name: Set up Python environment
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
 
-    - name: Install Puppeteer
-      run: npm install puppeteer
+      - name: Install yt-dlp
+        run: |
+          python -m pip install --upgrade pip
+          pip install yt-dlp
 
-    - name: Run Puppeteer script with dynamic URL
-      env:
-        TARGET_URL: ${{ github.event.inputs.url }}
-      run: |
-        echo -e "\033[1;36m🌀 Running Puppeteer Script... 🌀\033[0m"
-        node puppeteer-script.js | tee puppeteer_output.txt
+      - name: Extract M3U8 link
+        id: extract_link
+        run: |
+          LINK=$(yt-dlp -g https://www.youtube.com/watch?v=2Xn1Bb697A0)
+          echo "NEW_LINK=$LINK" >> $GITHUB_ENV
 
-    - name: Display captured .m3u8 URLs
-      run: |
-        echo -e "\033[1;33m============================\033[0m"
-        echo -e "\033[1;35m Scrape Results: \033[0m"
-        echo -e "\033[1;33m============================\033[0m"
-        cat puppeteer_output.txt
-        echo -e "\033[1;33m============================\033[0m"
-        grep 'Found .m3u8 URL:' puppeteer_output.txt || echo -e "\033[1;31mExit...\033[0m"
+      - name: Update playlist.m3u8
+        run: |
+          sed -i.bak "/^https:\/\/manifest\.googlevideo\.com\//c\\$NEW_LINK" playlist.m3u8
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add playlist.m3u8
+          git commit -m "Updated playlist.m3u8 with new M3U8 link"
+          git push
+        env:
+          NEW_LINK: ${{ env.NEW_LINK }}
