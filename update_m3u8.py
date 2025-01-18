@@ -1,36 +1,53 @@
-import yt_dlp
+import requests
 import os
+import sys
+
+windows = False
+if 'win' in sys.platform:
+    windows = True
 
 def grab(url):
-    # Utilizzo di yt-dlp per ottenere il flusso m3u8 da YouTube
-    ydl_opts = {
-        'quiet': True,
-        'format': 'best',
-        'extractor_args': {
-            'youtube': {
-                'geo_bypass': True,  # Per aggirare le restrizioni geografiche
-            }
-        },
-        'outtmpl': 'temp.m3u8',  # Salva l'output temporaneo in un file m3u8
-    }
-
-    with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-        info_dict = ydl.extract_info(url, download=False)
-        formats = info_dict.get('formats', [])
-
-        # Cerchiamo il flusso m3u8
-        for f in formats:
-            if 'm3u8' in f.get('url', ''):
-                print(f"{f['url']}")
+    response = requests.get(url, timeout=15).text
+    if '.m3u8' not in response:
+        #response = requests.get(url).text
+        if '.m3u8' not in response:
+            if windows:
+                print('abc')
                 return
+            #os.system(f'wget {url} -O temp.txt')
+            os.system(f'curl "{url}" > temp.txt')
+            response = ''.join(open('temp.txt').readlines())
+            if '.m3u8' not in response:
+                print('qwe')
+                return
+    end = response.find('.m3u8') + 5
+    tuner = 100
+    while True:
+        if 'https://' in response[end-tuner : end]:
+            link = response[end-tuner : end]
+            start = link.find('https://')
+            end = link.find('.m3u8') + 5
+            break
+        else:
+            tuner += 5
+    print(f"{link[start : end]}")
 
-    print('https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u')
-
-# URL direttamente di YouTube
-url = 'https://www.youtube.com/watch?v=2Xn1Bb697A0'
-
-# Stampa l'intestazione per la playlist
-print('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"')
-
-# Chiamata alla funzione con il link YouTube
-grab(url)
+#s = requests.Session()
+with open('../youtube_channel_info.txt') as f:
+    for line in f:
+        line = line.strip()
+        if not line or line.startswith('~~'):
+            continue
+        if not line.startswith('https:'):
+            line = line.split('|')
+            ch_name = line[0].strip()
+            grp_title = line[1].strip().title()
+            tvg_logo = line[2].strip()
+            tvg_id = line[3].strip()
+            print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
+        else:
+            grab(line)
+            
+if 'temp.txt' in os.listdir():
+    #os.system('rm temp.txt')
+    os.system('rm watch*')
