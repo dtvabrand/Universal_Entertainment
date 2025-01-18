@@ -23,7 +23,7 @@ jobs:
 
     - name: Estrai cookie dal browser e salva in cookies.txt
       run: |
-        yt-dlp --cookies-from-browser chrome --cookies scripts/cookies.txt
+        python3 scripts/extract_cookies.py
 
     - name: Estrai link M3U8
       run: |
