@@ -16,18 +16,16 @@ jobs:
     - name: Check out repository
       uses: actions/checkout@v2
 
-    - name: Installa Chromium e yt-dlp
+    - name: Installa Chromium, Go e Chrome Cookie Extractor
       run: |
         sudo apt update
         sudo apt install -y chromium-browser
-        sudo apt install -y python3-pip
-        pip3 install yt-dlp
+        sudo apt install -y golang
+        go get github.com/chromedp/chromedp
 
     - name: Estrai cookie dal browser e salva in cookies.txt
       run: |
-        echo 'yt-dlp --cookies-from-browser chrome --cookies scripts/cookies.txt' > extract_cookies.sh
-        chmod +x extract_cookies.sh
-        ./extract_cookies.sh
+        go run scripts/extract_cookies.go
 
     - name: Estrai link M3U8
       run: |
