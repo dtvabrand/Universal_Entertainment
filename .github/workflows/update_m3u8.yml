@@ -14,17 +14,16 @@ jobs:
     - name: Check out repository
       uses: actions/checkout@v2
 
-    - name: Installa Chromium, yt-dlp e browser_cookie3
+    - name: Installa Chromium e yt-dlp
       run: |
         sudo apt update
         sudo apt install -y chromium-browser
         sudo apt install -y python3-pip
         pip3 install yt-dlp
-        pip3 install browser_cookie3
 
     - name: Estrai cookie dal browser e salva in cookies.txt
       run: |
-        python3 scripts/extract_cookies.py
+        yt-dlp --cookies-from-browser chrome --cookies scripts/cookies.txt
 
     - name: Estrai link M3U8
       run: |
