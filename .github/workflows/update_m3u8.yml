@@ -1,49 +1,38 @@
-name: Update playlist.m3u8
+name: Update Playlist with M3U8 link
 
 on:
   schedule:
     - cron: "0 */6 * * *"  # Esegui ogni 6 ore
-  workflow_dispatch:
 
 jobs:
-  update-playlist:
+  extract_link:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+    # Checkout della tua repository
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
-      - name: Set up Python environment
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
+    # Crea il file cookies.txt a partire dal secret
+    - name: Create cookies file
+      run: echo "${{ secrets.COOKIES_TXT }}" > cookies.txt
 
-      - name: Install yt-dlp
-        run: |
-          python -m pip install --upgrade pip
-          pip install yt-dlp
+    # Estrai il link M3U8 con yt-dlp utilizzando il file cookies.txt
+    - name: Extract M3U8 link
+      id: extract_link
+      run: |
+        LINK=$(yt-dlp --cookies cookies.txt -g https://www.youtube.com/watch?v=2Xn1Bb697A0)
+        echo "NEW_LINK=$LINK" >> $GITHUB_ENV
 
-      - name: Install Google Chrome
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y google-chrome-stable
-
-      - name: Extract M3U8 link
-        id: extract_link
-        run: |
-          LINK=$(yt-dlp --cookies-from-browser chrome -g https://www.youtube.com/watch?v=2Xn1Bb697A0)
-          echo "NEW_LINK=$LINK" >> $GITHUB_ENV
-
-      - name: Update playlist.m3u8
-        run: |
-          sed -i.bak "/^https:\/\/manifest\.googlevideo\.com\//c\\$NEW_LINK" playlist.m3u8
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add playlist.m3u8
-          git commit -m "Updated playlist.m3u8 with new M3U8 link"
-          git push
-        env:
-          NEW_LINK: ${{ env.NEW_LINK }}
+    # Modifica il file playlist.m3u8 e committa la modifica
+    - name: Update playlist.m3u8
+      run: |
+        # Sostituisci la vecchia riga con il nuovo link estratto
+        sed -i "s|https://manifest.googlevideo.com|$NEW_LINK|g" playlist.m3u8
+        
+        # Aggiungi e committa il cambiamento
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@users.noreply.github.com"
+        git add playlist.m3u8
+        git commit -m "Update playlist.m3u8 with new M3U8 link"
+        git push origin main
