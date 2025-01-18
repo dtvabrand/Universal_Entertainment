@@ -3,6 +3,7 @@ name: Update Playlist with M3U8 link
 on:
   schedule:
     - cron: "0 */6 * * *"  # Esegui ogni 6 ore
+  workflow_dispatch:  # Permette di avviare manualmente il workflow dal sito GitHub
 
 jobs:
   extract_link:
