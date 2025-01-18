@@ -14,10 +14,12 @@ jobs:
     - name: Check out repository
       uses: actions/checkout@v2
 
-    - name: Installa Chromium
+    - name: Installa Chromium e yt-dlp
       run: |
         sudo apt update
         sudo apt install -y chromium-browser
+        sudo apt install -y python3-pip
+        pip3 install yt-dlp
 
     - name: Estrai cookie dal browser e salva in cookies.txt
       run: |
