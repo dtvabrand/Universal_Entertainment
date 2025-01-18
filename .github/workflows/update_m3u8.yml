@@ -16,13 +16,13 @@ jobs:
     - name: Check out repository
       uses: actions/checkout@v2
 
-    - name: Installa Chromium, yt-dlp e httpx
+    - name: Installa Chromium, yt-dlp e httpx con HTTP/2
       run: |
         sudo apt update
         sudo apt install -y chromium-browser
         sudo apt install -y python3-pip
         pip3 install yt-dlp
-        pip3 install httpx
+        pip3 install "httpx[http2]"
 
     - name: Estrai cookie dal browser e salva in cookies.txt
       run: |
