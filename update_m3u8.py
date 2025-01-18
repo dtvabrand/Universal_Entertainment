@@ -14,6 +14,9 @@ headers = {
 # Richiesta alla pagina di YouTube
 html = session.get("https://www.youtube.com/watch?v=2Xn1Bb697A0", headers=headers).text
 
+# Aggiungi debug: mostra una parte dell'HTML per il controllo
+print(html[:5000])  # Stampa i primi 5000 caratteri dell'HTML per verificarlo
+
 # Estrazione del link m3u8
 new_m3u8 = re.search(r'"hlsManifestUrl":"(https://manifest\.googlevideo\.com.*?\.m3u8)"', html)
 if new_m3u8:
