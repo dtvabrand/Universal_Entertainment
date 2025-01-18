@@ -1,4 +1,4 @@
-name: Estrai link M3U8 da YouTube
+name: Estrai link M3U8 e aggiorna playlist
 
 on:
   workflow_dispatch:
@@ -7,28 +7,31 @@ permissions:
   contents: write
 
 jobs:
-  extract_m3u8_link:
+  extract_m3u8:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+    - name: Check out repository
+      uses: actions/checkout@v2
 
-      - name: Install yt-dlp
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y yt-dlp
+    - name: Installa Chromium
+      run: |
+        sudo apt update
+        sudo apt install -y chromium-browser
 
-      - name: Estrai il link M3U8
-        run: |
-          # Usa i cookies dal file scripts/cookies.txt
-          LINK=$(yt-dlp --cookies scripts/cookies.txt -g https://www.youtube.com/watch?v=2Xn1Bb697A0)
-          echo "NEW_LINK=$LINK" >> $GITHUB_ENV
+    - name: Estrai cookie dal browser e salva in cookies.txt
+      run: |
+        yt-dlp --cookies-from-browser chrome --cookies scripts/cookies.txt
 
-      - name: Sostituisci il link nella playlist.m3u8
-        run: |
-          sed -i 's|https://manifest.googlevideo.com/.*|$NEW_LINK|' playlist.m3u8
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'actions@github.com'
-          git commit -am "Aggiornato il link M3U8"
-          git push
+    - name: Estrai link M3U8
+      run: |
+        LINK=$(yt-dlp --cookies scripts/cookies.txt -g https://www.youtube.com/watch?v=2Xn1Bb697A0)
+        echo "NEW_LINK=$LINK" >> $GITHUB_ENV
+
+    - name: Aggiorna il file playlist.m3u8
+      run: |
+        sed -i 's|https://manifest.googlevideo.com/|$NEW_LINK|' playlist.m3u8
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@users.noreply.github.com"
+        git commit -am "Aggiornato il link M3U8"
+        git push
