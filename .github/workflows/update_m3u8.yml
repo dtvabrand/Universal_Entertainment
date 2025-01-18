@@ -2,6 +2,9 @@
 
 name: M3U generator
 
+permissions:
+  contents: write
+  
 # Controls when the action will run. 
 on:
   schedule:
