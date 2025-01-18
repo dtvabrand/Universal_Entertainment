@@ -5,6 +5,9 @@ on:
     - cron: "0 */6 * * *"  # Esegui ogni 6 ore
   workflow_dispatch:  # Permette di avviare manualmente il workflow dal sito GitHub
 
+permissions:
+  contents: write  # Permesso per scrivere nei contenuti della repository
+
 jobs:
   extract_link:
     runs-on: ubuntu-latest
@@ -14,6 +17,11 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
+    # Crea il file cookies.txt a partire dal secret (o da un file esistente)
+    - name: Create cookies file
+      run: |
+        echo "${{ secrets.COOKIES_TXT }}" > scripts/cookies.txt
+
     # Installa yt-dlp
     - name: Install yt-dlp
       run: |
@@ -21,15 +29,11 @@ jobs:
         sudo apt install -y python3-pip
         pip3 install yt-dlp
 
-    # Crea il file cookies.txt a partire dal secret
-    - name: Create cookies file
-      run: echo "${{ secrets.COOKIES_TXT }}" > cookies.txt
-
     # Estrai il link M3U8 con yt-dlp utilizzando il file cookies.txt
     - name: Extract M3U8 link
       id: extract_link
       run: |
-        LINK=$(yt-dlp --cookies cookies.txt -g https://www.youtube.com/watch?v=2Xn1Bb697A0)
+        LINK=$(yt-dlp --cookies scripts/cookies.txt -g https://www.youtube.com/watch?v=2Xn1Bb697A0)
         echo "NEW_LINK=$LINK" >> $GITHUB_ENV
 
     # Modifica il file playlist.m3u8 e committa la modifica
