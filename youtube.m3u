@@ -1,1 +1,4 @@
+#EXTM3U url-tvg="https://github.com/dtankdempse/daddylive-m3u/raw/refs/heads/main/epg.xml"
 
+#EXTINF:-1 tvg-id="", TV Lourdes
+https://github.com/dtvabrand/Universal_Entertainment/edit/main/youtube.m3u
