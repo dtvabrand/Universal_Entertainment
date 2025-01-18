@@ -1,25 +1,41 @@
-name: Run PHP Script
+name: Scrape Live Stream URL
 
 on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "The URL to scrape for m3u8 links"
+        required: true
+        default: "https://www.youtube.com/watch?v=2Xn1Bb697A0"
 
 jobs:
-  run-php:
+  scrape:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
-    - name: Set up PHP
-      uses: shivammathur/setup-php@v2
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
       with:
-        php-version: '7.4'  # Puoi modificare la versione PHP se necessario
+        node-version: '16'
 
-    - name: Run PHP script
-      run: php tv_lourdes_url.php
+    - name: Install Puppeteer
+      run: npm install puppeteer
+
+    - name: Run Puppeteer script with dynamic URL
+      env:
+        TARGET_URL: ${{ github.event.inputs.url }}
+      run: |
+        echo -e "\033[1;36m🌀 Running Puppeteer Script... 🌀\033[0m"
+        node puppeteer-script.js | tee puppeteer_output.txt
+
+    - name: Display captured .m3u8 URLs
+      run: |
+        echo -e "\033[1;33m============================\033[0m"
+        echo -e "\033[1;35m Scrape Results: \033[0m"
+        echo -e "\033[1;33m============================\033[0m"
+        cat puppeteer_output.txt
+        echo -e "\033[1;33m============================\033[0m"
+        grep 'Found .m3u8 URL:' puppeteer_output.txt || echo -e "\033[1;31mExit...\033[0m"
