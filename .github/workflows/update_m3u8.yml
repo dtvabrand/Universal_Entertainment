@@ -1,42 +1,34 @@
-name: Estrai M3U8 link e aggiorna playlist
+name: Estrai link M3U8 da YouTube
 
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  extract-link:
+  extract_m3u8_link:
     runs-on: ubuntu-latest
 
     steps:
-    # Checkout del repository
-    - name: Checkout repository
-      uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    # Installazione di yt-dlp
-    - name: Installa yt-dlp
-      run: |
-        sudo apt update
-        sudo apt install python3-pip
-        pip3 install -U yt-dlp
+      - name: Install yt-dlp
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y yt-dlp
 
-    # Estrazione del link M3U8 con yt-dlp
-    - name: Estrai M3U8 link
-      id: extract_link
-      run: |
-        LINK=$(yt-dlp --cookies scripts/cookies.txt -g https://www.youtube.com/watch?v=2Xn1Bb697A0)
-        echo "NEW_LINK=$LINK" >> $GITHUB_ENV
+      - name: Estrai il link M3U8
+        run: |
+          # Usa i cookies dal file scripts/cookies.txt
+          LINK=$(yt-dlp --cookies scripts/cookies.txt -g https://www.youtube.com/watch?v=2Xn1Bb697A0)
+          echo "NEW_LINK=$LINK" >> $GITHUB_ENV
 
-    # Sostituzione del vecchio link nel file playlist.m3u8
-    - name: Sostituisci il vecchio link nel file playlist.m3u8
-      run: |
-        # Sostituisci il vecchio link con il nuovo
-        sed -i 's|https://manifest.googlevideo.com/|$NEW_LINK|' playlist.m3u8
-
-    # Commit e push delle modifiche
-    - name: Commit e push delle modifiche
-      run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
-        git add playlist.m3u8
-        git commit -m "Aggiorna link M3U8"
-        git push
+      - name: Sostituisci il link nella playlist.m3u8
+        run: |
+          sed -i 's|https://manifest.googlevideo.com/.*|$NEW_LINK|' playlist.m3u8
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git commit -am "Aggiornato il link M3U8"
+          git push
