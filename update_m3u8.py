@@ -1,34 +1,43 @@
-import yt_dlp
+import requests
+from bs4 import BeautifulSoup
 
-# URL del video YouTube
-video_url = 'https://www.youtube.com/watch?v=2Xn1Bb697A0'
+# Creare una sessione di requests
+session = requests.Session()
 
-# Opzioni per yt-dlp, incluso un user agent personalizzato e il file dei cookies
-ydl_opts = {
-    'noplaylist': True,
-    'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',  # User agent di un browser
-    'cookiefile': 'cookies.txt'  # Percorso del file dei cookies
+# Impostare i cookies nella sessione (sostituisci con i tuoi cookies di YouTube)
+cookies = {
+    'cookie_name': 'cookie_value',
+    # Aggiungi altri cookies necessari
 }
+session.cookies.update(cookies)
 
-# Estrazione dell'URL m3u8 dal video
-with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-    info = ydl.extract_info(video_url, download=False)
-    m3u8_url = info.get('url')
+def grab_youtube(url: str):
+    """
+    Grabs the live-streaming M3U8 file from YouTube
+    :param url: The YouTube URL of the livestream
+    """
+    if '&' in url:
+        url = url.split('&')[0]
 
-# Stampa il link m3u8 trovato
-print(f"Found m3u8 link: {m3u8_url}")
+    requests.packages.urllib3.disable_warnings()
+    stream_info = session.get(url, timeout=15)
+    response = stream_info.text
+    soup = BeautifulSoup(stream_info.text, features="html.parser")
 
-# Lettura del file playlist.m3u8 esistente
-with open('playlist.m3u8', 'r') as file:
-    lines = file.readlines()
-
-# Sovrascrittura del file playlist.m3u8 con il nuovo link
-with open('playlist.m3u8', 'w') as file:
-    for line in lines:
-        if line.startswith('https://manifest.googlevideo.com'):
-            file.write(f"{m3u8_url}\n")  # Sovrascrive il vecchio link con il nuovo
+    if '.m3u8' not in response or stream_info.status_code != 200:
+        return "https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4"
+    
+    end = response.find('.m3u8') + 5
+    tuner = 100
+    while True:
+        if 'https://' in response[end - tuner: end]:
+            link = response[end - tuner: end]
+            start = link.find('https://')
+            end = link.find('.m3u8') + 5
+            return link[start: end]
         else:
-            file.write(line)
+            tuner += 5
 
-# Stampa il link aggiornato
-print(f"Updated m3u8 link: {m3u8_url}")
+video_url = 'https://www.youtube.com/watch?v=2Xn1Bb697A0'
+m3u8_url = grab_youtube(video_url)
+print(m3u8_url)
