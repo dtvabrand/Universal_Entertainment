@@ -26,7 +26,7 @@ jobs:
       - name: Extract M3U8 link
         id: extract_link
         run: |
-          LINK=$(yt-dlp --cookies cookies.txt -g https://www.youtube.com/watch?v=2Xn1Bb697A0)
+          LINK=$(yt-dlp --cookies-from-browser chrome -g https://www.youtube.com/watch?v=2Xn1Bb697A0)
           echo "NEW_LINK=$LINK" >> $GITHUB_ENV
 
       - name: Update playlist.m3u8
