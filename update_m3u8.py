@@ -3,16 +3,20 @@ import yt_dlp
 # URL del video YouTube
 video_url = 'https://www.youtube.com/watch?v=2Xn1Bb697A0'
 
-# Opzioni per yt-dlp, incluso un user agent personalizzato
+# Opzioni per yt-dlp, incluso un user agent personalizzato e il file dei cookies
 ydl_opts = {
     'noplaylist': True,
     'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',  # User agent di un browser
+    'cookiefile': 'cookies.txt'  # Percorso del file dei cookies
 }
 
 # Estrazione dell'URL m3u8 dal video
 with yt_dlp.YoutubeDL(ydl_opts) as ydl:
     info = ydl.extract_info(video_url, download=False)
     m3u8_url = info.get('url')
+
+# Stampa il link m3u8 trovato
+print(f"Found m3u8 link: {m3u8_url}")
 
 # Lettura del file playlist.m3u8 esistente
 with open('playlist.m3u8', 'r') as file:
