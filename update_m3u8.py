@@ -1,23 +1,36 @@
-import requests
+import yt_dlp
+import os
 
 def grab(url):
-    response = requests.get(url, timeout=15).text
-    if '.m3u8' not in response:
-        print('URL M3U8 non trovato')
-        return None
+    # Utilizzo di yt-dlp per ottenere il flusso m3u8 da YouTube
+    ydl_opts = {
+        'quiet': True,
+        'format': 'best',
+        'extractor_args': {
+            'youtube': {
+                'geo_bypass': True,  # Per aggirare le restrizioni geografiche
+            }
+        },
+        'outtmpl': 'temp.m3u8',  # Salva l'output temporaneo in un file m3u8
+    }
 
-    end = response.find('.m3u8') + 5
-    tuner = 100
-    while True:
-        if 'https://' in response[end-tuner : end]:
-            link = response[end-tuner : end]
-            start = link.find('https://')
-            end = link.find('.m3u8') + 5
-            return link[start : end]
-        else:
-            tuner += 5
+    with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+        info_dict = ydl.extract_info(url, download=False)
+        formats = info_dict.get('formats', [])
 
-# Esempio di utilizzo
-video_url = 'https://www.youtube.com/watch?v=2Xn1Bb697A0'
-m3u8_url = grab(video_url)
-print(m3u8_url)
+        # Cerchiamo il flusso m3u8
+        for f in formats:
+            if 'm3u8' in f.get('url', ''):
+                print(f"{f['url']}")
+                return
+
+    print('https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u')
+
+# URL direttamente di YouTube
+url = 'https://www.youtube.com/watch?v=2Xn1Bb697A0'
+
+# Stampa l'intestazione per la playlist
+print('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"')
+
+# Chiamata alla funzione con il link YouTube
+grab(url)
