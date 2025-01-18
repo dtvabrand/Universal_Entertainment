@@ -22,7 +22,7 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install yt-dlp
 
       - name: Update m3u8 link
         run: python update_m3u8.py
