@@ -23,6 +23,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install yt-dlp
 
+      - name: Install Google Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+
       - name: Extract M3U8 link
         id: extract_link
         run: |
