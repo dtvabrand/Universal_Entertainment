@@ -17,11 +17,6 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    # Crea il file cookies.txt a partire dal secret (o da un file esistente)
-    - name: Create cookies file
-      run: |
-        echo "${{ secrets.COOKIES_TXT }}" > scripts/cookies.txt
-
     # Installa yt-dlp
     - name: Install yt-dlp
       run: |
