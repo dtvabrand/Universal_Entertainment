@@ -7,6 +7,9 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737158349/ei/b
 #EXTINF:-1 tvg-name="TV 2000" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-id="TV2000.va",TV 2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
+#EXTINF:-1 tvg-name="TV Lourdes 2" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-id="TV2000.va",TV 2000
+http://172.183.159.67:8080/https://www.youtube.com/watch?v=2Xn1Bb697A0
+
 #EXTINF:-1 tvg-id="Rai1(src01).it" tvg-name="Rai 1 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-1-it.png" group-title="Italy",Rai 1 Italy
 https://xyzdddd.mizhls.ru/lb/premium850/index.m3u8
 
