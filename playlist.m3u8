@@ -1,17 +1,35 @@
 #EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/guidatv.sky.it.xml, https://xmltv.tvkaista.net/guides/mediasetinfinity.mediaset.it.xml, https://xmltv.tvkaista.net/guides/raiplay.it.xml, https://xmltv.tvkaista.net/guides/superguidatv.it.xml"
 #EXTM3U url-tvg="https://github.com/dtankdempse/daddylive-m3u/raw/refs/heads/main/epg.xml"
 
+#EXTINF:-1 tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-1-it.png" tvg-id="Rai1.it",Rai 1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+
+#EXTINF:-1 tvg-name="Rai 2" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-2-bobi5do2jjqa.png" tvg-id="Rai2.it",Rai 2 
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
+
+#EXTINF:-1 tvg-name="Rai 3" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-3-kwvj7ve82k1u.png" tvg-id="Rai3.it",Rai 3
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
+
+#EXTINF:-1 tvg-name="Rete 4" tvg-logo="https://api.superguidatv.it/v1/channels/189/logo?width=240" tvg-id="Rete4.it",Rete 4
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Canale5" tvg-logo="https://api.superguidatv.it/v1/channels/187/logo?width=240" tvg-id="Canale5.it",Canale 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Italia1" tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=240" tvg-id="Italia1.it",Italia 1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-name="TV Lourdes" tvg-logo="https://www.lourdes-france.org/wp-content/uploads/2022/02/logo-200x125px.png" tvg-id="TVLourdes",TV Lourdes
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1737327015/ei/Ry2NZ9qNDJ3WxN8PkIPwsQI/ip/176.245.16.169/id/2Xn1Bb697A0.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-8vq54voxpu-o52s.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY2Et-NH7QUmW1df0iLP7ifnIoLmObOiFGuOVa_4y620dzJ-W0Hp3W6i85a5MzYqv6mkwM2otXJqivZp/spc/9kzgDYfmdypzBaywC7jhoeTJI4XjfIDTQTI-xvaJWQDIJdf83hqsmFyf8D20flPOGUq0bSI/vprv/1/playlist_type/DVR/initcwndbps/715000/met/1737305416,/mh/Vf/mm/44/mn/sn-8vq54voxpu-o52s/ms/lva/mv/m/mvi/1/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51326932,51335594,51353498,51355912,51371294,51384461/mt/1737305076/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgIRjecBqUbdj4ARc6QpJhRWwIM7aovHBs8BBS_AA-2i4CIHwhNHfR_4izB-URIvmm3EVSbPV9hGfpmYie_-17YkVg/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/AGluJ3MwRQIhAJLcvmBeEjxu2-1UFpIyTyqvarXjSjtxd2LZFVIVCph2AiAUn5zfjD2ttlA2jSVxBtvSl2Rui7a1UWOPL1JGAq0G_w%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-name="TV 2000" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-id="TV2000.va",TV 2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
-#EXTINF:-1 tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-1-it.png" tvg-id="Rai1",Rai 1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
 
-#EXTINF:-1 tvg-name="Rete 4" tvg-logo="https://api.superguidatv.it/v1/channels/189/logo?width=240" tvg-id="Rete4.it",Rete 4
-https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABCNY",ABCNY
 https://xyzdddd.mizhls.ru/lb/premium766/index.m3u8
