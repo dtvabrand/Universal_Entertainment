@@ -22,8 +22,8 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="TV Lourdes" tvg-logo="https://www.lourdes-france.org/wp-content/uploads/2022/02/logo-200x125px.png" tvg-id="TVLourdes",TV Lourdes
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1737327015/ei/Ry2NZ9qNDJ3WxN8PkIPwsQI/ip/176.245.16.169/id/2Xn1Bb697A0.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-8vq54voxpu-o52s.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY2Et-NH7QUmW1df0iLP7ifnIoLmObOiFGuOVa_4y620dzJ-W0Hp3W6i85a5MzYqv6mkwM2otXJqivZp/spc/9kzgDYfmdypzBaywC7jhoeTJI4XjfIDTQTI-xvaJWQDIJdf83hqsmFyf8D20flPOGUq0bSI/vprv/1/playlist_type/DVR/initcwndbps/715000/met/1737305416,/mh/Vf/mm/44/mn/sn-8vq54voxpu-o52s/ms/lva/mv/m/mvi/1/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51326932,51335594,51353498,51355912,51371294,51384461/mt/1737305076/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgIRjecBqUbdj4ARc6QpJhRWwIM7aovHBs8BBS_AA-2i4CIHwhNHfR_4izB-URIvmm3EVSbPV9hGfpmYie_-17YkVg/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/AGluJ3MwRQIhAJLcvmBeEjxu2-1UFpIyTyqvarXjSjtxd2LZFVIVCph2AiAUn5zfjD2ttlA2jSVxBtvSl2Rui7a1UWOPL1JGAq0G_w%3D%3D/playlist/index.m3u8
+##EXTINF:-1 tvg-name="TV Lourdes" tvg-logo="https://www.lourdes-france.org/wp-content/uploads/2022/02/logo-200x125px.png" tvg-id="TVLourdes",TV Lourdes
+##https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1737327015/ei/Ry2NZ9qNDJ3WxN8PkIPwsQI/ip/176.245.16.169/id/2Xn1Bb697A0.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-8vq54voxpu-o52s.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY2Et-NH7QUmW1df0iLP7ifnIoLmObOiFGuOVa_4y620dzJ-W0Hp3W6i85a5MzYqv6mkwM2otXJqivZp/spc/9kzgDYfmdypzBaywC7jhoeTJI4XjfIDTQTI-xvaJWQDIJdf83hqsmFyf8D20flPOGUq0bSI/vprv/1/playlist_type/DVR/initcwndbps/715000/met/1737305416,/mh/Vf/mm/44/mn/sn-8vq54voxpu-o52s/ms/lva/mv/m/mvi/1/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51326932,51335594,51353498,51355912,51371294,51384461/mt/1737305076/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgIRjecBqUbdj4ARc6QpJhRWwIM7aovHBs8BBS_AA-2i4CIHwhNHfR_4izB-URIvmm3EVSbPV9hGfpmYie_-17YkVg/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/AGluJ3MwRQIhAJLcvmBeEjxu2-1UFpIyTyqvarXjSjtxd2LZFVIVCph2AiAUn5zfjD2ttlA2jSVxBtvSl2Rui7a1UWOPL1JGAq0G_w%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-name="TV 2000" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-id="TV2000.va",TV 2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
@@ -72,21 +72,3 @@ https://xyzdddd.mizhls.ru/lb/premium314/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-us.png" tvg-name="NICK",NICK
 https://xyzdddd.mizhls.ru/lb/premium330/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-name="test 1" tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=240" tvg-id="Italia1.it",Italia 1
-https://ythls.armelin.one/channel/UC7zlbnNCnuAPiC3goKcFgUg.m3u8
-
-#EXTINF:-1 tvg-name="test 2" tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=240" tvg-id="Italia1.it",Italia 1
-plugin://plugin.video.youtube/play/?video_id=
-
-#EXTINF:-1 tvg-name="test 3" tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=240" tvg-id="Italia1.it",Italia 1
-http://rott.ridsys.in/riptv/live/stream22/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JxdPW6P/TV-Lourdes.png" group-title="Religion",TV LOURDES (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC7zlbnNCnuAPiC3goKcFgUg/live
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Tamil Local",Lourdes Tv
-http://rott.ridsys.in/riptv/live/stream22/index.m3u8
