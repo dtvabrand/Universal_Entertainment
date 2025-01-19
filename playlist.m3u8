@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/guidatv.sky.it.xml, https://xmltv.tvkaista.net/guides/mediasetinfinity.mediaset.it.xml, https://xmltv.tvkaista.net/guides/raiplay.it.xml, https://xmltv.tvkaista.net/guides/superguidatv.it.xml"
 #EXTM3U url-tvg="https://github.com/dtankdempse/daddylive-m3u/raw/refs/heads/main/epg.xml"
 
-#EXTINF:-1 tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-1-it.png" tvg-id="Rai1.it",Rai 1
+#EXTINF:-1 tvg-name="Rai 1" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" tvg-id="Rai1.it",Rai 1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
 
 #EXTINF:-1 tvg-name="Rai 2" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-2-bobi5do2jjqa.png" tvg-id="Rai2.it",Rai 2 
