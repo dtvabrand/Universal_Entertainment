@@ -1,24 +1,27 @@
-import yt_dlp
+import requests
+import argparse
 
-# Configura yt-dlp per utilizzare i cookie dal browser
-ydl_opts = {
-    'cookiesfrombrowser': ('chrome',),
-    'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3',
-    'quiet': True,
-    'skip_download': True,
-    'format': 'best',
-    'writeinfojson': True,
-}
+def get_public_ip():
+    response = requests.get("https://ifconfig.me")
+    if response.status_code == 200:
+        return response.text
+    else:
+        raise Exception("Non è possibile ottenere l'IP pubblico")
 
-# URL del video YouTube
-url = 'https://www.youtube.com/watch?v=2Xn1Bb697A0'
+def update_m3u_file(port):
+    ip = get_public_ip()
+    with open('youtubelive.m3u', 'r') as file:
+        data = file.read()
 
-with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-    info_dict = ydl.extract_info(url, download=False)
-    m3u8_url = info_dict.get('url', '')
+    # Sostituisci l'indirizzo IP e la porta con i nuovi valori
+    data = data.replace('OLD_IP', ip).replace('OLD_PORT', port)
 
-    # Salva il link m3u8 in un file
-    with open('m3u8_link.txt', 'w') as file:
-        file.write(m3u8_url)
+    with open('youtubelive.m3u', 'w') as file:
+        file.write(data)
 
-print(f'Link m3u8: {m3u8_url}')
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description='Update m3u file with new port.')
+    parser.add_argument('--port', required=True, help='Port number')
+
+    args = parser.parse_args()
+    update_m3u_file(args.port)
