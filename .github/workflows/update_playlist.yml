@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *' # Esecuzione giornaliera a mezzanotte UTC
   workflow_dispatch: # Esecuzione manuale
 
+permissions:
+  contents: write
+  
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
