@@ -8,7 +8,7 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1737327015/ei/
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
 #EXTINF:-1 tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-1-it.png" tvg-id="Rai1",Rai 1
-https://xyzdddd.mizhls.ru/lb/premium850/index.m3u8|Referer="https://ilovetoplay.xyz/"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
+https://xyzdddd.mizhls.ru/lb/premium850/index.m3u8|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0"|Origin="https://ilovetoplay.xyz"
 
 #EXTINF:-1 tvg-name="Rete 4" tvg-logo="https://api.superguidatv.it/v1/channels/189/logo?width=240" tvg-id="Rete4.it",Rete 4
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
