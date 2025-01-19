@@ -38,22 +38,29 @@ def parse_xml(file_path):
 def get_stream_url(youtube_url):
     """Use Streamlink to extract the best stream URL."""
     try:
-        info_command = ['streamlink', '--json', youtube_url]
+        info_command = ['streamlink', '--loglevel', 'debug', '--json', youtube_url]
         info_process = subprocess.Popen(info_command, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         info_output, info_error = info_process.communicate()
 
         if info_process.returncode != 0:
             logging.error(f'Streamlink error for {youtube_url}: {info_error.decode().strip()}')
+            print(f"Streamlink error for {youtube_url}: {info_error.decode().strip()}")  # Stampa l'errore
             return None
 
         try:
             stream_info = json.loads(info_output)
-            return stream_info['streams'].get('best', {}).get('url')
+            best_stream_url = stream_info['streams'].get('best', {}).get('url')
+            if not best_stream_url:
+                logging.error(f"No 'best' stream found for {youtube_url}")
+                print(f"No 'best' stream found for {youtube_url}")  # Stampa l'errore
+            return best_stream_url
         except json.JSONDecodeError:
             logging.error(f'Failed to parse Streamlink output for {youtube_url}.')
+            print(f'Failed to parse Streamlink output for {youtube_url}.')  # Stampa l'errore di parsing
             return None
     except Exception as e:
         logging.error(f'Error retrieving stream URL for {youtube_url}: {str(e)}')
+        print(f'Error retrieving stream URL for {youtube_url}: {str(e)}')  # Stampa l'eccezione
         return None
 
 def generate_m3u(channels, output_file):
@@ -74,7 +81,7 @@ def generate_m3u(channels, output_file):
 
 if __name__ == '__main__':
     xml_file = 'youtubelinks.xml'
-    output_m3u = 'youtube_non_server.m3u'
+    output_m3u = 'youtubelive.m3u'
 
     channels = parse_xml(xml_file)
     if channels:
