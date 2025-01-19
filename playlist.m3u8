@@ -2,7 +2,7 @@
 #EXTM3U url-tvg="https://github.com/dtankdempse/daddylive-m3u/raw/refs/heads/main/epg.xml"
 
 #EXTINF:-1 tvg-name="TV Lourdes" tvg-logo="https://www.lourdes-france.org/wp-content/uploads/2022/02/logo-200x125px.png" tvg-id="TVLourdes",TV Lourdes
-
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737158349/ei/bZqKZ4ScJJ_Ki9oPk9qgqQ0/ip/176.245.41.104/id/2Xn1Bb697A0.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51370629/txs/51370625%2C51370626%2C51370627%2C51370628%2C51370629%2C51370630%2C51370631%2C51370632%2C51370633/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/bui/AY2Et-Pt9_aqz3d64iwjuWJWzuHFbraZj6IDOg0ves8Oz8GVX72CMDfkbx4Ggo2KioquPL1IzA/spc/9kzgDf_af2M-FtGkgN0TMnQqgF_J5Y2LCKYgUd7l-_3fjUmAFGXBfUYbgvYLTkvKULPuYZGW3E93/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgelX834YbpOxA6JzEI-aDSKrizrkT1ml6brYAaRiS4Z4CIQDymM8yRAZbtW7yNdKtCQ7IJZHhyMTxfhXzqfi60dEsSw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-name="TV 2000" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-id="TV2000.va",TV 2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
