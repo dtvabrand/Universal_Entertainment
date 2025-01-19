@@ -72,3 +72,21 @@ https://xyzdddd.mizhls.ru/lb/premium314/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-us.png" tvg-name="NICK",NICK
 https://xyzdddd.mizhls.ru/lb/premium330/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="test 1" tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=240" tvg-id="Italia1.it",Italia 1
+https://ythls.armelin.one/channel/UC7zlbnNCnuAPiC3goKcFgUg.m3u8
+
+#EXTINF:-1 tvg-name="test 2" tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=240" tvg-id="Italia1.it",Italia 1
+plugin://plugin.video.youtube/play/?video_id=
+
+#EXTINF:-1 tvg-name="test 3" tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=240" tvg-id="Italia1.it",Italia 1
+http://rott.ridsys.in/riptv/live/stream22/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JxdPW6P/TV-Lourdes.png" group-title="Religion",TV LOURDES (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC7zlbnNCnuAPiC3goKcFgUg/live
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Yuva Tamil Local",Lourdes Tv
+http://rott.ridsys.in/riptv/live/stream22/index.m3u8
