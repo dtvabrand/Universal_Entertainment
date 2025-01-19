@@ -74,7 +74,7 @@ def generate_m3u(channels, output_file):
 
 if __name__ == '__main__':
     xml_file = 'youtubelinks.xml'
-    output_m3u = 'youtubelive.m3u'
+    output_m3u = 'youtube_non_server.m3u'
 
     channels = parse_xml(xml_file)
     if channels:
