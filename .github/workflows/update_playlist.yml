@@ -1,50 +1,38 @@
-name: Update Playlist
+name: Update M3U8 Playlist
 
 on:
+  workflow_dispatch: # Avvio manuale del workflow
   schedule:
-    - cron: '0 0 * * *' # Esecuzione giornaliera a mezzanotte UTC
-  workflow_dispatch: # Esecuzione manuale
+    - cron: '0 3 * * *' # Esecuzione ogni giorno alle 3:00 UTC
 
 permissions:
-  contents: write
-  
+  contents: write # Permessi per scrivere nella repository
+
 jobs:
-  update-playlist:
+  update-m3u8:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout del repository
-      - name: Checkout repository
-        uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-      # Configurazione di Python
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.9 # Specifica la versione di Python
 
-      # Installazione di Streamlink
-      - name: Install Streamlink
-        run: sudo apt-get update && sudo apt-get install -y streamlink
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install streamlink
 
-      # Esecuzione dello script Python
-      - name: Run update script
-        run: |
-          python3 update_m3u8.py > updated_link.txt
-        env:
-          XML_FILE: youtubelinks.xml
+    - name: Run update script
+      run: python update_m3u8.py
 
-      # Sostituzione del link nel file playlist.m3u8
-      - name: Replace link in playlist
-        run: |
-          LINK=$(cat updated_link.txt)
-          sed -i "s|https://manifest.googlevideo.com.*|$LINK|" playlist.m3u8
-
-      # Committa e push delle modifiche
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add playlist.m3u8
-          git commit -m "Update playlist.m3u8 with latest stream URL"
-          git push
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add youtube_non_server.m3u
+        git commit -m "Update M3U playlist via GitHub Actions"
+        git push
