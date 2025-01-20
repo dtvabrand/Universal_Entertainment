@@ -3,8 +3,8 @@ name: Update M3U8 Playlist
 on:
   workflow_dispatch: # Avvio manuale del workflow
   schedule:
-    - cron: '0 3 * * *' # Esecuzione ogni giorno alle 3:00 UTC
 
+    
 permissions:
   contents: write # Permessi per scrivere nella repository
 
