@@ -1,12 +1,10 @@
 import os
 import time
-import sys
 from collections import deque
 from urllib.parse import urljoin, urlparse
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import WebDriverException, NoSuchElementException
-from tkinter import Tk, messagebox
 
 import logging
 logging.basicConfig(level=logging.CRITICAL)
@@ -22,14 +20,7 @@ def validate_url(url):
 def crawl_website(start_url, domain, crawl_only_domain, max_tabs=15, batch_size=250, output_file="site_map.txt"):
     youtube_live_link = "https://www.youtube.com/watch?v=2Xn1Bb697A0"  # Il tuo link YouTube
     print(f"Guarda la live su YouTube: {youtube_live_link}")
-    ...
 
-    """
-    Crawl all pages starting from `start_url`, with an option to limit crawling to the domain.
-    - Uses a permanent main tab to preserve session.
-    - Opens new tabs in batches (up to `max_tabs`) for parallel-ish loading.
-    - Writes links to the output file every `batch_size` links.
-    """
     options = webdriver.ChromeOptions()
 
     # Use a generic user data directory path for any Windows user
@@ -163,11 +154,9 @@ def _write_links_to_file(links_list, filename):
     print(f"[DEBUG] Wrote {len(links_list)} links to {filename}")
 
 if __name__ == "__main__":
-    start_url = input("Enter the starting URL to crawl (e.g., https://example.com): ").strip()
-    start_url = validate_url(start_url)
+    start_url = validate_url(os.environ.get("START_URL", "https://example.com"))
     domain = urlparse(start_url).netloc
-
-    crawl_only_domain = input("Do you want to crawl within the domain only? (Y/N): ").strip().lower() == 'y'
+    crawl_only_domain = os.environ.get("CRAWL_ONLY_DOMAIN", "y").strip().lower() == 'y'
 
     MAX_TABS = 10
     BATCH_SIZE = 100
@@ -177,4 +166,3 @@ if __name__ == "__main__":
     total_links = crawl_website(start_url, domain, crawl_only_domain, max_tabs=MAX_TABS, batch_size=BATCH_SIZE, output_file=OUTPUT_FILE)
 
     print(f"[DEBUG] Crawl completed. {total_links} unique URLs found.")
-pause
