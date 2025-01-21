@@ -43,13 +43,13 @@ http://doubleclicktv.live/70376812/52663544/1049
 https://xyzdddd.mizhls.ru/lb/premium768/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.News.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png" tvg-name="Fox News",Fox News
-http://doubleclicktv.live/70376812/52663544/268975
+http://ok2.se:8000/6e85F1UNUrz8bUNJ3/a08aF1UXttZszDuuW/363
 
 #EXTINF:-1 tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png" tvg-name="HGTV",HGTV
-https://xyzdddd.mizhls.ru/lb/premium382/index.m3u8
+http://ok2.se:8000/6e85F1UNUrz8bUNJ3/a08aF1UXttZszDuuW/335
 
 #EXTINF:-1 tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/e-entertainment-us.png" tvg-name="E! Entertainment Television",E! Entertainment Television
-https://xyzdddd.mizhls.ru/lb/premium315/index.m3u8
+http://ok2.se:8000/6e85F1UNUrz8bUNJ3/a08aF1UXttZszDuuW/338
 
 #EXTINF:-1 tvg-id="CW.(WUCW).St..Paul,.MN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" tvg-name="CW (WUCW)",CW (WUCW)
 https://xyzdddd.mizhls.ru/lb/premium300/index.m3u8
@@ -61,10 +61,10 @@ http://doubleclicktv.live/70376812/52663544/1175
 http://doubleclicktv.live/70376812/52663544/494103
 
 #EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png" tvg-name="Disney Channel",Disney Channel
-http://doubleclicktv.live/70376812/52663544/1172
-
-#EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" tvg-name="Disney XD",Disney XD
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 
+#EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" tvg-name="Disney XD",Disney XD
+https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+
 #EXTINF:-1 tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-us.png" tvg-name="NICK",NICK
-http://doubleclicktv.live/70376812/52663544/1162
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
