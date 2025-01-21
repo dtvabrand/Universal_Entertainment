@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:  # Permette di eseguire il workflow manualmente
 
 permissions:
   contents: write
@@ -14,10 +15,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v2
         with:
           python-version: '3.x'
 
@@ -38,6 +39,9 @@ jobs:
           sudo chmod 0755 /usr/local/bin/chromedriver
 
       - name: Run crawler
+        env:
+          START_URL: "https://example.com"  # Imposta il tuo URL di partenza
+          CRAWL_ONLY_DOMAIN: "y"            # "y" per solo dominio, "n" per tutto
         run: |
           python crawler.py
 
