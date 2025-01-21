@@ -32,7 +32,7 @@ https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
 
 #EXTINF:-1 tvg-id="Fox.News.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png" tvg-name="Fox News",Fox News
-https://thetvapp.to/tv/wnyw-new-york-fox-east-live-stream/
+https://api.vpnmate.com/play/?vlc=1&channel=6077&token=hEeac4oVO0jC:NmYyZGVjY2ViNjJkZTFkYjkyOGI1ZTY0OTU2ODczZjcwOGU0ZTQ1MQ==
 
 #EXTINF:-1 tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png" tvg-name="HGTV",HGTV
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2303
@@ -41,10 +41,10 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2303
 https://dlhd.sx/stream/stream-315.php
 
 #EXTINF:-1 tvg-id="CW.(WUCW).St..Paul,.MN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" tvg-name="CW (WUCW)",CW (WUCW)
-https://xyzdddd.mizhls.ru/lb/premium315/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium315/index.m3u8|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" tvg-name="Boomerang",Boomerang
-https://stream01.vnet.am/Boomerang/mono.m3u8
+https://tvnow.best/api/stream/lt4383@gmail.com/755909/livetv.epg/boomerang.us.m3u8
 
 #EXTINF:-1 tvg-id="MeTV.Toons" tvg-logo="https://metvtoons.com/images/metvtoons_logo_blue.png" tvg-name="MeTV Toons", MeTV Toons
 http://doubleclicktv.live/70376812/52663544/494103
