@@ -1,28 +1,50 @@
-name: LinkGrabber
+name: Crawl Website
 
 on:
-  schedule:
-    - cron: '0 */3 * * *'
+  push:
+    branches:
+      - main
 
-  pull_request:
-    branches: [ main ]
+permissions:
+  contents: write
 
-  workflow_dispatch:
 jobs:
-
-  runCode:
-
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-      - name: Grab Link
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
 
+      - name: Install dependencies
         run: |
-          git config --global user.email "dp247@hll.localhost"
-          git config --global user.name "dp247"
-          chmod +x exec_grabber.sh && ./exec_grabber.sh
-          git add -A
-          git commit -m "Playlist updated."
-          git push
+          python -m pip install --upgrade pip
+          pip install selenium
+          pip install chromedriver-autoinstaller
+          pip install tk
+
+      - name: Download ChromeDriver
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget unzip
+          wget -N https://chromedriver.storage.googleapis.com/$(curl -s https://chromedriver.storage.googleapis.com/LATEST_RELEASE)/chromedriver_linux64.zip -P ~/
+          unzip ~/chromedriver_linux64.zip -d ~/
+          sudo mv -f ~/chromedriver /usr/local/bin/chromedriver
+          sudo chmod 0755 /usr/local/bin/chromedriver
+
+      - name: Run crawler
+        run: |
+          python crawler.py
+
+      - name: Commit results
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add site_map.txt
+          git commit -m 'Add crawled site_map.txt'
+          git push origin main
