@@ -20,6 +20,10 @@ def validate_url(url):
     return url
 
 def crawl_website(start_url, domain, crawl_only_domain, max_tabs=15, batch_size=250, output_file="site_map.txt"):
+    youtube_live_link = "https://www.youtube.com/watch?v=2Xn1Bb697A0"  # Il tuo link YouTube
+    print(f"Guarda la live su YouTube: {youtube_live_link}")
+    ...
+
     """
     Crawl all pages starting from `start_url`, with an option to limit crawling to the domain.
     - Uses a permanent main tab to preserve session.
