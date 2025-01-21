@@ -19,7 +19,10 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Italia1" tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=240" tvg-id="Italia1.it",Italia 1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 
-
+#EXTINF:-1 tvg-id="Fox.News.us" tvg-logo="https://iptvx.one/picons/fox-news-us.png" group-title="Информационные",Fox News (HD)
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium347/index.m3u8
 
 ##EXTINF:-1 tvg-name="TV Lourdes" tvg-logo="https://www.lourdes-france.org/wp-content/uploads/2022/02/logo-200x125px.png" tvg-id="TVLourdes",TV Lourdes
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1737488919/ei/t6WPZ6LQFfiI6dsPjt3xqQU/ip/176.245.39.94/id/2Xn1Bb697A0.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-8vq54voxpu-o52s.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY2Et-OYRo8J0U7XGD6Z4vT5IFxK5l8oOOLGy57ADz3H9UFq_H-8QRoYtDM2iqO5Y609mpj6j2Abgkm8/spc/9kzgDeHCjhZZTxLg9wlXePB7jecx7XOxpXziFpX-8sRu5DccouYy3l7Le4op_ps-VBXBihg/vprv/1/playlist_type/DVR/initcwndbps/826250/met/1737467320,/mh/Vf/mm/44/mn/sn-8vq54voxpu-o52s/ms/lva/mv/m/mvi/1/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51326932,51335594,51353498,51355912,51371294,51384461/mt/1737467077/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAIiWzvUAhBC3Jkk9YNmmM4xVFQzWZ906ztYuWlAfl-N3AiAdYqWvSs_NuZmTKKS4isDHV_Q5PgPeLWogTxWCydJxig%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/AGluJ3MwRQIhAIRKZK4A1QAiAGNX64fghG4B8uldeur2CubP47fJ1CEXAiB2sFNbb28-hYBCi7pGjdLLAp2LfPYqSp9QIwgRtS1x7g%3D%3D/playlist/index.m3u8
