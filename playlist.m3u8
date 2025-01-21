@@ -29,16 +29,16 @@ https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
 
 #EXTINF:-1 tvg-id="Fox.News.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png" tvg-name="Fox News",Fox News
-https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+https://thetvapp.to/tv/wnyw-new-york-fox-east-live-stream/
 
 #EXTINF:-1 tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png" tvg-name="HGTV",HGTV
-https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8
+http://92.114.85.81:8000/play/a037/index.m3u8
 
 #EXTINF:-1 tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/e-entertainment-us.png" tvg-name="E! Entertainment Television",E! Entertainment Television
-http://ok2.se:8000/6e85F1UNUrz8bUNJ3/a08aF1UXttZszDuuW/338
+https://dlhd.sx/stream/stream-315.php
 
 #EXTINF:-1 tvg-id="CW.(WUCW).St..Paul,.MN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" tvg-name="CW (WUCW)",CW (WUCW)
-https://xyzdddd.mizhls.ru/lb/premium300/index.m3u8
+https://xyzdddd.mizhls.ru/lb/premium315/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
 
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" tvg-name="Boomerang",Boomerang
 http://doubleclicktv.live/70376812/52663544/1175
