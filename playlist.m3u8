@@ -19,7 +19,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Italia 1" tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=240" tvg-id="Italia1.it",Italia 1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://s.abcnews.com/assets/dtci/icomoon/svg/logo.svg" tvg-id="ABC.News",ABC News
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 
