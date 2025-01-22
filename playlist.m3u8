@@ -20,7 +20,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 
 ##EXTINF:-1 tvg-name="TV Lourdes" tvg-logo="https://www.lourdes-france.org/wp-content/uploads/2022/02/logo-200x125px.png" tvg-id="TVLourdes",TV Lourdes
-$link_youtube
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1737560558/ei/jr2QZ9H3LbbSi9oP5pTj4A0/ip/5.91.183.78/id/2Xn1Bb697A0.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-8vq54voxpu-o52s.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY2Et-MNkVYTaVlK1ZIGFArKyQlDSyrwXImiI4v7csDb6Y3GOSH4fyGeU33x2UBbp4Vc_N1_wAHPQaEs/spc/9kzgDT9iCxWq2hE5BCB1nUVtaO2I9lNSOo7a64yjJ5yhWav13bsIlBdn239RxhuOSpMm9Xo/vprv/1/playlist_type/DVR/initcwndbps/1060000/met/1737538960,/mh/Vf/mm/44/mn/sn-8vq54voxpu-o52s/ms/lva/mv/m/mvi/1/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51326932,51335594,51353498,51355912,51371294,51384461/mt/1737538589/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgW402MehSS8A0MbnsVW-U7zT687JoSus6ublNdbSlNlkCIQDKJXpbWZqMEDj_Zj-s-sATXcwOz_dA1hY7L6l1lbp4iQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/AGluJ3MwRQIhAMa8Qpfq9p9AKAkLVpo95W5H58L14VGvL9teGa1l6nowAiAJQp_Wzx_MHBM1592roKisw4eMfwIvB8l587kITot0Lg%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-name="TV 2000" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-id="TV2000.va",TV 2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
