@@ -1,0 +1,55 @@
+#EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/guidatv.sky.it.xml, https://xmltv.tvkaista.net/guides/mediasetinfinity.mediaset.it.xml, https://xmltv.tvkaista.net/guides/raiplay.it.xml, https://xmltv.tvkaista.net/guides/superguidatv.it.xml"
+#EXTM3U url-tvg="https://github.com/dtankdempse/daddylive-m3u/raw/refs/heads/main/epg.xml"
+
+#EXTINF:-1 tvg-name="Rai 1" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" tvg-id="Rai1.it",Rai 1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-name="Rai 2" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-2-bobi5do2jjqa.png" tvg-id="Rai2.it",Rai 2 
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-name="Rai 3" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-3-kwvj7ve82k1u.png" tvg-id="Rai3.it",Rai 3
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-name="Rete 4" tvg-logo="https://api.superguidatv.it/v1/channels/189/logo?width=240" tvg-id="Rete4.it",Rete 4
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Canale 5" tvg-logo="https://api.superguidatv.it/v1/channels/187/logo?width=240" tvg-id="Canale5.it",Canale 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Italia 1" tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=240" tvg-id="Italia1.it",Italia 1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+
+##EXTINF:-1 tvg-name="TV Lourdes" tvg-logo="https://www.lourdes-france.org/wp-content/uploads/2022/02/logo-200x125px.png" tvg-id="TVLourdes",TV Lourdes
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1737548779/ei/i4-QZ9H-BLyii9oPtfu76Q8/ip/5.91.183.78/id/2Xn1Bb697A0.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-8vq54voxpu-o52s.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY2Et-OGEDzkMbYvAbDZO1DGzgbYwNYcbLcF74KEjMfEkWm9zrJEdRrCkpCtQVkLtNXj9pQ9ZptKrM4I/spc/9kzgDW7Z0QrABTatVIFAadmaK3xp92XezxdJ7oAbJa2AOoH54MVK8kb9erpSz8O4L547g5s/vprv/1/playlist_type/DVR/initcwndbps/1328750/met/1737527180,/mh/Vf/mm/44/mn/sn-8vq54voxpu-o52s/ms/lva/mv/m/mvi/1/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51326932,51335594,51353498,51355912,51371294,51384461/mt/1737526826/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAL0gdLWS9Vj-wsZygP2URrXW6M_6daj0oxePUXGJ9f2sAiBJazIhAPvHV_nsu7eM8oqfA8msaYi66RQ-ubsO8oJZog%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/AGluJ3MwRAIgB8-nroYVoa2MEIqLolwaTVgAH9eu0cxvBiqQPdqFxWICIC_gL0moVaBa9qgp5h6vC_t4KDahxnl1Ais4XIITA-SR/playlist/index.m3u8
+
+#EXTINF:-1 tvg-name="TV 2000" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-id="TV2000.va",TV 2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+
+
+
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png" tvg-name="HGTV",HGTV
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10852
+
+#EXTINF:-1 tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/e-entertainment-us.png" tvg-name="E! Entertainment Television",E! Entertainment Television
+https://dlhd.sx/stream/stream-315.php
+
+#EXTINF:-1 tvg-id="CW.(WUCW).St..Paul,.MN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" tvg-name="CW (WUCW)",CW (WUCW)
+https://xyzdddd.mizhls.ru/lb/premium315/index.m3u8|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" tvg-name="Boomerang",Boomerang
+https://tvnow.best/api/stream/lt4383@gmail.com/755909/livetv.epg/boomerang.us.m3u8
+
+#EXTINF:-1 tvg-id="MeTV.Toons" tvg-logo="https://metvtoons.com/images/metvtoons_logo_blue.png" tvg-name="MeTV Toons", MeTV Toons
+http://doubleclicktv.live/70376812/52663544/494103
+
+#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png" tvg-name="Disney Channel",Disney Channel
+https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" tvg-name="Disney XD",Disney XD
+https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-us.png" tvg-name="NICK",NICK
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
