@@ -15410,11 +15410,6 @@
     <category lang="it">Varietà</category>
     <icon src="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/F312787401000401/media/29/93/a9e485b8-6800-4af2-aa61-bcaa16b69f77/87fe1e97-c7e4-42ac-83c0-af3dd5288575.jpg" />
   </programme>
-  <programme start="20250123185400 +0000" stop="20250123190100 +0000" channel="Canale.5.it">
-    <title lang="it">Tg5 Prima Pagina</title>
-    <desc lang="it">Sintesi delle principali notizie del giorno.</desc>
-    <category lang="it">Telegiornale</category>
-  </programme>
   <programme start="20250123190100 +0000" stop="20250123193800 +0000" channel="Canale.5.it">
     <title lang="it">Tg5</title>
     <desc lang="it">Le notizie piu' importanti nazionali e internazionali, con approfondimenti e rubriche, a cura della redazione giornalistica di Canale 5.</desc>
