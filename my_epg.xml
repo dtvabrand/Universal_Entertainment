@@ -93,6 +93,6 @@
   <channel id="Nickelodeon.USA.-.East.Feed.us">
     <display-name>Nickelodeon USA</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-us.png" />
-    <url><nome_url>https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/epg.xml</url>
+    <url>https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/epg.xml</url>
   </channel>
 </tv>
