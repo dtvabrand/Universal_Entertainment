@@ -90,7 +90,6 @@
     <url><nome_url>https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/epg.xml</url>
   </channel>
   
-  </channel>
   <channel id="Nickelodeon.USA.-.East.Feed.us">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11006_h15_ab.png" />
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11006_h15_ab.png" />
