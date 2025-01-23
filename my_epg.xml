@@ -97,14 +97,28 @@
     <display-name lang="en">Nickelodeon USA - East Feed</display-name>
   </channel>
   
-  <programme channel="Nickelodeon.USA.-.East.Feed.us" start="20250126042400 -0500" stop="20250126045500 -0500">
-    <title lang="en">Modern Family</title>
-    <sub-title lang="en">Message Received</sub-title>
-    <desc lang="en">Jay, Gloria and Manny challenge one another to try something new; Mitch and Cam sell a couple of their prized possessions to fund the wedding; the kids play a joke on Phil and Claire.</desc>
+  <programme channel="Nickelodeon.USA.-.East.Feed.us" start="20250123213000 -0500" stop="20250123220000 -0500">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One With All the Cheesecakes</sub-title>
+    <desc lang="en">Phoebe and Joey are at odds when she tries to cancel their weekly dinner plans so she can meet an old beau.</desc>
     <credits>
-      <actor>Ed O'Neill</actor>
-      <actor>Julie Bowen</actor>
-      <actor>Ty Burrell</actor>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Nickelodeon.USA.-.East.Feed.us" start="20250123220000 -0500" stop="20250123223000 -0500">
+    <title lang="en">Friends</title>
+    <sub-title lang="en">The One Where They're Up All Night</sub-title>
+    <desc lang="en">During their first night together, Rachel and Tag realize they forgot to ship out an important package at the office.</desc>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
     </credits>
     <category lang="en">Sitcom</category>
     <previously-shown />  <rating system="MPAA">
