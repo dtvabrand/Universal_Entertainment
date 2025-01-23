@@ -96,4 +96,18 @@
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">Nickelodeon USA - East Feed</display-name>
   </channel>
+    <programme channel="Nickelodeon.USA.-.East.Feed.us" start="20250122060000 -0500" stop="20250122063000 -0500">
+    <title lang="en">Modern Family</title>
+    <sub-title lang="en">Suddenly, Last Summer</sub-title>
+    <desc lang="en">Phil and Claire try to orchestrate a kid-free week during Luke, Haley and Alex's summer activities; Cam and Mitch try to have a memorable summer.</desc>
+    <credits>
+      <actor>Ed O'Neill</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Ty Burrell</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
 </tv>
