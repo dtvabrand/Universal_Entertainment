@@ -25,31 +25,23 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1737640547/ei/
 #EXTINF:-1 tvg-name="TV 2000" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-id="TV2000.va",TV 2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
-
-
 #EXTINF:-1 tvg-name="ABC News" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png" tvg-name="HGTV",HGTV
-http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10852
+https://xyzdddd.mizhls.ru/lb/premium382/index.m3u8
 
 #EXTINF:-1 tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/e-entertainment-us.png" tvg-name="E! Entertainment Television",E! Entertainment Television
-https://dlhd.sx/stream/stream-315.php
-
-#EXTINF:-1 tvg-id="CW.(WUCW).St..Paul,.MN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" tvg-name="CW (WUCW)",CW (WUCW)
-https://xyzdddd.mizhls.ru/lb/premium315/index.m3u8|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium315/index.m3u8
 
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" tvg-name="Boomerang",Boomerang
-https://tvnow.best/api/stream/lt4383@gmail.com/755909/livetv.epg/boomerang.us.m3u8
-
-#EXTINF:-1 tvg-id="MeTV.Toons" tvg-logo="https://metvtoons.com/images/metvtoons_logo_blue.png" tvg-name="MeTV Toons", MeTV Toons
-http://doubleclicktv.live/70376812/52663544/494103
+https://xyzdddd.mizhls.ru/lb/premium648/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png" tvg-name="Disney Channel",Disney Channel
-https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+https://xyzdddd.mizhls.ru/lb/premium312/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" tvg-name="Disney XD",Disney XD
-https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+https://xyzdddd.mizhls.ru/lb/premium314/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-us.png" tvg-name="NICK",NICK
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
