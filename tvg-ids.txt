@@ -5,7 +5,7 @@ Rete.4.it
 Canale.5.it
 Italia.1.it
 TVLourdes
-TV.2000.it.it
+TV2000.it.it
 ABC.News
 HGTV.USA.-.Eastern.Feed.us
 E!.Entertainment.USA.-.Eastern.Feed.us
