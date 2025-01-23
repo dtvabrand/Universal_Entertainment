@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <!-- Programmi per Rai 1 -->
+  <channel id="Rai1.it">
+    <display-name>Rai 1</display-name>
+    <icon src="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" />
+    <url><nome_url>/guidatv.sky.it.xml</url>
+  </channel>
+  
+  <!-- Programmi per Rai 2 -->
+  <channel id="Rai2.it">
+    <display-name>Rai 2</display-name>
+    <icon src="http://odmsto.com/uploads/tv_image/sm/rai-2-bobi5do2jjqa.png" />
+    <url><nome_url>/guidatv.sky.it.xml</url>
+  </channel>
+  
+  <!-- Programmi per Rai 3 -->
+  <channel id="Rai3.it">
+    <display-name>Rai 3</display-name>
+    <icon src="http://odmsto.com/uploads/tv_image/sm/rai-3-kwvj7ve82k1u.png" />
+    <url><nome_url>/guidatv.sky.it.xml</url>
+  </channel>
+  
+  <!-- Programmi per Rete 4 -->
+  <channel id="Rete4.it">
+    <display-name>Rete 4</display-name>
+    <icon src="https://api.superguidatv.it/v1/channels/189/logo?width=240" />
+    <url><nome_url>/mediasetinfinity.mediaset.it.xml</url>
+  </channel>
+  
+  <!-- Programmi per Canale 5 -->
+  <channel id="Canale5.it">
+    <display-name>Canale 5</display-name>
+    <icon src="https://api.superguidatv.it/v1/channels/187/logo?width=240" />
+    <url><nome_url>/mediasetinfinity.mediaset.it.xml</url>
+  </channel>
+  
+  <!-- Programmi per Italia 1 -->
+  <channel id="Italia1.it">
+    <display-name>Italia 1</display-name>
+    <icon src="https://api.superguidatv.it/v1/channels/188/logo?width=240" />
+    <url><nome_url>/mediasetinfinity.mediaset.it.xml</url>
+  </channel>
+  
+  <!-- Programmi per TV Lourdes -->
+  <channel id="TVLourdes">
+    <display-name>TV Lourdes</display-name>
+    <icon src="https://www.lourdes-france.org/wp-content/uploads/2022/02/logo-200x125px.png" />
+    <url><nome_url>/superguidatv.it.xml</url>
+  </channel>
+  
+  <!-- Programmi per TV 2000 -->
+  <channel id="TV2000.va">
+    <display-name>TV 2000</display-name>
+    <icon src="https://i.imgur.com/x7RaK3a.png" />
+    <url><nome_url>/raiplay.it.xml</url>
+  </channel>
+  
+  <!-- Programmi per ABC News -->
+  <channel id="ABCNews">
+    <display-name>ABC News</display-name>
+    <icon src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png" />
+    <url><nome_url>/abcnews.com.xml</url>
+  </channel>
+  
+  <!-- Programmi per HGTV -->
+  <channel id="HGTV">
+    <display-name>HGTV</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png" />
+    <url><nome_url>/hgtv.com.xml</url>
+  </channel>
+  
+  <!-- Programmi per E! Entertainment Television -->
+  <channel id="EEntertainmentTelevision">
+    <display-name>E! Entertainment Television</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/e-entertainment-us.png" />
+    <url><nome_url>/entertainment.com.xml</url>
+  </channel>
+  
+  <!-- Programmi per CW -->
+  <channel id="CW">
+    <display-name>CW</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" />
+    <url><nome_url>/cw.com.xml</url>
+  </channel>
+  
+  <!-- Programmi per Boomerang -->
+  <channel id="Boomerang">
+    <display-name>Boomerang</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" />
+    <url><nome_url>/boomerang.com.xml</url>
+  </channel>
+  
+  <!-- Programmi per Disney Channel -->
+  <channel id="DisneyChannel">
+    <display-name>Disney Channel</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png" />
+    <url><nome_url>/disneychannel.com.xml</url>
+  </channel>
+  
+  <!-- Programmi per Disney XD -->
+  <channel id="DisneyXD">
+    <display-name>Disney XD</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" />
+    <url><nome_url>/disneyxd.com.xml</url>
+  </channel>
+  
+  <!-- Programmi per NICK -->
+  <channel id="Nick">
+    <display-name>NICK</display-name>
+    <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-us.png" />
+    <url><nome_url>/nick.com.xml</url>
+  </channel>
+</tv>
