@@ -33,6 +33,9 @@ https://xyzdddd.mizhls.ru/lb/premium382/index.m3u8
 #EXTINF:-1 tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/e-entertainment-us.png" tvg-name="E! Entertainment Television",E! Entertainment Television
 https://xyzdddd.mizhls.ru/lb/premium315/index.m3u8
 
+#EXTINF:-1 tvg-id="CW.(WUCW).St..Paul,.MN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" tvg-name="CW (WUCW)",CW (WUCW)
+https://xyzdddd.mizhls.ru/lb/premium300/index.m3u8
+
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" tvg-name="Boomerang",Boomerang
 https://xyzdddd.mizhls.ru/lb/premium648/index.m3u8
 
