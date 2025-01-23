@@ -12,7 +12,9 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&force
 #EXTINF:-1 tvg-name="Rete 4" tvg-logo="https://api.superguidatv.it/v1/channels/189/logo?width=240" tvg-id="Rete.4.it",Rete 4
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-name="Canale 5" tvg-logo="https://api.superguidatv.it/v1/channels/187/logo?width=240" tvg-id="Canale.5.it",Canale 5
+#####https://api.superguidatv.it/v1/channels/187/logo?width=240
+
+#EXTINF:-1 tvg-name="Canale 5" tvg-logo="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/c5.png" tvg-id="Canale.5.it",Canale 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-name="Italia 1" tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=240" tvg-id="Italia.1.it",Italia 1
