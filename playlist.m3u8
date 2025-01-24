@@ -21,10 +21,10 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 ##EXTINF:-1 tvg-name="TV Lourdes" tvg-logo="https://www.lourdes-france.org/wp-content/uploads/2022/02/logo-200x125px.png" tvg-id="TVLourdes",TV Lourdes
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1737763201/ei/IdWTZ5z6JbbIi9oP9tO80A4/ip/5.91.182.171/id/2Xn1Bb697A0.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-8vq54voxpu-o52s.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY2Et-NXDrgv9CviLhmCWCPvATZblPZG9nYInbkDD7c7vc70iZfn-d8fdYIr6CAaeqvM_ANLEbHSyPvM/spc/9kzgDfdrUGcLOcGS18Z37-J-jEFWrogyKaXGQWZH93fBhyszcPy07AiehZq4I1F_5WVjHZY/vprv/1/playlist_type/DVR/initcwndbps/761250/met/1737741603,/mh/Vf/mm/44/mn/sn-8vq54voxpu-o52s/ms/lva/mv/m/mvi/1/pl/25/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51326932,51335594,51353498,51355912,51371294,51384461/mt/1737741148/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgJs_MLsSaLhxbREvbQ9eAxINYLOjEaNg3X0-yrFfOdX8CIFX0t8G3GlTrGmFv04H___SY73wr2qQE-mylRcfwVOE-/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/AGluJ3MwRQIhAPYzT44wksOXs6zP4zLOW_ZovMDg1eFxAdXodyXmfmFcAiAZW11HmBmYCgI5W6HVcF9-uKv3yn7rQT2v4rlpU7wkVA%3D%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-name="TV 2000" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-id="TV2000.it.it",TV 2000
+#EXTINF:-1 tvg-name="TV 2000" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-id="TV2000.it",TV 2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
-#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png" tvg-id="ABC.NEWS.us",ABC News
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png" tvg-id="ABCNewsLive.us",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png" tvg-name="HGTV",HGTV
