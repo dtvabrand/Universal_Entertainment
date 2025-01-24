@@ -64,7 +64,6 @@ def filter_and_build_epg(urls):
 
 urls = [
 	'https://xmltv.tvkaista.net/guides/raiplay.it.xml',
-	'https://xmltv.tvkaista.net/guides/mediasetinfinity.mediaset.it.xml',
 	'https://xmltv.tvkaista.net/guides/superguidatv.it.xml',
 	'https://xmltv.tvkaista.net/guides/tvpassport.com.xml',
 ]
