@@ -63,7 +63,6 @@ def filter_and_build_epg(urls):
 #m3u4u_epg = os.getenv("M3U4U_EPG")
 
 urls = [
-	'https://xmltv.tvkaista.net/guides/raiplay.it.xml',
 	'https://xmltv.tvkaista.net/guides/superguidatv.it.xml',
 	'https://xmltv.tvkaista.net/guides/tvpassport.com.xml',
 ]
