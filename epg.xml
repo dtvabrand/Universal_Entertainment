@@ -13020,4 +13020,1328 @@
       <value>TVPG</value>
     </rating>
   </programme>
+  <channel id="CW.(WUCW).St..Paul,.MN.us">
+    <display-name lang="en">CW (WUCW) St. Paul, MN</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s51306_h15_ac.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <programme start="20250123060000 -0500" stop="20250123070000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Family Bible studies with Pastor Arnold Murray and Pastor Dennis Murray.</desc>
+    <category lang="en">Religious</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250123070000 -0500" stop="20250123080000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Live: The National Desk</title>
+    <desc lang="en">Local and national perspectives on the latest news.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250123080000 -0500" stop="20250123090000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Live: The National Desk</title>
+    <desc lang="en">Local and national perspectives on the latest news.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250123090000 -0500" stop="20250123093000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Live: The National Weather Desk</title>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250123093000 -0500" stop="20250123100000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Funny You Should Ask</title>
+    <desc lang="en">Jon Lovitz; Raven-Symoné; Howie Mandel; Byron Allen; Whitney Cummings; Jeff Ross.</desc>
+    <category lang="en">Game Shows</category>
+    <category lang="en">Comedy</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250123100000 -0500" stop="20250123110000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Karamo</title>
+    <sub-title lang="en">Unlock: How Recent Is That Sex Tape?; DNA: Walked Into a Bar ... and Met My Dad?</sub-title>
+    <desc lang="en">Josie found a video of her boyfriend, Jarod, with another woman, and wonders what else he is hiding from her; Shineka was at a bar when a man named Shawn came up to her and revealed that he was her father!</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250123110000 -0500" stop="20250123120000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">The Steve Wilkos Show</title>
+    <sub-title lang="en">Your Addiction Is Destroying Us</sub-title>
+    <desc lang="en">Derrick says Yorel's drink-fueled rampages that leave his property in pieces have been overwhelming, while she accuses him of drugging her, causing her to black out; Chelsea's boyfriend, Blake, cheats on her, and she is afraid of his meth addiction.</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250123120000 -0500" stop="20250123130000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Maury</title>
+    <sub-title lang="en">Did My Best Friend Seduce My Husband? Test Them Both!</sub-title>
+    <desc lang="en">Feliza says her husband goes out of his way to impress her friend; Megan and A.J.'s relationship became a mess when she started seeing mysterious footprints everywhere.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Comedy</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250123130000 -0500" stop="20250123140000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Judge Mathis</title>
+    <desc lang="en">The plaintiff says that immediately after she began dating the defendant, he moved in with her, and she quickly suspected she was being used.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250123140000 -0500" stop="20250123150000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">The People's Court</title>
+    <desc lang="en">"Ripping Off an Ex.".</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250123150000 -0500" stop="20250123153000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Judy Justice</title>
+    <sub-title lang="en">Fool the Judge Once..</sub-title>
+    <desc lang="en">A man sues his coworker's wife over a car, but can't keep his facts straight.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250123153000 -0500" stop="20250123160000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Judy Justice</title>
+    <sub-title lang="en">Good Samaritan Teen Rip-Off</sub-title>
+    <desc lang="en">A young man is accused of deceiving a minor when he uses a social media app to request money from his neighbors.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250123160000 -0500" stop="20250123163000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">The Drew Barrymore Show</title>
+    <sub-title lang="en">Drew's News With Julia Fox; Andie MacDowell</sub-title>
+    <desc lang="en">Drew and Ross hit the headlines with Julia Fox; Andie MacDowell (series "The Way Home").Guests: Julia Fox, Andie MacDowell..</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250123163000 -0500" stop="20250123170000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">The Drew Barrymore Show</title>
+    <sub-title lang="en">Jason Biggs and Jenny Mollen</sub-title>
+    <desc lang="en">Jason Biggs and Jenny Mollen talk about their series "Dinner and a Movie," which features an episode focusing on "50 First Dates."Guests: Jason Biggs, Jenny Mollen..</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250123170000 -0500" stop="20250123173000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Family Feud</title>
+    <desc lang="en">Teams compete to match answers of nationwide surveys.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250123173000 -0500" stop="20250123180000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Flip Side</title>
+    <sub-title lang="en">Poker Face</sub-title>
+    <desc lang="en">The hilarious new survey game show explores answers to questions from differing perspectives; host Jaleel White.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250123180000 -0500" stop="20250123183000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">The Conners</title>
+    <sub-title lang="en">A Kiss Is Just a Kiss</sub-title>
+    <desc lang="en">Darlene struggles to decide between David and Ben; Becky begins to doubt herself as a mom; Mark gets in trouble at school when a picture of him and his boyfriend kissing goes viral; Jackie avoids her problems by keeping busy with everyone else's.</desc>
+    <credits>
+      <actor>John Goodman</actor>
+      <actor>Laurie Metcalf</actor>
+      <actor>Sara Gilbert</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250123183000 -0500" stop="20250123190000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">Pie Hole, Herb</sub-title>
+    <desc lang="en">Alan crosses a line when he tries to get back money that he lent Charlie.</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250123190000 -0500" stop="20250123193000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Family Feud</title>
+    <desc lang="en">Teams compete to match answers of nationwide surveys.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250123193000 -0500" stop="20250123200000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Family Feud</title>
+    <desc lang="en">Teams compete to match answers of nationwide surveys.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250123200000 -0500" stop="20250123210000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Police 24/7</title>
+    <sub-title lang="en">Foiled Again</sub-title>
+    <desc lang="en">Police negotiate with a suspect barricaded in his bedroom; motel occupants fail to convince police that the found paraphernalia isn't theirs; a mishap involving a toy gun has potential deadly consequences.</desc>
+    <category lang="en">Documentary</category>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250123210000 -0500" stop="20250123220000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Crime Nation</title>
+    <sub-title lang="en">Killed for Custody</sub-title>
+    <desc lang="en">A captivating true crime and justice anthology series that explores the gripping world of real-life mysteries, cold cases and heart-stopping investigations.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250123220000 -0500" stop="20250123230000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Live: The National Desk</title>
+    <desc lang="en">Local and national perspectives on the latest news.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250123230000 -0500" stop="20250124000000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Live: The National Desk</title>
+    <desc lang="en">Local and national perspectives on the latest news.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250124000000 -0500" stop="20250124003000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Extra</title>
+    <desc lang="en">Inside the entertainment newsgathering process, as reporters coast to coast break headlines, advance the stories of the day, and sit down with celebrities.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250124003000 -0500" stop="20250124010000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">iCRIME With Elizabeth Vargas</title>
+    <desc lang="en">Crimes from across the country that have been captured by ordinary people on their smartphones; stories of victims, witnesses, law enforcement and the videographers themselves.</desc>
+    <category lang="en">Reality TV</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250124010000 -0500" stop="20250124013000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">iCRIME With Elizabeth Vargas</title>
+    <desc lang="en">Crimes from across the country that have been captured by ordinary people on their smartphones; stories of victims, witnesses, law enforcement and the videographers themselves.</desc>
+    <category lang="en">Reality TV</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250124013000 -0500" stop="20250124020000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Save On Your Grocery Bills!</title>
+    <desc lang="en">Tired of throwing away spoiled groceries? Keep food fresh 5X longer with the new PowerXL Duo Nutrisealer!</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Food</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250124020000 -0500" stop="20250124023000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Family Feud</title>
+    <desc lang="en">Teams compete to match answers of nationwide surveys.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250124023000 -0500" stop="20250124030000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Flip Side</title>
+    <sub-title lang="en">Bounce Back In</sub-title>
+    <desc lang="en">The hilarious new survey game show explores answers to questions from differing perspectives; host Jaleel White.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250124030000 -0500" stop="20250124033000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">A Bottle of Wine and a Jackhammer</sub-title>
+    <desc lang="en">When Lindsey asks Alan to move in with her, Charlie will do anything to get him to agree to it.</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250124033000 -0500" stop="20250124040000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">The Conners</title>
+    <sub-title lang="en">The Preemie Monologues</sub-title>
+    <desc lang="en">Harris is forced to confront Darlene about her lifestyle; Jackie involves herself in other people's problems to avoid confronting her own; Becky is overwhelmed by the costs of raising a baby, so her family steps in to help.</desc>
+    <credits>
+      <actor>John Goodman</actor>
+      <actor>Laurie Metcalf</actor>
+      <actor>Sara Gilbert</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250124040000 -0500" stop="20250124043000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Extra</title>
+    <desc lang="en">Inside the entertainment newsgathering process, as reporters coast to coast break headlines, advance the stories of the day, and sit down with celebrities.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250124043000 -0500" stop="20250124050000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Justice for All With Judge Cristina Pérez</title>
+    <sub-title lang="en">Gummy Grapple &amp; Pillow Talk</sub-title>
+    <desc lang="en">Roommates argue over missing pain-relieving gummies; a man blames newlyweds for his wife leaving him after bachelor-party secrets were disclosed.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250124050000 -0500" stop="20250124053000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Lauren Lake's Paternity Court</title>
+    <sub-title lang="en">Weathers vs. Bassey-Weathers</sub-title>
+    <desc lang="en">A man is sure he's not the father of his baby and wants a DNA test to prove it.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250124053000 -0500" stop="20250124060000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Cutlers Court</title>
+    <sub-title lang="en">Thornton vs. Jones</sub-title>
+    <desc lang="en">Secret social accounts and suspicious behavior have Kashmir asking the Cutlers if his relationship can be saved.</desc>
+    <category lang="en">Legal</category>
+    <category lang="en">Reality TV</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250124060000 -0500" stop="20250124070000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Shepherd's Chapel</title>
+    <desc lang="en">Family Bible studies with Pastor Arnold Murray and Pastor Dennis Murray.</desc>
+    <category lang="en">Religious</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250124070000 -0500" stop="20250124080000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Live: The National Desk</title>
+    <desc lang="en">Local and national perspectives on the latest news.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250124080000 -0500" stop="20250124090000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Live: The National Desk</title>
+    <desc lang="en">Local and national perspectives on the latest news.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250124090000 -0500" stop="20250124093000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Live: The National Weather Desk</title>
+    <category lang="en">Environmental</category>
+  </programme>
+  <programme start="20250124093000 -0500" stop="20250124100000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Funny You Should Ask</title>
+    <desc lang="en">Jon Lovitz; Raven-Symoné; Howie Mandel; Byron Allen; Whitney Cummings; Jeff Ross.</desc>
+    <category lang="en">Game Shows</category>
+    <category lang="en">Comedy</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250124100000 -0500" stop="20250124110000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Karamo</title>
+    <sub-title lang="en">Sisters at War; Truth Unlocked: Who Stole My Designer Bag?</sub-title>
+    <desc lang="en">Sisters Mersadies and Lexi have been feuding with each other since they were children; Winter says her designer bag and $3,000 in cash went missing, and her prime suspects are her father, Tommy, and fiancé, Parrish.</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250124110000 -0500" stop="20250124120000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">The Steve Wilkos Show</title>
+    <sub-title lang="en">Social Media Conflicts</sub-title>
+    <desc lang="en">Steve highlights some of the more outrageous social media squabbles that could be resolved only with the help of his lie detector tests.</desc>
+    <category lang="en">Talk Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250124120000 -0500" stop="20250124130000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Maury</title>
+    <sub-title lang="en">Did the Man I Love Have 3 Babies With 2 Other Women?</sub-title>
+    <desc lang="en">Jasmine fears she should be planning an exit strategy from her engagement; Misty thinks Chris cheated on her while she was on her deathbed.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Comedy</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250124130000 -0500" stop="20250124140000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Judge Mathis</title>
+    <desc lang="en">The plaintiff, who is transitioning from male to female, hired the defendant, who is her cousin, to do her hair for her birthday, but she left her with a bald spot.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250124140000 -0500" stop="20250124150000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">The People's Court</title>
+    <desc lang="en">"Boat Battle.".</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250124150000 -0500" stop="20250124153000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Judy Justice</title>
+    <sub-title lang="en">Daycare Dilemma</sub-title>
+    <desc lang="en">A daycare owner fights with a mother over disputed childcare fees; the mother says the owner falsified evidence.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250124153000 -0500" stop="20250124160000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Judy Justice</title>
+    <sub-title lang="en">Relationship Vacation Fail</sub-title>
+    <desc lang="en">Former lovers dispute over a vacation package which lasted longer than the relationship itself.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250124160000 -0500" stop="20250124163000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">The Drew Barrymore Show</title>
+    <sub-title lang="en">Joy Behar; Susie Essman</sub-title>
+    <desc lang="en">Drew chats with best friend duo Joy Behar and Susie Essman; an audience Q-and-A about love.Guests: Joy Behar, Susie Essman..</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250124163000 -0500" stop="20250124170000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">The Drew Barrymore Show</title>
+    <sub-title lang="en">Morris Chestnut</sub-title>
+    <desc lang="en">Morris Chestnut (series "Watson").Guests: Morris Chestnut..</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250124170000 -0500" stop="20250124173000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Family Feud</title>
+    <desc lang="en">Teams compete to match answers of nationwide surveys.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250124173000 -0500" stop="20250124180000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Flip Side</title>
+    <sub-title lang="en">We See Each Other</sub-title>
+    <desc lang="en">The hilarious new survey game show explores answers to questions from differing perspectives; host Jaleel White.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250124180000 -0500" stop="20250124183000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">The Conners</title>
+    <sub-title lang="en">Landford... Landford</sub-title>
+    <desc lang="en">Desperate for more income, Becky seeks a bartending position at Casita Bonita, causing major concern for Dan due to her struggle with alcoholism; Darlene finally nears a decision between David and Ben; Harris' new friend, Odessa, means new trouble.</desc>
+    <credits>
+      <actor>John Goodman</actor>
+      <actor>Laurie Metcalf</actor>
+      <actor>Sara Gilbert</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250124183000 -0500" stop="20250124190000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">Damn You, Eggs Benedict</sub-title>
+    <desc lang="en">Charlie attempts to cook, Alan tries to date two women at the same time, and Jake samples beer.</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250124190000 -0500" stop="20250124193000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Family Feud</title>
+    <desc lang="en">Teams compete to match answers of nationwide surveys.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250124193000 -0500" stop="20250124200000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Family Feud</title>
+    <desc lang="en">Teams compete to match answers of nationwide surveys.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250124200000 -0500" stop="20250124210000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Penn &amp; Teller: Fool Us</title>
+    <sub-title lang="en">The Penn &amp; Teller 50th Anniversary Special</sub-title>
+    <desc lang="en">Magicians include Young &amp; Strange, Piff and Piero Venesia; an amazing two-act trick by Penn and Teller.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Performing Arts</category>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250124210000 -0500" stop="20250124220000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Masters of Illusion</title>
+    <sub-title lang="en">Logically Illogical, AI Mind Reader, and Phone-y Magic</sub-title>
+    <desc lang="en">Featured magicians include Ed Alonzo, Jeki Yoo &amp; Ellie, Eric Eaton, Eric Jones, Alexandra, Trigg Watson, Joshua Jay and Artem Shchukin.</desc>
+    <category lang="en">Variety</category>
+    <category lang="en">Performing Arts</category>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250124220000 -0500" stop="20250124230000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Live: The National Desk</title>
+    <desc lang="en">Local and national perspectives on the latest news.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250124230000 -0500" stop="20250125000000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Live: The National Desk</title>
+    <desc lang="en">Local and national perspectives on the latest news.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250125000000 -0500" stop="20250125003000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Extra</title>
+    <desc lang="en">Inside the entertainment newsgathering process, as reporters coast to coast break headlines, advance the stories of the day, and sit down with celebrities.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250125003000 -0500" stop="20250125010000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">iCRIME With Elizabeth Vargas</title>
+    <desc lang="en">Crimes from across the country that have been captured by ordinary people on their smartphones; stories of victims, witnesses, law enforcement and the videographers themselves.</desc>
+    <category lang="en">Reality TV</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250125010000 -0500" stop="20250125013000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">iCRIME With Elizabeth Vargas</title>
+    <desc lang="en">Crimes from across the country that have been captured by ordinary people on their smartphones; stories of victims, witnesses, law enforcement and the videographers themselves.</desc>
+    <category lang="en">Reality TV</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250125013000 -0500" stop="20250125020000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250125020000 -0500" stop="20250125023000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Family Feud</title>
+    <desc lang="en">Teams compete to match answers of nationwide surveys.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250125023000 -0500" stop="20250125030000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Flip Side</title>
+    <sub-title lang="en">Rock, Paper, Scissors</sub-title>
+    <desc lang="en">The hilarious new survey game show explores answers to questions from differing perspectives; host Jaleel White.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250125030000 -0500" stop="20250125033000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">A Pudding-Filled Cactus</sub-title>
+    <desc lang="en">After moving in with Lyndsey, Alan continues to have a rendezvous with Melissa at Charlie's house.</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250125033000 -0500" stop="20250125040000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">The Conners</title>
+    <sub-title lang="en">Nightmare on Lunch Box Street</sub-title>
+    <desc lang="en">Halloween brings nothing but horror for Jackie after she uncovers a shocking secret when trying to reopen the Lunch Box; Mary gets upset when a woman assumes she is adopted; Darlene continues to deal with her complicated love life.</desc>
+    <credits>
+      <actor>John Goodman</actor>
+      <actor>Laurie Metcalf</actor>
+      <actor>Sara Gilbert</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Hallowe'en</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250125040000 -0500" stop="20250125043000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Extra</title>
+    <desc lang="en">Inside the entertainment newsgathering process, as reporters coast to coast break headlines, advance the stories of the day, and sit down with celebrities.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250125043000 -0500" stop="20250125050000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Justice for All With Judge Cristina Pérez</title>
+    <sub-title lang="en">Panic at the Prayer Line &amp; Soddy Sweet 16</sub-title>
+    <desc lang="en">Anointing sends a woman to the hospital; a client refuses to pay for a dance floor that caused damage to her yard.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250125050000 -0500" stop="20250125053000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Lauren Lake's Paternity Court</title>
+    <sub-title lang="en">Matlock vs. Monroe</sub-title>
+    <desc lang="en">A man says he returned from "family business" to find his girlfriend pregnant and her ex a possible father.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250125053000 -0500" stop="20250125060000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Cutlers Court</title>
+    <sub-title lang="en">Jones vs. Shaffer</sub-title>
+    <desc lang="en">Dawn confronts her boyfriend, Josh, about ongoing entanglements with his ex and various other women.</desc>
+    <category lang="en">Legal</category>
+    <category lang="en">Reality TV</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250125060000 -0500" stop="20250125063000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">RaceWeek</title>
+    <desc lang="en">The latest NASCAR news and behind the scenes coverage with a "garage pass" to hear from the drivers, crew chiefs and owners.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250125063000 -0500" stop="20250125070000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">To the Rescue</title>
+    <sub-title lang="en">ARF Pets and Vets</sub-title>
+    <desc lang="en">Highlighting the Animal Rescue Foundation "ARF" in Walnut Creek, Calif.; the organization's innovative programs assist veterans by providing them with service dog training.</desc>
+    <category lang="en">Animals</category>
+    <category lang="en">Local</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250125070000 -0500" stop="20250125073000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250125073000 -0500" stop="20250125080000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250125080000 -0500" stop="20250125083000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Science Now</title>
+    <desc lang="en">Learning about safe water and cancer research.</desc>
+    <category lang="en">Science</category>
+    <category lang="en">Instructional</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250125083000 -0500" stop="20250125090000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Teen Kids News</title>
+    <desc lang="en">A teen who made it his artistic mission to save the salmon; how author Stephen King didn't let failure get in his way.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250125090000 -0500" stop="20250125093000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Jack Hanna's Into the Wild</title>
+    <sub-title lang="en">Wild at Umfolozi</sub-title>
+    <desc lang="en">Jack goes to the Umfolozi Big 5 Game Reserve in South Africa for amazing animal encounters.</desc>
+    <category lang="en">Animals</category>
+    <category lang="en">Instructional</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250125093000 -0500" stop="20250125100000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Jack Hanna's Into the Wild</title>
+    <sub-title lang="en">Amazon Adventure</sub-title>
+    <desc lang="en">The Peruvian Amazon Rainforest is home to some rare animals.</desc>
+    <category lang="en">Animals</category>
+    <category lang="en">Instructional</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250125100000 -0500" stop="20250125103000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Jack Hanna's Into the Wild</title>
+    <sub-title lang="en">Best of the Great Apes</sub-title>
+    <desc lang="en">Gorillas; chimpanzees; orangutans.</desc>
+    <category lang="en">Animals</category>
+    <category lang="en">Instructional</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250125103000 -0500" stop="20250125110000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Jack Hanna's Into the Wild</title>
+    <sub-title lang="en">Wings Over Curacao</sub-title>
+    <desc lang="en">Flying bats; powerful ostriches; pink flamingoes.</desc>
+    <category lang="en">Animals</category>
+    <category lang="en">Instructional</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250125110000 -0500" stop="20250125113000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Jack Hanna's Into the Wild</title>
+    <sub-title lang="en">Best of Panama</sub-title>
+    <desc lang="en">Panama's unique ecosystems are home to bats, sloths, sea turtles and poison dart frogs; the Panama Canal connects the Atlantic and Pacific Oceans.</desc>
+    <category lang="en">Animals</category>
+    <category lang="en">Instructional</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250125113000 -0500" stop="20250125120000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Jack Hanna's Into the Wild</title>
+    <sub-title lang="en">Baby Adventures</sub-title>
+    <desc lang="en">Baby animals bring hope for the next generation of wildlife.</desc>
+    <category lang="en">Animals</category>
+    <category lang="en">Instructional</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250125120000 -0500" stop="20250125140000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Live: College Basketball</title>
+    <sub-title lang="en">SMU at NC State</sub-title>
+    <desc lang="en">From Lenovo Center in Raleigh, N.C.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20250125140000 -0500" stop="20250125163000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Live: College Basketball</title>
+    <sub-title lang="en">Boston College at North Carolina</sub-title>
+    <desc lang="en">From the Dean E. Smith Center in Chapel Hill, N.C.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20250125163000 -0500" stop="20250125170000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Game Time With Boomer Esiason</title>
+    <sub-title lang="en">Joe Namath</sub-title>
+    <desc lang="en">Super Bowl and NCAA football champion Joe Namath.Guests: Joe Namath..</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250125170000 -0500" stop="20250125180000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">NEW Secret to Younger Skin</title>
+    <desc lang="en">NEW Crepe Erase will visibly transform your skin with 12 super hydrators PLUS receive their AGE DEFYING SKIN REVITALIZING TOOL FREE. Treat and repair the look of crepey skin. Order now at CrepeErase.com.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250125180000 -0500" stop="20250125183000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">MNFluencers</title>
+    <category lang="en">Local</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250125183000 -0500" stop="20250125190000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Funny You Should Ask</title>
+    <desc lang="en">Jon Lovitz; Tiffany Haddish; Howie Mandel; Byron Allen; Natasha Leggero; Adam Carolla.</desc>
+    <category lang="en">Game Shows</category>
+    <category lang="en">Comedy</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250125190000 -0500" stop="20250125193000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Family Feud</title>
+    <desc lang="en">Teams compete to match answers of nationwide surveys.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250125193000 -0500" stop="20250125200000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Family Feud</title>
+    <desc lang="en">Teams compete to match answers of nationwide surveys.</desc>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250125200000 -0500" stop="20250125220000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">From Roger Moore With Love</title>
+    <desc lang="en">An exclusive behind-the-scenes look at the life of charismatic actor Roger Moore, who redefined the role of James Bond.</desc>
+    <category lang="en">Specials</category>
+    <category lang="en">Biography</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250125220000 -0500" stop="20250125230000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Live: The National Desk</title>
+    <desc lang="en">Local and national perspectives on the latest news.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250125230000 -0500" stop="20250126000000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">WOW - Women Of Wrestling</title>
+    <desc lang="en">The superstars of Women of Wrestling get fierce in the ring and behind the scenes.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250126000000 -0500" stop="20250126003000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Who Has Access to Your Personal Data?</title>
+    <desc lang="en">Even if YOU do everything right to protect yourself, company and institutional data breaches are out of your control. Nearly 1 out of 4 US consumers have been a victim of identity theft. Find out how LifeLock can help protect your identity.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250126003000 -0500" stop="20250126010000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Military Makeover</title>
+    <sub-title lang="en">Jones Family Episode 4</sub-title>
+    <desc lang="en">Art and Jenn press forward with the home transformation for the Jones family. New exterior items, upgraded systems and lovely new looks throughout begin to take shape. All while the family enjoys a fun-filled day at the ballpark.</desc>
+    <category lang="en">Home</category>
+    <category lang="en">Instructional</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250126010000 -0500" stop="20250126013000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Positively America With Ernie Anastos</title>
+    <desc lang="en">Artificial intelligence; field trip contest for kids celebrating America's 250th anniversary.</desc>
+    <category lang="en">News Magazine</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250126013000 -0500" stop="20250126020000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Game Time With Boomer Esiason</title>
+    <sub-title lang="en">Joe Namath</sub-title>
+    <desc lang="en">Super Bowl and NCAA football champion Joe Namath.Guests: Joe Namath..</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250126020000 -0500" stop="20250126023000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250126023000 -0500" stop="20250126030000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250126030000 -0500" stop="20250126040000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Extra</title>
+    <desc lang="en">Inside the entertainment newsgathering process, as reporters coast to coast break headlines, advance the stories of the day, and sit down with celebrities.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250126040000 -0500" stop="20250126043000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Beautiful Homes &amp; Great Estates</title>
+    <sub-title lang="en">Carolyn Way Estate</sub-title>
+    <desc lang="en">The contemporary residence showcases seven spacious bedrooms, 13 baths, a guest house, swimming pool and scenic skyline views.</desc>
+    <category lang="en">Regular</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250126043000 -0500" stop="20250126050000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Positively America With Ernie Anastos</title>
+    <desc lang="en">Artificial intelligence; field trip contest for kids celebrating America's 250th anniversary.</desc>
+    <category lang="en">News Magazine</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250126050000 -0500" stop="20250126053000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">The World's Funniest Weather</title>
+    <sub-title lang="en">You Wind a Few, You Lose a Few!</sub-title>
+    <desc lang="en">A TV chef accidentally sets fire to the set; an elephant tosses a fashion influencer into a lake; a reporter doesn't know he's on-air while doing some personal grooming.</desc>
+    <category lang="en">Environmental</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250126053000 -0500" stop="20250126060000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">The Armstrong Williams Show</title>
+    <desc lang="en">A political commentator and nationally syndicated columnist continues in the tradition of the 1994 Republican Revolution.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Religious</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250126060000 -0500" stop="20250126063000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250126063000 -0500" stop="20250126070000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250126070000 -0500" stop="20250126073000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Daily Living with Father Chapin</title>
+    <desc lang="en">Taking the Good News of Jesus Christ into the world; being a light in the darkness; applying the Gospel to daily living.</desc>
+    <category lang="en">Religious</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250126073000 -0500" stop="20250126080000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Midnight Cry Ministries</title>
+    <desc lang="en">News coverage to start the day.</desc>
+    <category lang="en">Religious</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250126080000 -0500" stop="20250126083000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Mountain Faith Living</title>
+    <desc lang="en">In-depth preaching and a practical study of the word of God with David Gonzalez.</desc>
+    <category lang="en">Religious</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250126083000 -0500" stop="20250126090000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Catholic Mass</title>
+    <desc lang="en">Religious service.</desc>
+    <category lang="en">Religious</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250126090000 -0500" stop="20250126100000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Christian Worship Hour</title>
+    <desc lang="en">Offers Christian worship to those who are house bound.</desc>
+    <category lang="en">Religious</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250126100000 -0500" stop="20250126103000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Pastor's Study</title>
+    <category lang="en">Religious</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250126103000 -0500" stop="20250126110000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Pursuing Jesus with Dr. Mark Henry</title>
+    <desc lang="en">Biblical teaching to help us navigate through today's confusing and troubling times to discover God's peace and hope.</desc>
+    <category lang="en">Religious</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250126110000 -0500" stop="20250126113000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250126113000 -0500" stop="20250126120000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Full Measure With Sharyl Attkisson</title>
+    <desc lang="en">The investigative journalist pursues untouchable subjects through fearless reporting.</desc>
+    <category lang="en">News Magazine</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250126120000 -0500" stop="20250126130000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Supplemental Power Assisted Movement to strengthen &amp; tone your legs</title>
+    <desc lang="en">Ellipse by LegXercise is a premium quality, automatic seated exerciser that uses low impact, smooth, motorized, elliptical motion to strengthen legs, increase mobility &amp; help naturally stimulate healthy circulation, without physical strain or impact.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250126130000 -0500" stop="20250126140000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Cook Family Size Meals Faster</title>
+    <desc lang="en">Emeril's biggest air fryer oven combines 10 kitchen appliances into one endlessly versatile countertop cooker with 2 cooking zones and a full menu of custom presets.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250126140000 -0500" stop="20250126160000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Live: Women's College Basketball</title>
+    <sub-title lang="en">Louisville at Virginia</sub-title>
+    <desc lang="en">From John Paul Jones Arena in Charlottesville, Va.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20250126160000 -0500" stop="20250126163000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">MNFluencers</title>
+    <category lang="en">Local</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250126163000 -0500" stop="20250126170000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Funny You Should Ask</title>
+    <desc lang="en">Jon Lovitz; Sheryl Underwood; Billy Gardell; Byron Allen; Whitney Cummings; Jamie Kennedy.Guests: Jon Lovitz, Sheryl Underwood, Billy Gardell, Byron Allen, Whitney Cummings, Jamie Kennedy..</desc>
+    <category lang="en">Game Shows</category>
+    <category lang="en">Comedy</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250126170000 -0500" stop="20250126173000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Tennis Channel Weekly</title>
+    <desc lang="en">Bringing the sport of tennis to life. Spotlighting the frenetic pace of the ATP and WTA tours, exploring tennis trends, buzzworthy topics, and emerging markets worldwide. This show features all the pivotal movers and shakers of the tennis world.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250126173000 -0500" stop="20250126180000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Pickleball TV Weekly</title>
+    <desc lang="en">Taking viewers behind the scenes at the biggest professional PPA and MLP events. Tips to play better. LIVE LONGER/PLAY PICKLEBALL Segments dedicated to health and longevity from pickleball participation.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Racket Sports</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250126180000 -0500" stop="20250126183000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">I Can't Afford Hyenas</sub-title>
+    <desc lang="en">Charlie realizes he's broke when his credit card is declined at the grocery store. Richard Lewis guest stars.</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250126183000 -0500" stop="20250126190000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Two and a Half Men</title>
+    <sub-title lang="en">Ate the Hamburgers, Wearing the Hats</sub-title>
+    <desc lang="en">Alan offends Charlie by choosing harebrained cousins as Jake's guardians in the event of his death.</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250126190000 -0500" stop="20250126210000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Two Weeks Notice</title>
+    <desc lang="en">A millionaire (Hugh Grant) confronts his feelings for his lawyer (Sandra Bullock), who is quitting after five years of service.</desc>
+    <credits>
+      <actor>Sandra Bullock</actor>
+      <actor>Hugh Grant</actor>
+      <actor>Alicia Witt</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250126210000 -0500" stop="20250126213000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Whose Line Is It Anyway?</title>
+    <sub-title lang="en">Lauren Cohan 2</sub-title>
+    <desc lang="en">Guest comic Lauren Cohan.Guests: Lauren Cohan..</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250126213000 -0500" stop="20250126220000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Whose Line Is It Anyway?</title>
+    <sub-title lang="en">Jeff Davis 19</sub-title>
+    <desc lang="en">Guest comic Jeff Davis.Guests: Jeff Davis..</desc>
+    <category lang="en">Comedy</category>
+    <category lang="en">Game Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250126220000 -0500" stop="20250126223000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">One Day, One Bathroom: Quality Remodeling With FREE Installation!</title>
+    <desc lang="en">Trusted brand Jacuzzi and renowned interior designer, Christina Hall, share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe and stylish space in 1 day! Call now for a FREE quote &amp; installation!</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250126223000 -0500" stop="20250126230000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Who Has Access to Your Personal Data?</title>
+    <desc lang="en">Even if YOU do everything right to protect yourself, company and institutional data breaches are out of your control. Nearly 1 out of 4 US consumers have been a victim of identity theft. Find out how LifeLock can help protect your identity.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250126230000 -0500" stop="20250127000000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Live: The National Desk</title>
+    <desc lang="en">Local and national perspectives on the latest news.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20250127000000 -0500" stop="20250127003000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Cleaner, Fresher Carpets with Shark</title>
+    <desc lang="en">Could your Carpets be making you sick? This 2-in-1 deep carpet cleaner and handheld spot &amp; stain eliminator combines strong suction and high-pressure spray to deliver the best deep carpet cleaning and tough stain elimination in the market.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Instructional</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250127003000 -0500" stop="20250127010000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250127010000 -0500" stop="20250127013000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">NEW Shark Vacuum! Your Pet Hair Solution!</title>
+    <desc lang="en">Shark's most advanced, innovative upright vacuum.</desc>
+    <category lang="en">Paid Program</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250127013000 -0500" stop="20250127020000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250127020000 -0500" stop="20250127030000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Return to Sender; Death Camp</sub-title>
+    <desc lang="en">A Dallas detective investigates the murder of a young man shot in his friend's car; Minneapolis police search for the person who beat a homeless man to death.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Legal</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250127030000 -0500" stop="20250127040000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">Bloodline Detectives</title>
+    <sub-title lang="en">A Killing in Kansas</sub-title>
+    <desc lang="en">In 1989, Krista Martin's life is tragically cut short because of an intruder.</desc>
+    <category lang="en">Docu-Series</category>
+    <category lang="en">Documentary</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250127040000 -0500" stop="20250127050000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">9-1-1</title>
+    <sub-title lang="en">Recovery</sub-title>
+    <desc lang="en">Despite the case being closed, Bobby is determined to prove his Alcoholics Anonymous sponsor was murdered and bring his killer to justice; Buck struggles with his post-traumatic stress.</desc>
+    <credits>
+      <actor>Angela Bassett</actor>
+      <actor>Peter Krause</actor>
+      <actor>Oliver Stark</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250127050000 -0500" stop="20250127053000 -0500" channel="CW.(WUCW).St..Paul,.MN.us">
+    <title lang="en">The Conners</title>
+    <sub-title lang="en">Young Love, Old Lions and Middle-Aged Hyenas</sub-title>
+    <desc lang="en">Harris brings home her new friend, Josh, leaving the family questioning his intentions; Becky and Ben's attempt to build a closet stirs up family drama.</desc>
+    <credits>
+      <actor>John Goodman</actor>
+      <actor>Laurie Metcalf</actor>
+      <actor>Alicia Goranson</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
   </tv>
