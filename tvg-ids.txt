@@ -6,6 +6,7 @@ Canale5.it
 Italia1.it
 TVLourdes
 TV2000.it
+tv2000/sky-intrattenimento/241
 ABCNewsLive.us
 HGTVEast.us
 EEast.us
