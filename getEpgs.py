@@ -64,7 +64,7 @@ def filter_and_build_epg(urls):
 
 urls = [
 	'https://xmltv.tvkaista.net/guides/superguidatv.it.xml',
-	'https://xmltv.tvkaista.net/guides/tvpassport.com.xml',
+	'https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz',
 ]
 
 if __name__ == "__main__":
