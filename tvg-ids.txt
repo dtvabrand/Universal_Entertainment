@@ -6,9 +6,15 @@ Canale5.it
 Italia1.it
 TV2000.it
 ABC.NEWS.us
+ABC.(WABC).New.York,.NY.us
+NBC.(WNBC).New.York,.NY.us
+CBS.(WCBS).New.York,.NY.us
+BBC.One.EastHD.uk
+Destination.America.us
 HGTV.USA.-.Eastern.Feed.us
 E!.Entertainment.USA.-.Eastern.Feed.us
-CW.(WUCW).St..Paul,.MN.us
+National.Geographic.US.-.Eastern.us
+History.Channel.US.-.Eastern.Feed.us
 Boomerang.us
 Disney.-.Eastern.Feed.us
 Disney.XD.USA.-.Eastern.Feed.us
