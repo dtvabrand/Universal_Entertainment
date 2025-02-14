@@ -1,26 +1,26 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dtvabrand/Universal_Entertainment/refs/heads/main/epg.xml"
 
-#EXTINF:-1 tvg-name="Rai 1" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" tvg-id="Rai1.it",Rai 1
+#EXTINF:-1 tvg-name="Rai 1" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" tvg-id="Rai 1",Rai 1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-name="Rai 2" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-2-bobi5do2jjqa.png" tvg-id="Rai2.it",Rai 2 
+#EXTINF:-1 tvg-name="Rai 2" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-2-bobi5do2jjqa.png" tvg-id="Rai 2",Rai 2 
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-name="Rai 3" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-3-kwvj7ve82k1u.png" tvg-id="Rai3.it",Rai 3
+#EXTINF:-1 tvg-name="Rai 3" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-3-kwvj7ve82k1u.png" tvg-id="Rai 3",Rai 3
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-name="Rete 4" tvg-logo="https://api.superguidatv.it/v1/channels/189/logo?width=240" tvg-id="Rete.4.it",Rete 4
+#EXTINF:-1 tvg-name="Rete 4" tvg-logo="https://api.superguidatv.it/v1/channels/189/logo?width=240" tvg-id="Rete 4",Rete 4
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-name="Canale 5" tvg-logo="https://api.superguidatv.it/v1/channels/187/logo?width=240" tvg-id="Canale.5.it",Canale 5
+#EXTINF:-1 tvg-name="Canale 5" tvg-logo="https://api.superguidatv.it/v1/channels/187/logo?width=240" tvg-id="Canale 5",Canale 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-name="Italia 1" tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=240" tvg-id="Italia.1.it",Italia 1
+#EXTINF:-1 tvg-name="Italia 1" tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=240" tvg-id="Italia 1",Italia 1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 
 ##EXTINF:-1 tvg-name="TV Lourdes" tvg-logo="https://www.lourdes-france.org/wp-content/uploads/2022/02/logo-200x125px.png" tvg-id="TVLourdes",TV Lourdes
 
-#EXTINF:-1 tvg-name="TV 2000" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-id="TV2000.it",TV 2000
+#EXTINF:-1 tvg-name="TV 2000" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-id="TV 2000",TV 2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
 #EXTINF:-1 tvg-name="ABC News" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png" tvg-id="ABC.NEWS.us",ABC News
