@@ -16,7 +16,7 @@ def fetch_and_extract_xml(url):
         print(f"Failed to fetch {url}")
         return None
 
-    if url.endswith('.gz') or url.endswith('.gzip'):
+    if url.endswith('.gz') or url.endswith('gzip'):
         try:
             decompressed_data = gzip.decompress(response.content)
             return ET.fromstring(decompressed_data)
