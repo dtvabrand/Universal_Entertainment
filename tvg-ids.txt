@@ -5,11 +5,10 @@ Rete 4
 Canale 5
 Italia 1
 TV 2000
-9206
-399930 #ABCNewsLive.us
+399930 ##ABCNewsLive.us
 NBCNewsNOW.us
 CBSNews247.us
-403805 #ABC.(WABC).New.York,.NY.us
+403805 ##ABC.(WABC).New.York,.NY.us
 9206
 403953 #HGTV.USA.-.Eastern.Feed.us
 403733 #E!.Entertainment.USA.-.Eastern.Feed.us
