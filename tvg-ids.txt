@@ -7,8 +7,6 @@ Italia 1
 TV 2000
 ABCNewsLive.us
 ABC.(WABC).New.York,.NY.us
-NBCNewsNOW.us
-CBSNews247.us
 BBC.NEWS.HD.uk
 HGTV.USA.-.Eastern.Feed.us
 E!.Entertainment.USA.-.Eastern.Feed.us
