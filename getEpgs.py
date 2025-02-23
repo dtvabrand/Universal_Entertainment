@@ -60,13 +60,26 @@ def filter_and_build_epg(urls):
             tree.write(f, encoding='utf-8', xml_declaration=True)
         print(f"New EPG saved to {output_file_gz}")
 
-#m3u4u_epg = os.getenv("M3U4U_EPG")
+m3u4u_epg = os.getenv("M3U4U_EPG")
 
 urls = [
 	'http://www.epgitalia.tv/gzip',
 	'https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz',
 	'https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz',
 	'https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz',
+	'https://epg.pw/api/epg.xml?timezone=RXVyb3BlL1JvbWU%3D&channel_id=399930',
+	'https://epg.pw/api/epg.xml?timezone=RXVyb3BlL1JvbWU%3D&channel_id=403805',
+	'https://epg.pw/api/epg.xml?timezone=RXVyb3BlL1JvbWU%3D&channel_id=9206',
+	'https://epg.pw/api/epg.xml?timezone=RXVyb3BlL1JvbWU%3D&channel_id=9611',
+	'https://epg.pw/api/epg.xml?timezone=RXVyb3BlL1JvbWU%3D&channel_id=9459',
+	'https://epg.pw/api/epg.xml?timezone=RXVyb3BlL1JvbWU%3D&channel_id=9507',
+	'https://epg.pw/api/epg.xml?timezone=RXVyb3BlL1JvbWU%3D&channel_id=399930',
+	'https://epg.pw/api/epg.xml?timezone=RXVyb3BlL1JvbWU%3D&channel_id=403953',
+	'https://epg.pw/api/epg.xml?timezone=RXVyb3BlL1JvbWU%3D&channel_id=403733',	
+	'https://epg.pw/api/epg.xml?timezone=RXVyb3BlL1JvbWU%3D&channel_id=403576',
+	'https://epg.pw/api/epg.xml?timezone=RXVyb3BlL1JvbWU%3D&channel_id=403788',	
+	'https://epg.pw/api/epg.xml?timezone=RXVyb3BlL1JvbWU%3D&channel_id=403837',	
+	'https://epg.pw/api/epg.xml?timezone=RXVyb3BlL1JvbWU%3D&channel_id=403620',	
 ]
 
 if __name__ == "__main__":
