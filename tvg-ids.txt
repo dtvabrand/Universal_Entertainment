@@ -5,17 +5,17 @@ Rete 4
 Canale 5
 Italia 1
 TV 2000
-ABC.NEWS.us
-ABC.(WABC).New.York,.NY.us
-NBC.(WNBC).New.York,.NY.us
-CBS.(WCBS).New.York,.NY.us
-BBC.NEWS.HD.uk
-BBC.One.EastHD.uk
-BBC.Two.HD.uk
-BBC.Three.HD.uk
-HGTV.USA.-.Eastern.Feed.us
-E!.Entertainment.USA.-.Eastern.Feed.us
-Boomerang.us
-Disney.-.Eastern.Feed.us
-Disney.XD.USA.-.Eastern.Feed.us
-Nickelodeon.USA.-.East.Feed.us
+399930 #ABCNewsLive.us
+NBCNewsNOW.us
+CBSNews247.us
+403805 #ABC.(WABC).New.York,.NY.us
+9206 #BBC.NEWS.HD.uk
+9611 #BBC.One.EastHD.uk
+9459 #BBC.Two.HD.uk
+9507 #BBC.Three.HD.uk
+403953 #HGTV.USA.-.Eastern.Feed.us
+403733 #E!.Entertainment.USA.-.Eastern.Feed.us
+403576 #Boomerang.us
+403788 #Disney.-.Eastern.Feed.us
+403837 #Disney.XD.USA.-.Eastern.Feed.us
+403620 #Nickelodeon.USA.-.East.Feed.us
