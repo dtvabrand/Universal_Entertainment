@@ -5,32 +5,14 @@ Rete 4
 Canale 5
 Italia 1
 TV 2000
-
-##ABCNewsLive.us
-399930
-
-##NBCNewsNOW.us
-##CBSNews247.us
-##ABC.(WABC).New.York,.NY.us
-403805
-
-##BBC.NEWS.HD.uk
-9206
-
-##HGTV.USA.-.Eastern.Feed.us
-403953
-
-##E!.Entertainment.USA.-.Eastern.Feed.us
-403733
-
-##Boomerang.us
-403576
-
-##Disney.-.Eastern.Feed.us
-403788
-
-##Disney.XD.USA.-.Eastern.Feed.us
-403837
-
-##Nickelodeon.USA.-.East.Feed.us
-403620
+ABCNewsLive.us
+ABC.(WABC).New.York,.NY.us
+NBCNewsNOW.us
+CBSNews247.us
+BBC.NEWS.HD.uk
+HGTV.USA.-.Eastern.Feed.us
+E!.Entertainment.USA.-.Eastern.Feed.us
+Boomerang.us
+Disney.-.Eastern.Feed.us
+Disney.XD.USA.-.Eastern.Feed.us
+Nickelodeon.USA.-.East.Feed.us
