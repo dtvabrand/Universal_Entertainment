@@ -69,7 +69,7 @@ urls = [
 	'https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz',
 	'https://epg.pw/api/epg.xml?timezone=RXVyb3BlL1JvbWU%3D&channel_id=399930',
 	'https://epg.pw/api/epg.xml?timezone=RXVyb3BlL1JvbWU%3D&channel_id=403805',
-	'https://epg.pw/api/epg.xml?channel_id=9206',
+	'https://epg.pw/api/epg.xml?timezone=RXVyb3BlL1JvbWU%3D&channel_id=9206',
 	'https://epg.pw/api/epg.xml?timezone=RXVyb3BlL1JvbWU%3D&channel_id=399930',
 	'https://epg.pw/api/epg.xml?timezone=RXVyb3BlL1JvbWU%3D&channel_id=403953',
 	'https://epg.pw/api/epg.xml?timezone=RXVyb3BlL1JvbWU%3D&channel_id=403733',	
