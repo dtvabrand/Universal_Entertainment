@@ -9,7 +9,7 @@ TV 2000
 NBCNewsNOW.us
 CBSNews247.us
 403805 #ABC.(WABC).New.York,.NY.us
-9206 #BBC.NEWS.HD.uk
+9206
 403953 #HGTV.USA.-.Eastern.Feed.us
 403733 #E!.Entertainment.USA.-.Eastern.Feed.us
 403576 #Boomerang.us
