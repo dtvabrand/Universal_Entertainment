@@ -5,7 +5,7 @@ Rete 4
 Canale 5
 Italia 1
 TV 2000
-ABCNewsLive.us
+ABC.NEWS.us
 BBC.NEWS.HD.uk
 ABC.(WABC).New.York,.NY.us
 HGTV.USA.-.Eastern.Feed.us
