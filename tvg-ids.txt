@@ -6,8 +6,8 @@ Canale 5
 Italia 1
 TV 2000
 ABC.NEWS.us
-BBC.NEWS.HD.uk
 ABC.(WABC).New.York,.NY.us
+BBC.NEWS.HD.uk
 HGTV.USA.-.Eastern.Feed.us
 E!.Entertainment.USA.-.Eastern.Feed.us
 Boomerang.us
