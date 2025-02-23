@@ -4191,464 +4191,474 @@
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">BBC NEWS HD</display-name>
     <icon src="" />
   </channel>
-  <programme channel="9206" start="20250223000000 +0000" stop="20250223003000 +0000">
+  <programme channel="9206" start="20250223000000 +0200" stop="20250223003000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223003000 +0000" stop="20250223010000 +0000">
+  <programme channel="9206" start="20250223003000 +0200" stop="20250223010000 +0200">
+    <title lang="zh">Talking Business</title>
+    <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="9206" start="20250223010000 +0200" stop="20250223013000 +0200">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-02-23</date>
+  </programme>
+  <programme channel="9206" start="20250223013000 +0200" stop="20250223020000 +0200">
     <title lang="zh">Talking Movies</title>
     <desc>Talking Movies reports from the 75th edition of the Berlin International Film Festival, where veteran film-maker Todd Haynes will head the competition jury.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223010000 +0000" stop="20250223013000 +0000">
+  <programme channel="9206" start="20250223020000 +0200" stop="20250223023000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223013000 +0000" stop="20250223020000 +0000">
+  <programme channel="9206" start="20250223023000 +0200" stop="20250223030000 +0200">
     <title lang="zh">Unspun World with John Simpson</title>
     <desc>John Simpson, in discussion with the BBC's unparalleled range of experts across the world, analyses exactly what's at stake following talks between the US and Russia over the Ukraine war.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223020000 +0000" stop="20250223023000 +0000">
+  <programme channel="9206" start="20250223030000 +0200" stop="20250223033000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223023000 +0000" stop="20250223030000 +0000">
+  <programme channel="9206" start="20250223033000 +0200" stop="20250223040000 +0200">
     <title lang="zh">The Interview: Geraint Thomas</title>
     <desc>Cycling superstar Geraint Thomas talks about deciding to retire, his extraordinary achievements and life in elite sport.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223030000 +0000" stop="20250223033000 +0000">
+  <programme channel="9206" start="20250223040000 +0200" stop="20250223043000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223033000 +0000" stop="20250223040000 +0000">
+  <programme channel="9206" start="20250223043000 +0200" stop="20250223050000 +0200">
     <title lang="zh">Rebeca Andrade: BBC 100 Women in Conversation</title>
     <desc>BBC 100 Women meets Brazil's most decorated Olympian of all time, gymnast Rebeca Andrade.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223040000 +0000" stop="20250223043000 +0000">
+  <programme channel="9206" start="20250223050000 +0200" stop="20250223053000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223043000 +0000" stop="20250223050000 +0000">
+  <programme channel="9206" start="20250223053000 +0200" stop="20250223060000 +0200">
     <title lang="zh">Click</title>
     <desc>Click revisits tech stories from around the globe - from innovations being trialed in Australia to preserve coral reefs, to an underground vault in the Arctic designed to protect our data.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223050000 +0000" stop="20250223053000 +0000">
+  <programme channel="9206" start="20250223060000 +0200" stop="20250223063000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223053000 +0000" stop="20250223060000 +0000">
+  <programme channel="9206" start="20250223063000 +0200" stop="20250223070000 +0200">
     <title lang="zh">Talking Business</title>
     <desc>As Germany heads to the polls, what will it take to fix its troubled economy? The country is widely thought to be heading for a third consecutive year of its economy shrinking.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223060000 +0000" stop="20250223090000 +0000">
+  <programme channel="9206" start="20250223070000 +0200" stop="20250223100000 +0200">
     <title lang="zh">Breakfast</title>
     <desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223090000 +0000" stop="20250223100000 +0000">
+  <programme channel="9206" start="20250223100000 +0200" stop="20250223110000 +0200">
     <title lang="zh">Sunday with Laura Kuenssberg</title>
     <desc>Interviews with key politicians and public figures.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223100000 +0000" stop="20250223103000 +0000">
+  <programme channel="9206" start="20250223110000 +0200" stop="20250223113000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223103000 +0000" stop="20250223110000 +0000">
+  <programme channel="9206" start="20250223113000 +0200" stop="20250223120000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223110000 +0000" stop="20250223113000 +0000">
+  <programme channel="9206" start="20250223120000 +0200" stop="20250223123000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223113000 +0000" stop="20250223120000 +0000">
+  <programme channel="9206" start="20250223123000 +0200" stop="20250223130000 +0200">
     <title lang="zh">The President's Path</title>
     <desc>Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223120000 +0000" stop="20250223123000 +0000">
+  <programme channel="9206" start="20250223130000 +0200" stop="20250223133000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223123000 +0000" stop="20250223130000 +0000">
+  <programme channel="9206" start="20250223133000 +0200" stop="20250223140000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223130000 +0000" stop="20250223133000 +0000">
+  <programme channel="9206" start="20250223140000 +0200" stop="20250223143000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC including sport.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223133000 +0000" stop="20250223140000 +0000">
+  <programme channel="9206" start="20250223143000 +0200" stop="20250223150000 +0200">
     <title lang="zh">Click</title>
     <desc>Click revisits tech stories from around the globe - from innovations being trialed in Australia to preserve coral reefs, to an underground vault in the Arctic designed to protect our data.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223140000 +0000" stop="20250223143000 +0000">
+  <programme channel="9206" start="20250223150000 +0200" stop="20250223153000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC including sport.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223143000 +0000" stop="20250223150000 +0000">
+  <programme channel="9206" start="20250223153000 +0200" stop="20250223160000 +0200">
     <title lang="zh">Influential with Katty Kay</title>
     <desc>Brooke Shields tells Katty Kay about her journey from child star to resilient adult. They discuss the challenges of fame and what it's like to grow older in Hollywood.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223150000 +0000" stop="20250223153000 +0000">
+  <programme channel="9206" start="20250223160000 +0200" stop="20250223163000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC including sport.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223153000 +0000" stop="20250223160000 +0000">
+  <programme channel="9206" start="20250223163000 +0200" stop="20250223170000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223160000 +0000" stop="20250223163000 +0000">
+  <programme channel="9206" start="20250223170000 +0200" stop="20250223173000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223163000 +0000" stop="20250223170000 +0000">
+  <programme channel="9206" start="20250223173000 +0200" stop="20250223180000 +0200">
     <title lang="zh">Newscast</title>
     <desc>Lighthearted discussion of the week's political events.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223170000 +0000" stop="20250223180000 +0000">
+  <programme channel="9206" start="20250223180000 +0200" stop="20250223190000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223180000 +0000" stop="20250223183000 +0000">
+  <programme channel="9206" start="20250223190000 +0200" stop="20250223193000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223183000 +0000" stop="20250223190000 +0000">
+  <programme channel="9206" start="20250223193000 +0200" stop="20250223200000 +0200">
     <title lang="zh">Sportsday</title>
     <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223190000 +0000" stop="20250223193000 +0000">
+  <programme channel="9206" start="20250223200000 +0200" stop="20250223203000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223193000 +0000" stop="20250223200000 +0000">
+  <programme channel="9206" start="20250223203000 +0200" stop="20250223210000 +0200">
     <title lang="zh">Sportsday</title>
     <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223200000 +0000" stop="20250223203000 +0000">
+  <programme channel="9206" start="20250223210000 +0200" stop="20250223213000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223203000 +0000" stop="20250223210000 +0000">
+  <programme channel="9206" start="20250223213000 +0200" stop="20250223220000 +0200">
     <title lang="zh">The President's Path</title>
     <desc>Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223210000 +0000" stop="20250223220000 +0000">
+  <programme channel="9206" start="20250223220000 +0200" stop="20250223230000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223220000 +0000" stop="20250223223000 +0000">
+  <programme channel="9206" start="20250223230000 +0200" stop="20250223233000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223223000 +0000" stop="20250223230000 +0000">
+  <programme channel="9206" start="20250223233000 +0200" stop="20250224000000 +0200">
     <title lang="zh">Newscast</title>
     <desc>Lighthearted discussion of the week's political events.</desc>
     <date>2025-02-23</date>
   </programme>
-  <programme channel="9206" start="20250223230000 +0000" stop="20250223233000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="9206" start="20250223233000 +0000" stop="20250224000000 +0000">
-    <title lang="zh">Influential with Katty Kay</title>
-    <desc>Brooke Shields tells Katty Kay about her journey from child star to resilient adult. They discuss the challenges of fame and what it's like to grow older in Hollywood.</desc>
-    <date>2025-02-23</date>
-  </programme>
-  <programme channel="9206" start="20250224000000 +0000" stop="20250224003000 +0000">
+  <programme channel="9206" start="20250224000000 +0200" stop="20250224003000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224003000 +0000" stop="20250224010000 +0000">
+  <programme channel="9206" start="20250224003000 +0200" stop="20250224010000 +0200">
+    <title lang="zh">Influential with Katty Kay</title>
+    <desc>Brooke Shields tells Katty Kay about her journey from child star to resilient adult. They discuss the challenges of fame and what it's like to grow older in Hollywood.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="9206" start="20250224010000 +0200" stop="20250224013000 +0200">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-02-24</date>
+  </programme>
+  <programme channel="9206" start="20250224013000 +0200" stop="20250224020000 +0200">
     <title lang="zh">HARDtalk</title>
     <desc>Stephen Sackur speaks to one of India's most influential media voices, N. Ram, director of The Hindu publishing group. Is freedom of expression under threat in the world's biggest democracy.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224010000 +0000" stop="20250224013000 +0000">
+  <programme channel="9206" start="20250224020000 +0200" stop="20250224023000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224013000 +0000" stop="20250224020000 +0000">
+  <programme channel="9206" start="20250224023000 +0200" stop="20250224030000 +0200">
     <title lang="zh">Unspun World with John Simpson</title>
     <desc>John Simpson, in discussion with the BBC's unparalleled range of experts across the world, analyses exactly what's at stake following talks between the US and Russia over the Ukraine war.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224020000 +0000" stop="20250224023000 +0000">
+  <programme channel="9206" start="20250224030000 +0200" stop="20250224033000 +0200">
     <title lang="zh">Newsday</title>
     <desc>Live from Singapore, the latest international news from the BBC.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224023000 +0000" stop="20250224024500 +0000">
+  <programme channel="9206" start="20250224033000 +0200" stop="20250224034500 +0200">
     <title lang="zh">Business Today</title>
     <desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224024500 +0000" stop="20250224030000 +0000">
+  <programme channel="9206" start="20250224034500 +0200" stop="20250224040000 +0200">
     <title lang="zh">Sportsday</title>
     <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224030000 +0000" stop="20250224033000 +0000">
+  <programme channel="9206" start="20250224040000 +0200" stop="20250224043000 +0200">
     <title lang="zh">Newsday</title>
     <desc>Live from Singapore, the latest international news from the BBC.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224033000 +0000" stop="20250224034500 +0000">
+  <programme channel="9206" start="20250224043000 +0200" stop="20250224044500 +0200">
     <title lang="zh">Business Today</title>
     <desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224034500 +0000" stop="20250224040000 +0000">
+  <programme channel="9206" start="20250224044500 +0200" stop="20250224050000 +0200">
     <title lang="zh">Sportsday</title>
     <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224040000 +0000" stop="20250224043000 +0000">
+  <programme channel="9206" start="20250224050000 +0200" stop="20250224053000 +0200">
     <title lang="zh">Newsday</title>
     <desc>Live from Singapore, the latest international news from the BBC.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224043000 +0000" stop="20250224044500 +0000">
+  <programme channel="9206" start="20250224053000 +0200" stop="20250224054500 +0200">
     <title lang="zh">Business Today</title>
     <desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224044500 +0000" stop="20250224050000 +0000">
+  <programme channel="9206" start="20250224054500 +0200" stop="20250224060000 +0200">
     <title lang="zh">Sportsday</title>
     <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224050000 +0000" stop="20250224053000 +0000">
+  <programme channel="9206" start="20250224060000 +0200" stop="20250224063000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224053000 +0000" stop="20250224060000 +0000">
+  <programme channel="9206" start="20250224063000 +0200" stop="20250224070000 +0200">
     <title lang="zh">Business Today</title>
     <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224060000 +0000" stop="20250224063000 +0000">
+  <programme channel="9206" start="20250224070000 +0200" stop="20250224073000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224063000 +0000" stop="20250224070000 +0000">
+  <programme channel="9206" start="20250224073000 +0200" stop="20250224080000 +0200">
     <title lang="zh">Business Today</title>
     <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224070000 +0000" stop="20250224073000 +0000">
+  <programme channel="9206" start="20250224080000 +0200" stop="20250224083000 +0200">
     <title lang="zh">Signed: BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224073000 +0000" stop="20250224080000 +0000">
+  <programme channel="9206" start="20250224083000 +0200" stop="20250224090000 +0200">
     <title lang="zh">Business Today</title>
     <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224080000 +0000" stop="20250224083000 +0000">
+  <programme channel="9206" start="20250224090000 +0200" stop="20250224093000 +0200">
     <title lang="zh">Signed: BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224083000 +0000" stop="20250224090000 +0000">
+  <programme channel="9206" start="20250224093000 +0200" stop="20250224100000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224090000 +0000" stop="20250224093000 +0000">
+  <programme channel="9206" start="20250224100000 +0200" stop="20250224103000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224093000 +0000" stop="20250224100000 +0000">
+  <programme channel="9206" start="20250224103000 +0200" stop="20250224110000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224100000 +0000" stop="20250224103000 +0000">
+  <programme channel="9206" start="20250224110000 +0200" stop="20250224113000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224103000 +0000" stop="20250224110000 +0000">
+  <programme channel="9206" start="20250224113000 +0200" stop="20250224120000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224110000 +0000" stop="20250224113000 +0000">
+  <programme channel="9206" start="20250224120000 +0200" stop="20250224123000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224113000 +0000" stop="20250224114500 +0000">
+  <programme channel="9206" start="20250224123000 +0200" stop="20250224124500 +0200">
     <title lang="zh">Business Today</title>
     <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224114500 +0000" stop="20250224120000 +0000">
+  <programme channel="9206" start="20250224124500 +0200" stop="20250224130000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224120000 +0000" stop="20250224123000 +0000">
+  <programme channel="9206" start="20250224130000 +0200" stop="20250224133000 +0200">
     <title lang="zh">BBC News Now</title>
     <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224123000 +0000" stop="20250224130000 +0000">
+  <programme channel="9206" start="20250224133000 +0200" stop="20250224140000 +0200">
     <title lang="zh">BBC News Now</title>
     <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224130000 +0000" stop="20250224140000 +0000">
+  <programme channel="9206" start="20250224140000 +0200" stop="20250224150000 +0200">
     <title lang="zh">Signed: BBC News at One</title>
     <desc>The latest national and international news from the BBC.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224140000 +0000" stop="20250224143000 +0000">
+  <programme channel="9206" start="20250224150000 +0200" stop="20250224153000 +0200">
     <title lang="zh">BBC News Now</title>
     <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224143000 +0000" stop="20250224144500 +0000">
+  <programme channel="9206" start="20250224153000 +0200" stop="20250224154500 +0200">
     <title lang="zh">Business Today - NYSE Opening Bell</title>
     <desc>Bringing the latest business news and up-to-date informed analysis from New York and around the world.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224144500 +0000" stop="20250224150000 +0000">
+  <programme channel="9206" start="20250224154500 +0200" stop="20250224160000 +0200">
     <title lang="zh">BBC News Now</title>
     <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224150000 +0000" stop="20250224153000 +0000">
+  <programme channel="9206" start="20250224160000 +0200" stop="20250224163000 +0200">
     <title lang="zh">Verified Live</title>
     <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224153000 +0000" stop="20250224160000 +0000">
+  <programme channel="9206" start="20250224163000 +0200" stop="20250224170000 +0200">
     <title lang="zh">Verified Live</title>
     <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224160000 +0000" stop="20250224163000 +0000">
+  <programme channel="9206" start="20250224170000 +0200" stop="20250224173000 +0200">
     <title lang="zh">Verified Live</title>
     <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224163000 +0000" stop="20250224164500 +0000">
+  <programme channel="9206" start="20250224173000 +0200" stop="20250224174500 +0200">
     <title lang="zh">Business Today</title>
     <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224164500 +0000" stop="20250224170000 +0000">
+  <programme channel="9206" start="20250224174500 +0200" stop="20250224180000 +0200">
     <title lang="zh">Verified Live</title>
     <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224170000 +0000" stop="20250224173000 +0000">
+  <programme channel="9206" start="20250224180000 +0200" stop="20250224183000 +0200">
     <title lang="zh">Verified Live</title>
     <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224173000 +0000" stop="20250224180000 +0000">
+  <programme channel="9206" start="20250224183000 +0200" stop="20250224190000 +0200">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224180000 +0000" stop="20250224183000 +0000">
+  <programme channel="9206" start="20250224190000 +0200" stop="20250224193000 +0200">
     <title lang="zh">BBC News at Six</title>
     <desc>The latest national and international news from the BBC.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224183000 +0000" stop="20250224190000 +0000">
+  <programme channel="9206" start="20250224193000 +0200" stop="20250224200000 +0200">
     <title lang="zh">Sportsday</title>
     <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224190000 +0000" stop="20250224193000 +0000">
+  <programme channel="9206" start="20250224200000 +0200" stop="20250224203000 +0200">
     <title lang="zh">The World Today with Maryam Moshiri</title>
     <desc>Watch the best of the BBC's journalism from around the world.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224193000 +0000" stop="20250224200000 +0000">
+  <programme channel="9206" start="20250224203000 +0200" stop="20250224210000 +0200">
     <title lang="zh">The World Today with Maryam Moshiri</title>
     <desc>Watch the best of the BBC's journalism from around the world.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224200000 +0000" stop="20250224203000 +0000">
+  <programme channel="9206" start="20250224210000 +0200" stop="20250224213000 +0200">
     <title lang="zh">The Context with Christian Fraser</title>
     <desc>Presented by Christian Fraser. A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224203000 +0000" stop="20250224210000 +0000">
+  <programme channel="9206" start="20250224213000 +0200" stop="20250224220000 +0200">
     <title lang="zh">The Context with Christian Fraser</title>
     <desc>Presented by Christian Fraser. A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224210000 +0000" stop="20250224213000 +0000">
+  <programme channel="9206" start="20250224220000 +0200" stop="20250224223000 +0200">
     <title lang="zh">The Context with Christian Fraser</title>
     <desc>Presented by Christian Fraser. A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224213000 +0000" stop="20250224220000 +0000">
+  <programme channel="9206" start="20250224223000 +0200" stop="20250224230000 +0200">
     <title lang="zh">The Context with Christian Fraser</title>
     <desc>Presented by Christian Fraser. A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224220000 +0000" stop="20250224223000 +0000">
+  <programme channel="9206" start="20250224230000 +0200" stop="20250224233000 +0200">
     <title lang="zh">BBC News at Ten</title>
     <desc>The latest national and international news, with reports from BBC correspondents worldwide.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224223000 +0000" stop="20250224230000 +0000">
+  <programme channel="9206" start="20250224233000 +0200" stop="20250225000000 +0200">
     <title lang="zh">Newsnight</title>
     <desc>The day's important national and international news stories. With Victoria Derbyshire.</desc>
     <date>2025-02-24</date>
   </programme>
-  <programme channel="9206" start="20250224230000 +0000" stop="20250225000000 +0000">
+  <programme channel="9206" start="20250225000000 +0200" stop="20250226000000 +0200">
     <title lang="zh">BBC World News America</title>
     <desc>In-depth reports on the major US, UK and international news of the day presented from Washington DC.</desc>
-    <date>2025-02-24</date>
+    <date>2025-02-25</date>
   </programme>
 </tv>
