@@ -4193,6 +4193,12 @@
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">ABC (WABC) New York, NY</display-name>
   </channel>
+  <channel id="ABC.NEWS.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s113380_h15_ab.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s113380_h15_ab.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">ABC NEWS</display-name>
+  </channel>
   <channel id="HGTV.USA.-.Eastern.Feed.us">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s14902_h15_ab.png" />
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s14902_h15_ab.png" />
@@ -4229,6 +4235,616 @@
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">Disney - Eastern Feed</display-name>
   </channel>
+  <programme channel="ABC.NEWS.us" start="20250222003000 -0500" stop="20250222010000 -0500">
+    <title lang="en">Live: ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10880351_b_v12_ah.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250222010000 -0500" stop="20250222020000 -0500">
+    <title lang="en">Live: ABCNL Prime With Linsey Davis</title>
+    <desc lang="en">Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17913428_b_s4_ab.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250222020000 -0500" stop="20250222030000 -0500">
+    <title lang="en">Live: ABCNL Prime With Linsey Davis</title>
+    <desc lang="en">Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17913428_b_s4_ab.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250222030000 -0500" stop="20250222050000 -0500">
+    <title lang="en">Live: 20/20</title>
+    <desc lang="en">Award-winning program featuring unforgettable, character-driven true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories.</desc>
+    <category lang="en">News Magazine</category>
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250222050000 -0500" stop="20250222050000 -0500">
+    <title lang="en">Live: 20/20</title>
+    <desc lang="en">Award-winning program featuring unforgettable, character-driven true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories.</desc>
+    <category lang="en">News Magazine</category>
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250222050000 -0500" stop="20250222070000 -0500">
+    <title lang="en">Live: 20/20</title>
+    <desc lang="en">Award-winning program featuring unforgettable, character-driven true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories.</desc>
+    <category lang="en">News Magazine</category>
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250222070000 -0500" stop="20250222073000 -0500">
+    <title lang="en">Live: ABC News Live Weekend</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24080541_b_v8_ad.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250222073000 -0500" stop="20250222080000 -0500">
+    <title lang="en">Live: The Weekend View</title>
+    <category lang="en">Talk Shows</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29165182_b_h8_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250222080000 -0500" stop="20250222083000 -0500">
+    <title lang="en">Live: ABC News Live Weekend</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24080541_b_v8_ad.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250222083000 -0500" stop="20250222090000 -0500">
+    <title lang="en">Live: GMA Life</title>
+    <desc lang="en">A weekly roundup of the best lifestyle content from "Good Morning America"; includes exclusive celebrity content, savings from "Deals &amp; Steals," and interviews with authors behind some of the most anticipated books.</desc>
+    <category lang="en">Performing Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24038053_b_v12_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250222090000 -0500" stop="20250222093000 -0500">
+    <title lang="en">Live: Good Morning America - Top Stories</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17976375_b_s4_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250222093000 -0500" stop="20250222100000 -0500">
+    <title lang="en">Live: The Weekend View</title>
+    <category lang="en">Talk Shows</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29165182_b_h8_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250222100000 -0500" stop="20250222103000 -0500">
+    <title lang="en">Live: ABC News Live Weekends</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28522722_b_h10_ac.jpg" />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250222103000 -0500" stop="20250222110000 -0500">
+    <title lang="en">Live: ABC News Live Weekend</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24080541_b_v8_ad.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250222110000 -0500" stop="20250222113000 -0500">
+    <title lang="en">ABC News Live Weekends</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28522722_b_h10_ac.jpg" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250222113000 -0500" stop="20250222120000 -0500">
+    <title lang="en">Live: GMA Life</title>
+    <desc lang="en">A weekly roundup of the best lifestyle content from "Good Morning America"; includes exclusive celebrity content, savings from "Deals &amp; Steals," and interviews with authors behind some of the most anticipated books.</desc>
+    <category lang="en">Performing Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24038053_b_v12_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250222120000 -0500" stop="20250222123000 -0500">
+    <title lang="en">Live: ABC News Live Weekends</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28522722_b_h10_ac.jpg" />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250222123000 -0500" stop="20250222130000 -0500">
+    <title lang="en">Live: ABC News Live Weekend</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24080541_b_v8_ad.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250222130000 -0500" stop="20250222133000 -0500">
+    <title lang="en">Live: ABC News Live Weekend: Saturday</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28170644_b_h8_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250222133000 -0500" stop="20250222140000 -0500">
+    <title lang="en">Live: GMA Life</title>
+    <desc lang="en">A weekly roundup of the best lifestyle content from "Good Morning America"; includes exclusive celebrity content, savings from "Deals &amp; Steals," and interviews with authors behind some of the most anticipated books.</desc>
+    <category lang="en">Performing Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24038053_b_v12_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250222140000 -0500" stop="20250222150000 -0500">
+    <title lang="en">Live: What Would You Do?</title>
+    <desc lang="en">Cameras capture people's reactions to dilemmas.</desc>
+    <category lang="en">News Magazine</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p185988_b_s4_ad.jpg" />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250222150000 -0500" stop="20250222160000 -0500">
+    <title lang="en">Live: What Would You Do?</title>
+    <desc lang="en">Cameras capture people's reactions to dilemmas.</desc>
+    <category lang="en">News Magazine</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p185988_b_s4_ad.jpg" />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250222160000 -0500" stop="20250222163000 -0500">
+    <title lang="en">Live: ABC News Live Weekend: Saturday</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28170644_b_h8_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250222163000 -0500" stop="20250222170000 -0500">
+    <title lang="en">Storytellers Spotlight: Dear Captain America</title>
+    <category lang="en">Specials</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29486380_st_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="ABC.NEWS.us" start="20250222170000 -0500" stop="20250222173000 -0500">
+    <title lang="en">Live: ABC News Live Weekend: Saturday</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28170644_b_h8_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250222173000 -0500" stop="20250222180000 -0500">
+    <title lang="en">America's Care Crisis</title>
+    <desc lang="en">ABC News Live Special Programming.</desc>
+    <category lang="en">Specials</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29397413_i_h8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="ABC.NEWS.us" start="20250222180000 -0500" stop="20250222200000 -0500">
+    <title lang="en">Live: 20/20</title>
+    <desc lang="en">Award-winning program featuring unforgettable, character-driven true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories.</desc>
+    <category lang="en">News Magazine</category>
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250222200000 -0500" stop="20250222220000 -0500">
+    <title lang="en">Live: 20/20</title>
+    <desc lang="en">Award-winning program featuring unforgettable, character-driven true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories.</desc>
+    <category lang="en">News Magazine</category>
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250222220000 -0500" stop="20250222230000 -0500">
+    <title lang="en">Life Interrupted: Isabella Strahan's Fight Against Cancer</title>
+    <desc lang="en">Isabella Strahan and her family discuss her diagnosis and treatment for medulloblastoma, as well as her recovery and return to college.</desc>
+    <category lang="en">Specials</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29298552_i_s4_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="ABC.NEWS.us" start="20250222230000 -0500" stop="20250222233000 -0500">
+    <title lang="en">Live: ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10880351_b_v12_ah.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250222233000 -0500" stop="20250223000000 -0500">
+    <title lang="en">Live: ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10880351_b_v12_ah.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250223000000 -0500" stop="20250223010000 -0500">
+    <title lang="en">Live: What Would You Do?</title>
+    <desc lang="en">Cameras capture people's reactions to dilemmas.</desc>
+    <category lang="en">News Magazine</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p185988_b_s4_ad.jpg" />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250223010000 -0500" stop="20250223030000 -0500">
+    <title lang="en">Live: 20/20</title>
+    <desc lang="en">Award-winning program featuring unforgettable, character-driven true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories.</desc>
+    <category lang="en">News Magazine</category>
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250223030000 -0500" stop="20250223040000 -0500">
+    <title lang="en">Live: What Would You Do?</title>
+    <desc lang="en">Cameras capture people's reactions to dilemmas.</desc>
+    <category lang="en">News Magazine</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p185988_b_s4_ad.jpg" />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250223040000 -0500" stop="20250223060000 -0500">
+    <title lang="en">Live: 20/20</title>
+    <desc lang="en">Award-winning program featuring unforgettable, character-driven true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories.</desc>
+    <category lang="en">News Magazine</category>
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250223060000 -0500" stop="20250223063000 -0500">
+    <title lang="en">Storytellers Spotlight: Dear Captain America</title>
+    <category lang="en">Specials</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29486380_st_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="ABC.NEWS.us" start="20250223063000 -0500" stop="20250223070000 -0500">
+    <title lang="en">Live: GMA Life</title>
+    <desc lang="en">A weekly roundup of the best lifestyle content from "Good Morning America"; includes exclusive celebrity content, savings from "Deals &amp; Steals," and interviews with authors behind some of the most anticipated books.</desc>
+    <category lang="en">Performing Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24038053_b_v12_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250223070000 -0500" stop="20250223073000 -0500">
+    <title lang="en">Live: ABC News Live Weekend</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24080541_b_v8_ad.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250223073000 -0500" stop="20250223080000 -0500">
+    <title lang="en">Live: The Weekend View</title>
+    <category lang="en">Talk Shows</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29165182_b_h8_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250223080000 -0500" stop="20250223083000 -0500">
+    <title lang="en">Live: ABC News Live Weekend</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24080541_b_v8_ad.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250223083000 -0500" stop="20250223090000 -0500">
+    <title lang="en">GMA Life</title>
+    <desc lang="en">A weekly roundup of the best lifestyle content from "Good Morning America"; includes exclusive celebrity content, savings from "Deals &amp; Steals," and interviews with authors behind some of the most anticipated books.</desc>
+    <category lang="en">Performing Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24038053_b_v12_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="ABC.NEWS.us" start="20250223090000 -0500" stop="20250223093000 -0500">
+    <title lang="en">Live: Good Morning America - Top Stories</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17976375_b_s4_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250223093000 -0500" stop="20250223100000 -0500">
+    <title lang="en">Live: The Weekend View</title>
+    <category lang="en">Talk Shows</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29165182_b_h8_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250223100000 -0500" stop="20250223103000 -0500">
+    <title lang="en">Live: ABC News Live Weekends</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28522722_b_h10_ac.jpg" />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250223103000 -0500" stop="20250223110000 -0500">
+    <title lang="en">Live: ABC News Live Weekend</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24080541_b_v8_ad.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250223110000 -0500" stop="20250223113000 -0500">
+    <title lang="en">ABC News Live Weekends</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28522722_b_h10_ac.jpg" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250223113000 -0500" stop="20250223120000 -0500">
+    <title lang="en">Live: GMA Life</title>
+    <desc lang="en">A weekly roundup of the best lifestyle content from "Good Morning America"; includes exclusive celebrity content, savings from "Deals &amp; Steals," and interviews with authors behind some of the most anticipated books.</desc>
+    <category lang="en">Performing Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24038053_b_v12_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250223120000 -0500" stop="20250223130000 -0500">
+    <title lang="en">Live: This Week With George Stephanopoulos</title>
+    <desc lang="en">Anchor George Stephanopoulos and co-anchors Martha Raddatz and Jonathan Karl interview top newsmakers and officials, with reporting from across the country and roundtable debates over the hottest political issues.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p185302_b_v12_af.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250223130000 -0500" stop="20250223133000 -0500">
+    <title lang="en">Live: ABC News Live Weekend: Sunday</title>
+    <category lang="en">Regular</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28170665_i_h10_ab.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250223133000 -0500" stop="20250223140000 -0500">
+    <title lang="en">Live: GMA Life</title>
+    <desc lang="en">A weekly roundup of the best lifestyle content from "Good Morning America"; includes exclusive celebrity content, savings from "Deals &amp; Steals," and interviews with authors behind some of the most anticipated books.</desc>
+    <category lang="en">Performing Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24038053_b_v12_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250223140000 -0500" stop="20250223150000 -0500">
+    <title lang="en">Live: This Week With George Stephanopoulos</title>
+    <desc lang="en">Anchor George Stephanopoulos and co-anchors Martha Raddatz and Jonathan Karl interview top newsmakers and officials, with reporting from across the country and roundtable debates over the hottest political issues.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p185302_b_v12_af.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250223150000 -0500" stop="20250223153000 -0500">
+    <title lang="en">Live: ABC News Live Weekend: Sunday</title>
+    <category lang="en">Regular</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28170665_i_h10_ab.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250223153000 -0500" stop="20250223160000 -0500">
+    <title lang="en">Live: ABC News Live Weekend</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24080541_b_v8_ad.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250223160000 -0500" stop="20250223170000 -0500">
+    <title lang="en">Life Interrupted: Isabella Strahan's Fight Against Cancer</title>
+    <desc lang="en">Isabella Strahan and her family discuss her diagnosis and treatment for medulloblastoma, as well as her recovery and return to college.</desc>
+    <category lang="en">Specials</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29298552_i_s4_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="ABC.NEWS.us" start="20250223170000 -0500" stop="20250223173000 -0500">
+    <title lang="en">Live: ABC News Live Weekend: Sunday</title>
+    <category lang="en">Regular</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28170665_i_h10_ab.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250223173000 -0500" stop="20250223180000 -0500">
+    <title lang="en">America's Care Crisis</title>
+    <desc lang="en">ABC News Live Special Programming.</desc>
+    <category lang="en">Specials</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29397413_i_h8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="ABC.NEWS.us" start="20250223180000 -0500" stop="20250223200000 -0500">
+    <title lang="en">Live: 20/20</title>
+    <desc lang="en">Award-winning program featuring unforgettable, character-driven true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories.</desc>
+    <category lang="en">News Magazine</category>
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250223200000 -0500" stop="20250223220000 -0500">
+    <title lang="en">Live: 20/20</title>
+    <desc lang="en">Award-winning program featuring unforgettable, character-driven true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories.</desc>
+    <category lang="en">News Magazine</category>
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250223220000 -0500" stop="20250223230000 -0500">
+    <title lang="en">Life Interrupted: Isabella Strahan's Fight Against Cancer</title>
+    <desc lang="en">Isabella Strahan and her family discuss her diagnosis and treatment for medulloblastoma, as well as her recovery and return to college.</desc>
+    <category lang="en">Specials</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29298552_i_s4_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="ABC.NEWS.us" start="20250223230000 -0500" stop="20250223233000 -0500">
+    <title lang="en">Live: ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10880351_b_v12_ah.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250223233000 -0500" stop="20250224000000 -0500">
+    <title lang="en">Live: ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10880351_b_v12_ah.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224000000 -0500" stop="20250224020000 -0500">
+    <title lang="en">20/20</title>
+    <desc lang="en">Award-winning program featuring unforgettable, character-driven true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories.</desc>
+    <category lang="en">News Magazine</category>
+    <previously-shown /></programme>
+  <programme channel="ABC.NEWS.us" start="20250224020000 -0500" stop="20250224023000 -0500">
+    <title lang="en">Live: ABC World News Now</title>
+    <desc lang="en">Global news.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184051_i_h10_ac.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224023000 -0500" stop="20250224030000 -0500">
+    <title lang="en">Live: ABC World News Now</title>
+    <desc lang="en">Global news.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184051_i_h10_ac.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224030000 -0500" stop="20250224033000 -0500">
+    <title lang="en">Live: ABC World News Now</title>
+    <desc lang="en">Global news.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184051_i_h10_ac.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224033000 -0500" stop="20250224040000 -0500">
+    <title lang="en">Live: ABC World News Now</title>
+    <desc lang="en">Global news.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184051_i_h10_ac.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224040000 -0500" stop="20250224043000 -0500">
+    <title lang="en">Live: Good Morning America First Look</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28311369_b_h8_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224043000 -0500" stop="20250224050000 -0500">
+    <title lang="en">Live: Good Morning America First Look</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28311369_b_h8_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224050000 -0500" stop="20250224053000 -0500">
+    <title lang="en">Live: Good Morning America First Look</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28311369_b_h8_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224053000 -0500" stop="20250224060000 -0500">
+    <title lang="en">Live: Good Morning America First Look</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28311369_b_h8_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224060000 -0500" stop="20250224063000 -0500">
+    <title lang="en">Live: Good Morning America First Look</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28311369_b_h8_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224063000 -0500" stop="20250224070000 -0500">
+    <title lang="en">Live: Good Morning America First Look</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28311369_b_h8_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224070000 -0500" stop="20250224073000 -0500">
+    <title lang="en">Live: Good Morning America First Look</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28311369_b_h8_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224073000 -0500" stop="20250224080000 -0500">
+    <title lang="en">Live: Start Here</title>
+    <desc lang="en">Hosted by Brad Mielke, the video version of ABC News' daily podcast dives straight to the heart of the stories that are driving national conversations.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17976401_i_s4_ab.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224080000 -0500" stop="20250224083000 -0500">
+    <title lang="en">Live: Good Morning America First Look</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28311369_b_h8_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224083000 -0500" stop="20250224090000 -0500">
+    <title lang="en">Start Here</title>
+    <desc lang="en">Hosted by Brad Mielke, the video version of ABC News' daily podcast dives straight to the heart of the stories that are driving national conversations.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17976401_i_s4_ab.jpg" />
+    <previously-shown /></programme>
+  <programme channel="ABC.NEWS.us" start="20250224090000 -0500" stop="20250224103000 -0500">
+    <title lang="en">Live: ABC News Live First</title>
+    <desc lang="en">The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22802102_b_s2_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224103000 -0500" stop="20250224110000 -0500">
+    <title lang="en">ABC News Live First</title>
+    <desc lang="en">The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22802102_b_s2_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="ABC.NEWS.us" start="20250224110000 -0500" stop="20250224113000 -0500">
+    <title lang="en">Live: ABC News Live First</title>
+    <desc lang="en">The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22802102_b_s2_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224113000 -0500" stop="20250224120000 -0500">
+    <title lang="en">Live: ABC News Live First</title>
+    <desc lang="en">The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22802102_b_s2_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224120000 -0500" stop="20250224123000 -0500">
+    <title lang="en">Live: ABC News Live First</title>
+    <desc lang="en">The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22802102_b_s2_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224123000 -0500" stop="20250224130000 -0500">
+    <title lang="en">Live: ABC News Live First</title>
+    <desc lang="en">The latest headlines, compelling stories, interviews and roundtable discussions.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22802102_b_s2_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224130000 -0500" stop="20250224133000 -0500">
+    <title lang="en">Live: ABC News Live</title>
+    <desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17780660_i_s4_ad.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224133000 -0500" stop="20250224140000 -0500">
+    <title lang="en">Live: ABC News Live</title>
+    <desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17780660_i_s4_ad.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224140000 -0500" stop="20250224143000 -0500">
+    <title lang="en">Live: ABC News Live</title>
+    <desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17780660_i_s4_ad.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224143000 -0500" stop="20250224150000 -0500">
+    <title lang="en">Live: ABC News Live</title>
+    <desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17780660_i_s4_ad.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224150000 -0500" stop="20250224153000 -0500">
+    <title lang="en">Live: ABC News Live</title>
+    <desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17780660_i_s4_ad.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224153000 -0500" stop="20250224160000 -0500">
+    <title lang="en">Live: ABC News Live</title>
+    <desc lang="en">Breaking news, top stories, live interviews, press conferences and the best video from around the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17780660_i_s4_ad.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224160000 -0500" stop="20250224190000 -0500">
+    <title lang="en">Live: ABC News Live Reports</title>
+    <category lang="en">Regular</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25571720_b_h8_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224190000 -0500" stop="20250224203000 -0500">
+    <title lang="en">Live: ABCNL Prime With Linsey Davis</title>
+    <desc lang="en">Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17913428_b_s4_ab.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224203000 -0500" stop="20250224210000 -0500">
+    <title lang="en">Live: Nightline</title>
+    <desc lang="en">In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184465_b_v12_ag.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224210000 -0500" stop="20250224220000 -0500">
+    <title lang="en">Live: ABCNL Prime With Linsey Davis</title>
+    <desc lang="en">Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17913428_b_s4_ab.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224220000 -0500" stop="20250224223000 -0500">
+    <title lang="en">Live: ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10880351_b_v12_ah.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250224223000 -0500" stop="20250224230000 -0500">
+    <title lang="en">ABCNL Prime With Linsey Davis</title>
+    <desc lang="en">Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17913428_b_s4_ab.jpg" />
+    <previously-shown /></programme>
+  <programme channel="ABC.NEWS.us" start="20250224230000 -0500" stop="20250225003000 -0500">
+    <title lang="en">Live: ABCNL Prime With Linsey Davis</title>
+    <desc lang="en">Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17913428_b_s4_ab.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250225003000 -0500" stop="20250225010000 -0500">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10880351_b_v12_ah.jpg" />
+    <previously-shown /></programme>
+  <programme channel="ABC.NEWS.us" start="20250225010000 -0500" stop="20250225020000 -0500">
+    <title lang="en">Live: ABCNL Prime With Linsey Davis</title>
+    <desc lang="en">Providing prime-time context and analysis of the day's top stories, as well as in-depth reporting and storytelling from around the country and the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17913428_b_s4_ab.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250225020000 -0500" stop="20250225023000 -0500">
+    <title lang="en">Live: ABC World News Now</title>
+    <desc lang="en">Global news.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184051_i_h10_ac.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250225023000 -0500" stop="20250225030000 -0500">
+    <title lang="en">Live: ABC World News Now</title>
+    <desc lang="en">Global news.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184051_i_h10_ac.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250225030000 -0500" stop="20250225033000 -0500">
+    <title lang="en">Live: ABC World News Now</title>
+    <desc lang="en">Global news.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184051_i_h10_ac.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250225033000 -0500" stop="20250225040000 -0500">
+    <title lang="en">Live: ABC World News Now</title>
+    <desc lang="en">Global news.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184051_i_h10_ac.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250225040000 -0500" stop="20250225043000 -0500">
+    <title lang="en">Live: Good Morning America First Look</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28311369_b_h8_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250225043000 -0500" stop="20250225050000 -0500">
+    <title lang="en">Live: Good Morning America First Look</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28311369_b_h8_aa.jpg" />
+  </programme>
+  <programme channel="ABC.NEWS.us" start="20250225050000 -0500" stop="20250225053000 -0500">
+    <title lang="en">Live: Good Morning America First Look</title>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28311369_b_h8_aa.jpg" />
+  </programme>
   <programme channel="HGTV.USA.-.Eastern.Feed.us" start="20250222060000 -0500" stop="20250222063000 -0500">
     <title lang="en">Shark CarpetXpertTM with StainStrikerTM 2-in-1 deep carpet cleaner with built-in spot &amp; stain remove</title>
     <desc lang="en">Shark CarpetXpert with StainStriker, 2-in-1 deep carpet and upholstery cleaner with a handheld spot &amp; stain eliminator, combines Shark's powerful suction &amp; deep-cleaning innovation to deliver unbeatable deep carpet cleaning &amp; tough stain elimination.</desc>
