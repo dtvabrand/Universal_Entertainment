@@ -9,12 +9,12 @@ ABC.NEWS.us
 ABC.(WABC).New.York,.NY.us
 NBC.(WNBC).New.York,.NY.us
 CBS.(WCBS).New.York,.NY.us
+BBC.NEWS.HD.uk
 BBC.One.EastHD.uk
-Destination.America.us
+BBC.Two.HD.uk
+BBC.Three.HD.uk
 HGTV.USA.-.Eastern.Feed.us
 E!.Entertainment.USA.-.Eastern.Feed.us
-National.Geographic.US.-.Eastern.us
-History.Channel.US.-.Eastern.Feed.us
 Boomerang.us
 Disney.-.Eastern.Feed.us
 Disney.XD.USA.-.Eastern.Feed.us
