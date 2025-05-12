@@ -10,7 +10,7 @@ ABC.(WABC).New.York,.NY.us
 NBC.(WNBC).New.York,.NY.us
 FOX.(WNYW).New.York,.NY.us
 BBC.NEWS.HD.uk
-WPIXDT1.us
+WPIX.New.York.(SUPERSTATION).us
 HGTV.USA.-.Eastern.Feed.us
 E!.Entertainment.USA.-.Eastern.Feed.us
 Nickelodeon.USA.-.East.Feed.us
