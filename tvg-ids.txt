@@ -1,10 +1,10 @@
-Rai 1
-Rai 2
-Rai 3
-Rete 4
-Canale 5
-Italia 1
-TV 2000
+Rai1.it
+Rai2.it
+Rai3.it
+Rete.4.it
+Canale.5.it
+Italia.1.it
+TV2000.it.it
 ABC.NEWS.us
 ABC.(WABC).New.York,.NY.us
 NBC.(WNBC).New.York,.NY.us
