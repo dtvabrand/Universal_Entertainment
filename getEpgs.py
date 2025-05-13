@@ -55,6 +55,15 @@ def filter_and_build_epg(urls):
     tree.write(output_file, encoding='utf-8', xml_declaration=True)
     print(f"New EPG saved to {output_file}")
 
+    # offset replacements
+    with open(output_file, 'r+', encoding='utf-8') as f:
+        xml_content = f.read()
+        xml_content = xml_content.replace(' -0400', ' -0800')
+        xml_content = xml_content.replace(' +0200', ' +0400')
+        f.seek(0)
+        f.write(xml_content)
+        f.truncate()
+
     if save_as_gz:
         with gzip.open(output_file_gz, 'wb') as f:
             tree.write(f, encoding='utf-8', xml_declaration=True)
@@ -63,10 +72,10 @@ def filter_and_build_epg(urls):
 m3u4u_epg = os.getenv("M3U4U_EPG")
 
 urls = [
-	'https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz',
-	'https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz',
-	'https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz',
-	'https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz',
 ]
 
 if __name__ == "__main__":
