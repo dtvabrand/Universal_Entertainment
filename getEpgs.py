@@ -58,8 +58,8 @@ def filter_and_build_epg(urls):
     # offset replacements
     with open(output_file, 'r+', encoding='utf-8') as f:
         xml_content = f.read()
-        xml_content = xml_content.replace(' -0400', ' -1000')
-        xml_content = xml_content.replace(' +0000', ' +0400')
+        xml_content = xml_content.replace(' -0400', ' +0400')
+        xml_content = xml_content.replace(' +0200', ' -0200')
         f.seek(0)
         f.write(xml_content)
         f.truncate()
