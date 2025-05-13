@@ -54,7 +54,7 @@ http://fl3.moveonjoy.com/HGTV/index.m3u8
 http://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-us.png" tvg-name="NICK",NICK
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+https://tvpass.org/live/NickelodeonEast/hd/
 
 #EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" tvg-name="Cartoon Network",Cartoon Network
 http://fl3.moveonjoy.com/CARTOON_NETWORK/index.m3u8
