@@ -8,10 +8,14 @@ TV2000.it.it
 ABC.NEWS.us
 ABC.(WABC).New.York,.NY.us
 NBC.(WNBC).New.York,.NY.us
-FOX.(WNYW).New.York,.NY.us
+WSBK.(TV-38).Boston.us
 BBC.NEWS.HD.uk
 WPIX.New.York.(SUPERSTATION).us
+TNT.-.Eastern.Feed.us
+TLC.USA.-.Eastern.us
 HGTV.USA.-.Eastern.Feed.us
+Syfy.-.Eastern.Feed.us
+Travel.US.-.East.us
 E!.Entertainment.USA.-.Eastern.Feed.us
 Nickelodeon.USA.-.East.Feed.us
 Cartoon.Network.USA.-.Eastern.Feed.us
