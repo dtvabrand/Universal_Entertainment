@@ -10,7 +10,6 @@ ABC.(WABC).New.York,.NY.us
 NBC.(WNBC).New.York,.NY.us
 WSBK.(TV-38).Boston.us
 BBC.NEWS.HD.uk
-WPIX.New.York.(SUPERSTATION).us
 TNT.-.Eastern.Feed.us
 TLC.USA.-.Eastern.us
 HGTV.USA.-.Eastern.Feed.us
