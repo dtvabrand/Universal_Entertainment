@@ -11,9 +11,13 @@ NBC.(WNBC).New.York,.NY.us
 WSBK.(TV-38).Boston.us
 BBC.NEWS.HD.uk
 TNT.-.Eastern.Feed.us
+TBS.-.East.us
+FX.Movie.Channel.us
+AMC.-.Eastern.Feed.us
+USA.Network.-.East.Feed.us
+Syfy.-.Eastern.Feed.us
 TLC.USA.-.Eastern.us
 HGTV.USA.-.Eastern.Feed.us
-Syfy.-.Eastern.Feed.us
 Travel.US.-.East.us
 E!.Entertainment.USA.-.Eastern.Feed.us
 Nickelodeon.USA.-.East.Feed.us
