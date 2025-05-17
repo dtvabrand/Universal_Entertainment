@@ -11,6 +11,7 @@ NBC.(WNBC).New.York,.NY.us
 WSBK.(TV-38).Boston.us
 BBC.NEWS.HD.uk
 TNT.-.Eastern.Feed.us
+IONTV.us@East
 TBS.-.East.us
 FX.Networks.East.Coast.us
 AMC.-.Eastern.Feed.us
