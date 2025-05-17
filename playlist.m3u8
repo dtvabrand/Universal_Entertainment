@@ -39,14 +39,26 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 #EXTINF:-1 group-title="Entertainment" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" tvg-name="TNT",TNT
 http://fl3.moveonjoy.com/TNT/index.m3u8
 
+#EXTINF:-1 group-title="Entertainment" tvg-id="TBS.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" tvg-name="TBS",TBS
+http://fl1.moveonjoy.com/TBS/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="FX.Movie.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" tvg-name="FXM",FXM
+http://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" tvg-name="AMC",AMC
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-name="USA Network",USA Network
+https://7pal.short.gy/usanetwork
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="Syfy.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" tvg-name="SYFY",SYFY
+http://fl3.moveonjoy.com/SYFY/index.m3u8
+
 #EXTINF:-1 group-title="Documentary" tvg-id="TLC.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" tvg-name="TLC",TLC
 http://fl3.moveonjoy.com/TLC/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png" tvg-name="HGTV",HGTV
 http://fl3.moveonjoy.com/HGTV/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="Syfy.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" tvg-name="SYFY",SYFY
-http://fl3.moveonjoy.com/SYFY/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-id="Travel.US.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" tvg-name="Travel Channel",Travel Channel
 http://fl3.moveonjoy.com/Travel_Channel/index.m3u8
