@@ -12,7 +12,7 @@ WSBK.(TV-38).Boston.us
 BBC.NEWS.HD.uk
 TNT.-.Eastern.Feed.us
 TBS.-.East.us
-FX.Movie.Channel.us
+FX.Networks.East.Coast.us
 AMC.-.Eastern.Feed.us
 USA.Network.-.East.Feed.us
 Syfy.-.Eastern.Feed.us
