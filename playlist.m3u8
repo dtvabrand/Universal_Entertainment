@@ -40,6 +40,9 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 https://a1xs.vip/300001
 #http://fl3.moveonjoy.com/TNT/index.m3u8
 
+#EXTINF:-1 group-title="Entertainment" tvg-id="IONTV.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" tvg-name="ION Television",ION Television
+http://fl3.moveonjoy.com/ION_TV/index.m3u8
+
 #EXTINF:-1 group-title="Entertainment" tvg-id="TBS.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" tvg-name="TBS",TBS
 http://fl1.moveonjoy.com/TBS/index.m3u8
 
@@ -50,9 +53,7 @@ http://fl3.moveonjoy.com/FX/index.m3u8
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-name="USA Network",USA Network
-https://xyzdddd.videohls.ru/lb/premium343/index.m3u8
-#https://7pal.short.gy/usanetwork
-#http://fl3.moveonjoy.com/USA_Network/index.m3u8
+http://fl3.moveonjoy.com/USA_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="Syfy.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" tvg-name="SYFY",SYFY
 http://fl3.moveonjoy.com/SYFY/index.m3u8
