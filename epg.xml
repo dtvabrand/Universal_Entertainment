@@ -28430,583 +28430,6 @@
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18633_h15_ad.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
-  <programme start="20250603060000 +0400" stop="20250603063000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_s4_ax.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20250603063000 +0400" stop="20250603070000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_s4_ax.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20250603070000 +0400" stop="20250603073000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_s4_ax.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20250603073000 +0400" stop="20250603080000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Daytime Jeopardy</title>
-    <desc lang="en">The Emmy-winning quiz show features a unique answer-and-question format.</desc>
-    <category lang="en">Game Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184056_i_s2_aa.jpg" />
-    <episode-num system="onscreen">E9317</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20250603080000 +0400" stop="20250603083000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">People Puzzler</title>
-    <sub-title lang="en">Get Carried Away</sub-title>
-    <desc lang="en">Three contestants put their pop culture knowledge to the test to complete crosswords based on the iconic puzzles in People magazine.</desc>
-    <category lang="en">Game Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19180354_i_h8_aa.jpg" />
-    <episode-num system="onscreen">E1004</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250603083000 +0400" stop="20250603090000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">People Puzzler</title>
-    <sub-title lang="en">Slice of Heaven</sub-title>
-    <desc lang="en">Three contestants put their pop culture knowledge to the test to complete crosswords based on the iconic puzzles in People magazine.</desc>
-    <category lang="en">Game Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19180354_i_h8_aa.jpg" />
-    <episode-num system="onscreen">E1005</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250603090000 +0400" stop="20250603093000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Motive to Murder</title>
-    <desc lang="en">A fascinating, fast paced and forensic look into some of the real-life murder cases that have made the headlines around the world.</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11997076_b_v12_ae.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250603093000 +0400" stop="20250603100000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Top Secret Files: Declassified</title>
-    <desc lang="en">Investigating some of the government's most infamous mysteries using interviews, reenactments, archival footage and access to years of top secret FBI files.</desc>
-    <category lang="en">Documentary</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25299920_i_s4_aa.jpg" />
-    <episode-num system="onscreen">E1065</episode-num>
-    <previously-shown />
-  </programme>
-  <programme start="20250603100000 +0400" stop="20250603103000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Supreme Justice With Judge Karen</title>
-    <sub-title lang="en">Silicon Madness &amp; Your Holes, Your Problem</sub-title>
-    <desc lang="en">An investment consultant is sued after an important meeting falls through; a dispute over damages caused when a sister's boyfriend is arrested.</desc>
-    <category lang="en">Reality TV</category>
-    <category lang="en">Legal</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10063870_i_s2_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250603103000 +0400" stop="20250603110000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Supreme Justice With Judge Karen</title>
-    <sub-title lang="en">Ladies and Germs &amp; Disappearing Acts</sub-title>
-    <desc lang="en">A woman blames her former friend's germaphobe boyfriend for kicking her out of their home; a man sues an online date for ghosting him at a gala.</desc>
-    <category lang="en">Reality TV</category>
-    <category lang="en">Legal</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10063870_i_s2_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250603110000 +0400" stop="20250603113000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Judge Judy</title>
-    <sub-title lang="en">Don't Fence Me In!; Sister, I Don't Believe You!; Mess or No Mess?!</sub-title>
-    <desc lang="en">A man goes after his neighbors for alleged damage to his fence; the integrity of two sisters' sworn statements is questioned following an accident; a tenant claims a broken refrigerator caused her to throw out hundreds of dollars worth of food.</desc>
-    <category lang="en">Reality TV</category>
-    <category lang="en">Legal</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13626930_e_h10_aa.jpg" />
-    <episode-num system="onscreen">E5142</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250603113000 +0400" stop="20250603120000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Judge Judy</title>
-    <sub-title lang="en">Dad Left in the Dark?!; Victim Compensation Funeral?</sub-title>
-    <desc lang="en">A father fights to get his children back and is sued for travel expenses; a funeral home sues a grieving mother.</desc>
-    <category lang="en">Reality TV</category>
-    <category lang="en">Legal</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13626687_e_h8_aa.jpg" />
-    <episode-num system="onscreen">E5141</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250603120000 +0400" stop="20250603123000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Hot Bench</title>
-    <sub-title lang="en">Mind Your Loan Business; Handi-Snapped</sub-title>
-    <desc lang="en">After a loan is made between two residents of a senior living center, nagging ensues; a man whose car was damaged in a parking lot refuses a check for the exact amount he says he's owed and, instead, brings the property manager to court.</desc>
-    <category lang="en">Reality TV</category>
-    <category lang="en">Legal</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10911935_i_h8_ad.jpg" />
-    <episode-num system="onscreen">E2808</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20250603123000 +0400" stop="20250603130000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Hot Bench</title>
-    <sub-title lang="en">Mother May I Have My Kids</sub-title>
-    <desc lang="en">A woman refuses to repay her mother for bailing her out of jail, saying it was a tactic to get custody of her children.</desc>
-    <category lang="en">Reality TV</category>
-    <category lang="en">Legal</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10911935_i_h8_ad.jpg" />
-    <episode-num system="onscreen">E2739</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20250603130000 +0400" stop="20250603133000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Cutlers Court</title>
-    <sub-title lang="en">Osborne vs. Osborne</sub-title>
-    <desc lang="en">Rochelle and Keely's 12-year marriage faces a breaking point as a compatibility test decides if they rebuild or walk away for good.</desc>
-    <category lang="en">Legal</category>
-    <category lang="en">Reality TV</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25274716_i_h8_ab.jpg" />
-    <episode-num system="onscreen">E2061</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250603133000 +0400" stop="20250603140000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Cutlers Court</title>
-    <sub-title lang="en">Young vs. Goodwin</sub-title>
-    <desc lang="en">Debbie is in for a shocking surprise when she catches her boyfriend, Terrance, sneaking around with her twin sister.</desc>
-    <category lang="en">Legal</category>
-    <category lang="en">Reality TV</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25274716_i_h8_ab.jpg" />
-    <episode-num system="onscreen">E1124</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250603140000 +0400" stop="20250603143000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Justice for the People With Judge Milian</title>
-    <desc lang="en">Judge Marilyn Milian presides over small-claims court arbitrations.</desc>
-    <category lang="en">Reality TV</category>
-    <category lang="en">Legal</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25158412_i_s3_ab.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250603143000 +0400" stop="20250603150000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Justice for the People With Judge Milian</title>
-    <sub-title lang="en">One Glove &amp; Nanny ETA</sub-title>
-    <desc lang="en">A dispute between softball teammates over a missing, valuable keepsake glove; a nanny sues her former client for causing her to miss out on a singing gig.</desc>
-    <category lang="en">Reality TV</category>
-    <category lang="en">Legal</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25158412_i_s3_ab.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250603150000 +0400" stop="20250603153000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Friends</title>
-    <sub-title lang="en">The One With Ross' Inappropriate Song</sub-title>
-    <desc lang="en">Chandler and Joey find a videotape while checking out Richard's apartment; Ross sings Emma an off-color lullaby.</desc>
-    <credits>
-      <actor>Jennifer Aniston</actor>
-      <actor>Courteney Cox Arquette</actor>
-      <actor>Lisa Kudrow</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1712459_e_h10_ad.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250603153000 +0400" stop="20250603160000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Friends</title>
-    <sub-title lang="en">The One With Rachel's Other Sister</sub-title>
-    <desc lang="en">Rachel has a bone to pick with her self-centered sister (Christina Applegate) on Thanksgiving; Monica protects her good wedding china; Joey forgets to join his TV cast mates for the Thanksgiving parade.</desc>
-    <credits>
-      <actor>Jennifer Aniston</actor>
-      <actor>Courteney Cox Arquette</actor>
-      <actor>Lisa Kudrow</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <category lang="en">Thanksgiving</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1712460_e_h10_ae.jpg" />
-    <episode-num system="onscreen">E202</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250603160000 +0400" stop="20250603163000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">The Conners</title>
-    <sub-title lang="en">Moms and Rats</sub-title>
-    <desc lang="en">Bev experiences moments of clarity and reflection and asks Jackie to spend the day together in Chicago; Darlene finds a rat in her home but refuses to let Ben kill it.</desc>
-    <credits>
-      <actor>John Goodman</actor>
-      <actor>Laurie Metcalf</actor>
-      <actor>Alicia Goranson</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15661264_b_v12_an.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250603163000 +0400" stop="20250603170000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">The Conners</title>
-    <sub-title lang="en">The Publisher Cops Show Pilot</sub-title>
-    <desc lang="en">Jackie faces problems at the Lunch Box and must take advice from an unexpected guest; Dan and Darlene take a trip into Chicago.</desc>
-    <credits>
-      <actor>John Goodman</actor>
-      <actor>Laurie Metcalf</actor>
-      <actor>Alicia Goranson</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15661264_b_v12_an.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250603170000 +0400" stop="20250603173000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">The Neighborhood</title>
-    <sub-title lang="en">Welcome to Bowling</sub-title>
-    <desc lang="en">Calvin and Dave team up for a chance at bowling championship glory; Gemma and Tina face off against each other for the top ranking in an arcade game.</desc>
-    <credits>
-      <actor>Cedric the Entertainer</actor>
-      <actor>Max Greenfield</actor>
-      <actor>Beth Behrs</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17550861_e_s2_aa.jpg" />
-    <episode-num system="onscreen">E208</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250603173000 +0400" stop="20250603180000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">The Neighborhood</title>
-    <sub-title lang="en">Welcome to Couples Therapy</sub-title>
-    <desc lang="en">Dave and Gemma occasionally see a couples therapist to keep their marriage strong; after learning abut this, Tina decides that she and Calvin should do the same.</desc>
-    <credits>
-      <actor>Cedric the Entertainer</actor>
-      <actor>Max Greenfield</actor>
-      <actor>Beth Behrs</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19051856_e_s3_ac.jpg" />
-    <episode-num system="onscreen">E303</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250603180000 +0400" stop="20250603183000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Seinfeld</title>
-    <sub-title lang="en">The Bottle Deposit</sub-title>
-    <desc lang="en">Jerry's mechanic (Brad Garrett) steals his car; Kramer and Newman plan to return used bottles to Michigan.</desc>
-    <credits>
-      <actor>Jerry Seinfeld</actor>
-      <actor>Julia Louis-Dreyfus</actor>
-      <actor>Jason Alexander</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183875_b_s4_aa.jpg" />
-    <episode-num system="onscreen">E721</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20250603183000 +0400" stop="20250603190000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Seinfeld</title>
-    <sub-title lang="en">The Pledge Drive</sub-title>
-    <desc lang="en">Jerry convinces George to ask baseball player Danny Tartabull to appear on a public television pledge drive.</desc>
-    <credits>
-      <actor>Jerry Seinfeld</actor>
-      <actor>Jason Alexander</actor>
-      <actor>Michael Richards</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1271589_e_h10_ad.jpg" />
-    <episode-num system="onscreen">E603</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20250603190000 +0400" stop="20250603193000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">The Big Bang Theory</title>
-    <sub-title lang="en">The Communication Deterioration</sub-title>
-    <desc lang="en">The guys fight over what message Raj should write for NASA in case of alien contact; Penny has to decide between auditioning for a movie or keeping her pharmaceutical sales job.</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p185554_b_s4_az.jpg" />
-    <episode-num system="onscreen">E180</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250603193000 +0400" stop="20250603200000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">The Big Bang Theory</title>
-    <sub-title lang="en">The Irish Pub Formulation</sub-title>
-    <desc lang="en">Leonard keeps an affair a secret from Sheldon, Howard and Raj.</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8355898_e_s2_aa.jpg" />
-    <episode-num system="onscreen">E69</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250603200000 +0400" stop="20250603210000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">WBZ News 8p</title>
-    <desc lang="en">Breaking news and headlines, local weather forecasts, sports and traffic reports.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15339884_b_h8_ab.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250603210000 +0400" stop="20250603220000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Boston Has Entered the Chat: Extra</title>
-    <desc lang="en">A daily show featuring conversational debate that sets up the day in Boston sports. The format incorporates social media and timely guests to inform and entertain fans of New England sports teams.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28563068_b_v12_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250603220000 +0400" stop="20250603230000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">48 Hours</title>
-    <sub-title lang="en">The Hunt for Sarah Yarborough's Killer</sub-title>
-    <desc lang="en">When a high school student on her way to drill team practice is found dead on campus, it takes nearly 30 years to catch her killer.</desc>
-    <category lang="en">News Magazine</category>
-    <category lang="en">Legal</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25412977_st_h10_aa.jpg" />
-    <episode-num system="onscreen">E3608</episode-num>
-    <previously-shown />
-  </programme>
-  <programme start="20250603230000 +0400" stop="20250603233000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Flip Side</title>
-    <sub-title lang="en">Piece of Cake</sub-title>
-    <desc lang="en">The hilarious new survey game show explores answers to questions from differing perspectives; host Jaleel White.</desc>
-    <category lang="en">Game Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27821432_b_s4_ac.jpg" />
-    <episode-num system="onscreen">E1087</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250603233000 +0400" stop="20250604000000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Flip Side</title>
-    <sub-title lang="en">Catching the Vibe</sub-title>
-    <desc lang="en">The hilarious new survey game show explores answers to questions from differing perspectives; host Jaleel White.</desc>
-    <category lang="en">Game Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27821432_b_s4_ac.jpg" />
-    <episode-num system="onscreen">E1161</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250604000000 +0400" stop="20250604003000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">The Big Bang Theory</title>
-    <sub-title lang="en">The Intimacy Acceleration</sub-title>
-    <desc lang="en">Penny and Sheldon design an experiment -- as a joke -- to make participants fall in love; Howard and Bernadette get into trouble at the airport.</desc>
-    <credits>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11512973_e_h8_ab.jpg" />
-    <episode-num system="onscreen">E175</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250604003000 +0400" stop="20250604010000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">American Housewife</title>
-    <sub-title lang="en">Liar Liar, Room on Fire</sub-title>
-    <desc lang="en">When Katie forgets Greg's birthday, she attempts to make up for it by pulling together a last-minute dinner party.</desc>
-    <credits>
-      <actor>Katy Mixon</actor>
-      <actor>Diedrich Bader</actor>
-      <actor>Meg Donnelly</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12906970_i_s4_ad.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250604010000 +0400" stop="20250604013000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">American Housewife</title>
-    <sub-title lang="en">Phone Free Day</sub-title>
-    <desc lang="en">In order to avoid buying Anna-Kat a cellphone, Katie makes a pact with the girls that she and Taylor can go an entire day without using their phones; disappointed with Greg's advice, Oliver seeks the guidance of an old friend.</desc>
-    <credits>
-      <actor>Katy Mixon</actor>
-      <actor>Diedrich Bader</actor>
-      <actor>Meg Donnelly</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12906970_i_s4_ad.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250604013000 +0400" stop="20250604020000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Person, Place or Thing</title>
-    <sub-title lang="en">Name That Southern City!</sub-title>
-    <desc lang="en">It's a place for fun in the sun, but will our contestants shine or sink?</desc>
-    <category lang="en">Game Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22585878_i_s2_ab.jpg" />
-    <episode-num system="onscreen">E2112</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250604020000 +0400" stop="20250604023000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Comics Unleashed With Byron Allen</title>
-    <desc lang="en">Maz Jobrani; Al Lubel; John Witherspoon; Heidi Foss.Guests: Maz Jobrani, Al Lubel, John Witherspoon, Heidi Foss..</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186631_b_v11_ad.jpg" />
-    <episode-num system="onscreen">E18126</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250604023000 +0400" stop="20250604030000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Pawn Stars</title>
-    <sub-title lang="en">Hidden Pawn</sub-title>
-    <desc lang="en">A 1769 set of playing cards with a hidden political message enters the shop; Corey checks out a set of "Charlie's Angels" figurines; Rick examines an antique stained glass lamp.</desc>
-    <category lang="en">Reality TV</category>
-    <category lang="en">History</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3565439_b_s4_cq.jpg" />
-    <episode-num system="onscreen">E1311</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250604030000 +0400" stop="20250604033000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">The Drew Barrymore Show</title>
-    <sub-title lang="en">Mariska Hargitay</sub-title>
-    <desc lang="en">Drew chats with Mariska Hargitay; Ross Mathews joins Drew to cover the latest headlines.Guests: Mariska Hargitay..</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">Performing Arts</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18629596_i_h8_ac.jpg" />
-    <episode-num system="onscreen">E5309</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20250604033000 +0400" stop="20250604040000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">The Drew Barrymore Show</title>
-    <sub-title lang="en">Dax Shepard</sub-title>
-    <desc lang="en">Drew chats with Dax Shepard, who plays the "fast five," answering rapid-fire questions.Guests: Dax Shepard..</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">Performing Arts</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18629596_i_h8_ac.jpg" />
-    <episode-num system="onscreen">E5310</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20250604040000 +0400" stop="20250604043000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Relieve your foot pain with WalkFit!</title>
-    <desc lang="en">WalkFit® Platinum - A Customizable Orthotic to Relieve Your Body Pain at an Unbeatable Price. Over 25 million people have improved the quality of their lives!</desc>
-    <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18633047_st_h10_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250604043000 +0400" stop="20250604050000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Justice With Judge Mablean</title>
-    <sub-title lang="en">Sugar Daddy Roommate &amp; Bounty Hunter Blitz</sub-title>
-    <desc lang="en">A dispute over personal property that was thrown away; bounty hunters argue over a recovery fee.</desc>
-    <category lang="en">Reality TV</category>
-    <category lang="en">Legal</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10938248_i_s2_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250604050000 +0400" stop="20250604053000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Justice With Judge Mablean</title>
-    <sub-title lang="en">Ha-why I Hate You</sub-title>
-    <desc lang="en">A woman sues for the cost of a plane ticket after flying to Hawaii to be with her friend in her hour of need.</desc>
-    <category lang="en">Reality TV</category>
-    <category lang="en">Legal</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10938248_i_s2_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250604053000 +0400" stop="20250604060000 +0400" channel="WSBK.(TV-38).Boston.us">
-    <title lang="en">Transform your home today, fast &amp; easy!</title>
-    <desc lang="en">RotoRazer is the world's greatest jigsaw, circular saw, band saw, tile saw and hacksaw all-in-one amazing easy to use tool!</desc>
-    <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28532963_st_h10_aa.jpg" />
-    <previously-shown />
-  </programme>
   <programme start="20250604060000 +0400" stop="20250604063000 +0400" channel="WSBK.(TV-38).Boston.us">
     <title lang="en">Paid Programming</title>
     <desc lang="en">Paid programming.</desc>
@@ -29224,7 +28647,7 @@
     <desc lang="en">Rachel impulsively gives her telephone number to a handsome guy but worries he will call when Ross is there.</desc>
     <credits>
       <actor>Jennifer Aniston</actor>
-      <actor>Courteney Cox Arquette</actor>
+      <actor>Courteney Cox</actor>
       <actor>Lisa Kudrow</actor>
     </credits>
     <category lang="en">Sitcom</category>
@@ -29240,7 +28663,7 @@
     <desc lang="en">Monica fears the worst when she learns Chandler will be spending Christmas in Tulsa working on a deadline with a beautiful co-worker (Selma Blair).</desc>
     <credits>
       <actor>Jennifer Aniston</actor>
-      <actor>Courteney Cox Arquette</actor>
+      <actor>Courteney Cox</actor>
       <actor>Lisa Kudrow</actor>
     </credits>
     <category lang="en">Sitcom</category>
@@ -29259,7 +28682,7 @@
     <credits>
       <actor>John Goodman</actor>
       <actor>Laurie Metcalf</actor>
-      <actor>Alicia Goranson</actor>
+      <actor>Lecy Goranson</actor>
     </credits>
     <category lang="en">Sitcom</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15661264_b_v12_an.jpg" />
@@ -29275,7 +28698,7 @@
     <credits>
       <actor>John Goodman</actor>
       <actor>Laurie Metcalf</actor>
-      <actor>Alicia Goranson</actor>
+      <actor>Lecy Goranson</actor>
     </credits>
     <category lang="en">Sitcom</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15661264_b_v12_an.jpg" />
@@ -29428,7 +28851,7 @@
     <sub-title lang="en">O.G.'s Always Rule</sub-title>
     <desc lang="en">The hilarious new survey game show explores answers to questions from differing perspectives; host Jaleel White.</desc>
     <category lang="en">Game Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27821432_b_s4_ac.jpg" />
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28165714_e_h10_aa.jpg" />
     <episode-num system="onscreen">E1125</episode-num>
     <previously-shown />
     <rating system="MPAA">
@@ -29486,7 +28909,7 @@
   </programme>
   <programme start="20250605013000 +0400" stop="20250605020000 +0400" channel="WSBK.(TV-38).Boston.us">
     <title lang="en">Person, Place or Thing</title>
-    <sub-title lang="en">Who's Behind the Laughs?</sub-title>
+    <sub-title lang="en">Reminiscing Nostalgic Movies</sub-title>
     <desc lang="en">This actor has made us laugh for years -- but can the contestants deliver the winning punchline?</desc>
     <category lang="en">Game Shows</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22585878_i_s2_ab.jpg" />
@@ -29803,7 +29226,7 @@
     <desc lang="en">Rachel crosses swords with her temporary replacement (Dermot Mulroney) at the shop; Phoebe wreaks havoc on the set of Joey's soap opera.</desc>
     <credits>
       <actor>Jennifer Aniston</actor>
-      <actor>Courteney Cox Arquette</actor>
+      <actor>Courteney Cox</actor>
       <actor>Lisa Kudrow</actor>
     </credits>
     <category lang="en">Sitcom</category>
@@ -29819,7 +29242,7 @@
     <desc lang="en">Monica invites Rachel's workplace rival (Dermot Mulroney) to her birthday party; Joey flirts with Emma's new nanny (Melissa George); Phoebe and Mike (Paul Rudd) take care of a litter of rats.</desc>
     <credits>
       <actor>Jennifer Aniston</actor>
-      <actor>Courteney Cox Arquette</actor>
+      <actor>Courteney Cox</actor>
       <actor>Lisa Kudrow</actor>
     </credits>
     <category lang="en">Sitcom</category>
@@ -29836,7 +29259,7 @@
     <credits>
       <actor>John Goodman</actor>
       <actor>Laurie Metcalf</actor>
-      <actor>Alicia Goranson</actor>
+      <actor>Lecy Goranson</actor>
     </credits>
     <category lang="en">Sitcom</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15661264_b_v12_an.jpg" />
@@ -29852,7 +29275,7 @@
     <credits>
       <actor>John Goodman</actor>
       <actor>Laurie Metcalf</actor>
-      <actor>Alicia Goranson</actor>
+      <actor>Lecy Goranson</actor>
     </credits>
     <category lang="en">Sitcom</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15661264_b_v12_an.jpg" />
@@ -30063,7 +29486,7 @@
   </programme>
   <programme start="20250606013000 +0400" stop="20250606020000 +0400" channel="WSBK.(TV-38).Boston.us">
     <title lang="en">Person, Place or Thing</title>
-    <sub-title lang="en">Funny Business Gets Serious</sub-title>
+    <sub-title lang="en">Stump on Tricky Answers</sub-title>
     <desc lang="en">This actress has been stealing scenes for years, but can the contestants name the hit show?</desc>
     <category lang="en">Game Shows</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22585878_i_s2_ab.jpg" />
@@ -30362,7 +29785,7 @@
     <desc lang="en">Monica exults in the applause she receives on karaoke night, unaware that the cheering audience can see through her blouse.</desc>
     <credits>
       <actor>Jennifer Aniston</actor>
-      <actor>Courteney Cox Arquette</actor>
+      <actor>Courteney Cox</actor>
       <actor>Lisa Kudrow</actor>
     </credits>
     <category lang="en">Sitcom</category>
@@ -30378,7 +29801,7 @@
     <desc lang="en">Joey and Phoebe conspire to send Rachel and Ross on disastrous blind dates.</desc>
     <credits>
       <actor>Jennifer Aniston</actor>
-      <actor>Courteney Cox Arquette</actor>
+      <actor>Courteney Cox</actor>
       <actor>Lisa Kudrow</actor>
     </credits>
     <category lang="en">Sitcom</category>
@@ -30395,7 +29818,7 @@
     <credits>
       <actor>John Goodman</actor>
       <actor>Laurie Metcalf</actor>
-      <actor>Alicia Goranson</actor>
+      <actor>Lecy Goranson</actor>
     </credits>
     <category lang="en">Sitcom</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15661264_b_v12_an.jpg" />
@@ -30411,7 +29834,7 @@
     <credits>
       <actor>John Goodman</actor>
       <actor>Laurie Metcalf</actor>
-      <actor>Alicia Goranson</actor>
+      <actor>Lecy Goranson</actor>
     </credits>
     <category lang="en">Sitcom</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15661264_b_v12_an.jpg" />
@@ -30631,7 +30054,7 @@
   </programme>
   <programme start="20250607013000 +0400" stop="20250607020000 +0400" channel="WSBK.(TV-38).Boston.us">
     <title lang="en">Person, Place or Thing</title>
-    <sub-title lang="en">Desperate for Answers</sub-title>
+    <sub-title lang="en">Desperate for Clues</sub-title>
     <desc lang="en">This street is home to some of TV's biggest twists -- but will the contestants figure it out or will they take a wrong turn?</desc>
     <category lang="en">Game Shows</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22585878_i_s2_ab.jpg" />
@@ -30716,259 +30139,483 @@
     <episode-num system="onscreen">E341</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20250603060000 +0400" stop="20250603070000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Eyewitness News This Morning</title>
-    <desc lang="en">News coverage to start the day.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p677214_b_v8_ad.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250603070000 +0400" stop="20250603090000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Good Morning America</title>
-    <desc lang="en">Author Taylor Jenkins Reid; Deals &amp; Steals with Jason Wu and Tory Johnson; InStyle magazine Editor-in-Chief Sally Holmes shares beauty products for nighttime routines.Guests: Taylor Jenkins Reid, Jason Wu, Tory Johnson, Sally Holmes..</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184220_i_h8_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250603090000 +0400" stop="20250603100000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Live with Kelly and Mark</title>
-    <desc lang="en">Actor and filmmaker Tyler Perry; actress Brianne Howey; Kelly and Mark read audience messages from The Inbox.Guests: Tyler Perry, Brianne Howey..</desc>
-    <category lang="en">Talk Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24324378_b_v12_ab.jpg" />
-    <episode-num system="onscreen">E250603</episode-num>
+  <programme start="20250607053000 +0400" stop="20250607060000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">Pawn Stars</title>
+    <sub-title lang="en">Payne in the Putt</sub-title>
+    <desc lang="en">Rick flies to Washington, D.C., to see one of the first Jeeps built for use in WWII; a magic lantern image projector from the early 20th century; a fortune-telling gambling machine.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">History</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3565439_b_s4_cq.jpg" />
+    <episode-num system="onscreen">E1526</episode-num>
     <previously-shown />
     <rating system="MPAA">
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20250603100000 +0400" stop="20250603110000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Eyewitness News Mornings at 10</title>
-    <desc lang="en">Breaking news and headlines, local weather forecasts, sports and traffic reports.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25568169_b_h8_aa.jpg" />
+  <programme start="20250607060000 +0400" stop="20250607063000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">By Design</title>
+    <category lang="en">Fashion</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p346239_b_h8_aa.jpg" />
     <previously-shown />
   </programme>
-  <programme start="20250603110000 +0400" stop="20250603120000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">The View</title>
-    <desc lang="en">TV host Andy Cohen; actress Kara Young.Guests: Andy Cohen, Kara Young..</desc>
+  <programme start="20250607063000 +0400" stop="20250607070000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">Animals Unleashed</title>
+    <desc lang="en">Funny, unpredictable and outrageous animal behavior is caught on camera.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Animals</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12040200_b_h10_ag.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250607070000 +0400" stop="20250607073000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">Zoo Clues</title>
+    <desc lang="en">Fun animal facts and trivia.</desc>
+    <category lang="en">Animals</category>
+    <category lang="en">Instructional</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10258691_b_v8_ad.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250607073000 +0400" stop="20250607080000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">Animal Atlas</title>
+    <sub-title lang="en">Bones? Who Needs Em?</sub-title>
+    <desc lang="en">Bones; vertebrates; sharks; invertebrates; exoskeletons; hydrostatic skeletons; a turtle's carapace.</desc>
+    <category lang="en">Animals</category>
+    <category lang="en">Instructional</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p331041_b_h10_ab.jpg" />
+    <episode-num system="onscreen">E615</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250607080000 +0400" stop="20250607083000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">State to State</title>
+    <desc lang="en">The diverse cultures, geography, history, biggest events and hidden gems across the United States.</desc>
+    <category lang="en">Travel</category>
+    <category lang="en">Instructional</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10918427_i_s2_aa.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250607083000 +0400" stop="20250607090000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">On the Spot</title>
+    <sub-title lang="en">What It's Worth; Problem and Solution; Globetrotting</sub-title>
+    <desc lang="en">The value of a first edition of the Bible; the value of a 1943 penny; a breakfast food that can kill ants; a food that can be used to shave, remove makeup and polish shoes; the world's most dangerous pool; the most dangerous beach.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Instructional</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8769615_i_s3_aa.jpg" />
+    <episode-num system="onscreen">E201</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250607090000 +0400" stop="20250607093000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">Origins</title>
+    <desc lang="en">The origins of objects people see and use daily, along with inventions that change the world.</desc>
+    <category lang="en">Science</category>
+    <category lang="en">Documentary</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11297997_b_v8_ae.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250607093000 +0400" stop="20250607100000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">The Coolest Places on Earth</title>
+    <sub-title lang="en">Coolest Places to Hike, Stargaze and See Natural Landmarks</sub-title>
+    <desc lang="en">Hiking some of the best and longest trails in the world; the icy tundra of Norway; one of the driest places on Earth; gazing at the wonders of the night sky.</desc>
+    <category lang="en">Travel</category>
+    <category lang="en">Instructional</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10051070_b_v8_ae.jpg" />
+    <episode-num system="onscreen">E115</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250607100000 +0400" stop="20250607110000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">Phantom Gourmet</title>
+    <desc lang="en">Visits and reviews of restaurants in the Boston and New England area.</desc>
     <category lang="en">Talk Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184466_i_h8_ai.jpg" />
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p854177_st_h10_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250607110000 +0400" stop="20250607120000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">Phantom Gourmet</title>
+    <desc lang="en">Visits and reviews of restaurants in the Boston and New England area.</desc>
+    <category lang="en">Talk Shows</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p854177_st_h10_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250607120000 +0400" stop="20250607123000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
+    <desc lang="en">Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote &amp; installation.</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30074472_i_h8_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250607123000 +0400" stop="20250607130000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_s4_ax.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250607130000 +0400" stop="20250607133000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">Web of Murder</title>
+    <desc lang="en">Detectives work to solve murder cases.</desc>
+    <category lang="en">Regular</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27967838_b_h8_aa.jpg" />
     <previously-shown />
     <rating system="MPAA">
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20250603120000 +0400" stop="20250603130000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Eyewitness News at Noon</title>
-    <desc lang="en">Midday news update.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11844655_b_v8_ad.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250603130000 +0400" stop="20250603140000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">GMA3: What You Need to Know</title>
-    <desc lang="en">InStyle magazine beauty editor Kara Jillian Brown shares beauty products for nighttime routines; Deals &amp; Steals with Jason Wu and Tory Johnson; ABC Secret Sales with Will Ganss; GMA Health Alert with Dr. Darien Sutton.Guests: Kara Jillian Brown, Jason Wu, Tory Johnson, Will Ganss, Darien Sutton..</desc>
-    <category lang="en">News</category>
-    <category lang="en">Talk Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18453378_b_s4_ai.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250603140000 +0400" stop="20250603150000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Tamron Hall</title>
-    <sub-title lang="en">Generation Care</sub-title>
-    <desc lang="en">How caregiving affects relationships, careers and finances; author Jennifer Levin ("Generation Care") discusses being a "long-distance caregiver"; a young woman's parents get cancer; a man's wife has a stroke; the sister of an autistic man.Guests: Jennifer Levin..</desc>
-    <category lang="en">Talk Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17197549_b_s4_af.jpg" />
-    <episode-num system="onscreen">E6175</episode-num>
+  <programme start="20250607133000 +0400" stop="20250607140000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">Fatal Crimes</title>
+    <category lang="en">Regular</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25318708_i_h8_aa.jpg" />
     <previously-shown />
     <rating system="MPAA">
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20250603150000 +0400" stop="20250603160000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">General Hospital</title>
-    <desc lang="en">Michael and Willow's divorce hearing begins; Sonny opens up to Jason; Trina defends Josslyn; Ric strongarms Alexis; Jordan learns more about Dalton.</desc>
+  <programme start="20250607140000 +0400" stop="20250607143000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">Military Makeover</title>
+    <sub-title lang="en">Christy LaVallee, Episode 5</sub-title>
+    <desc lang="en">Christy and Abbey prepare to see their newly renovated home; the team wraps up final touches before their arrival.</desc>
+    <category lang="en">Home</category>
+    <category lang="en">Instructional</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12745695_b_h10_aa.jpg" />
+    <episode-num system="onscreen">E4105</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250607143000 +0400" stop="20250607150000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">Designing Spaces</title>
+    <desc lang="en">Step-by-step home improvements and do-it-yourself projects to help make homes more comfortable.</desc>
+    <category lang="en">Home</category>
+    <category lang="en">Instructional</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p366341_b_v8_ad.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250607150000 +0400" stop="20250607160000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">Traveling the World with Denella Ri'chard: Juneteenth Special</title>
+    <desc lang="en">Travel expert Denella Ri'chard takes you to the birthplace of Juneteenth -- Galveston, Texas; discover the rich history and vibrant culture behind the holiday as Denella explores significant sites and shares stories highlighting the day's importance.</desc>
+    <category lang="en">Specials</category>
+    <category lang="en">Travel</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30136452_i_h11_aa.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250607160000 +0400" stop="20250607163000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">American Housewife</title>
+    <sub-title lang="en">Bed, Bath &amp; Beyond our Means</sub-title>
+    <desc lang="en">Katie's life is turned upside down when her notoriously elusive boss Whitney pops into town and promotes Katie; a colleague's death pushes Greg toward an existential crisis.</desc>
     <credits>
-      <actor>Maurice Benard</actor>
-      <actor>Steve Burton</actor>
-      <actor>Michael Easton</actor>
+      <actor>Katy Mixon</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Meg Donnelly</actor>
     </credits>
-    <category lang="en">Soaps</category>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17372370_e_h8_aa.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250607163000 +0400" stop="20250607170000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">American Housewife</title>
+    <sub-title lang="en">Bigger Kids, Bigger Problems</sub-title>
+    <desc lang="en">When Anna-Kat's school lunch lady refuses to make simple eco-friendly changes in the school cafeteria, Greg puts on a show highlighting the importance of recycling with his friend and fellow environmentalist Bill Doty.</desc>
+    <credits>
+      <actor>Katy Mixon</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Meg Donnelly</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17388243_e_s3_aa.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250607170000 +0400" stop="20250607173000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">The Neighborhood</title>
+    <sub-title lang="en">Welcome to the Stand-Off</sub-title>
+    <desc lang="en">Gemma and Tina are at odds with one another and Dave and Calvin try to bring them back together; Marty is sick and not handling it well, so Malcolm fills in for him and goes to a baby class with Courtney.</desc>
+    <credits>
+      <actor>Cedric the Entertainer</actor>
+      <actor>Max Greenfield</actor>
+      <actor>Beth Behrs</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15528404_i_h8_ai.jpg" />
+    <episode-num system="onscreen">E607</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250607173000 +0400" stop="20250607180000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">The Neighborhood</title>
+    <sub-title lang="en">Welcome to the Other Butlers</sub-title>
+    <desc lang="en">Calvin and Tina uncover discriminatory processes with their bank's appraiser; Marty asks Trey for fatherly advice on co-parenting with Courtney.</desc>
+    <credits>
+      <actor>Cedric the Entertainer</actor>
+      <actor>Max Greenfield</actor>
+      <actor>Beth Behrs</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15528404_i_h8_ai.jpg" />
+    <episode-num system="onscreen">E603</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250607180000 +0400" stop="20250607183000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">Seinfeld</title>
+    <sub-title lang="en">The Bubble Boy</sub-title>
+    <desc lang="en">Jerry gets lost en route to visiting a sick fan who must live in a protective plastic bubble.</desc>
+    <credits>
+      <actor>Jerry Seinfeld</actor>
+      <actor>Jason Alexander</actor>
+      <actor>Michael Richards</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183875_b_s4_aa.jpg" />
+    <episode-num system="onscreen">E407</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250607183000 +0400" stop="20250607190000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">Seinfeld</title>
+    <sub-title lang="en">The Opera</sub-title>
+    <desc lang="en">A night at the opera turns into a nightmare when Jerry meets Elaine's new boyfriend (Peter Crombie).</desc>
+    <credits>
+      <actor>Jerry Seinfeld</actor>
+      <actor>Jason Alexander</actor>
+      <actor>Michael Richards</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183875_b_s4_aa.jpg" />
+    <episode-num system="onscreen">E409</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250607190000 +0400" stop="20250607193000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">The Big Bang Theory</title>
+    <sub-title lang="en">The Retraction Reaction</sub-title>
+    <desc lang="en">Leonard's job is at stake after he gives an embarrassing radio interview; Amy and Bernadette bond over having to hide their success from Sheldon and Howard.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p185554_b_s4_az.jpg" />
+    <episode-num system="onscreen">E233</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250607193000 +0400" stop="20250607200000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">The Big Bang Theory</title>
+    <sub-title lang="en">The Relaxation Integration</sub-title>
+    <desc lang="en">As Sheldon stresses about picking a wedding date, Amy tries to convince him he has a more laid-back side; Koothrappali and Stuart compete to win the heart of Bernadette's new co-worker.</desc>
+    <credits>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14624756_e_s2_aa.jpg" />
+    <episode-num system="onscreen">E234</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250607200000 +0400" stop="20250607220000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">Like Crazy</title>
+    <desc lang="en">A young British woman (Felicity Jones) and her American lover (Anton Yelchin) struggle with a long-distance relationship after she is banned from the U.S. for overstaying her visa.</desc>
+    <credits>
+      <actor>Anton Yelchin</actor>
+      <actor>Felicity Jones</actor>
+      <actor>Jennifer Lawrence</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Movies</category>
     <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183893_b_h8_al.jpg" />
-    <episode-num system="onscreen">E15724</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250603160000 +0400" stop="20250603170000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Eyewitness News First at 4</title>
-    <desc lang="en">Local and regional news coverage.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8679870_b_s4_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250603170000 +0400" stop="20250603180000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Eyewitness News at 5</title>
-    <desc lang="en">Local and regional news.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13769033_i_s4_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250603180000 +0400" stop="20250603183000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Eyewitness News at 6</title>
-    <desc lang="en">Breaking news and headlines, local weather forecasts, sports and traffic reports.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13769035_b_s4_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250603183000 +0400" stop="20250603190000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">ABC World News Tonight With David Muir</title>
-    <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10880351_b_v12_ah.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250603190000 +0400" stop="20250603193000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Jeopardy!</title>
-    <desc lang="en">The Emmy-winning quiz show features a unique answer-and-question format.</desc>
-    <category lang="en">Game Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184056_b_v12_aa.jpg" />
-    <episode-num system="onscreen">E9347</episode-num>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8507870_i_h10_ac.jpg" />
     <previously-shown />
     <rating system="MPAA">
       <value>TVG</value>
     </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
   </programme>
-  <programme start="20250603193000 +0400" stop="20250603200000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Wheel of Fortune</title>
-    <desc lang="en">In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
-    <category lang="en">Game Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184057_b_h8_ah.jpg" />
-    <episode-num system="onscreen">E8202</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20250603200000 +0400" stop="20250603210000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Celebrity Wheel of Fortune</title>
-    <sub-title lang="en">Justin Long, Rachael Harris and Cameron Brink</sub-title>
-    <desc lang="en">Celebrity contestants Justin Long, Rachael Harris and Cameron Brink.Guests: Justin Long, Rachael Harris, Cameron Brink..</desc>
-    <category lang="en">Game Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19081569_i_s4_ag.jpg" />
-    <episode-num system="onscreen">E502</episode-num>
+  <programme start="20250607220000 +0400" stop="20250607223000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">The Conners</title>
+    <sub-title lang="en">Book Bans and Guillotine Hands</sub-title>
+    <desc lang="en">Dan encourages the family to decorate the house for Halloween; Harris takes a stand on an issue that ruffles a few feathers in Darlene's new neighborhood.</desc>
+    <credits>
+      <actor>John Goodman</actor>
+      <actor>Laurie Metcalf</actor>
+      <actor>Lecy Goranson</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Hallowe'en</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15661264_b_v12_an.jpg" />
     <previously-shown />
     <rating system="MPAA">
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20250603210000 +0400" stop="20250603220100 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Jeopardy! Masters</title>
-    <sub-title lang="en">Semifinals 1 and 2</sub-title>
-    <desc lang="en">Semifinal games one and two feature Yogesh Raut, Victoria Groce, Juveria Zaheer and Isaac Hirsch.</desc>
-    <category lang="en">Game Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24407711_i_h8_ac.jpg" />
-    <episode-num system="onscreen">E307</episode-num>
+  <programme start="20250607223000 +0400" stop="20250607230000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">The Conners</title>
+    <sub-title lang="en">Take This Job and Shove It Twice</sub-title>
+    <desc lang="en">Darlene receives a promotion at her company, but she quickly learns the fancy title is not all it's cracked up to be; when Louise loses her job at Casita Bonita, an opportunity arises to work with Jackie at the Lunch Box.</desc>
+    <credits>
+      <actor>John Goodman</actor>
+      <actor>Laurie Metcalf</actor>
+      <actor>Lecy Goranson</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15661264_b_v12_an.jpg" />
     <previously-shown />
     <rating system="MPAA">
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20250603220100 +0400" stop="20250603230000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">The Game Show Show</title>
-    <sub-title lang="en">Over the Top</sub-title>
-    <desc lang="en">The evolution of reality competition shows sheds new light on changes to the TV industry, as well as broader social shifts in American culture.Guests: Nikki Glaser, Meredith Vieira, Howie Mandel, Claudia Jordan..</desc>
-    <category lang="en">News Magazine</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24599489_b_v12_aa.jpg" />
-    <episode-num system="onscreen">E103</episode-num>
+  <programme start="20250607230000 +0400" stop="20250608000000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">WOW - Women Of Wrestling</title>
+    <desc lang="en">The superstars of Women of Wrestling get fierce in the ring and behind the scenes.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16340416_b_s4_aa.jpg" />
+    <episode-num system="onscreen">E339</episode-num>
     <previously-shown />
     <rating system="MPAA">
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20250603230000 +0400" stop="20250603233500 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Eyewitness News at 11</title>
-    <desc lang="en">Breaking news.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13769039_b_s4_aa.jpg" />
+  <programme start="20250608000000 +0400" stop="20250608003000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">Game Time With Boomer Esiason</title>
+    <sub-title lang="en">Alysa Liu</sub-title>
+    <desc lang="en">World Figure Skating Gold Medalist Alysa Liu.Guests: Alysa Liu..</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17167704_b_v12_ae.jpg" />
+    <episode-num system="onscreen">E640</episode-num>
     <previously-shown />
   </programme>
-  <programme start="20250603233500 +0400" stop="20250604003700 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Jimmy Kimmel Live!</title>
-    <sub-title lang="en">Tom Hiddleston; Jenny Slate; Leon Thomas</sub-title>
-    <desc lang="en">Actor Tom Hiddleston; actress Jenny Slate; Leon Thomas performs.Guests: Tom Hiddleston, Jenny Slate..</desc>
-    <category lang="en">Talk Shows</category>
+  <programme start="20250608003000 +0400" stop="20250608010000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">RaceWeek</title>
+    <desc lang="en">The latest NASCAR news and behind the scenes coverage with a "garage pass" to hear from the drivers, crew chiefs and owners.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p472600_i_s4_aa.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250608010000 +0400" stop="20250608013000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">American Housewife</title>
+    <sub-title lang="en">Bed, Bath &amp; Beyond our Means</sub-title>
+    <desc lang="en">Katie's life is turned upside down when her notoriously elusive boss Whitney pops into town and promotes Katie; a colleague's death pushes Greg toward an existential crisis.</desc>
+    <credits>
+      <actor>Katy Mixon</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Meg Donnelly</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17372370_e_h8_aa.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250608013000 +0400" stop="20250608020000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">American Housewife</title>
+    <sub-title lang="en">Bigger Kids, Bigger Problems</sub-title>
+    <desc lang="en">When Anna-Kat's school lunch lady refuses to make simple eco-friendly changes in the school cafeteria, Greg puts on a show highlighting the importance of recycling with his friend and fellow environmentalist Bill Doty.</desc>
+    <credits>
+      <actor>Katy Mixon</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Meg Donnelly</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17388243_e_s3_aa.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250608020000 +0400" stop="20250608040000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">So I Married an Axe Murderer</title>
+    <desc lang="en">A multimedia poet (Mike Myers) falls for a San Francisco butcher (Nancy Travis) who may be a husband killer, and he may be next.</desc>
+    <credits>
+      <actor>Mike Myers</actor>
+      <actor>Nancy Travis</actor>
+      <actor>Anthony LaPaglia</actor>
+    </credits>
+    <date>1993</date>
+    <category lang="en">Movies</category>
     <category lang="en">Comedy</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184869_i_h8_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250604003700 +0400" stop="20250604010600 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Nightline</title>
-    <desc lang="en">In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184465_b_v12_ab.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250604010600 +0400" stop="20250604020500 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Live with Kelly and Mark</title>
-    <desc lang="en">Actor and filmmaker Tyler Perry; actress Brianne Howey; Kelly and Mark read audience messages from The Inbox.Guests: Tyler Perry, Brianne Howey..</desc>
-    <category lang="en">Talk Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24324378_b_v12_ab.jpg" />
-    <episode-num system="onscreen">E250603</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250604020500 +0400" stop="20250604023500 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Daytime Jeopardy</title>
-    <desc lang="en">The Emmy-winning quiz show features a unique answer-and-question format.</desc>
-    <category lang="en">Game Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184056_i_s2_aa.jpg" />
-    <episode-num system="onscreen">E9317</episode-num>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14925_i_s2_ad.jpg" />
     <previously-shown />
     <rating system="MPAA">
       <value>TVG</value>
     </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
   </programme>
-  <programme start="20250604023500 +0400" stop="20250604030500 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">ABC World News Tonight With David Muir</title>
-    <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10880351_b_v12_ah.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250604030500 +0400" stop="20250604040000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Tamron Hall</title>
-    <sub-title lang="en">Generation Care</sub-title>
-    <desc lang="en">How caregiving affects relationships, careers and finances; author Jennifer Levin ("Generation Care") discusses being a "long-distance caregiver"; a young woman's parents get cancer; a man's wife has a stroke; the sister of an autistic man.Guests: Jennifer Levin..</desc>
+  <programme start="20250608040000 +0400" stop="20250608050000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">Entertainers: With Byron Allen</title>
+    <desc lang="en">Ian McShane ("Ballerina"); Diego Luna and Adria Arjona ("Andor"); Hayley Atwell; Vince Vaughn ("Nonnas"); Da'Vine Joy Randolph ("Shadow Force"); Jai Courtney; comic Vanessa Graddick; David Harbour; Meghann Fahy; Pete Davidson; Maroon 5 and Lisa.</desc>
     <category lang="en">Talk Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17197549_b_s4_af.jpg" />
-    <episode-num system="onscreen">E6175</episode-num>
+    <category lang="en">Performing Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p378491_b_v8_af.jpg" />
+    <episode-num system="onscreen">E31022</episode-num>
     <previously-shown />
     <rating system="MPAA">
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20250604040000 +0400" stop="20250604043000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Good Morning America First Look</title>
-    <desc lang="en">Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28311369_b_h8_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250604043000 +0400" stop="20250604060000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Eyewitness News This Morning</title>
-    <desc lang="en">News coverage to start the day.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p677214_b_v8_ad.jpg" />
+  <programme start="20250608050000 +0400" stop="20250608053000 +0400" channel="WSBK.(TV-38).Boston.us">
+    <title lang="en">The World's Funniest Weather</title>
+    <sub-title lang="en">In It to Wind It</sub-title>
+    <desc lang="en">A news reporter forgets he is on live TV; a skateboarding dog; gender reveal mishaps.</desc>
+    <category lang="en">Environmental</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17142420_i_h8_aa.jpg" />
+    <episode-num system="onscreen">E4021</episode-num>
     <previously-shown />
   </programme>
   <programme start="20250604060000 +0400" stop="20250604070000 +0400" channel="ABC.(WABC).New.York,.NY.us">
@@ -31153,8 +30800,8 @@
   </programme>
   <programme start="20250604233500 +0400" stop="20250605003700 +0400" channel="ABC.(WABC).New.York,.NY.us">
     <title lang="en">Jimmy Kimmel Live!</title>
-    <sub-title lang="en">Atsuko Okatsuka; Garbage</sub-title>
-    <desc lang="en">Comic Atsuko Okatsuka; Garbage performs.Guests: Atsuko Okatsuka..</desc>
+    <sub-title lang="en">Don Johnson; Atsuko Okatsuka; Garbage</sub-title>
+    <desc lang="en">Actor Don Johnson; comic Atsuko Okatsuka; Garbage performs.Guests: Atsuko Okatsuka..</desc>
     <category lang="en">Talk Shows</category>
     <category lang="en">Comedy</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184869_i_h8_aa.jpg" />
@@ -31606,7 +31253,7 @@
     <desc lang="en">Author Charles Blow explores the circumstances, struggles and triumphs of a diverse group of older people who came out as LGBTQ in the later stages of their lives.</desc>
     <category lang="en">Specials</category>
     <category lang="en">Documentary</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30220893_st_h10_aa.jpg" />
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30220893_i_h8_aa.jpg" />
     <previously-shown />
   </programme>
   <programme start="20250606210000 +0400" stop="20250606230000 +0400" channel="ABC.(WABC).New.York,.NY.us">
@@ -31684,20 +31331,21 @@
     </rating>
   </programme>
   <programme start="20250607040000 +0400" stop="20250607043000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Secretly Awesome</title>
-    <desc lang="en">The places, experiences and businesses around town that only the locals know about.</desc>
-    <category lang="en">Performing Arts</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17943416_b_v12_aa.jpg" />
+    <title lang="en">Best of Localish</title>
+    <desc lang="en">Checking out an NYC sweets shop; taking a beekeeping class in California; meeting Marvel characters at Paley Weekend.</desc>
+    <category lang="en">Local</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17915582_b_v12_ab.jpg" />
     <previously-shown />
     <rating system="MPAA">
       <value>TVG</value>
     </rating>
   </programme>
   <programme start="20250607043000 +0400" stop="20250607050000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">My Go-To</title>
-    <desc lang="en">Go-to spots for the places to be, people to see and things to do.</desc>
-    <category lang="en">Performing Arts</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17601906_b_v12_aa.jpg" />
+    <title lang="en">Sports Stars of Tomorrow</title>
+    <desc lang="en">Profiles of the top rookie, college and high-school talent in sports; current athletes share their experiences, advice and personal impressions of the road to stardom.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Anthology</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p492867_b_v12_aa.jpg" />
     <previously-shown />
     <rating system="MPAA">
       <value>TVG</value>
@@ -31714,264 +31362,337 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20250603050000 +0400" stop="20250603070000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">Today in New York</title>
-    <desc lang="en">The local news, weather and investigative stories impacting your community.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p960598_b_s2_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250603070000 +0400" stop="20250603090000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">Today</title>
-    <desc lang="en">Actor Benicio del Toro; shopping expert Adrianna Brach; chef Bobby Flay.Guests: Benicio del Toro, Adrianna Brach, Bobby Flay..</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184072_b_s4_ad.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250603090000 +0400" stop="20250603100000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">Today 3rd Hour</title>
-    <desc lang="en">Miami's fruit and spice garden; retired springboard diver Tom Daley; journalist Liz Plosser; Today Food with Tatiana Rosana.</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16183023_b_v12_ad.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250603100000 +0400" stop="20250603110000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">Today With Jenna &amp; Friends</title>
-    <desc lang="en">Leanne Morgan guest co-hosts; playwright Marco Calvani; American rugby union player Ilona Maher; makeup artist Isamaya Ffrench; a performance by the cast of "Real Women Have Curves.".</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28849956_i_h8_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250603110000 +0400" stop="20250603113000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">Live: News 4 NY at 11AM</title>
-    <desc lang="en">The latest local news, weather and investigative stories impacting your community.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10513203_b_s2_aa.jpg" />
-  </programme>
-  <programme start="20250603113000 +0400" stop="20250603120000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">Live: New York Live</title>
-    <desc lang="en">Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Magazine</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8692580_b_v12_ac.jpg" />
-  </programme>
-  <programme start="20250603120000 +0400" stop="20250603130000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">NBC News Daily</title>
-    <desc lang="en">NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22712535_b_s4_ad.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250603130000 +0400" stop="20250603140000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">Dateline</title>
-    <sub-title lang="en">Unchecked Evil</sub-title>
-    <desc lang="en">A 21-year-old college senior is shot and killed in a public park just months before her graduation.</desc>
-    <category lang="en">News Magazine</category>
-    <category lang="en">Documentary</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13159645_b_v12_aa.jpg" />
-    <episode-num system="onscreen">E439</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250603140000 +0400" stop="20250603150000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">Access Daily With Mario &amp; Kit</title>
-    <desc lang="en">Actress Jane Seymour (Acorn TV's "Harry Wild"); food author Adam Roberts prepares a tasty recipe; Alison Triessl gives a legal news update; reality check; MorningSave shoppable finds!Guests: Jane Seymour, Adam Roberts, Alison Triessl..</desc>
-    <category lang="en">News Magazine</category>
-    <category lang="en">Performing Arts</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22894952_b_s4_aa.jpg" />
-    <episode-num system="onscreen">E3842</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250603150000 +0400" stop="20250603160000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">The Kelly Clarkson Show</title>
-    <desc lang="en">Kellyoke encore: "Worth It"; Ralph Macchio, Jackie Chan and Ben Wang ("Karate Kid: Legends"); Kelly Extra: Jimmy Fallon; Kelly Extra: Maury Povich; bargains and deals with Lawrence Zarian and MorningSave; The Head and the Heart perform.Guests: Ralph Macchio, Jackie Chan, Ben Wang, Jimmy Fallon, Maury Povich, Lawrence Zarian..</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">Variety</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16993616_i_s4_ae.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250603160000 +0400" stop="20250603163000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">Live: News 4 NY at 4</title>
-    <desc lang="en">The latest local news, weather and investigative stories impacting your community.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12736826_b_s2_aa.jpg" />
-  </programme>
-  <programme start="20250603163000 +0400" stop="20250603170000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">Live: News 4 NY at 4:30</title>
-    <desc lang="en">NY news.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14883147_b_v8_ab.jpg" />
-  </programme>
-  <programme start="20250603170000 +0400" stop="20250603173000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">Live: News 4 NY at 5</title>
-    <desc lang="en">The latest local news, weather and investigative stories impacting your community.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8846204_b_s2_aa.jpg" />
-  </programme>
-  <programme start="20250603173000 +0400" stop="20250603180000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">Live: News 4 NY at 5:30</title>
-    <desc lang="en">NY news.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14883149_i_h10_aa.jpg" />
-  </programme>
-  <programme start="20250603180000 +0400" stop="20250603183000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">Live: News 4 NY at 6</title>
-    <desc lang="en">The latest local news, weather and investigative stories impacting your community.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8846208_b_s2_aa.jpg" />
-  </programme>
-  <programme start="20250603183000 +0400" stop="20250603190000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">NBC Nightly News With Tom Llamas</title>
-    <desc lang="en">Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30141511_b_s4_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250603190000 +0400" stop="20250603193000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">News 4 NY at 7</title>
-    <desc lang="en">Breaking news and headlines, local weather forecasts, sports and traffic reports.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18101773_i_h10_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250603193000 +0400" stop="20250603200000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">Access Hollywood</title>
-    <desc lang="en">Interviews with Bravo's "Next Gen NYC" cast; Gotham TV Awards.</desc>
-    <category lang="en">News Magazine</category>
-    <category lang="en">Performing Arts</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184468_i_s4_ae.jpg" />
-    <episode-num system="onscreen">E7497</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250603200000 +0400" stop="20250603220000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">America's Got Talent</title>
-    <sub-title lang="en">Auditions 2</sub-title>
-    <desc lang="en">Howie jokes that a group of clown magicians nearly gives him a heart attack; siblings test their bond and talent on the audition stage; Sofia and Mel battle it out to be the first to hit the button over a jaw-dropping golden buzzer.</desc>
-    <category lang="en">Music</category>
-    <category lang="en">Variety</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p187477_b_v12_af.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250603220000 +0400" stop="20250603230000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">Destination X</title>
-    <sub-title lang="en">Take It Up a Notch</sub-title>
-    <desc lang="en">The adventure continues to the top of Europe, where clues and views abound; players begin to realize the value of misdirection; as bonds start to form, so do cracks in trust; one player's deception leads to another's demise.</desc>
+  <programme start="20250607053000 +0400" stop="20250607060000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Wheel of Fortune</title>
+    <desc lang="en">In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
     <category lang="en">Game Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29752576_b_v12_ab.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250603230000 +0400" stop="20250603233400 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">Live: News 4 NY at 11</title>
-    <desc lang="en">Local and regional news.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10513206_b_s2_aa.jpg" />
-  </programme>
-  <programme start="20250603233400 +0400" stop="20250604003700 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">The Tonight Show Starring Jimmy Fallon</title>
-    <sub-title lang="en">Tyler Perry; Taraji P. Henson; Brianne Howey; Owen Cooper; Turnstile</sub-title>
-    <desc lang="en">Filmmaker Tyler Perry; actress Taraji P. Henson; actress Brianne Howey; actor Owen Cooper; Turnstile performs.Guests: Tyler Perry, Taraji P. Henson, Brianne Howey, Owen Cooper..</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9898935_i_s4_ad.jpg" />
-    <episode-num system="onscreen">E2142</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250604003700 +0400" stop="20250604013700 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">Late Night With Seth Meyers</title>
-    <sub-title lang="en">Shane Gillis; Steve Gerben; Ben Wang; Maria Reva</sub-title>
-    <desc lang="en">Actors Shane Gillis and Steve Gerben; actor Ben Wang; writer Maria Reva.Guests: Shane Gillis, Steve Gerben, Ben Wang, Maria Reva..</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10409716_b_v12_aa.jpg" />
-    <episode-num system="onscreen">E1657</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250604013700 +0400" stop="20250604020700 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">News 4 NY at 11</title>
-    <desc lang="en">Local and regional news.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10513206_b_s2_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250604020700 +0400" stop="20250604023700 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">NBC Nightly News With Tom Llamas</title>
-    <desc lang="en">Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30141511_b_s4_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250604023700 +0400" stop="20250604030700 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">Access Hollywood</title>
-    <desc lang="en">Interviews with Bravo's "Next Gen NYC" cast; Gotham TV Awards.</desc>
-    <category lang="en">News Magazine</category>
-    <category lang="en">Performing Arts</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184468_i_s4_ae.jpg" />
-    <episode-num system="onscreen">E7497</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250604030700 +0400" stop="20250604040000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">The Kelly Clarkson Show</title>
-    <desc lang="en">Kellyoke encore: "Worth It"; Ralph Macchio, Jackie Chan and Ben Wang ("Karate Kid: Legends"); Kelly Extra: Jimmy Fallon; Kelly Extra: Maury Povich; bargains and deals with Lawrence Zarian and MorningSave; The Head and the Heart perform.Guests: Ralph Macchio, Jackie Chan, Ben Wang, Jimmy Fallon, Maury Povich, Lawrence Zarian..</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">Variety</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16993616_i_s4_ae.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250604040000 +0400" stop="20250604043000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">Early Today</title>
-    <desc lang="en">Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p185301_b_s4_af.jpg" />
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184057_b_h8_ah.jpg" />
+    <episode-num system="onscreen">E8205</episode-num>
     <previously-shown />
     <rating system="MPAA">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20250604043000 +0400" stop="20250604050000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">Today in New York</title>
-    <desc lang="en">The local news, weather and investigative stories impacting your community.</desc>
+  <programme start="20250607060000 +0400" stop="20250607080000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Eyewitness News This Morning</title>
+    <desc lang="en">News coverage to start the day.</desc>
     <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p960598_b_s2_aa.jpg" />
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p677214_b_v8_ad.jpg" />
     <previously-shown />
   </programme>
-  <programme start="20250604050000 +0400" stop="20250604050000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
-    <title lang="en">Today in New York</title>
-    <desc lang="en">The local news, weather and investigative stories impacting your community.</desc>
+  <programme start="20250607080000 +0400" stop="20250607090000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.</desc>
+    <category lang="en">Talk Shows</category>
     <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p960598_b_s2_aa.jpg" />
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184220_i_h8_aa.jpg" />
     <previously-shown />
+  </programme>
+  <programme start="20250607090000 +0400" stop="20250607100000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Eyewitness News This Morning</title>
+    <desc lang="en">News coverage to start the day.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p677214_b_v8_ad.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250607100000 +0400" stop="20250607110000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">Actress King Princess; ABC Secret Sales with Will Ganss; Deals &amp; Steals with Tory Johnson.Guests: King Princess, Will Ganss, Tory Johnson..</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184220_i_h8_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250607110000 +0400" stop="20250607113000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Wildlife Nation With Jeff Corwin</title>
+    <sub-title lang="en">Conservation Odyssey</sub-title>
+    <desc lang="en">Protecting wildlife across Florida's diverse landscapes; a dog training program at the University of Florida; revitalizing coral reefs; the Miccosukee Tribe of Indians work to preserve Florida's rich biodiversity.</desc>
+    <category lang="en">Animals</category>
+    <category lang="en">Instructional</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20524958_b_v12_ad.jpg" />
+    <episode-num system="onscreen">E208</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20250607113000 +0400" stop="20250607120000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Jack Hanna's Passport</title>
+    <sub-title lang="en">A World of Surprises</sub-title>
+    <desc lang="en">Bighorn sheep on a Canadian roadside; leeches; Australian kangaroos; rare bearded pigs in Malaysia; a puff adder snake.</desc>
+    <category lang="en">Animals</category>
+    <category lang="en">Instructional</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26975705_i_h8_aa.jpg" />
+    <episode-num system="onscreen">E110</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20250607120000 +0400" stop="20250607123000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Hearts of Heroes</title>
+    <sub-title lang="en">Hawaiian Heroes</sub-title>
+    <desc lang="en">A kayaker struggles against unforgiving ocean currents; a family of fishermen are stranded at sea.</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16722748_b_s3_ab.jpg" />
+    <episode-num system="onscreen">E625</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250607123000 +0400" stop="20250607130000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">oh baby!</title>
+    <sub-title lang="en">Mountain Cats, Cubs and Kids</sub-title>
+    <desc lang="en">Lions, pandas and the colorful monarch butterfly.</desc>
+    <category lang="en">Animals</category>
+    <category lang="en">Instructional</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17328212_b_v8_ac.jpg" />
+    <episode-num system="onscreen">E518</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250607130000 +0400" stop="20250607150000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Live: Premier Lacrosse League</title>
+    <sub-title lang="en">Utah Archers vs. Boston Cannons</sub-title>
+    <desc lang="en">Utah takes the field against Boston at American Legion Memorial Stadium in Charlotte, N.C.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Lacrosse</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16727461_b_h10_aa.jpg" />
+  </programme>
+  <programme start="20250607150000 +0400" stop="20250607170000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Live: WNBA Basketball</title>
+    <sub-title lang="en">Las Vegas Aces at Golden State Valkyries</sub-title>
+    <desc lang="en">From Chase Center in San Francisco.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG00201G38.jpg" />
+  </programme>
+  <programme start="20250607170000 +0400" stop="20250607180000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Eyewitness News at 5</title>
+    <desc lang="en">Local and regional news.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13769033_i_s4_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250607180000 +0400" stop="20250607183000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Eyewitness News at 6</title>
+    <desc lang="en">Breaking news and headlines, local weather forecasts, sports and traffic reports.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13769035_b_s4_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250607183000 +0400" stop="20250607190000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10880351_b_v12_ah.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250607190000 +0400" stop="20250607193000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">ABC Secret Sales</title>
+    <desc lang="en">Featuring the holiday shopping items of the season at discounted prices of up to 75% off; from holiday gift guides to Black Friday sales.</desc>
+    <category lang="en">Local</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28110393_st_h10_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250607193000 +0400" stop="20250607200000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Localish Life</title>
+    <desc lang="en">Highlighting great food, great shopping and great people.</desc>
+    <category lang="en">Variety</category>
+    <category lang="en">Local</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26864545_b_s4_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250607200000 +0400" stop="20250607203000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">The Conners</title>
+    <sub-title lang="en">It's Gonna Be a Great Day</sub-title>
+    <desc lang="en">Darlene celebrates her promotion, hoping it will allow her to spend more time with Ben; Jackie stumbles upon an opportunity to sue the pharmaceutical company responsible for Roseanne's addiction, which sparks a family debate.</desc>
+    <credits>
+      <actor>John Goodman</actor>
+      <actor>Laurie Metcalf</actor>
+      <actor>Lecy Goranson</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15661264_b_v12_an.jpg" />
+    <episode-num system="onscreen">E701</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250607203000 +0400" stop="20250607210000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">The Conners</title>
+    <sub-title lang="en">Fame, Flying Fists and Cold Feet</sub-title>
+    <desc lang="en">The Conners get a taste of fame when their family restaurant is featured in a reality TV show, which inspires Becky to become an influencer; Jackie and Dan meet with a lawyer; Darlene connects with someone at The Lobo Lounge.</desc>
+    <credits>
+      <actor>John Goodman</actor>
+      <actor>Laurie Metcalf</actor>
+      <actor>Lecy Goranson</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15661264_b_v12_an.jpg" />
+    <episode-num system="onscreen">E702</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250607210000 +0400" stop="20250607213000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">The Conners</title>
+    <sub-title lang="en">Applications, Accusations and a Man-Bag</sub-title>
+    <desc lang="en">Jackie decides to rejoin the police force despite everyone's concerns; Darlene grows more skeptical about Mark's secretive behavior; Dan and Becky wade through uncomfortable conversations about Roseanne's addiction issues and death.</desc>
+    <credits>
+      <actor>John Goodman</actor>
+      <actor>Laurie Metcalf</actor>
+      <actor>Lecy Goranson</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15661264_b_v12_an.jpg" />
+    <episode-num system="onscreen">E703</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250607213000 +0400" stop="20250607220000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">The Conners</title>
+    <sub-title lang="en">Danny Boy, the Interview, the New Hire, and the Hanging Chad</sub-title>
+    <desc lang="en">Dan sidesteps vulnerable emotions surrounding Roseanne's death ahead of an upcoming deposition; Becky prepares for a job interview; Harris impulsively hires a new server at the Lunch Box.</desc>
+    <credits>
+      <actor>John Goodman</actor>
+      <actor>Laurie Metcalf</actor>
+      <actor>Lecy Goranson</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15661264_b_v12_an.jpg" />
+    <episode-num system="onscreen">E704</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250607220000 +0400" stop="20250607223000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">The Conners</title>
+    <sub-title lang="en">Exercise Bands, Money Plans, and Faraway Lands</sub-title>
+    <desc lang="en">Ahead of the deposition, Dan gets support from Jackie, Becky and Darlene; Mark is presented with an opportunity which leads to a major life decision; Becky and Tyler consider the next step in their relationship.</desc>
+    <credits>
+      <actor>John Goodman</actor>
+      <actor>Laurie Metcalf</actor>
+      <actor>Lecy Goranson</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15661264_b_v12_an.jpg" />
+    <episode-num system="onscreen">E705</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250607223000 +0400" stop="20250607230000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">The Conners</title>
+    <sub-title lang="en">The Truck Stops Here</sub-title>
+    <desc lang="en">Jackie prepares for a series of physical tests in an effort to rejoin the police force; Darlene confronts the insecurities in her marriage with Ben; Dan's deposition stirs up feelings; final farewells are made in true Conner family fashion.</desc>
+    <credits>
+      <actor>John Goodman</actor>
+      <actor>Laurie Metcalf</actor>
+      <actor>Lecy Goranson</actor>
+    </credits>
+    <category lang="en">Sitcom</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15661264_b_v12_an.jpg" />
+    <episode-num system="onscreen">E706</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250607230000 +0400" stop="20250608000000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Eyewitness News at 11</title>
+    <desc lang="en">Breaking news.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13769039_b_s4_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250608000000 +0400" stop="20250608010000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">9-1-1</title>
+    <sub-title lang="en">Powerless</sub-title>
+    <desc lang="en">The 118 races to rescue a little girl in a runaway hot air balloon and help with a city power outage caused by a hijacked tree-trimmer truck; Athena's investigation into the serial rapist case puts her life in jeopardy.</desc>
+    <credits>
+      <actor>Angela Bassett</actor>
+      <actor>Peter Krause</actor>
+      <actor>Oliver Stark</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18156454_e_s3_ac.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250608010000 +0400" stop="20250608020000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">9-1-1</title>
+    <sub-title lang="en">What's Next?</sub-title>
+    <desc lang="en">The 118 rush to save lives in the aftermath of a massive train derailment.</desc>
+    <credits>
+      <actor>Angela Bassett</actor>
+      <actor>Peter Krause</actor>
+      <actor>Oliver Stark</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18238695_e_h8_ac.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250608020000 +0400" stop="20250608030000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Fast: Home Rescue</title>
+    <sub-title lang="en">Mississippi Queen</sub-title>
+    <desc lang="en">Cody and Felicia Walker rebuild the Sellars family house in LaPlace, La., after it was ruined by Hurricanes Zeta and Ida; adrenaline levels run high as they transform the property into a Mississippi Queen themed home for the Sellars family.</desc>
+    <category lang="en">Environmental</category>
+    <category lang="en">Home</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22712632_b_v8_ab.jpg" />
+    <episode-num system="onscreen">E1009</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20250608030000 +0400" stop="20250608033000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Beautiful Homes &amp; Great Estates</title>
+    <sub-title lang="en">Cielo Estate</sub-title>
+    <desc lang="en">An Andalusian-style mansion with jetliner views and impressive amenities.</desc>
+    <category lang="en">Regular</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p338301_i_h10_aa.jpg" />
+    <episode-num system="onscreen">E22001</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250608033000 +0400" stop="20250608040000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">The American Athlete</title>
+    <desc lang="en">Motorsports racing driver Antron Brown; Olympic athlete Sabine Schut-Kery; professional surfer Erin Brooks.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p502818_b_v8_ak.jpg" />
+    <episode-num system="onscreen">E2817</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250608040000 +0400" stop="20250608043000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Localish</title>
+    <desc lang="en">Bringing out the good in America's cities by featuring locally-sourced stories that transcend city limits.</desc>
+    <category lang="en">Local</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16154105_b_s4_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250608043000 +0400" stop="20250608053000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Entertainers: With Byron Allen</title>
+    <desc lang="en">Ian McShane ("Ballerina"); Diego Luna and Adria Arjona ("Andor"); Hayley Atwell; Vince Vaughn ("Nonnas"); Da'Vine Joy Randolph ("Shadow Force"); Jai Courtney; comic Vanessa Graddick; David Harbour; Meghann Fahy; Pete Davidson; Maroon 5 and Lisa.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Performing Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p378491_b_v8_af.jpg" />
+    <episode-num system="onscreen">E31022</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
   </programme>
   <programme start="20250604050000 +0400" stop="20250604070000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
     <title lang="en">Today in New York</title>
@@ -31982,7 +31703,7 @@
   </programme>
   <programme start="20250604070000 +0400" stop="20250604090000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
     <title lang="en">Today</title>
-    <desc lang="en">Actress Taraji P. Henson; Steals and Deals with Jill Martin; actor Robert De Niro; film producer Jane Rosenthal.</desc>
+    <desc lang="en">Actress Taraji P. Henson; Steals and Deals with Jill Martin; actor Robert De Niro; film producer Jane Rosenthal.Guests: Taraji P. Henson, Jill Martin, Robert De Niro, Jane Rosenthal..</desc>
     <category lang="en">Talk Shows</category>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184072_b_s4_ad.jpg" />
@@ -31990,7 +31711,7 @@
   </programme>
   <programme start="20250604090000 +0400" stop="20250604100000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
     <title lang="en">Today 3rd Hour</title>
-    <desc lang="en">Credit facts and myths; actor Owen Cooper; Father's Day savings with Adrianna Brach; Today Food with Angie Rito and Scott Tacinelli.</desc>
+    <desc lang="en">Credit facts and myths; actor Owen Cooper; Father's Day savings with Adrianna Brach; Today Food with Angie Rito and Scott Tacinelli.Guests: Owen Cooper, Adrianna Brach, Angie Rito, Scott Tacinelli..</desc>
     <category lang="en">Talk Shows</category>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16183023_b_v12_ad.jpg" />
@@ -31998,7 +31719,7 @@
   </programme>
   <programme start="20250604100000 +0400" stop="20250604110000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
     <title lang="en">Today With Jenna &amp; Friends</title>
-    <desc lang="en">Halle Berry guest co-hosts; actress Teyana Taylor; Dr. Sarah de la Torre on perimenopause; Halle Berry's workout with Maria Luque; Renée Elise Goldsberry performs.</desc>
+    <desc lang="en">Halle Berry guest co-hosts; actress Teyana Taylor; Dr. Sarah de la Torre on perimenopause; Halle Berry's workout with Maria Luque; Renée Elise Goldsberry performs.Guests: Halle Berry, Teyana Taylor, Dr. Sarah De La Torre, Maria Luque..</desc>
     <category lang="en">Talk Shows</category>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28849956_i_h8_aa.jpg" />
@@ -32106,7 +31827,7 @@
   </programme>
   <programme start="20250604193000 +0400" stop="20250604200000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
     <title lang="en">Access Hollywood</title>
-    <desc lang="en">Inside the red carpet premieres of "Echo Valley" and "Ballerina.".</desc>
+    <desc lang="en">Keanu Reeves and Ana de Armas ("Ballerina") hit the red carpet; inside Cedric the Entertainer and Anthony Anderson's dream culinary collaboration.Guests: Cedric the Entertainer, Anthony Anderson..</desc>
     <category lang="en">News Magazine</category>
     <category lang="en">Performing Arts</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184468_i_s4_ae.jpg" />
@@ -32212,7 +31933,7 @@
   </programme>
   <programme start="20250605023700 +0400" stop="20250605030700 +0400" channel="NBC.(WNBC).New.York,.NY.us">
     <title lang="en">Access Hollywood</title>
-    <desc lang="en">Inside the red carpet premieres of "Echo Valley" and "Ballerina.".</desc>
+    <desc lang="en">Keanu Reeves and Ana de Armas ("Ballerina") hit the red carpet; inside Cedric the Entertainer and Anthony Anderson's dream culinary collaboration.Guests: Cedric the Entertainer, Anthony Anderson..</desc>
     <category lang="en">News Magazine</category>
     <category lang="en">Performing Arts</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184468_i_s4_ae.jpg" />
@@ -32266,7 +31987,7 @@
   </programme>
   <programme start="20250605070000 +0400" stop="20250605090000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
     <title lang="en">Today</title>
-    <desc lang="en">Actor Tom Felton; transforming one's outdoor space for summer with Chassie Post; Today Food.</desc>
+    <desc lang="en">Actor Tom Felton; transforming one's outdoor space for summer with Chassie Post; Today Food.Guests: Tom Felton, Chassie Post..</desc>
     <category lang="en">Talk Shows</category>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184072_b_s4_ad.jpg" />
@@ -32390,7 +32111,7 @@
   </programme>
   <programme start="20250605193000 +0400" stop="20250605200000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
     <title lang="en">Access Hollywood</title>
-    <desc lang="en">Hosts Mario Lopez, Kit Hoover and Scott Evans and correspondent Zuri Hall take viewers behind the velvet ropes and onto the red carpet to deliver celebrity interviews and entertainment news stories in Hollywood.</desc>
+    <desc lang="en">The red carpet premieres of "Billy Joel: And So It Goes" and "Echo Valley.".</desc>
     <category lang="en">News Magazine</category>
     <category lang="en">Performing Arts</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184468_i_s4_ae.jpg" />
@@ -32436,8 +32157,8 @@
   </programme>
   <programme start="20250605233400 +0400" stop="20250606003700 +0400" channel="NBC.(WNBC).New.York,.NY.us">
     <title lang="en">The Tonight Show Starring Jimmy Fallon</title>
-    <sub-title lang="en">Sydney Sweeney; Nick Kroll; Andrew Rannells; Liz Glazer</sub-title>
-    <desc lang="en">Actress Sydney Sweeney; actor Nick Kroll; actor Andrew Rannells; comic Liz Glazer.Guests: Sydney Sweeney, Nick Kroll, Andrew Rannells, Liz Glazer..</desc>
+    <sub-title lang="en">Sydney Sweeney; Andrew Rannells; Nick Kroll; Liz Glazer</sub-title>
+    <desc lang="en">Actress Sydney Sweeney; actor Andrew Rannells; actor Nick Kroll; comic Liz Glazer.Guests: Sydney Sweeney, Andrew Rannells, Nick Kroll, Liz Glazer..</desc>
     <category lang="en">Talk Shows</category>
     <category lang="en">Comedy</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9898935_i_s4_ad.jpg" />
@@ -32476,7 +32197,7 @@
   </programme>
   <programme start="20250606023700 +0400" stop="20250606030700 +0400" channel="NBC.(WNBC).New.York,.NY.us">
     <title lang="en">Access Hollywood</title>
-    <desc lang="en">Hosts Mario Lopez, Kit Hoover and Scott Evans and correspondent Zuri Hall take viewers behind the velvet ropes and onto the red carpet to deliver celebrity interviews and entertainment news stories in Hollywood.</desc>
+    <desc lang="en">The red carpet premieres of "Billy Joel: And So It Goes" and "Echo Valley.".</desc>
     <category lang="en">News Magazine</category>
     <category lang="en">Performing Arts</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184468_i_s4_ae.jpg" />
@@ -32661,7 +32382,7 @@
   </programme>
   <programme start="20250606193000 +0400" stop="20250606200000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
     <title lang="en">Access Hollywood</title>
-    <desc lang="en">Hosts Mario Lopez, Kit Hoover and Scott Evans and correspondent Zuri Hall take viewers behind the velvet ropes and onto the red carpet to deliver celebrity interviews and entertainment news stories in Hollywood.</desc>
+    <desc lang="en">An interview with Fina Strazza (Broadway's "John Proctor Is the Villain"); weekend "what to watch" list.</desc>
     <category lang="en">News Magazine</category>
     <category lang="en">Performing Arts</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184468_i_s4_ae.jpg" />
@@ -32676,7 +32397,7 @@
     <desc lang="en">A behind-the-scenes look at the making of the live-action film "How to Train Your Dragon," following writer and director Dean DeBlois' journey of reimagining the animated franchise and revealing the film's elaborate sets and filmmaking technology.</desc>
     <category lang="en">Specials</category>
     <category lang="en">Performing Arts</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30327392_st_v8_aa.jpg" />
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30327392_i_h8_ab.jpg" />
     <previously-shown />
     <rating system="MPAA">
       <value>TVPG</value>
@@ -32755,7 +32476,7 @@
   </programme>
   <programme start="20250607023700 +0400" stop="20250607030700 +0400" channel="NBC.(WNBC).New.York,.NY.us">
     <title lang="en">Access Hollywood</title>
-    <desc lang="en">Hosts Mario Lopez, Kit Hoover and Scott Evans and correspondent Zuri Hall take viewers behind the velvet ropes and onto the red carpet to deliver celebrity interviews and entertainment news stories in Hollywood.</desc>
+    <desc lang="en">An interview with Fina Strazza (Broadway's "John Proctor Is the Villain"); weekend "what to watch" list.</desc>
     <category lang="en">News Magazine</category>
     <category lang="en">Performing Arts</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184468_i_s4_ae.jpg" />
@@ -32778,9 +32499,11 @@
   </programme>
   <programme start="20250607040000 +0400" stop="20250607043000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
     <title lang="en">1st Look</title>
-    <desc lang="en">Exploring exciting destinations across the globe; the host becomes immersed in the culture, cuisine and conversations, turning every city into an unforgettable memory.</desc>
+    <sub-title lang="en">Destination Dallas</sub-title>
+    <desc lang="en">Jared Haibon heads down to Dallas, stirring up some southern charm with Opal Lee; Texas State Fair; chef Tiffany Derry.</desc>
     <category lang="en">Travel</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8953716_i_h8_ag.jpg" />
+    <episode-num system="onscreen">E3449</episode-num>
     <previously-shown />
     <rating system="MPAA">
       <value>TVPG</value>
@@ -32807,386 +32530,110 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20250603060000 +0400" stop="20250603070000 +0400" channel="ION.TV.East.us">
-    <title lang="en">NCIS: Los Angeles</title>
-    <sub-title lang="en">Searching</sub-title>
-    <desc lang="en">Department of Justice Agent Lance Hamilton asks Sam for assistance in locating a former U.S. Border Patrol tactical officer who disappeared following a threat by the cartel.</desc>
-    <credits>
-      <actor>Chris O'Donnell</actor>
-      <actor>LL Cool J</actor>
-      <actor>Linda Hunt</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3561420_b_v12_bn.jpg" />
-    <episode-num system="onscreen">E1019</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250603070000 +0400" stop="20250603080000 +0400" channel="ION.TV.East.us">
-    <title lang="en">NCIS: Los Angeles</title>
-    <sub-title lang="en">Choke Point</sub-title>
-    <desc lang="en">After a Navy SEAL is attacked while moonlighting at a security job for a successful marijuana dispensary, Sam personally vows to apprehend the suspect out of respect for the Navy SEAL brotherhood.</desc>
-    <credits>
-      <actor>Chris O'Donnell</actor>
-      <actor>LL Cool J</actor>
-      <actor>Linda Hunt</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3561420_b_v12_bn.jpg" />
-    <episode-num system="onscreen">E1020</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250603080000 +0400" stop="20250603090000 +0400" channel="ION.TV.East.us">
-    <title lang="en">NCIS: Los Angeles</title>
-    <sub-title lang="en">The One That Got Away</sub-title>
-    <desc lang="en">After Anna Kolcheck escapes from prison with her cellmate, Callen and the NCIS team assist with the investigation and try to locate her.</desc>
-    <credits>
-      <actor>Chris O'Donnell</actor>
-      <actor>LL Cool J</actor>
-      <actor>Linda Hunt</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3561420_b_v12_bn.jpg" />
-    <episode-num system="onscreen">E1021</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250603090000 +0400" stop="20250603100000 +0400" channel="ION.TV.East.us">
-    <title lang="en">NCIS: Los Angeles</title>
-    <sub-title lang="en">No More Secrets</sub-title>
-    <desc lang="en">The NCIS team travels to Cuba for an unsanctioned mission after Callen gets a lead on Anna Kolcheck's whereabouts.</desc>
-    <credits>
-      <actor>Chris O'Donnell</actor>
-      <actor>LL Cool J</actor>
-      <actor>Linda Hunt</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3561420_b_v12_bn.jpg" />
-    <episode-num system="onscreen">E1022</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250603100000 +0400" stop="20250603110000 +0400" channel="ION.TV.East.us">
-    <title lang="en">NCIS: Los Angeles</title>
-    <sub-title lang="en">The Guardian</sub-title>
-    <desc lang="en">Callen and Sam travel to the USS Allegiance in the Persian Gulf to work with Navy Capt. Harmon "Harm" Rabb Jr. when the team learns about ISIS sympathizers who are targeting military locations.</desc>
-    <credits>
-      <actor>Chris O'Donnell</actor>
-      <actor>LL Cool J</actor>
-      <actor>Linda Hunt</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3561420_b_v12_bn.jpg" />
-    <episode-num system="onscreen">E1023</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250603110000 +0400" stop="20250603120000 +0400" channel="ION.TV.East.us">
-    <title lang="en">Chicago Fire</title>
-    <sub-title lang="en">No Survivors</sub-title>
-    <desc lang="en">The firehouse reacts to some exciting news; a mysterious stranger arrives, and a shocking call takes Severide's breath away.</desc>
-    <credits>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Eamonn Walker</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9257455_b_s4_an.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250603120000 +0400" stop="20250603130000 +0400" channel="ION.TV.East.us">
-    <title lang="en">Chicago Fire</title>
-    <sub-title lang="en">Mayday</sub-title>
-    <desc lang="en">Firehouse 51 deals with the aftermath of the capsized boat rescue; Gallo, Ritter and Violet discuss plans for a side gig.</desc>
-    <credits>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Eamonn Walker</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9257455_b_s4_an.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250603130000 +0400" stop="20250603140000 +0400" channel="ION.TV.East.us">
-    <title lang="en">Chicago Fire</title>
-    <sub-title lang="en">Head Count</sub-title>
-    <desc lang="en">A video of Casey from the roof rescue goes viral; Mouch sets up a Little Free Library at Firehouse 51; Herrmann breaks protocol.</desc>
-    <credits>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Eamonn Walker</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9257455_b_s4_an.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250603140000 +0400" stop="20250603150000 +0400" channel="ION.TV.East.us">
-    <title lang="en">Chicago Fire</title>
-    <sub-title lang="en">Counting Your Breaths</sub-title>
-    <desc lang="en">Griffin learns the truth about his father's death and reveals why he really came to visit Casey; Gallo, Ritter and Violet take steps to expand their microbrewery business.</desc>
-    <credits>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Eamonn Walker</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9257455_b_s4_an.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250603150000 +0400" stop="20250603160000 +0400" channel="ION.TV.East.us">
-    <title lang="en">Chicago Fire</title>
-    <sub-title lang="en">The Right Thing</sub-title>
-    <desc lang="en">Kidd spreads her wings as a lieutenant; Chief Hawkins rides with Ambulance 61 to learn more about Brett; Casey takes a trip out of town; a Ritter date night turns into an emergency situation.</desc>
-    <credits>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Eamonn Walker</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9257455_b_s4_an.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250603160000 +0400" stop="20250603170000 +0400" channel="ION.TV.East.us">
-    <title lang="en">Chicago Fire</title>
-    <sub-title lang="en">Two Hundred</sub-title>
-    <desc lang="en">Casey makes a life-altering decision; Gallo, Ritter and Violet agree to an interview and photo shoot; Brett and Mouch launch the paramedicine program; Cruz comes closer to fatherhood.</desc>
-    <credits>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Eamonn Walker</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9257455_b_s4_an.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250603170000 +0400" stop="20250603180000 +0400" channel="ION.TV.East.us">
-    <title lang="en">Chicago Fire</title>
-    <sub-title lang="en">Dead Zone</sub-title>
-    <desc lang="en">A major security breach in the city's computer networks forces Firehouse 51's senior leaders to take matters into their own hands; Severide gears up for an arson investigation.</desc>
-    <credits>
-      <actor>Taylor Kinney</actor>
-      <actor>Eamonn Walker</actor>
-      <actor>David Eigenberg</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9257455_b_s4_an.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250603180000 +0400" stop="20250603190000 +0400" channel="ION.TV.East.us">
-    <title lang="en">Chicago Fire</title>
-    <sub-title lang="en">Whom Shall I Fear?</sub-title>
-    <desc lang="en">Gallo clashes with the new lieutenant temporarily filling in for Casey; Severide closes in on a dangerous and deadly arsonist.</desc>
-    <credits>
-      <actor>Taylor Kinney</actor>
-      <actor>Eamonn Walker</actor>
-      <actor>David Eigenberg</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9257455_b_s4_an.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250603190000 +0400" stop="20250603200000 +0400" channel="ION.TV.East.us">
-    <title lang="en">Chicago Fire</title>
-    <sub-title lang="en">What Happened at Whiskey Point?</sub-title>
-    <desc lang="en">Severide and Herrmann clash over office space; Boden looks at Pelham's past as he considers making him permanent; Gallo's resentment of Pelham comes to a head; Brett and Ritter force Violet to confront her true feelings for Gallo.</desc>
-    <credits>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Eamonn Walker</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9257455_b_s4_an.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250603200000 +0400" stop="20250603210000 +0400" channel="ION.TV.East.us">
-    <title lang="en">Chicago Fire</title>
-    <sub-title lang="en">Winterfest</sub-title>
-    <desc lang="en">Gallo, Violet and Ritter debut their microbrewery business at Winterfest; Brett prepares to present her paramedicine program to an oversight panel; Firehouse 51 gets in the holiday spirit.</desc>
-    <credits>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Eamonn Walker</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9257455_b_s4_an.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250603210000 +0400" stop="20250603220000 +0400" channel="ION.TV.East.us">
-    <title lang="en">Chicago Fire</title>
-    <sub-title lang="en">Back With a Bang</sub-title>
-    <desc lang="en">Stella Kidd returns to Firehouse 51; the team must work together to put out a potassium fire in a tunnel; after that incident, Ritter begins to worry about a young cop who witnessed the fiery death of a truck driver.</desc>
-    <credits>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Eamonn Walker</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9257455_b_s4_an.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250603220000 +0400" stop="20250603230000 +0400" channel="ION.TV.East.us">
-    <title lang="en">Chicago Fire</title>
-    <sub-title lang="en">Fog of War</sub-title>
-    <desc lang="en">On a call with Station 37, a firefighter is struck by a power line and decides to lash out after her injury; Brett is visited by Scott and Amelia; Violet gets a surprise envelope; the rest of 51 enters a contest.</desc>
-    <credits>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Eamonn Walker</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9257455_b_s4_an.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250603230000 +0400" stop="20250604000000 +0400" channel="ION.TV.East.us">
-    <title lang="en">Chicago Fire</title>
-    <sub-title lang="en">Show of Force</sub-title>
-    <desc lang="en">Boden, Kidd and Severide work together to protect one of their own; at the Fire Academy, Herrmann meets an inspiring young man; talk of the annual CFD Gala dominates the firehouse.</desc>
-    <credits>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Eamonn Walker</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9257455_b_s4_an.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250604000000 +0400" stop="20250604010000 +0400" channel="ION.TV.East.us">
-    <title lang="en">Chicago Fire</title>
-    <sub-title lang="en">Fire Cop</sub-title>
-    <desc lang="en">Severide and Seager team up to investigate a fire at the home of a troubled young woman; Pelham moves into 51's rumored cursed office; Kylie assists Kidd with Girls on Fire.</desc>
-    <credits>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Eamonn Walker</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9257455_b_s4_an.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250604010000 +0400" stop="20250604020000 +0400" channel="ION.TV.East.us">
-    <title lang="en">Chicago Fire</title>
-    <sub-title lang="en">An Officer With Grit</sub-title>
-    <desc lang="en">Chief Hawkins goes above and beyond to help Brett and Violet with a problem; Kidd pursues an open lieutenant position; a blast from the past asks Mouch and Herrmann for a favor.</desc>
-    <credits>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Eamonn Walker</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9257455_b_s4_an.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250604020000 +0400" stop="20250604030000 +0400" channel="ION.TV.East.us">
-    <title lang="en">Chicago Fire</title>
-    <sub-title lang="en">The Missing Piece</sub-title>
-    <desc lang="en">Following an injury in the aftermath of an industrial fire, Severide and Seager work together to investigate an anonymous tip; Kidd searches for the right person to fill the open spot on Truck 81; a possible new recruit to 51 gets tested at a call.</desc>
-    <credits>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Eamonn Walker</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9257455_b_s4_an.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250604030000 +0400" stop="20250604033000 +0400" channel="ION.TV.East.us">
-    <title lang="en">Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
-    <desc lang="en">Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote &amp; installation.</desc>
-    <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30074472_i_h8_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250604033000 +0400" stop="20250604040000 +0400" channel="ION.TV.East.us">
-    <title lang="en">NEW! Shark PowerDetect with DuoClean Detect Technology</title>
-    <desc lang="en">Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!</desc>
-    <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29477991_i_h11_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250604040000 +0400" stop="20250604043000 +0400" channel="ION.TV.East.us">
-    <title lang="en">Car accident? Free Legal Consultation</title>
-    <desc lang="en">Legal professionals standing by to answer your questions.</desc>
-    <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23642783_st_h10_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250604043000 +0400" stop="20250604050000 +0400" channel="ION.TV.East.us">
-    <title lang="en">Through the Bible With Les Feldick</title>
-    <desc lang="en">Les Feldick was an Oklahoma farmer and rancher with a special gift for teaching the Bible. His simple and nondenominational approach on the program "Through the Bible with Les Feldick" has reached millions around the world with the Gospel of Grace.</desc>
-    <category lang="en">Religious</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p958387_i_s2_aa.jpg" />
+  <programme start="20250607053000 +0400" stop="20250607060000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">Open House NYC</title>
+    <desc lang="en">Brokers and buyers participate in shopping for apartments and houses.</desc>
+    <category lang="en">Home</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p841103_b_h8_ac.jpg" />
     <previously-shown />
     <rating system="MPAA">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20250604050000 +0400" stop="20250604053000 +0400" channel="ION.TV.East.us">
-    <title lang="en">First EVER Eagle Privy Mark with an Exclusive label from CSN Mint!</title>
-    <desc lang="en">For the first time EVER the U.S. Mint has struck a Silver Eagle with an Eagle Privy Mark and we have them certified PERFECT in a CSN Exclusive label! Join your host Mike Mezack for this once-in-a-lifetime opportunity!</desc>
-    <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30276664_st_h10_aa.jpg" />
+  <programme start="20250607060000 +0400" stop="20250607070000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">Saturday Today in New York</title>
+    <desc lang="en">The local news, weather and investigative stories impacting your community.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p893330_b_s2_aa.jpg" />
     <previously-shown />
   </programme>
-  <programme start="20250604053000 +0400" stop="20250604060000 +0400" channel="ION.TV.East.us">
+  <programme start="20250607070000 +0400" stop="20250607083000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">Today</title>
+    <desc lang="en">News headlines, interviews, and stories intended to inform, entertain, inspire and set the agenda each morning for Americans and help viewers with their finances, health and well-being.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184072_b_s4_ad.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250607083000 +0400" stop="20250607090000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">Saturday Today in New York</title>
+    <desc lang="en">The local news, weather and investigative stories impacting your community.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p893330_b_s2_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250607090000 +0400" stop="20250607093000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">Saturday Today in New York</title>
+    <desc lang="en">The local news, weather and investigative stories impacting your community.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p893330_b_s2_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250607093000 +0400" stop="20250607100000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">NBC Nightly News With Lester Holt: Kids Edition</title>
+    <desc lang="en">Top headlines are broken down to help kids best understand the world today.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18484968_i_s4_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250607100000 +0400" stop="20250607103000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">Mutual of Omaha's Wild Kingdom Protecting the Wild</title>
+    <sub-title lang="en">On Thin Ice</sub-title>
+    <desc lang="en">Peter and Dr. Rae travel to the polar bear capital of the world -- Churchill, Manitoba -- to connect with the largest carnivores in North America; they join conservation experts studying the impact of thinning ice on polar bear hunting and migration.</desc>
+    <category lang="en">Documentary</category>
+    <category lang="en">Animals</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29393501_e_h10_aa.jpg" />
+    <episode-num system="onscreen">E214</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250607103000 +0400" stop="20250607110000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">Earth Odyssey With Dylan Dreyer</title>
+    <sub-title lang="en">Birds of a Feather</sub-title>
+    <desc lang="en">Dylan Dreyer is looking skyward to study some of the most impressive high-flying inhabitants around the world.</desc>
+    <category lang="en">Instructional</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29393509_e_h10_aa.jpg" />
+    <episode-num system="onscreen">E714</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250607110000 +0400" stop="20250607113000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">Harlem Globetrotters: Play It Forward</title>
+    <sub-title lang="en">The Beat of Their Own Drum</sub-title>
+    <desc lang="en">The team comes together to make some new world records and take back old ones; Wham, Thunder and Hammer head to New Orleans to meet kids who have fallen in line to learn the drum line; Cheese breaks down the science behind his famous Granny shot.</desc>
+    <category lang="en">Instructional</category>
+    <category lang="en">Sports</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29393517_e_h10_aa.jpg" />
+    <episode-num system="onscreen">E313</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250607113000 +0400" stop="20250607120000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">Wild Child</title>
+    <sub-title lang="en">Amazing Animal Kids</sub-title>
+    <desc lang="en">Sheinelle Jones embarks on a trek to meet cuddly creature kids in some of the wildest places on Earth.</desc>
+    <category lang="en">Reality TV</category>
+    <category lang="en">Animals</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p19191402_b_s2_af.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250607120000 +0400" stop="20250607123000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">9/11 Survivors Speak Up</title>
+    <desc lang="en">Hear from survivors, first responders and advocates about the devastating impact of 9/11 toxins and the lifetime benefits available. Learn about your rights and protection under the law.</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20538847_st_v8_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250607123000 +0400" stop="20250607130000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
     <title lang="en">Paid Programming</title>
     <desc lang="en">Paid programming.</desc>
     <category lang="en">Paid Program</category>
@@ -33195,6 +32642,207 @@
     <previously-shown />
     <rating system="MPAA">
       <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250607130000 +0400" stop="20250607140000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">Programming to be announced.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p514472_i_s4_af.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250607140000 +0400" stop="20250607160000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">Swimming</title>
+    <sub-title lang="en">U.S. National Championships</sub-title>
+    <desc lang="en">Elite swimmers from around the nation face off in the pool at the 2025 National Championships. From Indiana University Natatorium in Indianapolis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Watersports</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p497302_b_s2_ad.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250607160000 +0400" stop="20250607180000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">Live: Pro Motocross Championship</title>
+    <sub-title lang="en">Thunder Valley National</sub-title>
+    <desc lang="en">Riders face off in Round 20 of the 2025 AMA Pro Motocross Championship at Thunder Valley in Lakewood, Colo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorcycle Racing</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21666577_b_h8_aa.jpg" />
+  </programme>
+  <programme start="20250607180000 +0400" stop="20250607183000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">Live: News 4 NY at 6</title>
+    <desc lang="en">The latest local news, weather and investigative stories impacting your community.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8846208_b_s2_aa.jpg" />
+  </programme>
+  <programme start="20250607183000 +0400" stop="20250607190000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">NBC Nightly News With Tom Llamas</title>
+    <desc lang="en">Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30141511_b_s4_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250607190000 +0400" stop="20250607193000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_s4_ax.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250607193000 +0400" stop="20250607200000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">1st Look</title>
+    <desc lang="en">Exploring exciting destinations across the globe; the host becomes immersed in the culture, cuisine and conversations, turning every city into an unforgettable memory.</desc>
+    <category lang="en">Travel</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8953716_i_h8_ag.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250607200000 +0400" stop="20250607210000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">Destination X</title>
+    <sub-title lang="en">Take It Up a Notch</sub-title>
+    <desc lang="en">The adventure continues to the top of Europe, where clues and views abound; players begin to realize the value of misdirection; as bonds start to form, so do cracks in trust; one player's deception leads to another's demise.</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29752576_b_v12_ab.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250607210000 +0400" stop="20250607230000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">American Ninja Warrior</title>
+    <sub-title lang="en">Qualifiers 1</sub-title>
+    <desc lang="en">Qualifying rounds begin in Las Vegas on the world's most challenging obstacle course; the competition returns bigger than ever by bringing back trailblazers, record-setters and fan-favorite competitors.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Extreme</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p7931557_i_h8_aa.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250607230000 +0400" stop="20250607232900 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">Live: News 4 NY at 11</title>
+    <desc lang="en">Local and regional news.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10513206_b_s2_aa.jpg" />
+  </programme>
+  <programme start="20250607232900 +0400" stop="20250608010300 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">Saturday Night Live</title>
+    <sub-title lang="en">Mikey Madison; Morgan Wallen</sub-title>
+    <desc lang="en">Host Mikey Madison; Morgan Wallen performs.</desc>
+    <credits>
+      <actor>Michael Che</actor>
+      <actor>Mikey Day</actor>
+      <actor>Chloe Fineman</actor>
+    </credits>
+    <category lang="en">Sports</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29791721_e_h10_aa.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250608010300 +0400" stop="20250608013200 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">1st Look</title>
+    <sub-title lang="en">Extra Mile Club: Maui</sub-title>
+    <desc lang="en">Two elite luxury travel advisers compete to win the business of real estate agents Emma Hernan and Chelsea Lazkani of "Selling Sunset" by curating a trip to Maui.</desc>
+    <category lang="en">Travel</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8953716_i_h8_ag.jpg" />
+    <episode-num system="onscreen">E3454</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250608013200 +0400" stop="20250608020200 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">George to the Rescue</title>
+    <desc lang="en">George Oliphant comes to the rescue of families in need of renovating their homes.</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8284191_b_v8_ad.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250608020200 +0400" stop="20250608023100 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">1st Look</title>
+    <sub-title lang="en">Extra Mile Club: Maui</sub-title>
+    <desc lang="en">Two elite luxury travel advisers compete to win the business of real estate agents Emma Hernan and Chelsea Lazkani of "Selling Sunset" by curating a trip to Maui.</desc>
+    <category lang="en">Travel</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8953716_i_h8_ag.jpg" />
+    <episode-num system="onscreen">E3454</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250608023100 +0400" stop="20250608030100 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">Open House NYC</title>
+    <sub-title lang="en">Dorinda's Domain</sub-title>
+    <desc lang="en">TV personality Dorinda Medley's famous estate Bluestone Manor in the Berkshires.Guests: Dorinda Medley..</desc>
+    <category lang="en">Home</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p841103_b_h8_ac.jpg" />
+    <episode-num system="onscreen">E1634</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250608030100 +0400" stop="20250608032900 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">Open House NYC</title>
+    <sub-title lang="en">Dorinda's Domain</sub-title>
+    <desc lang="en">TV personality Dorinda Medley's famous estate Bluestone Manor in the Berkshires.Guests: Dorinda Medley..</desc>
+    <category lang="en">Home</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p841103_b_h8_ac.jpg" />
+    <episode-num system="onscreen">E1634</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250608032900 +0400" stop="20250608042900 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">Access Hollywood</title>
+    <sub-title lang="en">Hollywood Headlines, Celebrity Interviews, Behind-the-Scenes Access and the Hottest Fashions</sub-title>
+    <desc lang="en">Hosts Mario Lopez, Kit Hoover and Scott Evans and correspondent Zuri Hall take viewers behind the velvet ropes and onto the red carpet to deliver celebrity interviews and entertainment news stories in Hollywood.</desc>
+    <category lang="en">News Magazine</category>
+    <category lang="en">Performing Arts</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184468_i_s4_ae.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250608042900 +0400" stop="20250608050000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_s4_ax.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250608050000 +0400" stop="20250608053000 +0400" channel="NBC.(WNBC).New.York,.NY.us">
+    <title lang="en">Matter of Fact With Soledad O'Brien</title>
+    <desc lang="en">Soledad O'Brien and guests offer analysis and perspective on current political issues.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13192072_b_h8_ab.jpg" />
+    <episode-num system="onscreen">E10039</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
     </rating>
   </programme>
   <programme start="20250604060000 +0400" stop="20250604070000 +0400" channel="ION.TV.East.us">
@@ -33684,7 +33332,7 @@
     <desc lang="en">Upton becomes consumed with a decades-old missing persons case linked to Petrovic after a young child shows up to the district seeking help.</desc>
     <credits>
       <actor>Jason Beghe</actor>
-      <actor>Patrick Flueger</actor>
+      <actor>Patrick John Flueger</actor>
       <actor>LaRoyce Hawkins</actor>
     </credits>
     <category lang="en">Drama</category>
@@ -33700,7 +33348,7 @@
     <desc lang="en">As Atwater finds himself distracted by a past case, a CI from his past resurfaces with a tip on a string of armed robberies that are raising concerns.</desc>
     <credits>
       <actor>Jason Beghe</actor>
-      <actor>Patrick Flueger</actor>
+      <actor>Patrick John Flueger</actor>
       <actor>LaRoyce Hawkins</actor>
     </credits>
     <category lang="en">Drama</category>
@@ -33716,7 +33364,7 @@
     <desc lang="en">Intelligence chase down a lead in the ongoing serial killer investigation as news of the case reach the public.</desc>
     <credits>
       <actor>Jason Beghe</actor>
-      <actor>Patrick Flueger</actor>
+      <actor>Patrick John Flueger</actor>
       <actor>LaRoyce Hawkins</actor>
     </credits>
     <category lang="en">Drama</category>
@@ -33732,7 +33380,7 @@
     <desc lang="en">As the months long investigation into the serial killer reaches its close, Voight must outsmart the offender in a race against the clock; Upton must make a vital decision.</desc>
     <credits>
       <actor>Jason Beghe</actor>
-      <actor>Patrick Flueger</actor>
+      <actor>Patrick John Flueger</actor>
       <actor>LaRoyce Hawkins</actor>
     </credits>
     <category lang="en">Drama</category>
@@ -33924,7 +33572,7 @@
     <desc lang="en">Returning from furlough, Torres goes under cover in a tense and high-stakes drug trafficking case.</desc>
     <credits>
       <actor>Jason Beghe</actor>
-      <actor>Patrick Flueger</actor>
+      <actor>Patrick John Flueger</actor>
       <actor>LaRoyce Hawkins</actor>
     </credits>
     <category lang="en">Drama</category>
@@ -33935,15 +33583,11 @@
     </rating>
   </programme>
   <programme start="20250606030000 +0400" stop="20250606033000 +0400" channel="ION.TV.East.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
+    <title lang="en">NEW! Shark PowerDetect with DuoClean Detect Technology</title>
+    <desc lang="en">Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!</desc>
     <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_s4_ax.jpg" />
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29477991_i_h11_aa.jpg" />
     <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
   </programme>
   <programme start="20250606033000 +0400" stop="20250606040000 +0400" channel="ION.TV.East.us">
     <title lang="en">Freedom to Leave the House! Inogen Portable Oxygen</title>
@@ -34245,7 +33889,7 @@
   <programme start="20250606193000 +0400" stop="20250606213000 +0400" channel="ION.TV.East.us">
     <title lang="en">Live: WNBA Basketball</title>
     <sub-title lang="en">Atlanta Dream at Connecticut Sun</sub-title>
-    <desc lang="en">From the Mohegan Sun Arena in Uncasville, Conn.</desc>
+    <desc lang="en">The Dream (5-2) look to stay hot in a Commissioner's Cup matchup against the Sun (1-6). Atlanta has won four in a row, including a 79-55 thumping of Connecticut on May 25. Allisha Gray is averaging 21.4 points and 4.6 assists per game for the Dream.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191289_i_h8_ac.jpg" />
@@ -34253,7 +33897,7 @@
   <programme start="20250606213000 +0400" stop="20250606233000 +0400" channel="ION.TV.East.us">
     <title lang="en">Live: WNBA Basketball</title>
     <sub-title lang="en">Los Angeles Sparks at Dallas Wings</sub-title>
-    <desc lang="en">From College Park Center in Arlington, Tex.</desc>
+    <desc lang="en">The Sparks visit the Wings. Former Dallas guard Odyssey Sims (LAS) comes off a 32-point performance in a June 1 defeat, her most in a game since her rookie season in 2014. Paige Bueckers (DAL) entered concussion protocol following a May 29 loss.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191289_i_h8_ac.jpg" />
@@ -34357,6 +34001,317 @@
     <previously-shown />
   </programme>
   <programme start="20250607050000 +0400" stop="20250607053000 +0400" channel="ION.TV.East.us">
+    <title lang="en">Total Gym 50 Years of Moving You</title>
+    <desc lang="en">For years, Total Gym has been a leader in fitness, empowering millions to achieve their health goals. One piece of equipment does it all. Over 100 unique exercises. No assembly required. Folds for storing. Go to TotalGymDirect.com for special offers!</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28234501_st_v8_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250607053000 +0400" stop="20250607060000 +0400" channel="ION.TV.East.us">
+    <title lang="en">NEW! Shark PowerDetect with DuoClean Detect Technology</title>
+    <desc lang="en">Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29477991_i_h11_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250607060000 +0400" stop="20250607070000 +0400" channel="ION.TV.East.us">
+    <title lang="en">Bones</title>
+    <sub-title lang="en">The Cowboy in the Contest</sub-title>
+    <desc lang="en">Booth and Brennan go under cover at an Old West-style shooting competition; Angela and Hodgins talk about the future; Cam and Sebastian grow closer.</desc>
+    <credits>
+      <actor>Emily Deschanel</actor>
+      <actor>David Boreanaz</actor>
+      <actor>T.J. Thyne</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12351826_e_s4_aa.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250607070000 +0400" stop="20250607080000 +0400" channel="ION.TV.East.us">
+    <title lang="en">Bones</title>
+    <sub-title lang="en">The Doom in the Boom</sub-title>
+    <desc lang="en">The team investigates a police officer's murder; the team decides what is important to their futures.</desc>
+    <credits>
+      <actor>Emily Deschanel</actor>
+      <actor>David Boreanaz</actor>
+      <actor>T.J. Thyne</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12351828_e_h8_ab.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250607080000 +0400" stop="20250607090000 +0400" channel="ION.TV.East.us">
+    <title lang="en">Bones</title>
+    <sub-title lang="en">The Death in the Defense</sub-title>
+    <desc lang="en">Hodgins navigates life in a wheelchair; when a public defender is murdered, several of her previous clients had motives to kill her.</desc>
+    <credits>
+      <actor>Emily Deschanel</actor>
+      <actor>David Boreanaz</actor>
+      <actor>T.J. Thyne</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12600091_e_s4_aa.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250607090000 +0400" stop="20250607100000 +0400" channel="ION.TV.East.us">
+    <title lang="en">Bones</title>
+    <sub-title lang="en">The Murder of the Meninist</sub-title>
+    <desc lang="en">The team investigates the death of a men's rights organization founder who may have been the victim of domestic abuse; Brennan loses her temper during an interrogation; Angela and the team struggle with Hodgins' bitterness.</desc>
+    <credits>
+      <actor>Emily Deschanel</actor>
+      <actor>David Boreanaz</actor>
+      <actor>T.J. Thyne</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12757068_e_h8_ab.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250607100000 +0400" stop="20250607110000 +0400" channel="ION.TV.East.us">
+    <title lang="en">Law &amp; Order: Special Victims Unit</title>
+    <sub-title lang="en">Catfishing Teacher</sub-title>
+    <desc lang="en">A high-school student plans a secret hookup with a female teacher, but ends up in a sinister situation.</desc>
+    <credits>
+      <actor>Mariska Hargitay</actor>
+      <actor>Ice-T</actor>
+      <actor>Kelli Giddish</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184536_i_s4_ao.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250607110000 +0400" stop="20250607120000 +0400" channel="ION.TV.East.us">
+    <title lang="en">Law &amp; Order: Special Victims Unit</title>
+    <sub-title lang="en">Townhouse Incident</sub-title>
+    <desc lang="en">When Sgt. Olivia Benson attempts to thwart a violent home invasion, she gets more than she bargains for and becomes a hostage.</desc>
+    <credits>
+      <actor>Mariska Hargitay</actor>
+      <actor>Ice-T</actor>
+      <actor>Kelli Giddish</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184536_i_s4_ao.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250607120000 +0400" stop="20250607130000 +0400" channel="ION.TV.East.us">
+    <title lang="en">Law &amp; Order: Special Victims Unit</title>
+    <sub-title lang="en">A Misunderstanding</sub-title>
+    <desc lang="en">The futures of two high-school students are complicated by a murky date-rape case filled with dueling accusations.</desc>
+    <credits>
+      <actor>Mariska Hargitay</actor>
+      <actor>Ice-T</actor>
+      <actor>Kelli Giddish</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184536_i_s4_ao.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250607130000 +0400" stop="20250607140000 +0400" channel="ION.TV.East.us">
+    <title lang="en">Law &amp; Order: Special Victims Unit</title>
+    <sub-title lang="en">Forty-One Witnesses</sub-title>
+    <desc lang="en">When a woman is followed home and raped outside of her building, neighbors witness the crime but neglect to call for help.</desc>
+    <credits>
+      <actor>Mariska Hargitay</actor>
+      <actor>Ice-T</actor>
+      <actor>Kelli Giddish</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184536_i_s4_ao.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250607140000 +0400" stop="20250607150000 +0400" channel="ION.TV.East.us">
+    <title lang="en">Law &amp; Order: Special Victims Unit</title>
+    <sub-title lang="en">Nationwide Manhunt</sub-title>
+    <desc lang="en">Detectives Erin Lindsay and Antonio Dawson from Chicago P.D. help SVU when two convicted murderers escape.</desc>
+    <credits>
+      <actor>Mariska Hargitay</actor>
+      <actor>Ice-T</actor>
+      <actor>Kelli Giddish</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184536_i_s4_ao.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250607150000 +0400" stop="20250607160000 +0400" channel="ION.TV.East.us">
+    <title lang="en">Law &amp; Order: Special Victims Unit</title>
+    <sub-title lang="en">Collateral Damages</sub-title>
+    <desc lang="en">An online pedophile ring -- including two high-profile suspects -- is targeted in an undercover sting.</desc>
+    <credits>
+      <actor>Mariska Hargitay</actor>
+      <actor>Ice-T</actor>
+      <actor>Kelli Giddish</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184536_i_s4_ao.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250607160000 +0400" stop="20250607170000 +0400" channel="ION.TV.East.us">
+    <title lang="en">Law &amp; Order: Special Victims Unit</title>
+    <sub-title lang="en">Star-Struck Victims</sub-title>
+    <desc lang="en">When Barba must drop rape charges against a popular actor due to lack of evidence, Rollins decides to take matters into her own hands.</desc>
+    <credits>
+      <actor>Mariska Hargitay</actor>
+      <actor>Ice-T</actor>
+      <actor>Kelli Giddish</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184536_i_s4_ao.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250607170000 +0400" stop="20250607180000 +0400" channel="ION.TV.East.us">
+    <title lang="en">Law &amp; Order: Special Victims Unit</title>
+    <sub-title lang="en">Manhattan Transfer</sub-title>
+    <desc lang="en">An investigation into the sexual exploitation of Catholic schoolgirls results in charges against judges, legislators, DAs and members of the police department.</desc>
+    <credits>
+      <actor>Mariska Hargitay</actor>
+      <actor>Ice-T</actor>
+      <actor>Kelli Giddish</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184536_i_s4_ao.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250607180000 +0400" stop="20250607190000 +0400" channel="ION.TV.East.us">
+    <title lang="en">Law &amp; Order: Special Victims Unit</title>
+    <sub-title lang="en">Unholiest Alliance</sub-title>
+    <desc lang="en">The team works to unravel a sex trafficking operation with ties to government offices, the police department and the Catholic church after one of their own is implicated in a cover-up.</desc>
+    <credits>
+      <actor>Mariska Hargitay</actor>
+      <actor>Ice-T</actor>
+      <actor>Kelli Giddish</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184536_i_s4_ao.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250607190000 +0400" stop="20250607193000 +0400" channel="ION.TV.East.us">
+    <title lang="en">NWSL On ION Pre Match Show</title>
+    <desc lang="en">Lisa Carlin, Darian Jenkins, and Jessica McDonald host in-depth studio coverage of the National Women's Soccer League.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26712064_i_h10_ad.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250607193000 +0400" stop="20250607213000 +0400" channel="ION.TV.East.us">
+    <title lang="en">Live: NWSL Soccer</title>
+    <sub-title lang="en">Portland Thorns FC at Bay FC</sub-title>
+    <desc lang="en">From PayPal Park in San Jose, Calif.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29313208_tb2_v12_ab.jpg" />
+  </programme>
+  <programme start="20250607213000 +0400" stop="20250607220000 +0400" channel="ION.TV.East.us">
+    <title lang="en">NWSL On ION Match Break Show</title>
+    <desc lang="en">Analysis of National Women's Soccer League action from Scripps Sports featuring Lisa Carlin, Darian Jenkins, and Jessica McDonald.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26712084_b_h8_ac.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250607220000 +0400" stop="20250608000000 +0400" channel="ION.TV.East.us">
+    <title lang="en">Live: NWSL Soccer</title>
+    <sub-title lang="en">Chicago Stars FC at Angel City FC</sub-title>
+    <desc lang="en">From BMO Stadium in Los Angeles.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11962008_b_s4_aa.jpg" />
+  </programme>
+  <programme start="20250608000000 +0400" stop="20250608010000 +0400" channel="ION.TV.East.us">
+    <title lang="en">Magnum</title>
+    <sub-title lang="en">He Came by Night</sub-title>
+    <desc lang="en">Magnum and Higgins' new partnership is tested when they disagree about being hired by a woman who wants them to recover her $3 million in stolen drug money to save her husband's life.</desc>
+    <credits>
+      <actor>Jay Hernandez</actor>
+      <actor>Perdita Weeks</actor>
+      <actor>Zachary Knighton</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15528151_i_s3_aj.jpg" />
+    <episode-num system="onscreen">E207</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250608010000 +0400" stop="20250608020000 +0400" channel="ION.TV.East.us">
+    <title lang="en">Magnum</title>
+    <sub-title lang="en">A Bullet Named Fate</sub-title>
+    <desc lang="en">A guilt-ridden Magnum follows the clues his private investigator friend left behind when he was shot while working a case Thomas passed onto him; TC helps Kumu lead a protest against construction on a Hawaiian sacred site.</desc>
+    <credits>
+      <actor>Jay Hernandez</actor>
+      <actor>Perdita Weeks</actor>
+      <actor>Zachary Knighton</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17550886_e_s2_aa.jpg" />
+    <episode-num system="onscreen">E209</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250608020000 +0400" stop="20250608030000 +0400" channel="ION.TV.East.us">
+    <title lang="en">Magnum P.I.</title>
+    <sub-title lang="en">Blood Brothers</sub-title>
+    <desc lang="en">Magnum, flooded with memories of his tour in Afghanistan, helps his fallen friend's brother search for a now-grown Afghan boy who may have been a victim of trafficking.</desc>
+    <credits>
+      <actor>Jay Hernandez</actor>
+      <actor>Perdita Weeks</actor>
+      <actor>Zachary Knighton</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15528151_i_s3_aj.jpg" />
+    <episode-num system="onscreen">E210</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250608030000 +0400" stop="20250608033000 +0400" channel="ION.TV.East.us">
     <title lang="en">Paid Programming</title>
     <desc lang="en">Paid programming.</desc>
     <category lang="en">Paid Program</category>
@@ -34366,6 +34321,41 @@
     <rating system="MPAA">
       <value>TVG</value>
     </rating>
+  </programme>
+  <programme start="20250608033000 +0400" stop="20250608040000 +0400" channel="ION.TV.East.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Paid Program</category>
+    <category lang="en">Shopping</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_s4_ax.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250608040000 +0400" stop="20250608043000 +0400" channel="ION.TV.East.us">
+    <title lang="en">Who Has Access to Your Personal Data?</title>
+    <desc lang="en">Even if YOU do everything right to protect yourself, company and institutional data breaches are out of your control. Nearly 1 out of 4 US consumers have been a victim of identity theft. Find out how LifeLock can help protect your identity.</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28553630_st_v8_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250608043000 +0400" stop="20250608050000 +0400" channel="ION.TV.East.us">
+    <title lang="en">In Touch With Dr. Charles Stanley</title>
+    <desc lang="en">Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.</desc>
+    <category lang="en">Religious</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p407115_i_s2_aa.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250608050000 +0400" stop="20250608053000 +0400" channel="ION.TV.East.us">
+    <title lang="en">Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
+    <desc lang="en">Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote &amp; installation.</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p30074472_i_h8_aa.jpg" />
+    <previously-shown />
   </programme>
   <channel id="BBC.NEWS.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2085.png" />
