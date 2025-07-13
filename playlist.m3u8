@@ -87,9 +87,6 @@ http://fl5.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" tvg-name="Disney XD",Disney XD
 http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" tvg-name="A&E",A&E
-https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/72891
-
 #EXTINF:-1 group-title="Entertainment" tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" tvg-name="BRAVO",BRAVO
 http://fl3.moveonjoy.com/BRAVO/index.m3u8
 
@@ -101,9 +98,6 @@ http://fl5.moveonjoy.com/CNBC/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL",COMEDY CENTRAL
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="CW.(WLVI).Boston,.MA.us" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51306_dark_360w_270h.png" tvg-name="CW 56",CW 56
-https://m3ufilter.media4u.top/m3u-stream/live/media4u/media4u/262700
 
 #EXTINF:-1 group-title="Documentary" tvg-id="Destination.America.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" tvg-name="Destination America",Destination America
 http://fl3.moveonjoy.com/Destination_America/index.m3u8
@@ -143,11 +137,9 @@ http://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="Oxygen.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" tvg-name="Oxygen",Oxygen
 http://fl3.moveonjoy.com/OXYGEN/index.m3u8
+
 #EXTINF:-1 group-title="Entertainment" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" tvg-name="Paramount Network",Paramount Network
 http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="POP.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pop-us.png" tvg-name="PopTV",PopTV
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/226
 
 #EXTINF:-1 group-title="Movies" tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" tvg-name="Showtime",Showtime
 http://fl3.moveonjoy.com/SHOWTIME/index.m3u8
