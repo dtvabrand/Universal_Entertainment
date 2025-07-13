@@ -5476,6 +5476,12 @@
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">ABC NEWS</display-name>
   </channel>
+  <channel id="Hallmark.Family.HDTV.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s105723_h15_ab.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s105723_h15_ab.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Hallmark Family HDTV (HALDRHD)</display-name>
+  </channel>
   <channel id="Comedy.Central.(US).-.Eastern.Feed.us">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10149_h15_ab.png" />
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10149_h15_ab.png" />
@@ -6494,6 +6500,1285 @@
     <desc lang="en">Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
     <category lang="en">News</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28311369_b_h8_aa.jpg" />
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250712060000 +0400" stop="20250712070000 +0400">
+    <title lang="en">Touched by an Angel</title>
+    <sub-title lang="en">The Letter</sub-title>
+    <desc lang="en">A migrant boy may have to give up his dream of studying music when his father develops back problems that will make it impossible for him to support the family.</desc>
+    <credits>
+      <actor>Roma Downey</actor>
+      <actor>Della Reese</actor>
+      <actor>John Dye</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184104_b_v8_aa.jpg" />
+    <episode-num system="onscreen">E602</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250712070000 +0400" stop="20250712080000 +0400">
+    <title lang="en">Highway to Heaven</title>
+    <sub-title lang="en">The Smile in the Third Row</sub-title>
+    <desc lang="en">An actor (Lorne Greene) believes he saw God sitting in the third row, next to Jonathan; guest David Spielberg.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Victor French</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p400821_b_s2_ai.jpg" />
+    <episode-num system="onscreen">E7860</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250712080000 +0400" stop="20250712090000 +0400">
+    <title lang="en">Highway to Heaven</title>
+    <sub-title lang="en">The Secret</sub-title>
+    <desc lang="en">Mark is caught in the middle of a family crisis when a friend's teenage daughter learns she is adopted.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Victor French</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p400821_b_s2_ai.jpg" />
+    <episode-num system="onscreen">E7855</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250712090000 +0400" stop="20250712100000 +0400">
+    <title lang="en">Highway to Heaven</title>
+    <sub-title lang="en">The Monster</sub-title>
+    <desc lang="en">Jonathan plays matchmaker for a lonely blind woman and a reclusive sculptor, labeled a monster by townspeople.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Victor French</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p400821_b_s2_ai.jpg" />
+    <episode-num system="onscreen">E7861</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250712100000 +0400" stop="20250712110000 +0400">
+    <title lang="en">Highway to Heaven</title>
+    <sub-title lang="en">The Monster</sub-title>
+    <desc lang="en">Scotty faces prejudice when he defends a disfigured artist on an assault charge. With Michael Landon and Victor French.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Victor French</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1124673_e_h10_ac.jpg" />
+    <episode-num system="onscreen">E7862</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250712110000 +0400" stop="20250712130000 +0400">
+    <title lang="en">Midway to Love</title>
+    <desc lang="en">A psychologist quits her job as a television host and returns to her hometown, where she reunites with her high school sweetheart.</desc>
+    <credits>
+      <actor>Rachel Hendrix</actor>
+      <actor>Daniel Stine</actor>
+      <actor>Andrew Hunter</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17040641_i_h10_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250712130000 +0400" stop="20250712150000 +0400">
+    <title lang="en">My Summer Prince</title>
+    <desc lang="en">When a prince (Jack Turner) who is heir to the throne lands in hot water for his partying ways, a PR consultant is hired by the royal family to perform some damage control.</desc>
+    <credits>
+      <actor>Taylor Cole</actor>
+      <actor>Jack Turner</actor>
+      <actor>Lauren Holly</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13053231_i_h10_af.jpg" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250712150000 +0400" stop="20250712170000 +0400">
+    <title lang="en">Summer in the City</title>
+    <desc lang="en">After landing a big promotion managing a store in Manhattan, a woman from a small Midwestern town tries to adopt a big city personality, which leads to disastrous results.</desc>
+    <credits>
+      <actor>Julianna Guill</actor>
+      <actor>Marc Bendavid</actor>
+      <actor>Natasha Henstridge</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13053409_i_h10_ac.jpg" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250712170000 +0400" stop="20250712190000 +0400">
+    <title lang="en">Summer of Dreams</title>
+    <desc lang="en">A fading pop star (Debbie Gibson) who is on the verge of losing everything finds inspiration when she relocates to suburban Ohio and begins teaching music to a talented group of misfit children.</desc>
+    <credits>
+      <actor>Debbie Gibson</actor>
+      <actor>Robert Gant</actor>
+      <actor>Pascale Hutton</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13053465_k_h8_aa.jpg" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250712190000 +0400" stop="20250712210000 +0400">
+    <title lang="en">Summer in the Vineyard</title>
+    <desc lang="en">When Frankie and Nate agree to host an annual celebration, they must make a big splash to ensure the viability of their winery going forward. The paramours will find out if business can be mixed with pleasure.</desc>
+    <credits>
+      <actor>Rachael Leigh Cook</actor>
+      <actor>Brendan Penny</actor>
+      <actor>Marcus Rosner</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14272937_i_h8_ab.jpg" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250712210000 +0400" stop="20250712230000 +0400">
+    <title lang="en">Summer Love</title>
+    <desc lang="en">After going back to school, a widowed suburban mom struggles to adjust when an internship lands her in the fast-paced world of millionaire app designers.</desc>
+    <credits>
+      <actor>Rachael Leigh Cook</actor>
+      <actor>Lucas Bryant</actor>
+      <actor>Travis Milne</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13053453_k_h10_aa.jpg" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250712230000 +0400" stop="20250713000000 +0400">
+    <title lang="en">Highway to Heaven</title>
+    <sub-title lang="en">The Smile in the Third Row</sub-title>
+    <desc lang="en">An actor (Lorne Greene) believes he saw God sitting in the third row, next to Jonathan; guest David Spielberg.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Victor French</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p400821_b_s2_ai.jpg" />
+    <episode-num system="onscreen">E7860</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250713000000 +0400" stop="20250713010000 +0400">
+    <title lang="en">Highway to Heaven</title>
+    <sub-title lang="en">The Secret</sub-title>
+    <desc lang="en">Mark is caught in the middle of a family crisis when a friend's teenage daughter learns she is adopted.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Victor French</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p400821_b_s2_ai.jpg" />
+    <episode-num system="onscreen">E7855</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250713010000 +0400" stop="20250713020000 +0400">
+    <title lang="en">Highway to Heaven</title>
+    <sub-title lang="en">The Monster</sub-title>
+    <desc lang="en">Jonathan plays matchmaker for a lonely blind woman and a reclusive sculptor, labeled a monster by townspeople.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Victor French</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p400821_b_s2_ai.jpg" />
+    <episode-num system="onscreen">E7861</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250713020000 +0400" stop="20250713030000 +0400">
+    <title lang="en">Highway to Heaven</title>
+    <sub-title lang="en">The Monster</sub-title>
+    <desc lang="en">Scotty faces prejudice when he defends a disfigured artist on an assault charge. With Michael Landon and Victor French.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Victor French</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1124673_e_h10_ac.jpg" />
+    <episode-num system="onscreen">E7862</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250713030000 +0400" stop="20250713040000 +0400">
+    <title lang="en">Dr. Quinn, Medicine Woman</title>
+    <sub-title lang="en">Pilot</sub-title>
+    <desc lang="en">After her father dies, Mike leaves Boston for Colorado Springs, where she sets up practice and adopts three orphans.</desc>
+    <credits>
+      <actor>Jane Seymour</actor>
+      <actor>Joe Lando</actor>
+      <actor>John Schneider</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183932_b_h10_ae.jpg" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250713040000 +0400" stop="20250713050000 +0400">
+    <title lang="en">Dr. Quinn, Medicine Woman</title>
+    <sub-title lang="en">Pilot</sub-title>
+    <desc lang="en">After her father dies, Mike leaves Boston for Colorado Springs, where she sets up practice and adopts three orphans.</desc>
+    <credits>
+      <actor>Jane Seymour</actor>
+      <actor>Joe Lando</actor>
+      <actor>John Schneider</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183932_b_h10_ae.jpg" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250713050000 +0400" stop="20250713060000 +0400">
+    <title lang="en">Touched by an Angel</title>
+    <sub-title lang="en">Til Death Do Us Part</sub-title>
+    <desc lang="en">Andrew thinks he has failed and attempts to cope with his feelings of guilt when a husband abruptly commits suicide.</desc>
+    <credits>
+      <actor>Roma Downey</actor>
+      <actor>Della Reese</actor>
+      <actor>John Dye</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184104_b_v8_aa.jpg" />
+    <episode-num system="onscreen">E601</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250713060000 +0400" stop="20250713070000 +0400">
+    <title lang="en">Touched by an Angel</title>
+    <sub-title lang="en">The Occupant</sub-title>
+    <desc lang="en">Monica, Tess and Andrew (Roma Downey, Della Reese, John Dye) help a man (guest star Titus Welliver) with a split personality whose darker half is becoming more evil. Casey Biggs also guest stars.</desc>
+    <credits>
+      <actor>Roma Downey</actor>
+      <actor>Della Reese</actor>
+      <actor>John Dye</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184104_b_v8_aa.jpg" />
+    <episode-num system="onscreen">E606</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250713070000 +0400" stop="20250713080000 +0400">
+    <title lang="en">Highway to Heaven</title>
+    <sub-title lang="en">The Good Doctor</sub-title>
+    <desc lang="en">Football-gear managers Jonathan and Mark discover a star player's injury has resulted in drug dependency.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Victor French</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1124669_e_s2_ac.jpg" />
+    <episode-num system="onscreen">E7858</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250713080000 +0400" stop="20250713090000 +0400">
+    <title lang="en">Highway to Heaven</title>
+    <sub-title lang="en">Alone</sub-title>
+    <desc lang="en">Jonathan places a homeless, mentally impaired teen with a wealthy, but troubled, family.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Victor French</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1124674_e_s2_aa.jpg" />
+    <episode-num system="onscreen">E7863</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250713090000 +0400" stop="20250713100000 +0400">
+    <title lang="en">Highway to Heaven</title>
+    <sub-title lang="en">Close Encounters of the Heavenly Kind</sub-title>
+    <desc lang="en">To help a UFO watcher keep custody of his grandson, Jonathan and Mark convince the boy they are aliens.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Victor French</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1124675_e_s2_aa.jpg" />
+    <episode-num system="onscreen">E7864</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250713100000 +0400" stop="20250713110000 +0400">
+    <title lang="en">Highway to Heaven</title>
+    <sub-title lang="en">Change of Life</sub-title>
+    <desc lang="en">Jonathan's powers reverse the roles of chauvinistic Mark and a beautiful movie star (Anne-Marie Martin).</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Victor French</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p400821_b_s2_ai.jpg" />
+    <episode-num system="onscreen">E7866</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250713110000 +0400" stop="20250713130000 +0400">
+    <title lang="en">Unexpected Grace</title>
+    <desc lang="en">Trying to find her place in a new town, Grace discovers a note from a schoolgirl looking for a friend. She writes back and sets off a chain of events that ultimately changes the lives of three people.</desc>
+    <credits>
+      <actor>Erica Tremblay</actor>
+      <actor>Michael Rady</actor>
+      <actor>Erica Durance</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Family</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23986470_i_s3_aa.jpg" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250713130000 +0400" stop="20250713150000 +0400">
+    <title lang="en">The Ultimate Gift</title>
+    <desc lang="en">A disillusioned young man (Drew Fuller) befriends a gravely ill child (Abigail Breslin) on his way to claim an inheritance from his late grandfather (James Garner).</desc>
+    <credits>
+      <actor>Drew Fuller</actor>
+      <actor>James Garner</actor>
+      <actor>Abigail Breslin</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p166389_p_v8_af.jpg" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250713150000 +0400" stop="20250713170000 +0400">
+    <title lang="en">The Ultimate Life</title>
+    <desc lang="en">Despite his best intentions, a billionaire has trouble making his beloved girlfriend a priority. He reads his grandfather's journal in the hope that it will provide guidance on how to live his life.</desc>
+    <credits>
+      <actor>Bill Cobbs</actor>
+      <actor>Peter Fonda</actor>
+      <actor>Lee Meriwether</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10062066_b_s2_ad.jpg" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>2.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250713170000 +0400" stop="20250713190000 +0400">
+    <title lang="en">The Ultimate Legacy</title>
+    <desc lang="en">Jason Stevens continues his journey while helping a friend walk a similar path.</desc>
+    <credits>
+      <actor>Myko Olivier</actor>
+      <actor>Ali Hillis</actor>
+      <actor>Logan Bartholomew</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12400081_i_h8_ac.jpg" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250713190000 +0400" stop="20250713200000 +0400">
+    <title lang="en">When Calls the Heart</title>
+    <sub-title lang="en">Tomorrow Never Knows</sub-title>
+    <desc lang="en">Elizabeth and Allie plan a birthday party for Nathan; Lee and Rosemary weigh business responsibilities against family time; Lucas settles into his role as governor.</desc>
+    <credits>
+      <actor>Erin Krakow</actor>
+      <actor>Pascale Hutton</actor>
+      <actor>Jack Wagner</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p26862495_e_s2_aa.jpg" />
+    <episode-num system="onscreen">E1102</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250713200000 +0400" stop="20250713210000 +0400">
+    <title lang="en">When Calls the Heart</title>
+    <sub-title lang="en">Steps Forward</sub-title>
+    <desc lang="en">Rosemary and Bill team up to investigate a case they believe shouldn't be closed; the women of Hope Valley start a day care; Hickam and Mei celebrate a milestone.</desc>
+    <credits>
+      <actor>Erin Krakow</actor>
+      <actor>Pascale Hutton</actor>
+      <actor>Jack Wagner</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9158737_i_h8_ac.jpg" />
+    <episode-num system="onscreen">E1103</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250713210000 +0400" stop="20250713220000 +0400">
+    <title lang="en">When Calls the Heart</title>
+    <sub-title lang="en">Along Came a Spider</sub-title>
+    <desc lang="en">It's Easter in Hope Valley, so Elizabeth organizes an egg hunt with help from Nathan; a visitor from Lucas' past gets the town talking; Angela and Cooper seek to mend a relationship.</desc>
+    <credits>
+      <actor>Erin Krakow</actor>
+      <actor>Pascale Hutton</actor>
+      <actor>Jack Wagner</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9158737_i_h8_ac.jpg" />
+    <episode-num system="onscreen">E1104</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250713220000 +0400" stop="20250713230000 +0400">
+    <title lang="en">When Calls the Heart</title>
+    <sub-title lang="en">Stronger Together</sub-title>
+    <desc lang="en">Hickam and Lee clash with the mayor of Benson Hills, while Gowen suggests a solution with huge implications for the town; Elizabeth and Nathan clear up a misunderstanding.</desc>
+    <credits>
+      <actor>Erin Krakow</actor>
+      <actor>Pascale Hutton</actor>
+      <actor>Jack Wagner</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9158737_i_h8_ac.jpg" />
+    <episode-num system="onscreen">E1105</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250713230000 +0400" stop="20250714000000 +0400">
+    <title lang="en">Highway to Heaven</title>
+    <sub-title lang="en">The Good Doctor</sub-title>
+    <desc lang="en">Football-gear managers Jonathan and Mark discover a star player's injury has resulted in drug dependency.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Victor French</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1124669_e_s2_ac.jpg" />
+    <episode-num system="onscreen">E7858</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250714000000 +0400" stop="20250714010000 +0400">
+    <title lang="en">Highway to Heaven</title>
+    <sub-title lang="en">Alone</sub-title>
+    <desc lang="en">Jonathan places a homeless, mentally impaired teen with a wealthy, but troubled, family.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Victor French</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1124674_e_s2_aa.jpg" />
+    <episode-num system="onscreen">E7863</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250714010000 +0400" stop="20250714020000 +0400">
+    <title lang="en">Highway to Heaven</title>
+    <sub-title lang="en">Close Encounters of the Heavenly Kind</sub-title>
+    <desc lang="en">To help a UFO watcher keep custody of his grandson, Jonathan and Mark convince the boy they are aliens.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Victor French</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1124675_e_s2_aa.jpg" />
+    <episode-num system="onscreen">E7864</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250714020000 +0400" stop="20250714030000 +0400">
+    <title lang="en">Highway to Heaven</title>
+    <sub-title lang="en">Change of Life</sub-title>
+    <desc lang="en">Jonathan's powers reverse the roles of chauvinistic Mark and a beautiful movie star (Anne-Marie Martin).</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Victor French</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p400821_b_s2_ai.jpg" />
+    <episode-num system="onscreen">E7866</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250714030000 +0400" stop="20250714040000 +0400">
+    <title lang="en">Dr. Quinn, Medicine Woman</title>
+    <sub-title lang="en">The Visitor</sub-title>
+    <desc lang="en">Dr. Mike's disapproving mother visits from Boston and finds her daughter's unconventional life on the frontier difficult to accept.</desc>
+    <credits>
+      <actor>Jane Seymour</actor>
+      <actor>Joe Lando</actor>
+      <actor>Chad Allen</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183932_b_h10_ae.jpg" />
+    <episode-num system="onscreen">E102</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250714040000 +0400" stop="20250714050000 +0400">
+    <title lang="en">Dr. Quinn, Medicine Woman</title>
+    <sub-title lang="en">The Law of the Land</sub-title>
+    <desc lang="en">Dr. Mike hires a retired gunslinger as sheriff to save the life of an orphaned immigrant who stole a cow to feed his starving family.</desc>
+    <credits>
+      <actor>Jane Seymour</actor>
+      <actor>Joe Lando</actor>
+      <actor>Chad Allen</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183932_b_h10_ae.jpg" />
+    <episode-num system="onscreen">E105</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250714050000 +0400" stop="20250714060000 +0400">
+    <title lang="en">Touched by an Angel</title>
+    <sub-title lang="en">Voice of an Angel</sub-title>
+    <desc lang="en">The poor attitude of a musical prodigy (Charlotte Church) angers Monica so badly, she quits her angelic duties; guests 'N Sync.</desc>
+    <credits>
+      <actor>Roma Downey</actor>
+      <actor>Della Reese</actor>
+      <actor>John Dye</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184104_b_v8_aa.jpg" />
+    <episode-num system="onscreen">E607</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250714060000 +0400" stop="20250714070000 +0400">
+    <title lang="en">Touched by an Angel</title>
+    <sub-title lang="en">The Whole Truth and Nothing But ..</sub-title>
+    <desc lang="en">A driven newspaper editor (Ann Jillian) must choose between a shocking front page or her own sister's reputation.</desc>
+    <credits>
+      <actor>Roma Downey</actor>
+      <actor>Della Reese</actor>
+      <actor>John Dye</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184104_b_v8_aa.jpg" />
+    <episode-num system="onscreen">E608</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250714070000 +0400" stop="20250714080000 +0400">
+    <title lang="en">Little House on the Prairie</title>
+    <sub-title lang="en">Laura Ingalls Wilder</sub-title>
+    <desc lang="en">Almanzo does not want Laura to take a teaching job even though he manages to lose money in a bad property deal.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Karen Grassle</actor>
+      <actor>Melissa Gilbert</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1142920_e_s2_aa.jpg" />
+    <episode-num system="onscreen">E7052</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250714080000 +0400" stop="20250714090000 +0400">
+    <title lang="en">Little House on the Prairie</title>
+    <sub-title lang="en">Laura Ingalls Wilder</sub-title>
+    <desc lang="en">Almanzo's pride leads to the dissolution of the engagement; Eliza Jane develops a plan to reunite her brother and Laura.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Karen Grassle</actor>
+      <actor>Melissa Gilbert</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1142921_e_h11_ac.jpg" />
+    <episode-num system="onscreen">E7053</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250714090000 +0400" stop="20250714100000 +0400">
+    <title lang="en">Little House on the Prairie</title>
+    <sub-title lang="en">A New Beginning</sub-title>
+    <desc lang="en">Toughs thwart Jonathan and Andy's attempts to start a freight line in Sleepy Eye.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Karen Grassle</actor>
+      <actor>Melissa Gilbert</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1142922_e_h11_ac.jpg" />
+    <episode-num system="onscreen">E7054</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250714100000 +0400" stop="20250714110000 +0400">
+    <title lang="en">Heartland</title>
+    <sub-title lang="en">After the Storm</sub-title>
+    <desc lang="en">Lou sends Mrs. Roach's horse home before his fear of traffic is fully cured; Ty's probation officer visits.</desc>
+    <credits>
+      <actor>Chris Potter</actor>
+      <actor>Amber Marshall</actor>
+      <actor>Michelle Morgan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p185880_b_h8_ag.jpg" />
+    <episode-num system="onscreen">E102</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250714110000 +0400" stop="20250714120000 +0400">
+    <title lang="en">Heartland</title>
+    <sub-title lang="en">Breaking Free</sub-title>
+    <desc lang="en">Lou secretly invites his father to an open house to see Amy for the first time in 10 years.</desc>
+    <credits>
+      <actor>Chris Potter</actor>
+      <actor>Amber Marshall</actor>
+      <actor>Michelle Morgan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3390443_e_h10_aa.jpg" />
+    <episode-num system="onscreen">E103</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250714120000 +0400" stop="20250714130000 +0400">
+    <title lang="en">Highway to Heaven</title>
+    <sub-title lang="en">Keep Smiling</sub-title>
+    <desc lang="en">Jonathan (Michael Landon) courts an elderly woman who was his wife when he was mortal. Guest star: Dorothy McGuire.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Victor French</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p400821_b_s2_ai.jpg" />
+    <episode-num system="onscreen">E7865</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250714130000 +0400" stop="20250714140000 +0400">
+    <title lang="en">Highway to Heaven</title>
+    <sub-title lang="en">The Last Assignment</sub-title>
+    <desc lang="en">Jonathan and Mark attempt to help a misguided angel who has been trying to earn his wings for 200 years.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Victor French</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1124678_e_h10_ac.jpg" />
+    <episode-num system="onscreen">E7867</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250714140000 +0400" stop="20250714150000 +0400">
+    <title lang="en">Highway to Heaven</title>
+    <sub-title lang="en">To Bind the Wounds</sub-title>
+    <desc lang="en">Jonathan and Mark (Michael Landon, Victor French) help the father of a deceased Vietnam veteran honor his son in a memorial service. Guest star: Eli Wallach.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Victor French</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1124679_e_s2_aa.jpg" />
+    <episode-num system="onscreen">E7868</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250714150000 +0400" stop="20250714160000 +0400">
+    <title lang="en">The Waltons</title>
+    <sub-title lang="en">The Moonshiner</sub-title>
+    <desc lang="en">Jason tries to reform disreputable relative Boone Walton (Morgan Woodward); Daisy, John-Boy's ex-fiancee, comes to Walton's Mountain.</desc>
+    <credits>
+      <actor>Ralph Waite</actor>
+      <actor>Michael Learned</actor>
+      <actor>Ellen Corby</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184293_b_h10_ad.jpg" />
+    <episode-num system="onscreen">E188703</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250714160000 +0400" stop="20250714170000 +0400">
+    <title lang="en">The Waltons</title>
+    <sub-title lang="en">The Obsession</sub-title>
+    <desc lang="en">Desperate to do well on her exams, Mary Ellen becomes dangerously dependent on amphetamines; Cissy walks out on her husband, Yancy.</desc>
+    <credits>
+      <actor>Michael Learned</actor>
+      <actor>Ralph Waite</actor>
+      <actor>Ellen Corby</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184293_b_h10_ad.jpg" />
+    <episode-num system="onscreen">E188708</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250714170000 +0400" stop="20250714180000 +0400">
+    <title lang="en">The Waltons</title>
+    <sub-title lang="en">The Changeling</sub-title>
+    <desc lang="en">Elizabeth's refusal to grow up causes strange occurrences around the Walton home; Jason conducts a radio show for the lovelorn.</desc>
+    <credits>
+      <actor>Ralph Waite</actor>
+      <actor>Michael Learned</actor>
+      <actor>Ellen Corby</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184293_b_h10_ad.jpg" />
+    <episode-num system="onscreen">E188702</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250714180000 +0400" stop="20250714200000 +0400">
+    <title lang="en">Nearlyweds</title>
+    <desc lang="en">Complications arise when three women (Danielle Panabaker, Jessica Parker Kennedy, Britt Irvin) learn that their marriages are not official.</desc>
+    <credits>
+      <actor>Danielle Panabaker</actor>
+      <actor>Jessica Parker Kennedy</actor>
+      <actor>Britt Irvin</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Romance</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9403354_p_v8_aa.jpg" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250714200000 +0400" stop="20250714220000 +0400">
+    <title lang="en">JL Family Ranch: The Wedding Gift</title>
+    <desc lang="en">When Henry proposes, it looks like Rebecca will finally get her fairy tale ending -- until her daughter invites a visitor from her past that changes the Petersons and Landsburgs forever.</desc>
+    <credits>
+      <actor>Jon Voight</actor>
+      <actor>James Caan</actor>
+      <actor>Teri Polo</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Western</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p18148652_i_h8_aa.jpg" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250714220000 +0400" stop="20250714230000 +0400">
+    <title lang="en">The Waltons</title>
+    <sub-title lang="en">The Moonshiner</sub-title>
+    <desc lang="en">Jason tries to reform disreputable relative Boone Walton (Morgan Woodward); Daisy, John-Boy's ex-fiancee, comes to Walton's Mountain.</desc>
+    <credits>
+      <actor>Ralph Waite</actor>
+      <actor>Michael Learned</actor>
+      <actor>Ellen Corby</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184293_b_h10_ad.jpg" />
+    <episode-num system="onscreen">E188703</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250714230000 +0400" stop="20250715000000 +0400">
+    <title lang="en">The Waltons</title>
+    <sub-title lang="en">The Obsession</sub-title>
+    <desc lang="en">Desperate to do well on her exams, Mary Ellen becomes dangerously dependent on amphetamines; Cissy walks out on her husband, Yancy.</desc>
+    <credits>
+      <actor>Michael Learned</actor>
+      <actor>Ralph Waite</actor>
+      <actor>Ellen Corby</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184293_b_h10_ad.jpg" />
+    <episode-num system="onscreen">E188708</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250715000000 +0400" stop="20250715010000 +0400">
+    <title lang="en">The Waltons</title>
+    <sub-title lang="en">The Changeling</sub-title>
+    <desc lang="en">Elizabeth's refusal to grow up causes strange occurrences around the Walton home; Jason conducts a radio show for the lovelorn.</desc>
+    <credits>
+      <actor>Ralph Waite</actor>
+      <actor>Michael Learned</actor>
+      <actor>Ellen Corby</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184293_b_h10_ad.jpg" />
+    <episode-num system="onscreen">E188702</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250715010000 +0400" stop="20250715020000 +0400">
+    <title lang="en">Little House on the Prairie</title>
+    <sub-title lang="en">Laura Ingalls Wilder</sub-title>
+    <desc lang="en">Almanzo does not want Laura to take a teaching job even though he manages to lose money in a bad property deal.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Karen Grassle</actor>
+      <actor>Melissa Gilbert</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1142920_e_s2_aa.jpg" />
+    <episode-num system="onscreen">E7052</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250715020000 +0400" stop="20250715030000 +0400">
+    <title lang="en">Little House on the Prairie</title>
+    <sub-title lang="en">Laura Ingalls Wilder</sub-title>
+    <desc lang="en">Almanzo's pride leads to the dissolution of the engagement; Eliza Jane develops a plan to reunite her brother and Laura.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Karen Grassle</actor>
+      <actor>Melissa Gilbert</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1142921_e_h11_ac.jpg" />
+    <episode-num system="onscreen">E7053</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250715030000 +0400" stop="20250715040000 +0400">
+    <title lang="en">Dr. Quinn, Medicine Woman</title>
+    <sub-title lang="en">The Healing</sub-title>
+    <desc lang="en">A bitter Loren, who blames Sully for his daughter's death, tries to repossess Dr. Mike's cabin when he learns he still owns the deed.</desc>
+    <credits>
+      <actor>Jane Seymour</actor>
+      <actor>Joe Lando</actor>
+      <actor>Erika Flores</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183932_b_h10_ae.jpg" />
+    <episode-num system="onscreen">E106</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250715040000 +0400" stop="20250715050000 +0400">
+    <title lang="en">Dr. Quinn, Medicine Woman</title>
+    <sub-title lang="en">Father's Day</sub-title>
+    <desc lang="en">Dr. Mike is suspicious when Charlotte's husband returns to the children he abandoned and tries to convince the town that he has changed.</desc>
+    <credits>
+      <actor>Jane Seymour</actor>
+      <actor>Joe Lando</actor>
+      <actor>Chad Allen</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1583107_e_s2_ab.jpg" />
+    <episode-num system="onscreen">E104</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250715050000 +0400" stop="20250715060000 +0400">
+    <title lang="en">Touched by an Angel</title>
+    <sub-title lang="en">Then Sings My Soul</sub-title>
+    <desc lang="en">A man who inherits a taffy factory wants to sell the family business when he finds he cannot live in his father's generous shadow.</desc>
+    <credits>
+      <actor>Roma Downey</actor>
+      <actor>Della Reese</actor>
+      <actor>John Dye</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184104_b_v8_aa.jpg" />
+    <episode-num system="onscreen">E610</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250715060000 +0400" stop="20250715070000 +0400">
+    <title lang="en">Touched by an Angel</title>
+    <sub-title lang="en">The Christmas Gift</sub-title>
+    <desc lang="en">A woman feels guilty after her husband is killed when the expensive car she forced him to buy is hijacked during Christmastime.</desc>
+    <credits>
+      <actor>Roma Downey</actor>
+      <actor>Della Reese</actor>
+      <actor>John Dye</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <category lang="en">Christmas</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184104_b_v8_aa.jpg" />
+    <episode-num system="onscreen">E611</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250715070000 +0400" stop="20250715080000 +0400">
+    <title lang="en">Little House on the Prairie</title>
+    <sub-title lang="en">The Silent Cry</sub-title>
+    <desc lang="en">The School for the Blind's caretaker sets out to become a respectable farmer so that he may adopt two orphaned brothers.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Karen Grassle</actor>
+      <actor>Melissa Gilbert</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1142919_e_h14_aa.jpg" />
+    <episode-num system="onscreen">E7051</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250715080000 +0400" stop="20250715090000 +0400">
+    <title lang="en">Little House on the Prairie</title>
+    <sub-title lang="en">Portrait of Love</sub-title>
+    <desc lang="en">A mother tries to reunite with the daughter she abandoned, now a blind artist, but meets with hostility.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Karen Grassle</actor>
+      <actor>Melissa Gilbert</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1142923_e_s2_ab.jpg" />
+    <episode-num system="onscreen">E7055</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250715090000 +0400" stop="20250715100000 +0400">
+    <title lang="en">Little House on the Prairie</title>
+    <sub-title lang="en">Divorce, Walnut Grove Style</sub-title>
+    <desc lang="en">Laura gets into a brawl with a woman she considers to be her rival and then leaves Almanzo.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Karen Grassle</actor>
+      <actor>Melissa Gilbert</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1142925_e_s2_ac.jpg" />
+    <episode-num system="onscreen">E7057</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250715100000 +0400" stop="20250715110000 +0400">
+    <title lang="en">Heartland</title>
+    <sub-title lang="en">Taking Chances</sub-title>
+    <desc lang="en">Amy and Lou find a letter written years ago by Tim asking for their mother's forgiveness.</desc>
+    <credits>
+      <actor>Chris Potter</actor>
+      <actor>Amber Marshall</actor>
+      <actor>Michelle Morgan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p185880_b_h8_ag.jpg" />
+    <episode-num system="onscreen">E104</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250715110000 +0400" stop="20250715120000 +0400">
+    <title lang="en">Heartland</title>
+    <sub-title lang="en">The Best Laid Plans</sub-title>
+    <desc lang="en">Lou hires Jerry to direct a promotional video to advertise Heartland.</desc>
+    <credits>
+      <actor>Chris Potter</actor>
+      <actor>Amber Marshall</actor>
+      <actor>Michelle Morgan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p185880_b_h8_ag.jpg" />
+    <episode-num system="onscreen">E105</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250715120000 +0400" stop="20250715130000 +0400">
+    <title lang="en">Highway to Heaven</title>
+    <sub-title lang="en">Heaven on Earth</sub-title>
+    <desc lang="en">When Mark blames himself for a girl's death, Jonathan gives him special powers to undo past actions.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Victor French</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1124680_e_s2_aa.jpg" />
+    <episode-num system="onscreen">E7869</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250715130000 +0400" stop="20250715140000 +0400">
+    <title lang="en">Highway to Heaven</title>
+    <sub-title lang="en">Summit</sub-title>
+    <desc lang="en">Jonathan tries to reunite a Soviet emigre and her long-lost son; guests Nehemiah Persoff, Liam Sullivan.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Victor French</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1124681_e_h10_aa.jpg" />
+    <episode-num system="onscreen">E7870</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250715140000 +0400" stop="20250715150000 +0400">
+    <title lang="en">Highway to Heaven</title>
+    <sub-title lang="en">The Torch</sub-title>
+    <desc lang="en">A concentration-camp survivor (Herschel Bernardi) needing a heart transplant learns the donor was a neo-Nazi terrorist.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Victor French</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1124682_e_s2_aa.jpg" />
+    <episode-num system="onscreen">E7871</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250715150000 +0400" stop="20250715160000 +0400">
+    <title lang="en">The Waltons</title>
+    <sub-title lang="en">The Portrait</sub-title>
+    <desc lang="en">Erin is strangely attracted to a troubled artist (Jared Martin) just returned from Paris; Grandma gets a canary that refuses to sing.</desc>
+    <credits>
+      <actor>Michael Learned</actor>
+      <actor>Ralph Waite</actor>
+      <actor>Ellen Corby</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184293_b_h10_ad.jpg" />
+    <episode-num system="onscreen">E188707</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250715160000 +0400" stop="20250715170000 +0400">
+    <title lang="en">The Waltons</title>
+    <sub-title lang="en">The Captive</sub-title>
+    <desc lang="en">Jim-Bob tries to teach Elizabeth to drive; Corabeth's business ventures are ruined by her secret drinking. Directed by Ralph Waite.</desc>
+    <credits>
+      <actor>Ralph Waite</actor>
+      <actor>Michael Learned</actor>
+      <actor>Ellen Corby</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184293_b_h10_ad.jpg" />
+    <episode-num system="onscreen">E188705</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250715170000 +0400" stop="20250715180000 +0400">
+    <title lang="en">The Waltons</title>
+    <sub-title lang="en">The Illusion</sub-title>
+    <desc lang="en">Verdie's daughter Esther (Joan Pringle) arrives with her child, bitter over the frustrations of being a college-educated black woman.</desc>
+    <credits>
+      <actor>Michael Learned</actor>
+      <actor>Ralph Waite</actor>
+      <actor>Ellen Corby</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184293_b_h10_ad.jpg" />
+    <episode-num system="onscreen">E188706</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250715180000 +0400" stop="20250715200000 +0400">
+    <title lang="en">Beyond the Blackboard</title>
+    <desc lang="en">Inspirational teacher Stacey Bess (Emily VanCamp) provides a suitable classroom for homeless students.</desc>
+    <credits>
+      <actor>Emily VanCamp</actor>
+      <actor>Steve Talley</actor>
+      <actor>Timothy Busfield</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Docu-Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8538921_b_h10_ag.jpg" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250715200000 +0400" stop="20250715220000 +0400">
+    <title lang="en">Front of the Class</title>
+    <desc lang="en">Brad Cohen (Jimmy Wolk) overcomes the challenges of Tourette's syndrome to become a gifted teacher.</desc>
+    <credits>
+      <actor>Patricia Heaton</actor>
+      <actor>Treat Williams</actor>
+      <actor>James Wolk</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Docu-Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p190484_p_v8_ad.jpg" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250715220000 +0400" stop="20250715230000 +0400">
+    <title lang="en">The Waltons</title>
+    <sub-title lang="en">The Portrait</sub-title>
+    <desc lang="en">Erin is strangely attracted to a troubled artist (Jared Martin) just returned from Paris; Grandma gets a canary that refuses to sing.</desc>
+    <credits>
+      <actor>Michael Learned</actor>
+      <actor>Ralph Waite</actor>
+      <actor>Ellen Corby</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184293_b_h10_ad.jpg" />
+    <episode-num system="onscreen">E188707</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250715230000 +0400" stop="20250716000000 +0400">
+    <title lang="en">The Waltons</title>
+    <sub-title lang="en">The Captive</sub-title>
+    <desc lang="en">Jim-Bob tries to teach Elizabeth to drive; Corabeth's business ventures are ruined by her secret drinking. Directed by Ralph Waite.</desc>
+    <credits>
+      <actor>Ralph Waite</actor>
+      <actor>Michael Learned</actor>
+      <actor>Ellen Corby</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184293_b_h10_ad.jpg" />
+    <episode-num system="onscreen">E188705</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250716000000 +0400" stop="20250716010000 +0400">
+    <title lang="en">The Waltons</title>
+    <sub-title lang="en">The Illusion</sub-title>
+    <desc lang="en">Verdie's daughter Esther (Joan Pringle) arrives with her child, bitter over the frustrations of being a college-educated black woman.</desc>
+    <credits>
+      <actor>Michael Learned</actor>
+      <actor>Ralph Waite</actor>
+      <actor>Ellen Corby</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184293_b_h10_ad.jpg" />
+    <episode-num system="onscreen">E188706</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250716010000 +0400" stop="20250716020000 +0400">
+    <title lang="en">Little House on the Prairie</title>
+    <sub-title lang="en">The Silent Cry</sub-title>
+    <desc lang="en">The School for the Blind's caretaker sets out to become a respectable farmer so that he may adopt two orphaned brothers.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Karen Grassle</actor>
+      <actor>Melissa Gilbert</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1142919_e_h14_aa.jpg" />
+    <episode-num system="onscreen">E7051</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250716020000 +0400" stop="20250716030000 +0400">
+    <title lang="en">Little House on the Prairie</title>
+    <sub-title lang="en">Portrait of Love</sub-title>
+    <desc lang="en">A mother tries to reunite with the daughter she abandoned, now a blind artist, but meets with hostility.</desc>
+    <credits>
+      <actor>Michael Landon</actor>
+      <actor>Karen Grassle</actor>
+      <actor>Melissa Gilbert</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p1142923_e_s2_ab.jpg" />
+    <episode-num system="onscreen">E7055</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250716030000 +0400" stop="20250716040000 +0400">
+    <title lang="en">Dr. Quinn, Medicine Woman</title>
+    <sub-title lang="en">Bad Water</sub-title>
+    <desc lang="en">Dr. Mike threatens a wealthy mining baron when mercury from his mine contaminates the town's water supply and causes illness in the community.</desc>
+    <credits>
+      <actor>Jane Seymour</actor>
+      <actor>Joe Lando</actor>
+      <actor>Chad Allen</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183932_b_h10_ae.jpg" />
+    <episode-num system="onscreen">E109</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="Hallmark.Family.HDTV.us" start="20250716040000 +0400" stop="20250716050000 +0400">
+    <title lang="en">Dr. Quinn, Medicine Woman</title>
+    <sub-title lang="en">The Great American Medicine Show</sub-title>
+    <desc lang="en">When a medicine-show man arrives in town, selling an elixir he claims will cure anything, Dr. Mike becomes determined to prove him a fraud.</desc>
+    <credits>
+      <actor>Jane Seymour</actor>
+      <actor>Joe Lando</actor>
+      <actor>Chad Allen</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183932_b_h10_ae.jpg" />
+    <episode-num system="onscreen">E108</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
   </programme>
   <programme channel="MGM+.HDTV.(East).(MGM+HD).us" start="20250712041500 +0400" stop="20250712062500 +0400">
     <title lang="en">Rollerball</title>
