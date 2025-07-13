@@ -33,6 +33,9 @@ http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 group-title="News" tvg-id="WSBK.(TV-38).Boston.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" tvg-name="CBS MA",CBS MA
 http://fl3.moveonjoy.com/CBSEAST/index.m3u8
 
+#EXTINF:-1 group-title="News" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)",FOX NY
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+
 #EXTINF:-1 group-title="News" tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" tvg-name="BBC News",BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 
