@@ -7,9 +7,6 @@ Italia.1.it
 TV2000.it.it
 ABC.NEWS.us
 ABC.(WABC).New.York,.NY.us
-NBC.(WNBC).New.York,.NY.us
-WSBK.(TV-38).Boston.us
-FOX.(WNYW).New.York,.NY.us
 ##BBC.NEWS.HD.uk
 AMC.-.Eastern.Feed.us
 Bravo.USA.-.Eastern.Feed.us
