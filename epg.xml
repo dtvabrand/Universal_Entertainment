@@ -1,5 +1,548 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv><channel id="Rete.4.it">
+<tv><channel id="TV 2000">
+    <display-name lang="it">TV 2000</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <programme start="20250805050000 +0000" stop="20250805053000 +0000" channel="TV 2000">
+    <title lang="it">SANTO ROSARIO DA CASCIA</title>
+    <desc lang="it">Santo Rosario - Santo Rosario dal Santuario di Santa Rita da Cascia.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250805053000 +0000" stop="20250805062500 +0000" channel="TV 2000">
+    <title lang="it">Di Buon Mattino</title>
+    <desc lang="it">Di Buon Mattino - Il contenitore di attualita' che apre la mattina di TV 2000, tra notizie e curiosita', politica e costume.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Attualita</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250805062500 +0000" stop="20250805063000 +0000" channel="TV 2000">
+    <title lang="it">TG 2000 Flash</title>
+    <desc lang="it">TG 2000 Flash - Telegiornale.</desc>
+    <category lang="it">Informazione</category>
+    <category lang="it">Notiziario</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250805063000 +0000" stop="20250805071000 +0000" channel="TV 2000">
+    <title lang="it">SANTA MESSA</title>
+    <desc lang="it">SANTA MESSA - SANTA MESSA DALLA CAPPELLA DELLA CASA GENERALIZIA DELLE FIGLIE DI SANTA MARIA DI LEUCA IN ROMA.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250805071000 +0000" stop="20250805074500 +0000" channel="TV 2000">
+    <title lang="it">Di Buon Mattino</title>
+    <desc lang="it">Di Buon Mattino - Il contenitore di attualita' che apre la mattina di TV 2000, tra notizie e curiosita', politica e costume.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Attualita</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250805074500 +0000" stop="20250805083000 +0000" channel="TV 2000">
+    <title lang="it">Il mio medico</title>
+    <desc lang="it">Il mio medico - Programma di informazione medica a servizio dei cittadini pensato per diffondere, con linguaggio semplice, una cultura della salute basata sulla prevenzione.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Attualita</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250805083000 +0000" stop="20250805085000 +0000" channel="TV 2000">
+    <title lang="it">VEDIAMOCI CHIARO ESTATE</title>
+    <desc lang="it">Vediamoci Chiaro - Vediamoci chiaro si propone di supportare e tutelare i cittadini e suggerire soluzioni ai piccoli e ai grandi problemi delle famiglie.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Attualita</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250805085000 +0000" stop="20250805094500 +0000" channel="TV 2000">
+    <title lang="it">QUEL CHE BOLLE IN PENTOLA</title>
+    <desc lang="it">Quel che bolle in pentola - Beatrice Fazi e lo chef Cinelli cucinano con gli ospiti, sotto l'occhio attento degli assaggiatori. Francesca Ceci visita cucine d'Italia.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Cucina</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250805094500 +0000" stop="20250805095500 +0000" channel="TV 2000">
+    <title lang="it">TRACCE DEL GIUBILEO</title>
+    <desc lang="it">TRACCE DEL GIUBILEO - Tracce del Giubileo" raccoglie documenti storici e immagini dei Giubilei passati: un viaggio tra memoria, fede e societa'.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Storia</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250805095500 +0000" stop="20250805100000 +0000" channel="TV 2000">
+    <title lang="it">ANGELUS DA LORETO 2025</title>
+    <desc lang="it">Angelus da Loreto - Angelus recitato dal Santuario della Santa Casa di Loreto.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250805100000 +0000" stop="20250805101500 +0000" channel="TV 2000">
+    <title lang="it">Tg2000</title>
+    <desc lang="it">Tg2000 - Notiziario.</desc>
+    <category lang="it">Informazione</category>
+    <category lang="it">Notiziario</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250805101500 +0000" stop="20250805111500 +0000" channel="TV 2000">
+    <title lang="it">L'ora solare</title>
+    <desc lang="it">L'ora solare - Paola Saluzzi racconta l'angolo luminoso della vita quotidiana. Storie di uomini e donne che non si sono arresi davanti alle difficolta' e hanno creduto nel futuro.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Attualita</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250805111500 +0000" stop="20250805130000 +0000" channel="TV 2000">
+    <title lang="it">Grecia</title>
+    <desc lang="it">Grecia - Con Grecia Colmenares e Gustavo Bermudez. Grecia assiste alla morte di suo padre, e traumatizzata fortemente perde la memoria.Va a vivere in un collegio di suore. Diventata adulta, va a vivere a.</desc>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Telenovela</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250805130000 +0000" stop="20250805131500 +0000" channel="TV 2000">
+    <title lang="it">CORONCINA ALLA DIVINA MISERICORDIA GELA 2022</title>
+    <desc lang="it">Coroncina alla Divina Misericordia - La preghiera con le promesse trasmesse da Gesu' a Santa Faustina Kowalska.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250805131500 +0000" stop="20250805135000 +0000" channel="TV 2000">
+    <title lang="it">Siamo noi</title>
+    <desc lang="it">Siamo noi - Raccontare l'attualita', sfidando il pessimismo e accendendo i riflettori sulle buone pratiche di un'Italia che ogni giorno costruisce bene comune.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Attualita</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250805135000 +0000" stop="20250805152500 +0000" channel="TV 2000">
+    <title lang="it">Grecia</title>
+    <desc lang="it">Grecia - Con Grecia Colmenares e Gustavo Bermudez. Grecia assiste alla morte di suo padre, e traumatizzata fortemente perde la memoria.Va a vivere in un collegio di suore. Diventata adulta, va a vivere a.</desc>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Telenovela</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250805152500 +0000" stop="20250805160000 +0000" channel="TV 2000">
+    <title lang="it">SOUL</title>
+    <desc lang="it">Soul - Incontrare fino in fondo all'anima uomini e donne che interessano, che incuriosiscono per il loro spessore culturale e umano. A cura di Monica Mondo.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Attualita</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250805160000 +0000" stop="20250805163000 +0000" channel="TV 2000">
+    <title lang="it">Rosario In Diretta Da Lourdes</title>
+    <desc lang="it">Rosario In Diretta Da Lourdes - Rosario in diretta da Lourdes.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250805163000 +0000" stop="20250805170000 +0000" channel="TV 2000">
+    <title lang="it">Tg2000</title>
+    <desc lang="it">Tg2000 - Notiziario.</desc>
+    <category lang="it">Informazione</category>
+    <category lang="it">Notiziario</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250805170000 +0000" stop="20250805173500 +0000" channel="TV 2000">
+    <title lang="it">SANTA MESSA</title>
+    <desc lang="it">SANTA MESSA - SANTA MESSA DALLA CAPPELLA DELLA CASA GENERALIZIA DELLE FIGLIE DI SANTA MARIA DI LEUCA IN ROMA.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250805173500 +0000" stop="20250805180500 +0000" channel="TV 2000">
+    <title lang="it">In Cammino</title>
+    <desc lang="it">In Cammino - Un appuntamento quotidiano che, attraverso temi e ospiti ogni giorno diversi, racconta il cammino della Chiesa verso il Sinodo.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250805180500 +0000" stop="20250805184500 +0000" channel="TV 2000">
+    <title lang="it">SANTO ROSARIO DA CASCIA LUNGO</title>
+    <desc lang="it">Santo Rosario da Cascia - Santo Rosario da Cascia.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250805184500 +0000" stop="20250805190500 +0000" channel="TV 2000">
+    <title lang="it">Tg2000</title>
+    <desc lang="it">Tg2000 - Notiziario.</desc>
+    <category lang="it">Informazione</category>
+    <category lang="it">Notiziario</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250805190500 +0000" stop="20250805204000 +0000" channel="TV 2000">
+    <title lang="it">FILM IL GIRO DEL MONDO IN 80 GIORNI</title>
+    <desc lang="it">Il giro del mondo in 80 giorni - Regia di B. Kulik con P. Brosnan (1989). 1872, le avventure attorno al mondo del ricco avventuriero Fogg con il suo maggiordomo.. Dal romanzo di Jules Verne.</desc>
+    <category lang="it">Film</category>
+    <category lang="it">Drammatico</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250805204000 +0000" stop="20250805223500 +0000" channel="TV 2000">
+    <title lang="it">Una squadra di 12 orfani</title>
+    <desc lang="it">Una squadra di 12 orfani - Regia di T. Roberts (2021). Durante la Grande Depressione Rusty Russell, veterano di guerra, allena una squadra di football.</desc>
+    <category lang="it">Film</category>
+    <category lang="it">Drammatico</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250805223500 +0000" stop="20250805225000 +0000" channel="TV 2000">
+    <title lang="it">LA COMPIETA PREGHIERA DELLA SERA 2023</title>
+    <desc lang="it">La Compieta - Compieta.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250805225000 +0000" stop="20250805231500 +0000" channel="TV 2000">
+    <title lang="it">SANTO ROSARIO DALLA BASILICA PAPALE DI SANTA MARIA MAGGIORE IN ROMA</title>
+    <desc lang="it">Santo Rosario - Santo rosario recitato dalla basilica di Santa Maria Maggiore in Roma.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250805231500 +0000" stop="20250806000500 +0000" channel="TV 2000">
+    <title lang="it">L'ora solare</title>
+    <desc lang="it">L'ora solare - Paola Saluzzi racconta l'angolo luminoso della vita quotidiana. Storie di uomini e donne che non si sono arresi davanti alle difficolta' e hanno creduto nel futuro.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Attualita</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806000500 +0000" stop="20250806004000 +0000" channel="TV 2000">
+    <title lang="it">Siamo noi</title>
+    <desc lang="it">Siamo noi - Raccontare l'attualita', sfidando il pessimismo e accendendo i riflettori sulle buone pratiche di un'Italia che ogni giorno costruisce bene comune.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Attualita</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806004000 +0000" stop="20250806010500 +0000" channel="TV 2000">
+    <title lang="it">In Cammino</title>
+    <desc lang="it">In Cammino - Un appuntamento quotidiano che, attraverso temi e ospiti ogni giorno diversi, racconta il cammino della Chiesa verso il Sinodo.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806010500 +0000" stop="20250806012500 +0000" channel="TV 2000">
+    <title lang="it">Un paese sotto le nuvole</title>
+    <desc lang="it">Un paese sotto le nuvole - Un paese sotto le nuvole.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Documentario</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806012500 +0000" stop="20250806015000 +0000" channel="TV 2000">
+    <title lang="it">I SANTI</title>
+    <desc lang="it">I Santi - Un documentario dedicato a San Carlo Borromeo.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Documentario</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806015000 +0000" stop="20250806023000 +0000" channel="TV 2000">
+    <title lang="it">Il mio medico</title>
+    <desc lang="it">Il mio medico - Programma di informazione medica a servizio dei cittadini pensato per diffondere, con linguaggio semplice, una cultura della salute basata sulla prevenzione.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Attualita</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806023000 +0000" stop="20250806025000 +0000" channel="TV 2000">
+    <title lang="it">VEDIAMOCI CHIARO ESTATE</title>
+    <desc lang="it">Vediamoci Chiaro - Vediamoci chiaro si propone di supportare e tutelare i cittadini e suggerire soluzioni ai piccoli e ai grandi problemi delle famiglie.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Attualita</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806025000 +0000" stop="20250806030000 +0000" channel="TV 2000">
+    <title lang="it">Clip Borghi d'Italia</title>
+    <desc lang="it">Clip Borghi d'Italia - Clip Borghi d'Italia.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Viaggi</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806030000 +0000" stop="20250806032500 +0000" channel="TV 2000">
+    <title lang="it">SANTO ROSARIO LOURDES</title>
+    <desc lang="it">Santo Rosario - Santo Rosario da Lourdes.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806032500 +0000" stop="20250806033500 +0000" channel="TV 2000">
+    <title lang="it">TRACCE DEL GIUBILEO</title>
+    <desc lang="it">TRACCE DEL GIUBILEO - Tracce del Giubileo" raccoglie documenti storici e immagini dei Giubilei passati: un viaggio tra memoria, fede e societa'.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Storia</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806033500 +0000" stop="20250806034500 +0000" channel="TV 2000">
+    <title lang="it">La preghiera del mattino</title>
+    <desc lang="it">La preghiera del mattino - La preghiera del mattino.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806034500 +0000" stop="20250806040500 +0000" channel="TV 2000">
+    <title lang="it">In Cammino</title>
+    <desc lang="it">In Cammino - Un appuntamento quotidiano che, attraverso temi e ospiti ogni giorno diversi, racconta il cammino della Chiesa verso il Sinodo.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806040500 +0000" stop="20250806050500 +0000" channel="TV 2000">
+    <title lang="it">L'ora solare</title>
+    <desc lang="it">L'ora solare - Paola Saluzzi racconta l'angolo luminoso della vita quotidiana. Storie di uomini e donne che non si sono arresi davanti alle difficolta' e hanno creduto nel futuro.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Attualita</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806050500 +0000" stop="20250806053000 +0000" channel="TV 2000">
+    <title lang="it">SANTO ROSARIO DA CASCIA</title>
+    <desc lang="it">Santo Rosario - Santo Rosario dal Santuario di Santa Rita da Cascia.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806053000 +0000" stop="20250806062500 +0000" channel="TV 2000">
+    <title lang="it">Di Buon Mattino</title>
+    <desc lang="it">Di Buon Mattino - Il contenitore di attualita' che apre la mattina di TV 2000, tra notizie e curiosita', politica e costume.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Attualita</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806062500 +0000" stop="20250806063000 +0000" channel="TV 2000">
+    <title lang="it">TG 2000 Flash</title>
+    <desc lang="it">TG 2000 Flash - Telegiornale.</desc>
+    <category lang="it">Informazione</category>
+    <category lang="it">Notiziario</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806063000 +0000" stop="20250806071000 +0000" channel="TV 2000">
+    <title lang="it">SANTA MESSA</title>
+    <desc lang="it">SANTA MESSA - SANTA MESSA DALLA CAPPELLA DELLA CASA GENERALIZIA DELLE FIGLIE DI SANTA MARIA DI LEUCA IN ROMA.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806071000 +0000" stop="20250806080500 +0000" channel="TV 2000">
+    <title lang="it">Di Buon Mattino</title>
+    <desc lang="it">Di Buon Mattino - Il contenitore di attualita' che apre la mattina di TV 2000, tra notizie e curiosita', politica e costume.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Attualita</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806080500 +0000" stop="20250806090000 +0000" channel="TV 2000">
+    <title lang="it">Udienza Generale</title>
+    <desc lang="it">Udienza Generale - Udienza Generale.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806090000 +0000" stop="20250806095500 +0000" channel="TV 2000">
+    <title lang="it">QUEL CHE BOLLE IN PENTOLA</title>
+    <desc lang="it">Quel che bolle in pentola - Beatrice Fazi e lo chef Cinelli cucinano con gli ospiti, sotto l'occhio attento degli assaggiatori. Francesca Ceci visita cucine d'Italia.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Cucina</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806095500 +0000" stop="20250806100000 +0000" channel="TV 2000">
+    <title lang="it">ANGELUS DA LORETO 2025</title>
+    <desc lang="it">Angelus da Loreto - Angelus recitato dal Santuario della Santa Casa di Loreto.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806100000 +0000" stop="20250806101500 +0000" channel="TV 2000">
+    <title lang="it">Tg2000</title>
+    <desc lang="it">Tg2000 - Notiziario.</desc>
+    <category lang="it">Informazione</category>
+    <category lang="it">Notiziario</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806101500 +0000" stop="20250806111500 +0000" channel="TV 2000">
+    <title lang="it">L'ora solare</title>
+    <desc lang="it">L'ora solare - Paola Saluzzi racconta l'angolo luminoso della vita quotidiana. Storie di uomini e donne che non si sono arresi davanti alle difficolta' e hanno creduto nel futuro.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Attualita</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806111500 +0000" stop="20250806130000 +0000" channel="TV 2000">
+    <title lang="it">Grecia</title>
+    <desc lang="it">Grecia - Con Grecia Colmenares e Gustavo Bermudez. Grecia assiste alla morte di suo padre, e traumatizzata fortemente perde la memoria.Va a vivere in un collegio di suore. Diventata adulta, va a vivere a.</desc>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Telenovela</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806130000 +0000" stop="20250806131500 +0000" channel="TV 2000">
+    <title lang="it">CORONCINA ALLA DIVINA MISERICORDIA GELA 2022</title>
+    <desc lang="it">Coroncina alla Divina Misericordia - La preghiera con le promesse trasmesse da Gesu' a Santa Faustina Kowalska.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806131500 +0000" stop="20250806135000 +0000" channel="TV 2000">
+    <title lang="it">Siamo noi</title>
+    <desc lang="it">Siamo noi - Raccontare l'attualita', sfidando il pessimismo e accendendo i riflettori sulle buone pratiche di un'Italia che ogni giorno costruisce bene comune.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Attualita</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806135000 +0000" stop="20250806151500 +0000" channel="TV 2000">
+    <title lang="it">Grecia</title>
+    <desc lang="it">Grecia - Con Grecia Colmenares e Gustavo Bermudez. Grecia assiste alla morte di suo padre, e traumatizzata fortemente perde la memoria.Va a vivere in un collegio di suore. Diventata adulta, va a vivere a.</desc>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Telenovela</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806151500 +0000" stop="20250806160000 +0000" channel="TV 2000">
+    <title lang="it">SOUL</title>
+    <desc lang="it">Soul - Incontrare fino in fondo all'anima uomini e donne che interessano, che incuriosiscono per il loro spessore culturale e umano. A cura di Monica Mondo.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Attualita</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806160000 +0000" stop="20250806163000 +0000" channel="TV 2000">
+    <title lang="it">Rosario In Diretta Da Lourdes</title>
+    <desc lang="it">Rosario In Diretta Da Lourdes - Rosario in diretta da Lourdes.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806163000 +0000" stop="20250806170000 +0000" channel="TV 2000">
+    <title lang="it">Tg2000</title>
+    <desc lang="it">Tg2000 - Notiziario.</desc>
+    <category lang="it">Informazione</category>
+    <category lang="it">Notiziario</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806170000 +0000" stop="20250806174000 +0000" channel="TV 2000">
+    <title lang="it">SANTA MESSA</title>
+    <desc lang="it">SANTA MESSA - SANTA MESSA DALLA CAPPELLA DELLA CASA GENERALIZIA DELLE FIGLIE DI SANTA MARIA DI LEUCA IN ROMA.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806174000 +0000" stop="20250806180500 +0000" channel="TV 2000">
+    <title lang="it">In Cammino</title>
+    <desc lang="it">In Cammino - Un appuntamento quotidiano che, attraverso temi e ospiti ogni giorno diversi, racconta il cammino della Chiesa verso il Sinodo.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806180500 +0000" stop="20250806184500 +0000" channel="TV 2000">
+    <title lang="it">SANTO ROSARIO DA CASCIA LUNGO</title>
+    <desc lang="it">Santo Rosario da Cascia - Santo Rosario da Cascia.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806184500 +0000" stop="20250806190500 +0000" channel="TV 2000">
+    <title lang="it">Tg2000</title>
+    <desc lang="it">Tg2000 - Notiziario.</desc>
+    <category lang="it">Informazione</category>
+    <category lang="it">Notiziario</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806190500 +0000" stop="20250806204000 +0000" channel="TV 2000">
+    <title lang="it">Rapsodia in agosto</title>
+    <desc lang="it">Rapsodia in agosto - Regia di A. Kurosawa (1991). Una nonna ricorda con i suoi nipoti i giorni in cui la bomba atomica nel 1945 colpi' Nagasaki, uccidendo il nonno.</desc>
+    <category lang="it">Film</category>
+    <category lang="it">Drammatico</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806204000 +0000" stop="20250806213000 +0000" channel="TV 2000">
+    <title lang="it">HIROSHIMA, 80 ANNI DOPO</title>
+    <desc lang="it">IL LIBRO DELLE OMBRE - HIROSHIMA, 80 ANNI DOPO - Regia di G. Carrieri (2025). Hiroshima, il passato e il presente nelle testimonianze degli ultimi sopravvissuti.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Documentario</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806213000 +0000" stop="20250806215000 +0000" channel="TV 2000">
+    <title lang="it">LA COMPIETA PREGHIERA DELLA SERA 2023</title>
+    <desc lang="it">La Compieta - Compieta.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806215000 +0000" stop="20250806221500 +0000" channel="TV 2000">
+    <title lang="it">SANTO ROSARIO DALLA BASILICA PAPALE DI SANTA MARIA MAGGIORE IN ROMA</title>
+    <desc lang="it">Santo Rosario - Santo rosario recitato dalla basilica di Santa Maria Maggiore in Roma.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806221500 +0000" stop="20250806230500 +0000" channel="TV 2000">
+    <title lang="it">L'ora solare</title>
+    <desc lang="it">L'ora solare - Paola Saluzzi racconta l'angolo luminoso della vita quotidiana. Storie di uomini e donne che non si sono arresi davanti alle difficolta' e hanno creduto nel futuro.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Attualita</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806230500 +0000" stop="20250806234000 +0000" channel="TV 2000">
+    <title lang="it">Siamo noi</title>
+    <desc lang="it">Siamo noi - Raccontare l'attualita', sfidando il pessimismo e accendendo i riflettori sulle buone pratiche di un'Italia che ogni giorno costruisce bene comune.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Attualita</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250806234000 +0000" stop="20250807000000 +0000" channel="TV 2000">
+    <title lang="it">In Cammino</title>
+    <desc lang="it">In Cammino - Un appuntamento quotidiano che, attraverso temi e ospiti ogni giorno diversi, racconta il cammino della Chiesa verso il Sinodo.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250807000000 +0000" stop="20250807002000 +0000" channel="TV 2000">
+    <title lang="it">Los Piranitas</title>
+    <desc lang="it">Los Piranitas - Peru', Los Piranitas, ragazzi di strada.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Documentario</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250807002000 +0000" stop="20250807010000 +0000" channel="TV 2000">
+    <title lang="it">A Lourdes</title>
+    <desc lang="it">A Lourdes - Un film di Gabriele Camelo. A cura di Dario Quarta. Il film racconta il viaggio a Lourdes della sezione campana dell'Unitalsi, seguendo le sorti di tre protagonisti: Ignazio, Serena, Giuseppe.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Documentario</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250807010000 +0000" stop="20250807020000 +0000" channel="TV 2000">
+    <title lang="it">Siamo fatti per il cielo</title>
+    <desc lang="it">Siamo fatti per il cielo - Doumentario.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Documentario</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250807020000 +0000" stop="20250807024500 +0000" channel="TV 2000">
+    <title lang="it">QUEL CHE BOLLE IN PENTOLA</title>
+    <desc lang="it">Quel che bolle in pentola - Beatrice Fazi e lo chef Cinelli cucinano con gli ospiti, sotto l'occhio attento degli assaggiatori. Francesca Ceci visita cucine d'Italia.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Cucina</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250807024500 +0000" stop="20250807030000 +0000" channel="TV 2000">
+    <title lang="it">Clip Borghi d'Italia</title>
+    <desc lang="it">Clip Borghi d'Italia - Clip Borghi d'Italia.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Viaggi</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250807030000 +0000" stop="20250807033000 +0000" channel="TV 2000">
+    <title lang="it">SANTO ROSARIO LOURDES</title>
+    <desc lang="it">Santo Rosario - Santo Rosario da Lourdes.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250807033000 +0000" stop="20250807034000 +0000" channel="TV 2000">
+    <title lang="it">FIRMATO DA TE 2023</title>
+    <desc lang="it">Firmato da te - Racconto breve, attraverso la voce dei protagonisti, nelle diverse citta' d'Italia, su come viene concretamente utilizzato l'8xmille destinato alla Chiesa Cattolica.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Documentario</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250807034000 +0000" stop="20250807035000 +0000" channel="TV 2000">
+    <title lang="it">La preghiera del mattino</title>
+    <desc lang="it">La preghiera del mattino - La preghiera del mattino.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <programme start="20250807035000 +0000" stop="20250807041000 +0000" channel="TV 2000">
+    <title lang="it">In Cammino</title>
+    <desc lang="it">In Cammino - Un appuntamento quotidiano che, attraverso temi e ospiti ogni giorno diversi, racconta il cammino della Chiesa verso il Sinodo.</desc>
+    <category lang="it">Mondo e Tendenze</category>
+    <category lang="it">Religione</category>
+    <icon src="https://guidatv.sky.it/uuid/Intrattenimento_Cover_aS6G29F8N9.png" />
+  </programme>
+  <channel id="Rete.4.it">
     <display-name lang="it">Rete 4</display-name>
     <icon src="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/r4.png" />
     <icon src="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/r4.png" />
