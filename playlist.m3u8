@@ -21,20 +21,11 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 #EXTINF:-1 group-title="Italy" tvg-id="TV2000.it.it" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-name="TV 2000",TV 2000
 https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8
 
-#EXTINF:-1 group-title="News" tvg-id="ABC.NEWS.us" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png" tvg-name="ABC News Live" tvh-tags="Disney Entertainment Television",ABC News Live
+#EXTINF:-1 group-title="News" tvg-id="ABC.NEWS.us" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png" tvg-name="ABC News Live",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 group-title="News" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" tvg-name="WABC",ABC NY
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-
-#EXTINF:-1 group-title="News" tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" tvg-name="WNBC",NBC NY
-http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
-
-#EXTINF:-1 group-title="News" tvg-id="WSBK.(TV-38).Boston.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" tvg-name="CBS MA",CBS MA
-http://fl3.moveonjoy.com/CBSEAST/index.m3u8
-
-#EXTINF:-1 group-title="News" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)",FOX NY
-http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 
 ##EXTINF:-1 group-title="News" tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" tvg-name="BBC News",BBC News
 ##https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
@@ -72,7 +63,7 @@ http://fl3.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Syfy.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" tvg-name="SYFY",SYFY
 http://fl3.moveonjoy.com/SYFY/index.m3u8
 
-EXTINF:-1 group-title="Entertainment" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" tvg-name="TNT",TNT
+#EXTINF:-1 group-title="Entertainment" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" tvg-name="TNT",TNT
 http://fl3.moveonjoy.com/TNT/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-name="USA Network",USA Network
