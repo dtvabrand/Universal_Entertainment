@@ -37,7 +37,7 @@ http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 http://fl3.moveonjoy.com/BRAVO/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="Freeform.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" tvg-name="Freeform",Freeform
-https://tvpass.org/live/FreeformEast/hd
+https://thetvapp.to/tv/nickelodeon-east-live-stream/
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="FX.Networks.East.Coast.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" tvg-name="FX",FX
 http://fl3.moveonjoy.com/FX/index.m3u8
