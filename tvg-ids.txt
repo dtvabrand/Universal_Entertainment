@@ -24,7 +24,7 @@ USA.Network.-.East.Feed.us
 Discovery.Channel.(US).-.Eastern.Feed.us
 E!.Entertainment.USA.-.Eastern.Feed.us
 Travel.US.-.East.us
-##Nickelodeon.USA.-.East.Feed.us
+Nickelodeon.USA.-.East.Feed.us
 Cartoon.Network.USA.-.Eastern.Feed.us
 Boomerang.us
 Disney.-.Eastern.Feed.us
