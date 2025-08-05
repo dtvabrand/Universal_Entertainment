@@ -81,4 +81,3 @@ urls = [
 
 if __name__ == "__main__":
     filter_and_build_epg(urls)
-
