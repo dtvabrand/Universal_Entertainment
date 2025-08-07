@@ -77,6 +77,7 @@ https://tvpass.org/live/CartoonNetworkEast/hd
 
 #EXTINF:-1 group-title="Kids" tvg-id="Boomerang.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" tvg-name="Boomerang",Boomerang
 https://tvpass.org/live/Boomerang/hd
+
 #EXTINF:-1 group-title="Kids" tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png" tvg-name="Disney Channel",Disney Channel
 https://tvpass.org/live/DisneyChannelEast/hd
 
