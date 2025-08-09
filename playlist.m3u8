@@ -4,13 +4,13 @@
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 group-title="Italy" tvg-id="Rai2.it" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-2-bobi5do2jjqa.png" tvg-name="Rai 2",Rai 2 
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Italy" tvg-id="Rai3.it" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-3-kwvj7ve82k1u.png" tvg-name="Rai 3",Rai 3
+#EXTINF:-1 group-title="Italy" tvg-id="Rai3.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" tvg-name="Rai 3",Rai 3
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Italy" tvg-id="Rete.4.it" tvg-logo="https://api.superguidatv.it/v1/channels/189/logo?width=240" tvg-name="Rete 4",Rete 4
+#EXTINF:-1 group-title="Italy" tvg-id="Rete.4.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" tvg-name="Rete 4",Rete 4
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
-#EXTINF:-1 group-title="Italy" tvg-id="Canale.5.it" tvg-logo="https://api.superguidatv.it/v1/channels/187/logo?width=240" tvg-name="Canale 5",Canale 5
+#EXTINF:-1 group-title="Italy" tvg-id="Canale.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" tvg-name="Canale 5",Canale 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
-#EXTINF:-1 group-title="Italy" tvg-id="Italia.1.it" tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=240" tvg-name="Italia 1",Italia 1
+#EXTINF:-1 group-title="Italy" tvg-id="Italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" tvg-name="Italia 1",Italia 1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 #EXTINF:-1 group-title="Italy" tvg-id="TV2000 HD.it" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-name="TV 2000",TV 2000
 https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8
