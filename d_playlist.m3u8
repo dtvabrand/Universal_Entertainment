@@ -1,36 +1,36 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dtvabrand/Universal_Entertainment/refs/heads/main/d_epg.xml"
 
-#EXTINF:-1 group-title="Rai − Radiotelevisione Italiana" tvg-id="Rai1.it" tvg-logo="https://i.imgur.com/CAx7yRm.png" tvg-name="Rai 1",Rai 1
+#EXTINF:-1 group-title="Rai" tvg-id="Rai1.it" tvg-logo="https://i.imgur.com/CAx7yRm.png" tvg-name="Rai 1",Rai 1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 group-title="Rai − Radiotelevisione Italiana" tvg-id="Rai2.it" tvg-logo="https://i.imgur.com/zA0PTcs.png" tvg-name="Rai 2",Rai 2 
+#EXTINF:-1 group-title="Rai" tvg-id="Rai2.it" tvg-logo="https://i.imgur.com/zA0PTcs.png" tvg-name="Rai 2",Rai 2 
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 group-title="Rai − Radiotelevisione Italiana" tvg-id="Rai3.it" tvg-logo="https://i.imgur.com/9kuQCIi.png" tvg-name="Rai 3",Rai 3
+#EXTINF:-1 group-title="Rai" tvg-id="Rai3.it" tvg-logo="https://i.imgur.com/9kuQCIi.png" tvg-name="Rai 3",Rai 3
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 group-title="Rai − Radiotelevisione Italiana" tvg-id="Rai4.it" tvg-logo="https://i.imgur.com/XFkZRfv.png" tvg-name="Rai 4",Rai 4
+#EXTINF:-1 group-title="Rai" tvg-id="Rai4.it" tvg-logo="https://i.imgur.com/XFkZRfv.png" tvg-name="Rai 4",Rai 4
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 group-title="Rai − Radiotelevisione Italiana" tvg-id="Rai5.it" tvg-logo="https://i.imgur.com/Leu2zTO.png" tvg-name="Rai 5",Rai 5
+#EXTINF:-1 group-title="Rai" tvg-id="Rai5.it" tvg-logo="https://i.imgur.com/Leu2zTO.png" tvg-name="Rai 5",Rai 5
 https://raicinque3-live.akamaized.net/hls/live/2018007/raicinque3/raicinque3/playlist.m3u8
 
-#EXTINF:-1 group-title="Rai − Radiotelevisione Italiana" tvg-id="RaiMovie.it" tvg-logo="https://i.imgur.com/RKpO8CE.png" tvg-name="Rai Movie",Rai Movie
+#EXTINF:-1 group-title="Rai" tvg-id="RaiMovie.it" tvg-logo="https://i.imgur.com/RKpO8CE.png" tvg-name="Rai Movie",Rai Movie
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 group-title="Rai − Radiotelevisione Italiana" tvg-id="RaiPremium.it" tvg-logo="https://i.imgur.com/RKI4nFy.png"  tvg-name="Rai Premium",Rai Premium
+#EXTINF:-1 group-title="Rai" tvg-id="RaiPremium.it" tvg-logo="https://i.imgur.com/RKI4nFy.png"  tvg-name="Rai Premium",Rai Premium
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 group-title="Rai − Radiotelevisione Italiana" tvg-id="RaiNews24.it" tvg-logo="https://i.imgur.com/gdzGwB6.png"  tvg-name="Rai News 24",Rai News 24
+#EXTINF:-1 group-title="Rai" tvg-id="RaiNews24.it" tvg-logo="https://i.imgur.com/gdzGwB6.png"  tvg-name="Rai News 24",Rai News 24
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 group-title="Rai − Radiotelevisione Italiana" tvg-id="RaiStoria.it" tvg-logo="https://i.imgur.com/K8y5q8x.png"  tvg-name="Rai Storia",Rai Storia
+#EXTINF:-1 group-title="Rai" tvg-id="RaiStoria.it" tvg-logo="https://i.imgur.com/K8y5q8x.png"  tvg-name="Rai Storia",Rai Storia
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 group-title="Rai − Radiotelevisione Italiana" tvg-id="RaiSport.it" tvg-logo="https://i.imgur.com/xsGljsb.png"  tvg-name="Rai Sport",Rai Sport
+#EXTINF:-1 group-title="Rai" tvg-id="RaiSport.it" tvg-logo="https://i.imgur.com/xsGljsb.png"  tvg-name="Rai Sport",Rai Sport
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 group-title="Rai − Radiotelevisione Italiana" tvg-id="RaiScuola.it" tvg-logo="https://i.imgur.com/tmtJW6s.png"  tvg-name="Rai Scuola",Rai Scuola
+#EXTINF:-1 group-title="Rai" tvg-id="RaiScuola.it" tvg-logo="https://i.imgur.com/tmtJW6s.png"  tvg-name="Rai Scuola",Rai Scuola
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
 
 
