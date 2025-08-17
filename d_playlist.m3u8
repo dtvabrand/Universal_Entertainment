@@ -13,7 +13,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&force
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 group-title="Rai − Radiotelevisione Italiana" tvg-id="Rai5.it" tvg-logo="https://i.imgur.com/Leu2zTO.png" tvg-name="Rai 5",Rai 5
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=rainet/4.0.5
+https://raicinque3-live.akamaized.net/hls/live/2018007/raicinque3/raicinque3/playlist.m3u8
 
 #EXTINF:-1 group-title="Rai − Radiotelevisione Italiana" tvg-id="RaiMovie.it" tvg-logo="https://i.imgur.com/RKpO8CE.png" tvg-name="Rai Movie",Rai Movie
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
