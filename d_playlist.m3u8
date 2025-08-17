@@ -1,19 +1,19 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dtvabrand/Universal_Entertainment/refs/heads/main/d_epg.xml"
 
-#EXTINF:-1 group-title="Rai − Radiotelevisione Italiana" tvg-id="Rai1.it" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" tvg-name="Rai 1",Rai 1
+#EXTINF:-1 group-title="Rai − Radiotelevisione Italiana" tvg-id="Rai1.it" tvg-logo="https://i.imgur.com/CAx7yRm.png" tvg-name="Rai 1",Rai 1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 group-title="Rai − Radiotelevisione Italiana" tvg-id="Rai2.it" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-2-bobi5do2jjqa.png" tvg-name="Rai 2",Rai 2 
+#EXTINF:-1 group-title="Rai − Radiotelevisione Italiana" tvg-id="Rai2.it" tvg-logo="https://i.imgur.com/zA0PTcs.png" tvg-name="Rai 2",Rai 2 
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 group-title="Rai − Radiotelevisione Italiana" tvg-id="Rai3.it" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-3-kwvj7ve82k1u.png" tvg-name="Rai 3",Rai 3
+#EXTINF:-1 group-title="Rai − Radiotelevisione Italiana" tvg-id="Rai3.it" tvg-logo="https://i.imgur.com/9kuQCIi.png" tvg-name="Rai 3",Rai 3
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 group-title="Rai − Radiotelevisione Italiana" tvg-id="Rai4.it" tvg-logo="https://i.imgur.com/XFkZRfv.png" tvg-name="Rai 4",Rai 4
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 group-title="Rai − Radiotelevisione Italiana" tvg-id="Rai5.it" tvg-logo="https://i.imgur.com/Leu2zTO.png" tvg-name="Rai 5",Rai 5
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=rainet/4.0.5
 
 #EXTINF:-1 group-title="Rai − Radiotelevisione Italiana" tvg-id="RaiMovie.it" tvg-logo="https://i.imgur.com/RKpO8CE.png" tvg-name="Rai Movie",Rai Movie
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
