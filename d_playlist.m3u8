@@ -96,16 +96,8 @@ https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8
 #EXTINF:-1 group-title="Italia Sport Communication" tvg-id="Sportitalia.it" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-name="Sportitalia Plus",Sportitalia Plus
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Italia 7 Gold" tvg-id="7Gold.it" tvg-logo="https://i.imgur.com/YZadq0M.png" tvg-name="TeleRent 7Gold",TeleRent 7Gold
-https://stream2.xdevel.com/video0s86-21/stream/playlist.m3u8
-##https://router.xdevel.com/video0s86-21/stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Campania" tvg-id="Canale21.it" tvg-logo="https://i.imgur.com/mU6Cq89.png" tvg-name="Canale 21",Canale 21
 https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/playlist.m3u8
-
-#EXTINF:-1 group-title="Campania" tvg-logo="https://www.televomero.it/wp-content/uploads/2023/01/Televomero23_logo-2.png",Televomero
-http://1se2.troydesign.eu:80/televomero/channel1_televomero/playlist.m3u8
-##https://stream2.xdevel.com/video0s100-23/stream/chunks_dvr.m3u8
 
 #EXTINF:-1 group-title="Campania" tvg-logo="http://odmsto.com/uploads/tv_image/sm/lira-tv.png",Lira Tv
 https://streamcdnm10-a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
