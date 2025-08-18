@@ -30,12 +30,12 @@ jobs:
       run: |
         python getEpgs.py
 
-    - name: Commit epg changes
+    - name: Commit changes if needed
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add epg.xml d_epg.xml
-        changes=$(git diff --cached --stat)
+        git add *.xml
+        changes=$(git diff --cached --name-only)
         if [ -n "$changes" ]; then
           git commit -m "EPG Updated! 📺"
           git push || echo "Push failed due to permissions or no changes."
