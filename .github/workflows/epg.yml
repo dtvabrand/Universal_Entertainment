@@ -20,6 +20,7 @@ jobs:
       uses: actions/setup-python@v4
       with:
         python-version: '3.x'
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
@@ -29,15 +30,13 @@ jobs:
       run: |
         python getEpgs.py
 
-    - name: Commit changes if needed for epg.xml
+    - name: Commit epg changes
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add epg.xml
+        git add epg.xml d_epg.xml
         changes=$(git diff --cached --stat)
         if [ -n "$changes" ]; then
-          if echo "$changes" | grep -q "epg.xml"; then
-            git commit -m "EPG Updated! 📺"
-            git push || echo "Push failed due to permissions or no changes."
-          fi
+          git commit -m "EPG Updated! 📺"
+          git push || echo "Push failed due to permissions or no changes."
         fi
