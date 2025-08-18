@@ -21,8 +21,8 @@ Starz.-.Eastern.us
 Syfy.-.Eastern.Feed.us
 TNT.-.Eastern.Feed.us
 USA.Network.-.East.Feed.us
-Discovery.Channel.(US).-.Eastern.Feed.us
-Travel.US.-.East.us
+##Discovery.Channel.(US).-.Eastern.Feed.us
+##Travel.US.-.East.us
 Nickelodeon.USA.-.East.Feed.us
 Cartoon.Network.USA.-.Eastern.Feed.us
 Boomerang.us
