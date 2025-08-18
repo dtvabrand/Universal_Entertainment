@@ -51,43 +51,43 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 #EXTINF:-1 group-title="Mediaset" tvg-id="Iris.it" tvg-logo="https://i.imgur.com/Ixz1BY3.png" tvg-name="Iris",Iris
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 
-#EXTINF:-1 group-title="Mediaset" tvg-id="La5.it" tvg-logo="https://i.imgur.com/UNyJaho.png" tvg-name="La 5",La 5
+#EXTINF:-1 group-title="Mediaset" tvg-id="La.5.it" tvg-logo="https://i.imgur.com/UNyJaho.png" tvg-name="La 5",La 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 
-#EXTINF:-1 group-title="Mediaset" tvg-id="TopCrime.it" tvg-logo="https://i.imgur.com/RFIwv9O.png" tvg-name="Top Crime",Top Crime
+#EXTINF:-1 group-title="Mediaset" tvg-id="Top.Crime.it" tvg-logo="https://i.imgur.com/RFIwv9O.png" tvg-name="Top Crime",Top Crime
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 
-#EXTINF:-1 group-title="Mediaset" tvg-id="27Twentyseven.it" tvg-logo="https://i.imgur.com/y2PdPCK.png" tvg-name="27 Twentyseven",27 Twentyseven
+#EXTINF:-1 group-title="Mediaset" tvg-id="27.Twentyseven.it" tvg-logo="https://i.imgur.com/y2PdPCK.png" tvg-name="27 Twentyseven",27 Twentyseven
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 
 #EXTINF:-1 group-title="Mediaset" tvg-id="Cine34.it" tvg-logo="https://i.imgur.com/YyldwhI.png" tvg-name="Cine34",Cine34
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
 
-#EXTINF:-1 group-title="Mediaset" tvg-id="TGCom24.it" tvg-logo="https://i.imgur.com/xautVD8.png" tvg-name="TGCOM 24",TGCOM 24
+#EXTINF:-1 group-title="Mediaset" tvg-id="TGCom.it" tvg-logo="https://i.imgur.com/xautVD8.png" tvg-name="TGCOM 24",TGCOM 24
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
-#EXTINF:-1 group-title="Mediaset" tvg-id="MediasetExtra.it" tvg-logo="https://i.imgur.com/mM8lopo.png" tvg-name="Mediaset Extra",Mediaset Extra
+#EXTINF:-1 group-title="Mediaset" tvg-id="Mediaset.Extra.it" tvg-logo="https://i.imgur.com/mM8lopo.png" tvg-name="Mediaset Extra",Mediaset Extra
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 
 
 
 
-#EXTINF:-1 group-title="Cairo Communication" tvg-id="La7.it" tvg-logo="https://i.imgur.com/F90mpSa.png" tvg-name="La7" ,La7
+#EXTINF:-1 group-title="Cairo Communication" tvg-id="LA7.HD.it" tvg-logo="https://i.imgur.com/F90mpSa.png" tvg-name="La7" ,La7
 https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
 
-#EXTINF:-1 group-title="Cairo Communication" tvg-id="La7d.it" tvg-logo="https://i.imgur.com/AOL9nMw.png"  tvg-name="La7d",La7d
+#EXTINF:-1 group-title="Cairo Communication" tvg-id="LA7D.it" tvg-logo="https://i.imgur.com/AOL9nMw.png"  tvg-name="La7d",La7d
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 
 #EXTINF:-1 group-title="Warner Bros Discovery Italia" tvg-id="Nove.it" tvg-logo="https://i.imgur.com/Hp723RU.png" tvg-name="Nove",Nove
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
 
-#EXTINF:-1 group-title="Sky Italia" tvg-id="CieloTV.it" tvg-logo="https://i.imgur.com/cPluF03.png" tvg-name="Cielo",Cielo
+#EXTINF:-1 group-title="Sky Italia" tvg-id="cielo.it" tvg-logo="https://i.imgur.com/cPluF03.png" tvg-name="Cielo",Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 
-#EXTINF:-1 group-title="Sky Italia" tvg-id="TV8.it" tvg-logo="https://i.imgur.com/xvoHVOU.png" tvg-name="TV8",TV8
+#EXTINF:-1 group-title="Sky Italia" tvg-id="TV8.HD.it" tvg-logo="https://i.imgur.com/xvoHVOU.png" tvg-name="TV8",TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 
-#EXTINF:-1 group-title="Sky Italia" tvg-id="SkyTG24.it" tvg-logo="https://i.imgur.com/q4d3Dah.png" tvg-name="Sky TG24" ,Sky TG24
+#EXTINF:-1 group-title="Sky Italia" tvg-id="Sky.TG24.it" tvg-logo="https://i.imgur.com/q4d3Dah.png" tvg-name="Sky TG24" ,Sky TG24
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 
 #EXTINF:-1 group-title="Rete Blu" tvg-id="TV2000 HD.it" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-name="TV 2000",TV 2000
