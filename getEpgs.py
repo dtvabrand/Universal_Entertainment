@@ -81,5 +81,14 @@ urls = [
 ]
 
 if __name__ == "__main__":
+    # Primo set
+    tvg_ids_file = os.path.join(os.path.dirname(__file__), 'tvg-ids.txt')
+    output_file = os.path.join(os.path.dirname(__file__), 'epg.xml')
+    output_file_gz = output_file + '.gz'
     filter_and_build_epg(urls)
 
+    # Secondo set
+    tvg_ids_file = os.path.join(os.path.dirname(__file__), 'd_tvg-ids.txt')
+    output_file = os.path.join(os.path.dirname(__file__), 'd_epg.xml')
+    output_file_gz = output_file + '.gz'
+    filter_and_build_epg(urls)
