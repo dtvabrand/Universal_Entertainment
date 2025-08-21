@@ -59,7 +59,7 @@ jobs:
               ET.ElementTree(root_out).write(buf, encoding='utf-8', xml_declaration=True)
               new_xml = buf.getvalue().decode('utf-8')
               new_xml = new_xml.replace(' -0400', ' +0400').replace(' +0200', ' -0200')
-              out_path = os.path.splitext(pl)[0] + ".xml"
+              out_path = (os.path.splitext(pl)[0].split("_",1)[0] + "_epg.xml") if "_" in os.path.splitext(pl)[0] else "epg.xml"
               old = open(out_path, "r", encoding="utf-8").read() if os.path.exists(out_path) else None
               if old != new_xml:
                   with open(out_path, "w", encoding="utf-8") as f:
