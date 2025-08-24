@@ -40382,340 +40382,6 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">BBC NEWS HD</display-name>
   </channel>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822000000 +0000" stop="20250822003000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/50f80159-f6f2-4d86-a004-bbac5a6ffd2e/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822003000 +0000" stop="20250822010000 +0000">
-    <title lang="en">The Media Show</title>
-    <desc lang="en">Coverage of journalists' deaths in Gaza, how the AI avatar of a school-shooting victim was interviewed, and using social media as a journalist.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Arts</category>
-    <icon src="https://images.metadata.sky.com/pd-image/34b51449-0948-443f-96f3-7e1068ecb290/16-9" />
-    <episode-num system="xmltv_ns">.46.</episode-num>
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822010000 +0000" stop="20250822013000 +0000">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d12b7220-0f31-44c2-8203-37667e7e92de/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822013000 +0000" stop="20250822014500 +0000">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a341fbe0-a1a2-49be-96d6-9a641e190889/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822014500 +0000" stop="20250822020000 +0000">
-    <title lang="en">BBC Sport</title>
-    <desc lang="en">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/27067a32-ee48-4f8e-96e4-643a5964337e/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822020000 +0000" stop="20250822023000 +0000">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0a75f5ff-bc4c-4d7c-b887-3fb8510cac0d/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822023000 +0000" stop="20250822024500 +0000">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6bdde3db-21b6-4fb8-8306-40245638c4d1/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822024500 +0000" stop="20250822030000 +0000">
-    <title lang="en">BBC Sport</title>
-    <desc lang="en">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3ff03a1c-02f3-42f3-bb34-ff314376348b/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822030000 +0000" stop="20250822033000 +0000">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c3c368bd-439e-4a8c-b181-ae38cdf17603/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822033000 +0000" stop="20250822034500 +0000">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/10cfaf31-40ea-4d23-8128-cdd1d17e4c1c/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822034500 +0000" stop="20250822040000 +0000">
-    <title lang="en">BBC Sport</title>
-    <desc lang="en">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8f95c58c-a1bb-46a3-836f-b957c5035dcf/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822040000 +0000" stop="20250822043000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/cc60e2f9-ce32-475d-b824-abbd31568d6c/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822043000 +0000" stop="20250822050000 +0000">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/28b5140d-d11f-4952-91f1-83b513164343/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822050000 +0000" stop="20250822080000 +0000">
-    <title lang="en">Breakfast</title>
-    <desc lang="en">The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5ba001df-0fc7-4376-8b5f-8353852cc6f6/16-9" />
-    <episode-num system="xmltv_ns">.9.</episode-num>
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822080000 +0000" stop="20250822083000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/77ec78e4-a0e0-4a37-b934-521a668d37ca/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822083000 +0000" stop="20250822090000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6b55884e-3a4d-4f6a-9187-8a6b8088df54/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822090000 +0000" stop="20250822093000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d886d64d-de7c-4338-be1d-cbf71a3ef7b6/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822093000 +0000" stop="20250822100000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5051acb7-3784-4d0f-9b19-6912305c0e5b/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822100000 +0000" stop="20250822103000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b85185ad-0675-4868-99f9-c6c8b6a33372/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822103000 +0000" stop="20250822104500 +0000">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/905739d6-26f7-4ea9-bbcd-ddb629de0149/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822104500 +0000" stop="20250822110000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e610e92d-de1f-4a1d-aad5-b75e022cbb12/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822110000 +0000" stop="20250822113000 +0000">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/2cdece3b-be2e-476b-8318-4f89d3e44927/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822113000 +0000" stop="20250822120000 +0000">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c7f904b9-5079-4e01-9bc0-184914573cec/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822120000 +0000" stop="20250822130000 +0000">
-    <title lang="en">Signed: BBC News at One</title>
-    <desc lang="en">The latest national and international news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d5cbcf80-b043-4441-9d8f-bda0e497e938/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822130000 +0000" stop="20250822133000 +0000">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/472b95af-e85e-4d4e-9588-b9fa27240847/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822133000 +0000" stop="20250822134500 +0000">
-    <title lang="en">Business Today - NYSE Opening Bell</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from New York and around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d2d9d484-d712-4529-9da0-c3ca67d52261/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822134500 +0000" stop="20250822140000 +0000">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8705749b-14d9-4a65-a9f7-2f859309ed09/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822140000 +0000" stop="20250822143000 +0000">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/9a26634a-0790-4604-a246-4cf00ada586c/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822143000 +0000" stop="20250822150000 +0000">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/38a693ca-2336-4d70-a97c-7a61725daef2/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822150000 +0000" stop="20250822153000 +0000">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/9693b80d-5182-470c-9c18-d3d7ee7eeaf9/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822153000 +0000" stop="20250822160000 +0000">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/672a2926-367b-4bd1-98be-4420261616dc/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822160000 +0000" stop="20250822163000 +0000">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/fe52638e-de2e-4110-9a0a-0aae5d872347/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822163000 +0000" stop="20250822170000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/cdf01f6b-ac7a-4d27-9e50-8129b5291bac/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822170000 +0000" stop="20250822173000 +0000">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d0f310d4-8c57-493a-a73c-4b612f775b03/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822173000 +0000" stop="20250822180000 +0000">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f56b6f8f-72ce-40ce-ac24-f2c185a604f6/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822180000 +0000" stop="20250822183000 +0000">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c55599db-922a-4133-87c7-664c88017dfb/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822183000 +0000" stop="20250822190000 +0000">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b3d15c4b-fd26-420b-8ec6-1090c8563e0c/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822190000 +0000" stop="20250822193000 +0000">
-    <title lang="en">The Context</title>
-    <desc lang="en">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ad95772f-6974-4360-bb1e-6c8a63d2d4a7/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822193000 +0000" stop="20250822200000 +0000">
-    <title lang="en">The Context</title>
-    <desc lang="en">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/11718f21-01ac-4ab1-9627-d1d35f1b0f18/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822200000 +0000" stop="20250822203000 +0000">
-    <title lang="en">The Context USA</title>
-    <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ba7e84bb-4a67-46e3-8bf2-61904983a0ba/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822203000 +0000" stop="20250822210000 +0000">
-    <title lang="en">The Context USA</title>
-    <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e6accaec-f625-4257-b815-5256106c3c40/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822210000 +0000" stop="20250822213000 +0000">
-    <title lang="en">BBC News at Ten</title>
-    <desc lang="en">The latest national and international news, with reports from BBC correspondents worldwide.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/2e397455-ebc8-4ebb-98ea-e2b76586b268/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822213000 +0000" stop="20250822220000 +0000">
-    <title lang="en">Newsnight</title>
-    <desc lang="en">Insights and global interviews on the crucial news stories of the day. With Nick Watt.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/469de4e2-5965-4294-a2a5-24eabb81b025/16-9" />
-    <episode-num system="xmltv_ns">.246.</episode-num>
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822220000 +0000" stop="20250822223000 +0000">
-    <title lang="en">BBC World News America</title>
-    <desc lang="en">In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/018e9f83-2555-4636-ab51-2001a94bd839/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822223000 +0000" stop="20250822230000 +0000">
-    <title lang="en">The President's Path</title>
-    <desc lang="en">Trump sees himself as a global peacemaker. Sumi Somaskanda, Bernd Debusmann Jr, and Courtney Subramanian reflect on his foreign policy and Nobel Peace Prize ambitions.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a64df1e5-c580-47e4-82e2-2624bedea1c7/16-9" />
-    <episode-num system="xmltv_ns">.4.</episode-num>
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822230000 +0000" stop="20250822233000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3782671f-1d69-4bd8-a06f-29bff2a960b3/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250822233000 +0000" stop="20250823000000 +0000">
-    <title lang="en">Talking Business</title>
-    <desc lang="en">Ben Thompson explores how medical research in Space could transform healthcare on Earth - from developing new treatments to changing the way we think about medicine.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d508b5af-4862-4298-9f47-affcca99e831/16-9" />
-    <episode-num system="xmltv_ns">.43.</episode-num>
-  </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250823000000 +0000" stop="20250823003000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
@@ -40796,7 +40462,7 @@
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <icon src="https://images.metadata.sky.com/pd-image/f96619e2-337c-4804-b3da-dfeee8a7c3db/16-9" />
-    <episode-num system="xmltv_ns">.10.</episode-num>
+    <episode-num system="xmltv_ns">.9.</episode-num>
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250823080000 +0000" stop="20250823090000 +0000">
     <title lang="en">BBC News</title>
@@ -41081,7 +40747,7 @@
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <icon src="https://images.metadata.sky.com/pd-image/851b6e01-dc33-4025-82ac-ce55fe09a9cc/16-9" />
-    <episode-num system="xmltv_ns">.11.</episode-num>
+    <episode-num system="xmltv_ns">.10.</episode-num>
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250824080000 +0000" stop="20250824090000 +0000">
     <title lang="en">BBC News</title>
@@ -41391,7 +41057,7 @@
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <icon src="https://images.metadata.sky.com/pd-image/c942e0f1-c455-4415-a397-3b0a75fef9ee/16-9" />
-    <episode-num system="xmltv_ns">.13.</episode-num>
+    <episode-num system="xmltv_ns">.12.</episode-num>
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250825080000 +0000" stop="20250825083000 +0000">
     <title lang="en">BBC News</title>
@@ -41616,5 +41282,338 @@
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <icon src="https://images.metadata.sky.com/pd-image/700c31bf-bd46-4b80-8301-bd4c36a0c0e3/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250825230000 +0000" stop="20250825233000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6cf46bcb-aa38-4ad0-8c47-a5b44eaf2112/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250825233000 +0000" stop="20250826000000 +0000">
+    <title lang="en">Newscast</title>
+    <desc lang="en">Lighthearted discussion of the day's news.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2359755a-cce2-4660-b683-a1931cc346be/16-9" />
+    <episode-num system="xmltv_ns">.14.</episode-num>
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826000000 +0000" stop="20250826003000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c0086e1a-ef0d-4d2c-b010-bff07f3d5e19/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826003000 +0000" stop="20250826010000 +0000">
+    <title lang="en">Talking Business</title>
+    <desc lang="en">Ben Thompson explores how medical research in Space could transform healthcare on Earth - from developing new treatments to changing the way we think about medicine.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d508b5af-4862-4298-9f47-affcca99e831/16-9" />
+    <episode-num system="xmltv_ns">.43.</episode-num>
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826010000 +0000" stop="20250826013000 +0000">
+    <title lang="en">Newsday</title>
+    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a3557921-79e4-4659-923b-f7e21a5c503a/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826013000 +0000" stop="20250826014500 +0000">
+    <title lang="en">Business Today</title>
+    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/02befcf5-2adf-4ae1-9ec5-f39e835b3381/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826014500 +0000" stop="20250826020000 +0000">
+    <title lang="en">BBC Sport</title>
+    <desc lang="en">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d090e514-cb87-4f8b-b78f-8c5d9f43da3b/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826020000 +0000" stop="20250826023000 +0000">
+    <title lang="en">Newsday</title>
+    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8ce9095e-4337-4d96-bc31-303644ffe3f7/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826023000 +0000" stop="20250826024500 +0000">
+    <title lang="en">Business Today</title>
+    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9c18c39e-2f48-4960-a959-72670a43c00b/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826024500 +0000" stop="20250826030000 +0000">
+    <title lang="en">BBC Sport</title>
+    <desc lang="en">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/80ffc974-a8e8-4ec7-8a21-be09ceefd6bf/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826030000 +0000" stop="20250826033000 +0000">
+    <title lang="en">Newsday</title>
+    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ba9d257f-7fbd-4bf4-9277-2ccafaca0cb8/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826033000 +0000" stop="20250826034500 +0000">
+    <title lang="en">Business Today</title>
+    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ac121398-3e9a-4c67-ad80-26177299c7de/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826034500 +0000" stop="20250826040000 +0000">
+    <title lang="en">BBC Sport</title>
+    <desc lang="en">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/37155d35-ac75-4019-819d-011fc1dedd07/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826040000 +0000" stop="20250826043000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/342164eb-115b-4319-a429-6496dccbcae0/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826043000 +0000" stop="20250826050000 +0000">
+    <title lang="en">Business Today</title>
+    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4b31b7e0-2bc3-4afd-ac54-2605687a45f4/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826050000 +0000" stop="20250826080000 +0000">
+    <title lang="en">Breakfast</title>
+    <desc lang="en">The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6c187976-b53c-42d0-b609-0ed0dd2d78cc/16-9" />
+    <episode-num system="xmltv_ns">.13.</episode-num>
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826080000 +0000" stop="20250826083000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6b616e61-0acd-49d8-9d9b-8ae1860feb29/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826083000 +0000" stop="20250826090000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8c711c9e-6cb5-4336-abef-6e5944f5231b/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826090000 +0000" stop="20250826093000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e0667109-78d6-4735-8a4c-1dca5241a280/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826093000 +0000" stop="20250826100000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/279fadb7-3625-4564-8ef7-1c2314a329c6/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826100000 +0000" stop="20250826103000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3ca55e4e-516b-49fd-9bb7-3915fffba9d7/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826103000 +0000" stop="20250826104500 +0000">
+    <title lang="en">Business Today</title>
+    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f54651ef-19d4-4ef8-92de-3b8a8cdf683b/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826104500 +0000" stop="20250826110000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f87e4982-8c8a-4686-8dfa-deb5cbf7bacc/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826110000 +0000" stop="20250826113000 +0000">
+    <title lang="en">BBC News Now</title>
+    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/aa2334a3-21b6-478a-8e3d-eadd29b38871/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826113000 +0000" stop="20250826120000 +0000">
+    <title lang="en">BBC News Now</title>
+    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/27aebf54-9270-458f-945a-59d0427ab703/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826120000 +0000" stop="20250826130000 +0000">
+    <title lang="en">Signed: BBC News at One</title>
+    <desc lang="en">The latest national and international news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/de56cbc6-5ce4-4ddd-92f4-f788d1f71d1d/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826130000 +0000" stop="20250826133000 +0000">
+    <title lang="en">BBC News Now</title>
+    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0274f9b1-c784-43b6-a4fd-fe29de2162df/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826133000 +0000" stop="20250826134500 +0000">
+    <title lang="en">Business Today - NYSE Opening Bell</title>
+    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from New York and around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/33d7cf8f-c44d-4246-88e9-7c6849ceef4d/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826134500 +0000" stop="20250826140000 +0000">
+    <title lang="en">BBC News Now</title>
+    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b7e5dadc-ab51-41fd-b837-c4ca93c1f650/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826140000 +0000" stop="20250826143000 +0000">
+    <title lang="en">Verified Live</title>
+    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/10179ef7-83eb-4475-bf63-db64be6059b9/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826143000 +0000" stop="20250826150000 +0000">
+    <title lang="en">Verified Live</title>
+    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/91512113-7193-4b7b-a46b-d60b7d502d9c/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826150000 +0000" stop="20250826153000 +0000">
+    <title lang="en">Verified Live</title>
+    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bac53b26-764b-4d34-a24f-35ba1041cc16/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826153000 +0000" stop="20250826154500 +0000">
+    <title lang="en">Business Today</title>
+    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cdeda3ac-37bf-46db-93fe-d5f962935513/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826154500 +0000" stop="20250826160000 +0000">
+    <title lang="en">Verified Live</title>
+    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a64bf343-b11b-418e-8848-9d291dda91b2/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826160000 +0000" stop="20250826163000 +0000">
+    <title lang="en">Verified Live</title>
+    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3190d7c3-0837-4c00-bab7-646f44703245/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826163000 +0000" stop="20250826170000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e2ee46c8-46a4-46b3-8c27-f312f161ac92/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826170000 +0000" stop="20250826173000 +0000">
+    <title lang="en">BBC News at Six</title>
+    <desc lang="en">The latest national and international news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/334d5b3f-1521-46a6-88b3-7e135e2ac1b5/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826173000 +0000" stop="20250826180000 +0000">
+    <title lang="en">The World Today with Maryam Moshiri</title>
+    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5fdfcbad-e8e2-43b9-b2c3-633b134d9d72/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826180000 +0000" stop="20250826183000 +0000">
+    <title lang="en">The World Today with Maryam Moshiri</title>
+    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fc7668f0-de2a-4e96-98f7-2fbb411a6160/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826183000 +0000" stop="20250826190000 +0000">
+    <title lang="en">The World Today with Maryam Moshiri</title>
+    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ad7938d4-20cf-411f-a03c-9ca15e77873d/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826190000 +0000" stop="20250826193000 +0000">
+    <title lang="en">The Context</title>
+    <desc lang="en">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e2ee4fc4-bd5d-49a0-8a6d-57c23106792e/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826193000 +0000" stop="20250826200000 +0000">
+    <title lang="en">The Context</title>
+    <desc lang="en">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/30f567fe-bc93-40b2-ab2b-75f3e987e786/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826200000 +0000" stop="20250826203000 +0000">
+    <title lang="en">The Context USA</title>
+    <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/50f7967f-e0af-4478-b8bb-c71df04245b9/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826203000 +0000" stop="20250826210000 +0000">
+    <title lang="en">The Context USA</title>
+    <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b3285c10-bc8c-45e4-b605-c775ac8e2f38/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826210000 +0000" stop="20250826213000 +0000">
+    <title lang="en">BBC News at Ten</title>
+    <desc lang="en">The latest national and international news, with reports from BBC correspondents worldwide.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3cf52e6d-c3d4-4a56-b421-e659a11e3409/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826213000 +0000" stop="20250826220000 +0000">
+    <title lang="en">Newsnight</title>
+    <desc lang="en">Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3a637a03-605f-4c2d-8861-965d4d4dfef5/16-9" />
+    <episode-num system="xmltv_ns">.246.</episode-num>
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250826220000 +0000" stop="20250826230000 +0000">
+    <title lang="en">BBC World News America</title>
+    <desc lang="en">In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2b18756a-490f-4f05-af33-c52c22e36089/16-9" />
   </programme>
   </tv>
