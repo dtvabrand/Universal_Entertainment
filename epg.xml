@@ -1,39 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv><channel id="TV2000 HD.it"><display-name>TV2000 HD.it</display-name></channel>
-<programme start="20250902002000 +0000" stop="20250902005500 +0000" channel="TV2000 HD.it"><title>Siamo noi</title><desc>Siamo noi - Raccontare lattualita, sfidando il pessimismo e accendendo i riflettori sulle buone pratiche di unItalia che ogni giorno costruisce bene comune.</desc></programme>
-<programme start="20250902005500 +0000" stop="20250902013500 +0000" channel="TV2000 HD.it"><title>In Cammino</title><desc>In Cammino - Un appuntamento quotidiano che, attraverso temi e ospiti ogni giorno diversi, racconta il cammino della Chiesa verso il Sinodo.</desc></programme>
-<programme start="20250902013500 +0000" stop="20250902022000 +0000" channel="TV2000 HD.it"><title>Il mio medico</title><desc>Il mio medico - Programma di informazione medica a servizio dei cittadini pensato per diffondere, con linguaggio semplice, una cultura della salute basata sulla prevenzione</desc></programme>
-<programme start="20250902022000 +0000" stop="20250902024500 +0000" channel="TV2000 HD.it"><title>VEDIAMOCI CHIARO ESTATE</title><sub-title>Vediamoci Chiaro</sub-title><desc>Vediamoci Chiaro - Vediamoci chiaro si propone di supportare e tutelare i cittadini e suggerire soluzioni ai piccoli e ai grandi problemi delle famiglie.</desc></programme>
-<programme start="20250902024500 +0000" stop="20250902030000 +0000" channel="TV2000 HD.it"><title>Clip Borghi dItalia</title><desc>Clip Borghi dItalia - Clip Borghi dItalia</desc></programme>
-<programme start="20250902030000 +0000" stop="20250902034000 +0000" channel="TV2000 HD.it"><title>SANTO ROSARIO LOURDES</title><sub-title>Santo Rosario</sub-title><desc>Santo Rosario - Santo Rosario da Lourdes</desc></programme>
-<programme start="20250902034000 +0000" stop="20250902040000 +0000" channel="TV2000 HD.it"><title>In Cammino</title><desc>In Cammino - Un appuntamento quotidiano che, attraverso temi e ospiti ogni giorno diversi, racconta il cammino della Chiesa verso il Sinodo.</desc></programme>
-<programme start="20250902040000 +0000" stop="20250902044500 +0000" channel="TV2000 HD.it"><title>Lora solare</title><desc>Lora solare - Paola Saluzzi racconta langolo luminoso della vita quotidiana. Storie di uomini e donne che non si sono arresi davanti alle difficolta e hanno creduto nel futuro</desc></programme>
-<programme start="20250902044500 +0000" stop="20250902050000 +0000" channel="TV2000 HD.it"><title>La preghiera del mattino</title><desc>La preghiera del mattino - La preghiera del mattino</desc></programme>
-<programme start="20250902050000 +0000" stop="20250902052500 +0000" channel="TV2000 HD.it"><title>SANTO ROSARIO DA CASCIA</title><sub-title>Santo Rosario</sub-title><desc>Santo Rosario - Santo Rosario dal Santuario di Santa Rita da Cascia</desc></programme>
-<programme start="20250902052500 +0000" stop="20250902062500 +0000" channel="TV2000 HD.it"><title>Di Buon Mattino</title><desc>Di Buon Mattino - Il contenitore di attualita che apre la mattina di TV 2000, tra notizie e curiosita, politica e costume</desc></programme>
-<programme start="20250902062500 +0000" stop="20250902063000 +0000" channel="TV2000 HD.it"><title>TG 2000 Flash</title><desc>TG 2000 Flash - Telegiornale</desc></programme>
-<programme start="20250902063000 +0000" stop="20250902071000 +0000" channel="TV2000 HD.it"><title>Santa Messa</title><desc>Santa Messa - SANTA MESSA DALLA CHIESA DI SANTA BRIGIDA IN ROMA</desc></programme>
-<programme start="20250902071000 +0000" stop="20250902074500 +0000" channel="TV2000 HD.it"><title>Di Buon Mattino</title><desc>Di Buon Mattino - Il contenitore di attualita che apre la mattina di TV 2000, tra notizie e curiosita, politica e costume</desc></programme>
-<programme start="20250902074500 +0000" stop="20250902083000 +0000" channel="TV2000 HD.it"><title>Il mio medico</title><desc>Il mio medico - Programma di informazione medica a servizio dei cittadini pensato per diffondere, con linguaggio semplice, una cultura della salute basata sulla prevenzione</desc></programme>
-<programme start="20250902083000 +0000" stop="20250902085500 +0000" channel="TV2000 HD.it"><title>VEDIAMOCI CHIARO ESTATE</title><sub-title>Vediamoci Chiaro</sub-title><desc>Vediamoci Chiaro - Vediamoci chiaro si propone di supportare e tutelare i cittadini e suggerire soluzioni ai piccoli e ai grandi problemi delle famiglie.</desc></programme>
-<programme start="20250902085500 +0000" stop="20250902095000 +0000" channel="TV2000 HD.it"><title>QUEL CHE BOLLE IN PENTOLA</title><desc>Quel che bolle in pentola - Beatrice Fazi e lo chef Cinelli cucinano con gli ospiti, sotto locchio attento degli assaggiatori. Francesca Ceci visita cucine dItalia.</desc></programme>
-<programme start="20250902095000 +0000" stop="20250902095500 +0000" channel="TV2000 HD.it"><title>ANGELUS DA LORETO 2025</title><sub-title>Angelus da Loreto</sub-title><desc>Angelus da Loreto - Angelus recitato dal Santuario della Santa Casa di Loreto</desc></programme>
-<programme start="20250902095500 +0000" stop="20250902101000 +0000" channel="TV2000 HD.it"><title>Tg2000</title><desc>Tg2000 - Notiziario</desc></programme>
-<programme start="20250902101000 +0000" stop="20250902111000 +0000" channel="TV2000 HD.it"><title>Lora solare</title><desc>Lora solare - Paola Saluzzi racconta langolo luminoso della vita quotidiana. Storie di uomini e donne che non si sono arresi davanti alle difficolta e hanno creduto nel futuro</desc></programme>
-<programme start="20250902111000 +0000" stop="20250902130000 +0000" channel="TV2000 HD.it"><title>Grecia</title><desc>Grecia - Con Grecia Colmenares e Gustavo Bermudez. Grecia assiste alla morte di suo padre, e traumatizzata fortemente perde la memoria.Va a vivere in un collegio di suore. Diventata adulta, va a vivere a</desc></programme>
-<programme start="20250902130000 +0000" stop="20250902131000 +0000" channel="TV2000 HD.it"><title>CORONCINA ALLA DIVINA MISERICORDIA GELA 2022</title><sub-title>Coroncina alla Divina Misericordia</sub-title><desc>Coroncina alla Divina Misericordia - La preghiera con le promesse trasmesse da Gesu a Santa Faustina Kowalska</desc></programme>
-<programme start="20250902131000 +0000" stop="20250902135500 +0000" channel="TV2000 HD.it"><title>Siamo noi</title><desc>Siamo noi - Raccontare lattualita, sfidando il pessimismo e accendendo i riflettori sulle buone pratiche di unItalia che ogni giorno costruisce bene comune.</desc></programme>
-<programme start="20250902135500 +0000" stop="20250902152000 +0000" channel="TV2000 HD.it"><title>Grecia</title><desc>Grecia - Con Grecia Colmenares e Gustavo Bermudez. Grecia assiste alla morte di suo padre, e traumatizzata fortemente perde la memoria.Va a vivere in un collegio di suore. Diventata adulta, va a vivere a</desc></programme>
-<programme start="20250902152000 +0000" stop="20250902155500 +0000" channel="TV2000 HD.it"><title>SOUL</title><desc>Soul - Incontrare fino in fondo allanima uomini e donne che interessano, che incuriosiscono per il loro spessore culturale e umano. A cura di Monica Mondo</desc></programme>
-<programme start="20250902155500 +0000" stop="20250902162500 +0000" channel="TV2000 HD.it"><title>Rosario In Diretta Da Lourdes</title><desc>Rosario In Diretta Da Lourdes - Rosario in diretta da Lourdes</desc></programme>
-<programme start="20250902162500 +0000" stop="20250902170000 +0000" channel="TV2000 HD.it"><title>Tg2000</title><desc>Tg2000 - Notiziario</desc></programme>
-<programme start="20250902170000 +0000" stop="20250902173000 +0000" channel="TV2000 HD.it"><title>Santa Messa</title><desc>Santa Messa - SANTA MESSA DALLA BASILICA DI NOSTRA SIGNORA DI GUADALUPE E SAN FILIPPO MARTIRE IN ROMA</desc></programme>
-<programme start="20250902173000 +0000" stop="20250902180000 +0000" channel="TV2000 HD.it"><title>In Cammino</title><desc>In Cammino - Un appuntamento quotidiano che, attraverso temi e ospiti ogni giorno diversi, racconta il cammino della Chiesa verso il Sinodo.</desc></programme>
-<programme start="20250902180000 +0000" stop="20250902184500 +0000" channel="TV2000 HD.it"><title>SANTO ROSARIO DA CASCIA LUNGO</title><sub-title>Santo Rosario da Cascia</sub-title><desc>Santo Rosario da Cascia - Santo Rosario da Cascia</desc></programme>
-<programme start="20250902184500 +0000" stop="20250902190500 +0000" channel="TV2000 HD.it"><title>Tg2000</title><desc>Tg2000 - Notiziario</desc></programme>
-<programme start="20250902190500 +0000" stop="20250902213000 +0000" channel="TV2000 HD.it"><title>Mr Smith va a Washington</title><desc>Mr Smith va a Washington - Regia di F. Capra (1939). Due politici eleggono senatore un giovane da manovrare per i loro scopi, ma Smith si rivela meno ingenuo di quanto immaginavano.</desc></programme>
-<programme start="20250902213000 +0000" stop="20250902234500 +0000" channel="TV2000 HD.it"><title>McFarland, USA</title><desc>McFarland, USA - Regia di N. Caro (2015). 1987, Jim, allenatore di football, prepara una squadra di liceali latinoamericani di McFarland al campionato di corsa campestre...</desc></programme>
-<programme start="20250902234500 +0000" stop="20250903000000 +0000" channel="TV2000 HD.it"><title>LA COMPIETA PREGHIERA DELLA SERA 2023</title><sub-title>La Compieta</sub-title><desc>La Compieta - Compieta</desc></programme>
 <programme start="20250903000000 +0000" stop="20250903002500 +0000" channel="TV2000 HD.it"><title>SANTO ROSARIO DALLA BASILICA PAPALE DI SANTA MARIA MAGGIORE IN ROMA</title><sub-title>Santo Rosario</sub-title><desc>Santo Rosario - Santo rosario recitato dalla basilica di Santa Maria Maggiore in Roma</desc></programme>
 <programme start="20250903002500 +0000" stop="20250903010500 +0000" channel="TV2000 HD.it"><title>Lora solare</title><desc>Lora solare - Paola Saluzzi racconta langolo luminoso della vita quotidiana. Storie di uomini e donne che non si sono arresi davanti alle difficolta e hanno creduto nel futuro</desc></programme>
 <programme start="20250903010500 +0000" stop="20250903014500 +0000" channel="TV2000 HD.it"><title>Siamo noi</title><desc>Siamo noi - Raccontare lattualita, sfidando il pessimismo e accendendo i riflettori sulle buone pratiche di unItalia che ogni giorno costruisce bene comune.</desc></programme>
@@ -74,6 +40,41 @@
 <programme start="20250904013000 +0000" stop="20250904020500 +0000" channel="TV2000 HD.it"><title>Siamo noi</title><desc>Siamo noi - Raccontare lattualita, sfidando il pessimismo e accendendo i riflettori sulle buone pratiche di unItalia che ogni giorno costruisce bene comune.</desc></programme>
 <programme start="20250904020500 +0000" stop="20250904025000 +0000" channel="TV2000 HD.it"><title>QUEL CHE BOLLE IN PENTOLA</title><desc>Quel che bolle in pentola - Beatrice Fazi e lo chef Cinelli cucinano con gli ospiti, sotto locchio attento degli assaggiatori. Francesca Ceci visita cucine dItalia.</desc></programme>
 <programme start="20250904025000 +0000" stop="20250904030000 +0000" channel="TV2000 HD.it"><title>Clip Borghi dItalia</title><desc>Clip Borghi dItalia - Clip Borghi dItalia</desc></programme>
+<programme start="20250904030000 +0000" stop="20250904034000 +0000" channel="TV2000 HD.it"><title>SANTO ROSARIO LOURDES</title><sub-title>Santo Rosario</sub-title><desc>Santo Rosario - Santo Rosario da Lourdes</desc></programme>
+<programme start="20250904034000 +0000" stop="20250904040000 +0000" channel="TV2000 HD.it"><title>In Cammino</title><desc>In Cammino - Un appuntamento quotidiano che, attraverso temi e ospiti ogni giorno diversi, racconta il cammino della Chiesa verso il Sinodo.</desc></programme>
+<programme start="20250904040000 +0000" stop="20250904044500 +0000" channel="TV2000 HD.it"><title>Lora solare</title><desc>Lora solare - Paola Saluzzi racconta langolo luminoso della vita quotidiana. Storie di uomini e donne che non si sono arresi davanti alle difficolta e hanno creduto nel futuro</desc></programme>
+<programme start="20250904044500 +0000" stop="20250904050000 +0000" channel="TV2000 HD.it"><title>La preghiera del mattino</title><desc>La preghiera del mattino - La preghiera del mattino</desc></programme>
+<programme start="20250904050000 +0000" stop="20250904052500 +0000" channel="TV2000 HD.it"><title>SANTO ROSARIO DA CASCIA</title><sub-title>Santo Rosario</sub-title><desc>Santo Rosario - Santo Rosario dal Santuario di Santa Rita da Cascia</desc></programme>
+<programme start="20250904052500 +0000" stop="20250904062500 +0000" channel="TV2000 HD.it"><title>Di Buon Mattino</title><desc>Di Buon Mattino - Il contenitore di attualita che apre la mattina di TV 2000, tra notizie e curiosita, politica e costume</desc></programme>
+<programme start="20250904062500 +0000" stop="20250904063000 +0000" channel="TV2000 HD.it"><title>TG 2000 Flash</title><desc>TG 2000 Flash - Telegiornale</desc></programme>
+<programme start="20250904063000 +0000" stop="20250904071000 +0000" channel="TV2000 HD.it"><title>Santa Messa</title><desc>Santa Messa - SANTA MESSA DALLA CHIESA DI SANTA BRIGIDA IN ROMA</desc></programme>
+<programme start="20250904071000 +0000" stop="20250904074500 +0000" channel="TV2000 HD.it"><title>Di Buon Mattino</title><desc>Di Buon Mattino - Il contenitore di attualita che apre la mattina di TV 2000, tra notizie e curiosita, politica e costume</desc></programme>
+<programme start="20250904074500 +0000" stop="20250904083000 +0000" channel="TV2000 HD.it"><title>Il mio medico</title><desc>Il mio medico - Programma di informazione medica a servizio dei cittadini pensato per diffondere, con linguaggio semplice, una cultura della salute basata sulla prevenzione</desc></programme>
+<programme start="20250904083000 +0000" stop="20250904085500 +0000" channel="TV2000 HD.it"><title>VEDIAMOCI CHIARO ESTATE</title><sub-title>Vediamoci Chiaro</sub-title><desc>Vediamoci Chiaro - Vediamoci chiaro si propone di supportare e tutelare i cittadini e suggerire soluzioni ai piccoli e ai grandi problemi delle famiglie.</desc></programme>
+<programme start="20250904085500 +0000" stop="20250904095000 +0000" channel="TV2000 HD.it"><title>QUEL CHE BOLLE IN PENTOLA</title><desc>Quel che bolle in pentola - Beatrice Fazi e lo chef Cinelli cucinano con gli ospiti, sotto locchio attento degli assaggiatori. Francesca Ceci visita cucine dItalia.</desc></programme>
+<programme start="20250904095000 +0000" stop="20250904100000 +0000" channel="TV2000 HD.it"><title>ANGELUS DA LORETO 2025</title><sub-title>Angelus da Loreto</sub-title><desc>Angelus da Loreto - Angelus recitato dal Santuario della Santa Casa di Loreto</desc></programme>
+<programme start="20250904100000 +0000" stop="20250904101500 +0000" channel="TV2000 HD.it"><title>Tg2000</title><desc>Tg2000 - Notiziario</desc></programme>
+<programme start="20250904101500 +0000" stop="20250904111000 +0000" channel="TV2000 HD.it"><title>Lora solare</title><desc>Lora solare - Paola Saluzzi racconta langolo luminoso della vita quotidiana. Storie di uomini e donne che non si sono arresi davanti alle difficolta e hanno creduto nel futuro</desc></programme>
+<programme start="20250904111000 +0000" stop="20250904130000 +0000" channel="TV2000 HD.it"><title>Grecia</title><desc>Grecia - Con Grecia Colmenares e Gustavo Bermudez. Grecia assiste alla morte di suo padre, e traumatizzata fortemente perde la memoria.Va a vivere in un collegio di suore. Diventata adulta, va a vivere a</desc></programme>
+<programme start="20250904130000 +0000" stop="20250904131500 +0000" channel="TV2000 HD.it"><title>CORONCINA ALLA DIVINA MISERICORDIA GELA 2022</title><sub-title>Coroncina alla Divina Misericordia</sub-title><desc>Coroncina alla Divina Misericordia - La preghiera con le promesse trasmesse da Gesu a Santa Faustina Kowalska</desc></programme>
+<programme start="20250904131500 +0000" stop="20250904135500 +0000" channel="TV2000 HD.it"><title>Siamo noi</title><desc>Siamo noi - Raccontare lattualita, sfidando il pessimismo e accendendo i riflettori sulle buone pratiche di unItalia che ogni giorno costruisce bene comune.</desc></programme>
+<programme start="20250904135500 +0000" stop="20250904152000 +0000" channel="TV2000 HD.it"><title>Grecia</title><desc>Grecia - Con Grecia Colmenares e Gustavo Bermudez. Grecia assiste alla morte di suo padre, e traumatizzata fortemente perde la memoria.Va a vivere in un collegio di suore. Diventata adulta, va a vivere a</desc></programme>
+<programme start="20250904152000 +0000" stop="20250904155500 +0000" channel="TV2000 HD.it"><title>SOUL</title><desc>Soul - Incontrare fino in fondo allanima uomini e donne che interessano, che incuriosiscono per il loro spessore culturale e umano. A cura di Monica Mondo</desc></programme>
+<programme start="20250904155500 +0000" stop="20250904162500 +0000" channel="TV2000 HD.it"><title>Rosario In Diretta Da Lourdes</title><desc>Rosario In Diretta Da Lourdes - Rosario in diretta da Lourdes</desc></programme>
+<programme start="20250904162500 +0000" stop="20250904170000 +0000" channel="TV2000 HD.it"><title>Tg2000</title><desc>Tg2000 - Notiziario</desc></programme>
+<programme start="20250904170000 +0000" stop="20250904173000 +0000" channel="TV2000 HD.it"><title>Santa Messa</title><desc>Santa Messa - SANTA MESSA DALLA BASILICA DI NOSTRA SIGNORA DI GUADALUPE E SAN FILIPPO MARTIRE IN ROMA</desc></programme>
+<programme start="20250904173000 +0000" stop="20250904180000 +0000" channel="TV2000 HD.it"><title>In Cammino</title><desc>In Cammino - Un appuntamento quotidiano che, attraverso temi e ospiti ogni giorno diversi, racconta il cammino della Chiesa verso il Sinodo.</desc></programme>
+<programme start="20250904180000 +0000" stop="20250904184500 +0000" channel="TV2000 HD.it"><title>SANTO ROSARIO DA CASCIA LUNGO</title><sub-title>Santo Rosario da Cascia</sub-title><desc>Santo Rosario da Cascia - Santo Rosario da Cascia</desc></programme>
+<programme start="20250904184500 +0000" stop="20250904190500 +0000" channel="TV2000 HD.it"><title>Tg2000</title><desc>Tg2000 - Notiziario</desc></programme>
+<programme start="20250904190500 +0000" stop="20250904211000 +0000" channel="TV2000 HD.it"><title>Le lettere di Madre Teresa</title><desc>Le lettere di Madre Teresa - Regia di W. Riead (2015). Padre Praagh, sacerdote cattolico, studia la vita di madre Teresa di Calcutta durante le ricerche per il processo di santificazione.</desc></programme>
+<programme start="20250904211000 +0000" stop="20250904214000 +0000" channel="TV2000 HD.it"><title>IL SAPORE DELLA LIBERTA</title><desc>Il sapore della liberta - Regia di F. Cucci (2024). Dieci detenute si raccontano: la storia di Lucia.</desc></programme>
+<programme start="20250904214000 +0000" stop="20250904220000 +0000" channel="TV2000 HD.it"><title>LA COMPIETA PREGHIERA DELLA SERA 2023</title><sub-title>La Compieta</sub-title><desc>La Compieta - Compieta</desc></programme>
+<programme start="20250904220000 +0000" stop="20250904222500 +0000" channel="TV2000 HD.it"><title>SANTO ROSARIO DALLA BASILICA PAPALE DI SANTA MARIA MAGGIORE IN ROMA</title><sub-title>Santo Rosario</sub-title><desc>Santo Rosario - Santo rosario recitato dalla basilica di Santa Maria Maggiore in Roma</desc></programme>
+<programme start="20250904222500 +0000" stop="20250904232000 +0000" channel="TV2000 HD.it"><title>Lora solare</title><desc>Lora solare - Paola Saluzzi racconta langolo luminoso della vita quotidiana. Storie di uomini e donne che non si sono arresi davanti alle difficolta e hanno creduto nel futuro</desc></programme>
+<programme start="20250904232000 +0000" stop="20250904235500 +0000" channel="TV2000 HD.it"><title>Siamo noi</title><desc>Siamo noi - Raccontare lattualita, sfidando il pessimismo e accendendo i riflettori sulle buone pratiche di unItalia che ogni giorno costruisce bene comune.</desc></programme>
+<programme start="20250904235500 +0000" stop="20250905015500 +0000" channel="TV2000 HD.it"><title>In Cammino</title><desc>In Cammino - Un appuntamento quotidiano che, attraverso temi e ospiti ogni giorno diversi, racconta il cammino della Chiesa verso il Sinodo.</desc></programme>
+<programme start="20250905015500 +0000" stop="20250905023500 +0000" channel="TV2000 HD.it"><title>Il mio medico</title><desc>Il mio medico - Programma di informazione medica a servizio dei cittadini pensato per diffondere, con linguaggio semplice, una cultura della salute basata sulla prevenzione</desc></programme>
+<programme start="20250905023500 +0000" stop="20250905025500 +0000" channel="TV2000 HD.it"><title>VEDIAMOCI CHIARO ESTATE</title><sub-title>Vediamoci Chiaro</sub-title><desc>Vediamoci Chiaro - Vediamoci chiaro si propone di supportare e tutelare i cittadini e suggerire soluzioni ai piccoli e ai grandi problemi delle famiglie.</desc></programme>
 <channel id="Rete.4.it">
     <display-name lang="it">Rete 4</display-name>
     <icon src="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/r4.png" />
@@ -5309,41 +5310,11 @@
     <date>2019</date>
     <icon src="https://www.raiplay.it/dl/img/2020/09/15/1600167949316_Rai3_tappo_2048x1152.jpg" />
   </programme>
-  <channel id="Starz.-.Eastern.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s12719_h15_ac.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s12719_h15_ac.png" />
+  <channel id="ABC.(WABC).New.York,.NY.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png" />
     <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Starz - Eastern</display-name>
-  </channel>
-  <channel id="Freeform.-.East.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10093_h15_ae.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10093_h15_ae.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Freeform - East Feed</display-name>
-  </channel>
-  <channel id="Disney.XD.USA.-.Eastern.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18279_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18279_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Disney XD USA - Eastern Feed</display-name>
-  </channel>
-  <channel id="TNT.-.Eastern.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">TNT - Eastern Feed</display-name>
-  </channel>
-  <channel id="AMC.-.Eastern.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10021_h15_ab.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10021_h15_ab.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">AMC - Eastern Feed</display-name>
-  </channel>
-  <channel id="Nickelodeon.USA.-.East.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11006_h15_ab.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11006_h15_ab.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Nickelodeon USA - East Feed</display-name>
+    <display-name lang="en">ABC (WABC) New York, NY</display-name>
   </channel>
   <channel id="HBO.Signature.(HBO.3).-.Eastern.us">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10243_h15_aa.png" />
@@ -5351,47 +5322,23 @@
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">HBO Signature (HBO 3) - Eastern</display-name>
   </channel>
-  <channel id="HBO.2.-.Eastern.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68140_h15_ad.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68140_h15_ad.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">HBO 2 - Eastern Feed</display-name>
-  </channel>
-  <channel id="Disney.-.Eastern.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10171_h15_ae.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10171_h15_ae.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Disney - Eastern Feed</display-name>
-  </channel>
   <channel id="MGM+.HDTV.(East).(MGM+HD).us">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s65669_h15_ae.png" />
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s65669_h15_ae.png" />
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">MGM+ HDTV (East) (MGM+HD)</display-name>
   </channel>
-  <channel id="USA.Network.-.East.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11207_h15_af.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11207_h15_af.png" />
+  <channel id="ABC.NEWS.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s113380_h15_ab.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s113380_h15_ab.png" />
     <url>http://www.tvpassport.com</url>
-    <display-name lang="en">USA Network - East Feed</display-name>
+    <display-name lang="en">ABC NEWS</display-name>
   </channel>
-  <channel id="HBO.Comedy.HD.-.East.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59839_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59839_h15_aa.png" />
+  <channel id="TNT.-.Eastern.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png" />
     <url>http://www.tvpassport.com</url>
-    <display-name lang="en">HBO Comedy HD - East</display-name>
-  </channel>
-  <channel id="Boomerang.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s21883_h15_ab.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s21883_h15_ab.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Boomerang</display-name>
-  </channel>
-  <channel id="FX.Networks.East.Coast.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s14321_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s14321_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">FX Networks East Coast</display-name>
+    <display-name lang="en">TNT - Eastern Feed</display-name>
   </channel>
   <channel id="Cartoon.Network.USA.-.Eastern.Feed.us">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s12131_h15_aa.png" />
@@ -5399,11 +5346,77 @@
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">Cartoon Network USA - Eastern Feed</display-name>
   </channel>
+  <channel id="Disney.XD.USA.-.Eastern.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18279_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s18279_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Disney XD USA - Eastern Feed</display-name>
+  </channel>
+  <channel id="Disney.-.Eastern.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10171_h15_ae.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10171_h15_ae.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Disney - Eastern Feed</display-name>
+  </channel>
+  <channel id="HBO.2.-.Eastern.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68140_h15_ad.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s68140_h15_ad.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">HBO 2 - Eastern Feed</display-name>
+  </channel>
+  <channel id="USA.Network.-.East.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11207_h15_af.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11207_h15_af.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">USA Network - East Feed</display-name>
+  </channel>
+  <channel id="Starz.-.Eastern.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s12719_h15_ac.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s12719_h15_ac.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Starz - Eastern</display-name>
+  </channel>
+  <channel id="HBO.-.Eastern.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10240_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10240_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">HBO - Eastern Feed</display-name>
+  </channel>
+  <channel id="Nickelodeon.USA.-.East.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11006_h15_ab.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11006_h15_ab.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Nickelodeon USA - East Feed</display-name>
+  </channel>
+  <channel id="HBO.Zone.HD.-.East.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59845_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59845_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">HBO Zone HD - East</display-name>
+  </channel>
   <channel id="Syfy.-.Eastern.Feed.us">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png" />
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11097_h15_ae.png" />
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">Syfy - Eastern Feed</display-name>
+  </channel>
+  <channel id="HBO.Comedy.HD.-.East.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59839_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59839_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">HBO Comedy HD - East</display-name>
+  </channel>
+  <channel id="Freeform.-.East.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10093_h15_ae.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10093_h15_ae.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Freeform - East Feed</display-name>
+  </channel>
+  <channel id="FX.Networks.East.Coast.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s14321_h15_aa.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s14321_h15_aa.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">FX Networks East Coast</display-name>
   </channel>
   <channel id="Paramount+.with.Showtime.-.Eastern.Feed.us">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s11115_h15_ad.png" />
@@ -5417,29 +5430,17 @@
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">Nicktoons - East</display-name>
   </channel>
-  <channel id="HBO.-.Eastern.Feed.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10240_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10240_h15_aa.png" />
+  <channel id="AMC.-.Eastern.Feed.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10021_h15_ab.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10021_h15_ab.png" />
     <url>http://www.tvpassport.com</url>
-    <display-name lang="en">HBO - Eastern Feed</display-name>
+    <display-name lang="en">AMC - Eastern Feed</display-name>
   </channel>
-  <channel id="ABC.(WABC).New.York,.NY.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png" />
+  <channel id="Boomerang.us">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s21883_h15_ab.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s21883_h15_ab.png" />
     <url>http://www.tvpassport.com</url>
-    <display-name lang="en">ABC (WABC) New York, NY</display-name>
-  </channel>
-  <channel id="ABC.NEWS.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s113380_h15_ab.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s113380_h15_ab.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">ABC NEWS</display-name>
-  </channel>
-  <channel id="HBO.Zone.HD.-.East.us">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59845_h15_aa.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s59845_h15_aa.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">HBO Zone HD - East</display-name>
+    <display-name lang="en">Boomerang</display-name>
   </channel>
   <programme channel="ABC.NEWS.us" start="20250901060000 +0400" stop="20250901063000 +0400">
     <title lang="en">Live: Good Morning America First Look</title>
@@ -30748,287 +30749,6 @@
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
-  <programme start="20250831000000 +0400" stop="20250831010000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">9-1-1</title>
-    <sub-title lang="en">Defend in Place</sub-title>
-    <desc lang="en">Bobby and the 118 race to save lives after an explosion rocks the hospital where Dr. David Hale is performing surgery; Michael makes a life-changing decision.</desc>
-    <credits>
-      <actor>Angela Bassett</actor>
-      <actor>Peter Krause</actor>
-      <actor>Oliver Stark</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14154513_b_s4_bd.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250831010000 +0400" stop="20250831020000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">9-1-1</title>
-    <sub-title lang="en">Wrapped in Red</sub-title>
-    <desc lang="en">The members of the 118 are called to a series of emergencies around Christmas Eve; Eddie struggles with an emotional Christopher.</desc>
-    <credits>
-      <actor>Angela Bassett</actor>
-      <actor>Peter Krause</actor>
-      <actor>Oliver Stark</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14154513_b_s4_bd.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250831020000 +0400" stop="20250831030000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Fast: Home Rescue</title>
-    <sub-title lang="en">Big Daddy's House</sub-title>
-    <desc lang="en">Tre and Cierra Boston rebuild the Goodman family house in Harlem Heights, Fla., when it's damaged by Hurricane Ian; with only five days to pull it off, they transform the property into a Big Daddy's House themed home.</desc>
-    <category lang="en">Environmental</category>
-    <category lang="en">Home</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22712632_b_v8_ab.jpg" />
-    <episode-num system="onscreen">E1013</episode-num>
-    <previously-shown />
-  </programme>
-  <programme start="20250831030000 +0400" stop="20250831033000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Beautiful Homes &amp; Great Estates</title>
-    <sub-title lang="en">Luxurious Bradbury Estate</sub-title>
-    <desc lang="en">Designed by architect Jay Johnson, the Tuscan-style mansion encompasses eight bedrooms and 15 bathrooms; the residence is adorned with Murano chandeliers, Carrara marble and hand painted silk wallpaper.</desc>
-    <category lang="en">Regular</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p338301_i_h10_aa.jpg" />
-    <episode-num system="onscreen">E22015</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20250831033000 +0400" stop="20250831040000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">The American Athlete</title>
-    <desc lang="en">Race car driver Ron Capps; NWSL Midfielder Kennedy Fuller; Team USA Equestrian Sabine Schut-Kery.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p502818_b_v8_ak.jpg" />
-    <episode-num system="onscreen">E2821</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250831040000 +0400" stop="20250831043000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Secretly Awesome</title>
-    <desc lang="en">The places, experiences and businesses around town that only the locals know about.</desc>
-    <category lang="en">Performing Arts</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17943416_b_v12_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20250831043000 +0400" stop="20250831053000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Entertainers: With Byron Allen</title>
-    <desc lang="en">Scarlett Johansson ("Jurassic World Rebirth"); Benicio del Toro ("The Phoenician Scheme"); Allison Williams; Rickey Smiley; the stars of "How to Train Your Dragon"; Lewis Pullman; Greg Tarzan Davis; Sydney Sweeney; Lil Rel Howery; Sabrina Carpenter.</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">Performing Arts</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p378491_b_v8_af.jpg" />
-    <episode-num system="onscreen">E31025</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250831053000 +0400" stop="20250831060000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Small Town Big Deal</title>
-    <sub-title lang="en">Gentle Giants; From Big Sticks to Little Sticks</sub-title>
-    <desc lang="en">* NEW * (2024) Jann &amp; Rodney take you to the breeding farm for Budweiser's gentle giants.</desc>
-    <category lang="en">Travel</category>
-    <category lang="en">Documentary</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9432369_b_h10_ac.jpg" />
-    <episode-num system="onscreen">E100105</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20250831060000 +0400" stop="20250831080000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Eyewitness News Sunday Morning</title>
-    <desc lang="en">News coverage to start the day.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13769020_i_h8_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250831080000 +0400" stop="20250831090000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Good Morning America</title>
-    <desc lang="en">Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250831090000 +0400" stop="20250831100000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Eyewitness News Sunday Morning</title>
-    <desc lang="en">News coverage to start the day.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13769020_i_h8_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250831100000 +0400" stop="20250831110000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">This Week With George Stephanopoulos</title>
-    <desc lang="en">Gov. Wes Moore (D-Md.); Rep. Tom Emmer (R-Minn.); Dr. Demetre Daskalakis; Dr. Richard Besser; roundtable with Donna Brazile, Reince Priebus and Molly Ball.Guests: Wes Moore, Tom Emmer, Demetre Daskalakis, Dr. Richard Besser, Donna Brazile, Reince Priebus, Molly Ball..</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p185302_b_v12_af.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250831110000 +0400" stop="20250831113000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Hearts of Heroes</title>
-    <sub-title lang="en">Heroes Walk Among Us</sub-title>
-    <desc lang="en">Rescuers join forces to rescue three teens trapped in a sudden flash flood; Portland firefighters battle a raging blaze tearing through a historic apartment building.</desc>
-    <category lang="en">Reality TV</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16722748_b_s3_ab.jpg" />
-    <episode-num system="onscreen">E702</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20250831113000 +0400" stop="20250831120000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">oh baby!</title>
-    <sub-title lang="en">Adventurous Animals</sub-title>
-    <desc lang="en">Wild horses, sea turtles, and more amazing baby animals.</desc>
-    <category lang="en">Animals</category>
-    <category lang="en">Instructional</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17328212_b_v8_ac.jpg" />
-    <episode-num system="onscreen">E512</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20250831120000 +0400" stop="20250831150000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Live: Women's College Volleyball</title>
-    <sub-title lang="en">Kentucky vs. Nebraska</sub-title>
-    <desc lang="en">A pair of Top 10 programs collide on the road when No. 7 Kentucky faces top-ranked Nebraska at Bridgestone Arena in Nashville, Tenn. Former Husker national champion player Dani Busboom Kelly is in her first year as head coach at her alma mater.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Volleyball</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG0024JGEZ.jpg" />
-  </programme>
-  <programme start="20250831150000 +0400" stop="20250831180000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Live: 2025 US Open Tennis</title>
-    <sub-title lang="en">Men's &amp; Women's, Round of 16</sub-title>
-    <desc lang="en">Men's and women's Round of 16 singles action from the US Open in New York.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-  </programme>
-  <programme start="20250831180000 +0400" stop="20250831183000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Eyewitness News at 6</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13769035_b_s4_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250831183000 +0400" stop="20250831190000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">ABC World News Tonight With David Muir</title>
-    <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10880351_b_v12_ah.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250831190000 +0400" stop="20250831193000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">America's Funniest Home Videos</title>
-    <sub-title lang="en">AFV: So Many Laughs, So Little Time</sub-title>
-    <desc lang="en">A raccoon has perfect table manners; a bear decides to take a swim in a lake full of people; a dog makes snow angels.</desc>
-    <category lang="en">Reality TV</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184249_b_v12_ar.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250831193000 +0400" stop="20250831230000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Live: College Football</title>
-    <sub-title lang="en">Notre Dame at Miami</sub-title>
-    <desc lang="en">The No. 6 Fighting Irish face a tough test in the No. 10 Hurricanes. Miami won the last meeting, 41-8 in 2017. Notre Dame came up short against Ohio State 34-23 in the national title game last season. Miami was ranked as high as No. 4 in 2024.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p191261_i_h8_ag.jpg" />
-  </programme>
-  <programme start="20250831230000 +0400" stop="20250901000000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Eyewitness News at 11</title>
-    <desc lang="en">Breaking news.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13769039_b_s4_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250901000000 +0400" stop="20250901010000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">The Rookie</title>
-    <sub-title lang="en">End Game</sub-title>
-    <desc lang="en">The team must rely on a criminal for his expertise to help take down an even bigger threat; Officers Chen and Bradford investigate the murder of an unhoused teenager who used to be friends with Tamara.</desc>
-    <credits>
-      <actor>Nathan Fillion</actor>
-      <actor>Mekia Cox</actor>
-      <actor>Alyssa Diaz</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250901010000 +0400" stop="20250901020000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">The Rookie</title>
-    <sub-title lang="en">The Knock</sub-title>
-    <desc lang="en">The team responds to the report of a severed hand washing up on the beach and is on the hunt to find its owner; Tim attempts to prove he isn't a control freak to Lucy and invites her on a double date with him and Ashley.</desc>
-    <credits>
-      <actor>Nathan Fillion</actor>
-      <actor>Mekia Cox</actor>
-      <actor>Alyssa Diaz</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21247916_e_h10_ae.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250901020000 +0400" stop="20250901030000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Murdoch Mysteries</title>
-    <sub-title lang="en">Murdoch at the End of the World</sub-title>
-    <desc lang="en">Murdoch investigates the stabbing death of a doomsayer on the eve of Halley's comet.</desc>
-    <credits>
-      <actor>Yannick Bisson</actor>
-      <actor>Helene Joy</actor>
-      <actor>Jonny Harris</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p811777_b_s4_ae.jpg" />
-    <episode-num system="onscreen">E1109</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250901030000 +0400" stop="20250901040000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">This Week With George Stephanopoulos</title>
-    <desc lang="en">Gov. Wes Moore (D-Md.); Rep. Tom Emmer (R-Minn.); Dr. Demetre Daskalakis; Dr. Richard Besser; roundtable with Donna Brazile, Reince Priebus and Molly Ball.Guests: Wes Moore, Tom Emmer, Demetre Daskalakis, Dr. Richard Besser, Donna Brazile, Reince Priebus, Molly Ball..</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p185302_b_v12_af.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250901040000 +0400" stop="20250901043000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Good Morning America First Look</title>
-    <desc lang="en">Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28311369_b_h8_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250901043000 +0400" stop="20250901060000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Eyewitness News This Morning</title>
-    <desc lang="en">News coverage to start the day.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p677214_b_v8_ad.jpg" />
-    <previously-shown />
-  </programme>
   <programme start="20250901060000 +0400" stop="20250901070000 +0400" channel="ABC.(WABC).New.York,.NY.us">
     <title lang="en">Eyewitness News This Morning</title>
     <desc lang="en">News coverage to start the day.</desc>
@@ -31063,7 +30783,7 @@
   </programme>
   <programme start="20250901110000 +0400" stop="20250901120000 +0400" channel="ABC.(WABC).New.York,.NY.us">
     <title lang="en">The View</title>
-    <desc lang="en">Celebrity and political guests join the panel of hosts for up-to-the-minute hot topics and invaluable conversations.</desc>
+    <desc lang="en">Actress Mary-Louise Parker.Guests: Mary-Louise Parker..</desc>
     <category lang="en">Talk Shows</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184466_i_h8_ai.jpg" />
     <previously-shown />
@@ -31080,7 +30800,7 @@
   </programme>
   <programme start="20250901130000 +0400" stop="20250901140000 +0400" channel="ABC.(WABC).New.York,.NY.us">
     <title lang="en">GMA3</title>
-    <desc lang="en">News, lifestyle and entertainment.</desc>
+    <desc lang="en">Labor Day Takeover with ABC e-commerce editor Tory Johnson.Guests: Tory Johnson..</desc>
     <category lang="en">News</category>
     <category lang="en">Talk Shows</category>
     <previously-shown />
@@ -31103,7 +30823,7 @@
   </programme>
   <programme start="20250901150000 +0400" stop="20250901160000 +0400" channel="ABC.(WABC).New.York,.NY.us">
     <title lang="en">General Hospital</title>
-    <desc lang="en">A shocking act of violence occurs; Carly issues a warning; Michael is dismayed; Elizabeth advocates for Willow; Sonny delivers grim news.</desc>
+    <desc lang="en">Ric and Ava make a plea; Dante confronts Anna; Brook Lynn seeks out Cody; Laura gives Lulu food for thought; Brad makes an outrageous request.</desc>
     <credits>
       <actor>Maurice Benard</actor>
       <actor>Steve Burton</actor>
@@ -31112,7 +30832,7 @@
     <category lang="en">Soaps</category>
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183893_b_h8_al.jpg" />
-    <episode-num system="onscreen">E15787</episode-num>
+    <episode-num system="onscreen">E15639</episode-num>
     <previously-shown />
     <rating system="MPAA">
       <value>TV14</value>
@@ -31215,10 +30935,10 @@
   </programme>
   <programme start="20250901233500 +0400" stop="20250902003700 +0400" channel="ABC.(WABC).New.York,.NY.us">
     <title lang="en">Jimmy Kimmel Live!</title>
-    <desc lang="en">Jimmy Kimmel hosts a diverse lineup of guests that includes celebrities, athletes, musical acts,comics and human-interest subjects, along with comedy bits and a house band.</desc>
+    <sub-title lang="en">Tiffany Haddish; Jessica Williams; Mark Rober; Wolf Alice</sub-title>
+    <desc lang="en">Guest host Tiffany Haddish; actress Jessica Williams; YouTuber Mark Rober; Wolf Alice performs.Guests: Jessica Williams, Mark Rober..</desc>
     <category lang="en">Talk Shows</category>
     <category lang="en">Comedy</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184869_i_h8_aa.jpg" />
     <previously-shown />
     <rating system="MPAA">
       <value>TV14</value>
@@ -31322,7 +31042,7 @@
   </programme>
   <programme start="20250902110000 +0400" stop="20250902120000 +0400" channel="ABC.(WABC).New.York,.NY.us">
     <title lang="en">The View</title>
-    <desc lang="en">Celebrity and political guests join the panel of hosts for up-to-the-minute hot topics and invaluable conversations.</desc>
+    <desc lang="en">Actress Angela Bassett; basketball coach Dawn Staley.Guests: Angela Bassett, Dawn Staley..</desc>
     <category lang="en">Talk Shows</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184466_i_h8_ai.jpg" />
     <previously-shown />
@@ -31339,7 +31059,7 @@
   </programme>
   <programme start="20250902130000 +0400" stop="20250902140000 +0400" channel="ABC.(WABC).New.York,.NY.us">
     <title lang="en">GMA3</title>
-    <desc lang="en">News, lifestyle and entertainment.</desc>
+    <desc lang="en">Author Lauren Roberts; Deals &amp; Steals with Tory Johnson; ABC Secret Sales with Will Ganss; GMA Health Alert Dr. Darien Sutton.Guests: Lauren Roberts, Tory Johnson, Will Ganss, Dr. Darien Sutton..</desc>
     <category lang="en">News</category>
     <category lang="en">Talk Shows</category>
     <previously-shown />
@@ -31362,7 +31082,7 @@
   </programme>
   <programme start="20250902150000 +0400" stop="20250902160000 +0400" channel="ABC.(WABC).New.York,.NY.us">
     <title lang="en">General Hospital</title>
-    <desc lang="en">Michael confides in Brook Lynn; Lucas cautions Liz; Anna and Dante respond to a 911 call; Portia makes an announcement.</desc>
+    <desc lang="en">A shocking act of violence occurs; Carly issues a warning; Michael is dismayed; Elizabeth advocates for Willow; Sonny delivers grim news.</desc>
     <credits>
       <actor>Maurice Benard</actor>
       <actor>Steve Burton</actor>
@@ -31371,7 +31091,7 @@
     <category lang="en">Soaps</category>
     <category lang="en">Drama</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183893_b_h8_al.jpg" />
-    <episode-num system="onscreen">E15788</episode-num>
+    <episode-num system="onscreen">E15787</episode-num>
     <previously-shown />
     <rating system="MPAA">
       <value>TV14</value>
@@ -31466,7 +31186,8 @@
   </programme>
   <programme start="20250902233500 +0400" stop="20250903003700 +0400" channel="ABC.(WABC).New.York,.NY.us">
     <title lang="en">Jimmy Kimmel Live!</title>
-    <desc lang="en">Jimmy Kimmel hosts a diverse lineup of guests that includes celebrities, athletes, musical acts,comics and human-interest subjects, along with comedy bits and a house band.</desc>
+    <sub-title lang="en">Denzel Washington; Brooks Nader; The Marías</sub-title>
+    <desc lang="en">Actor Denzel Washington; reality-TV personality Brooks Nader; The Marías perform.</desc>
     <category lang="en">Talk Shows</category>
     <category lang="en">Comedy</category>
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184869_i_h8_aa.jpg" />
@@ -31532,331 +31253,527 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28311369_b_h8_aa.jpg" />
     <previously-shown />
   </programme>
+  <programme start="20250903043000 +0400" stop="20250903060000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Eyewitness News This Morning</title>
+    <desc lang="en">News coverage to start the day.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p677214_b_v8_ad.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250903060000 +0400" stop="20250903070000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Eyewitness News This Morning</title>
+    <desc lang="en">News coverage to start the day.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p677214_b_v8_ad.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250903070000 +0400" stop="20250903090000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">"Dancing With the Stars" Season 34 cast reveal; Jason Derulo performs; Dallas Cowboys owner Jerry Jones.Guests: Jerry Jones..</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250903090000 +0400" stop="20250903100000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Live with Kelly and Mark</title>
+    <desc lang="en">Rose Byrne; Derek Hough (ABC's "Dancing With the Stars"); Kaleo performs.Guests: Rose Byrne, Derek Hough..</desc>
+    <category lang="en">Talk Shows</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24324378_b_v12_ab.jpg" />
+    <episode-num system="onscreen">E250903</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250903100000 +0400" stop="20250903110000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Eyewitness News Mornings at 10</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25568169_b_h8_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250903110000 +0400" stop="20250903120000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">The View</title>
+    <desc lang="en">Fashion designer Christian Siriano.Guests: Christian Siriano..</desc>
+    <category lang="en">Talk Shows</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184466_i_h8_ai.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250903120000 +0400" stop="20250903130000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Eyewitness News at Noon</title>
+    <desc lang="en">Midday news update.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11844655_b_v8_ad.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250903130000 +0400" stop="20250903140000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">GMA3</title>
+    <desc lang="en">"Dancing With the Stars" Season 34 cast reveal; GMA Health Alert with Dr. Darien Sutton.Guests: Dr. Darien Sutton..</desc>
+    <category lang="en">News</category>
+    <category lang="en">Talk Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250903140000 +0400" stop="20250903150000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Tamron Hall</title>
+    <sub-title lang="en">Tamron's 1000th Episode</sub-title>
+    <desc lang="en">Robin Roberts ("Good Morning America"); a 13-year-old's neighborhood lemonade stand raises more than $200,000 to support other kids; Shontay Lundy (Black Girl Sunscreen); Tamron's alma mater, Temple University.Guests: Robin Roberts..</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Local</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17197549_b_s4_af.jpg" />
+    <episode-num system="onscreen">E6129</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250903150000 +0400" stop="20250903160000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">General Hospital</title>
+    <desc lang="en">Michael confides in Brook Lynn; Lucas cautions Liz; Anna and Dante respond to a 911 call; Portia makes an announcement.</desc>
+    <credits>
+      <actor>Maurice Benard</actor>
+      <actor>Steve Burton</actor>
+      <actor>Michael Easton</actor>
+    </credits>
+    <category lang="en">Soaps</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183893_b_h8_al.jpg" />
+    <episode-num system="onscreen">E15788</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250903160000 +0400" stop="20250903170000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Eyewitness News First at 4</title>
+    <desc lang="en">Local and regional news coverage.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8679870_b_s4_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250903170000 +0400" stop="20250903180000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Eyewitness News at 5</title>
+    <desc lang="en">Local and regional news.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13769033_i_s4_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250903180000 +0400" stop="20250903183000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Eyewitness News at 6</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13769035_b_s4_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250903183000 +0400" stop="20250903190000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10880351_b_v12_ah.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250903190000 +0400" stop="20250903193000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Jeopardy!</title>
+    <sub-title lang="en">Jeopardy! Invitational Tournament</sub-title>
+    <desc lang="en">The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184056_b_v12_aa.jpg" />
+    <episode-num system="onscreen">E9283</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250903193000 +0400" stop="20250903200000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Wheel of Fortune</title>
+    <sub-title lang="en">Comp Week</sub-title>
+    <desc lang="en">In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184057_b_h8_ah.jpg" />
+    <episode-num system="onscreen">E8198</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250903200000 +0400" stop="20250903210000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Who Wants to Be a Millionaire</title>
+    <sub-title lang="en">In the Hot Seat: Jake Tapper &amp; Kaitlan Collins; Mike Birbiglia &amp; Atsuko Okatsuka</sub-title>
+    <desc lang="en">Celebrity contestants Jake Tapper, Kaitlan Collins, Mike Birbiglia and Atsuko Okatsuka.Guests: Jake Tapper, Kaitlan Collins, Mike Birbiglia, Atsuko Okatsuka..</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17820663_b_h8_ah.jpg" />
+    <episode-num system="onscreen">E407</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250903210000 +0400" stop="20250903220000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Match Game</title>
+    <sub-title lang="en">Anthony Anderson, Annie Murphy, Joel McHale, Selena Gomez, Cara Delevingne, Thomas Lennon</sub-title>
+    <desc lang="en">Celebrity contestants Anthony Anderson, Annie Murphy, Joel McHale, Selena Gomez, Cara Delevingne and Thomas Lennon.Guests: Anthony Anderson, Annie Murphy, Joel McHale, Selena Gomez, Cara Delevingne, Thomas Lennon..</desc>
+    <category lang="en">Game Shows</category>
+    <episode-num system="onscreen">E603</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250903220000 +0400" stop="20250903230000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Shark Tank</title>
+    <desc lang="en">A piece of history delivered; a virtual theme park experience; eco-friendly plantable pots; a culturally unique greeting card.</desc>
+    <category lang="en">Reality TV</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p3560383_b_s4_ba.jpg" />
+    <episode-num system="onscreen">E1616</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250903230000 +0400" stop="20250903233500 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Eyewitness News at 11</title>
+    <desc lang="en">Breaking news.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13769039_b_s4_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250903233500 +0400" stop="20250904003700 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Jimmy Kimmel Live!</title>
+    <sub-title lang="en">Mark Hamill; Andrew Santino; Gigi Perez</sub-title>
+    <desc lang="en">Actor Mark Hamill; actor Andrew Santino; Gigi Perez performs.Guests: Mark Hamill, Andrew Santino..</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184869_i_h8_aa.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250904003700 +0400" stop="20250904010600 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Nightline</title>
+    <desc lang="en">In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184465_b_v12_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250904010600 +0400" stop="20250904020600 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Live with Kelly and Mark</title>
+    <desc lang="en">Rose Byrne; Derek Hough (ABC's "Dancing With the Stars"); Kaleo performs.Guests: Rose Byrne, Derek Hough..</desc>
+    <category lang="en">Talk Shows</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24324378_b_v12_ab.jpg" />
+    <episode-num system="onscreen">E250903</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250904020600 +0400" stop="20250904023600 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Daytime Jeopardy</title>
+    <desc lang="en">The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184056_i_s2_aa.jpg" />
+    <episode-num system="onscreen">E9383</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250904023600 +0400" stop="20250904030600 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10880351_b_v12_ah.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250904030600 +0400" stop="20250904040000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Tamron Hall</title>
+    <sub-title lang="en">Tamron's 1000th Episode</sub-title>
+    <desc lang="en">Robin Roberts ("Good Morning America"); a 13-year-old's neighborhood lemonade stand raises more than $200,000 to support other kids; Shontay Lundy (Black Girl Sunscreen); Tamron's alma mater, Temple University.Guests: Robin Roberts..</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Local</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17197549_b_s4_af.jpg" />
+    <episode-num system="onscreen">E6129</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250904040000 +0400" stop="20250904043000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Good Morning America First Look</title>
+    <desc lang="en">Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28311369_b_h8_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250904043000 +0400" stop="20250904060000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Eyewitness News This Morning</title>
+    <desc lang="en">News coverage to start the day.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p677214_b_v8_ad.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250904060000 +0400" stop="20250904070000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Eyewitness News This Morning</title>
+    <desc lang="en">News coverage to start the day.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p677214_b_v8_ad.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250904070000 +0400" stop="20250904090000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">Former professional football player Randy Moss; the 60th anniversary of "The Sound of Music"; Brendan James chats and performs; Fresh Start September series with Peloton instructor Robin Arzon; Deals &amp; Steals with Tory Johnson.Guests: Randy Moss, Robin Arzon, Tory Johnson..</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <previously-shown />
+  </programme>
+  <programme start="20250904090000 +0400" stop="20250904100000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Live with Kelly and Mark</title>
+    <desc lang="en">Mark Ruffalo; Julianne Hough (ABC's "Dancing With the Stars").Guests: Mark Ruffalo, Julianne Hough..</desc>
+    <category lang="en">Talk Shows</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24324378_b_v12_ab.jpg" />
+    <episode-num system="onscreen">E250904</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250904100000 +0400" stop="20250904110000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Eyewitness News Mornings at 10</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25568169_b_h8_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250904110000 +0400" stop="20250904120000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">The View</title>
+    <desc lang="en">Actor Hugh Jackman; author Brian Kelly.Guests: Hugh Jackman, Brian Kelly..</desc>
+    <category lang="en">Talk Shows</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184466_i_h8_ai.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250904120000 +0400" stop="20250904130000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Eyewitness News at Noon</title>
+    <desc lang="en">Midday news update.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11844655_b_v8_ad.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250904130000 +0400" stop="20250904140000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">GMA3</title>
+    <desc lang="en">Deals &amp; Steals with Tory Johnson; GMA Health Alert with Dr. Tara Narula.Guests: Tory Johnson, Dr. Tara Narula..</desc>
+    <category lang="en">News</category>
+    <category lang="en">Talk Shows</category>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250904140000 +0400" stop="20250904150000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Tamron Hall</title>
+    <sub-title lang="en">True Crime With Tamron Hall</sub-title>
+    <desc lang="en">Melissa G. Moore tells what it was like to find out her father was the Happy Face Killer; Delimar Vera ("The Hand That Robbed the Cradle"); crime reporter Oliva LaVoice and Jane Parrent ("The Bakersfield 3: A Tale of Murder and Motherhood").Guests: Melissa G. Moore, Delimar Vera, Olivia LaVoice..</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Local</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17197549_b_s4_af.jpg" />
+    <episode-num system="onscreen">E6149</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250904150000 +0400" stop="20250904160000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">General Hospital</title>
+    <desc lang="en">News of a crime sends shockwaves through Port Charles; Anna and Chase interview suspects;Trina is shaken; Nina makes a risky move; Curtis confides in Jordan.</desc>
+    <credits>
+      <actor>Maurice Benard</actor>
+      <actor>Steve Burton</actor>
+      <actor>Michael Easton</actor>
+    </credits>
+    <category lang="en">Soaps</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183893_b_h8_al.jpg" />
+    <episode-num system="onscreen">E15789</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250904160000 +0400" stop="20250904170000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Eyewitness News First at 4</title>
+    <desc lang="en">Local and regional news coverage.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8679870_b_s4_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250904170000 +0400" stop="20250904180000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Eyewitness News at 5</title>
+    <desc lang="en">Local and regional news.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13769033_i_s4_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250904180000 +0400" stop="20250904183000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Eyewitness News at 6</title>
+    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13769035_b_s4_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250904183000 +0400" stop="20250904190000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10880351_b_v12_ah.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250904190000 +0400" stop="20250904193000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Jeopardy!</title>
+    <sub-title lang="en">Jeopardy! Invitational Tournament</sub-title>
+    <desc lang="en">The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184056_b_v12_aa.jpg" />
+    <episode-num system="onscreen">E9284</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250904193000 +0400" stop="20250904200000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Wheel of Fortune</title>
+    <sub-title lang="en">Comp Week</sub-title>
+    <desc lang="en">In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184057_b_h8_ah.jpg" />
+    <episode-num system="onscreen">E8199</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250904200000 +0400" stop="20250904210000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Celebrity Family Feud</title>
+    <sub-title lang="en">Matt Rife vs. Lil Jon and Kat Graham vs. Francia Raisa</sub-title>
+    <desc lang="en">Celebrity contestants Matt Rife, Lil Jon, Kat Graham and Francia Raisa.Guests: Matt Rife, Lil Jon, Kat Graham, Francia Raisa..</desc>
+    <category lang="en">Game Shows</category>
+    <episode-num system="onscreen">E1102</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250904210000 +0400" stop="20250904220000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Celebrity Family Feud</title>
+    <sub-title lang="en">The Arquettes vs. Martina McBride and Patti LaBelle vs. Fantasia</sub-title>
+    <desc lang="en">Celebrity contestants the Arquettes, Martina McBride, Patti LaBelle and Fantasia.Guests: Martina McBride, Patti LaBelle, Fantasia Barrino..</desc>
+    <category lang="en">Game Shows</category>
+    <episode-num system="onscreen">E1103</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250904220000 +0400" stop="20250904230000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Celebrity Family Feud</title>
+    <sub-title lang="en">The Harlem Globetrotters vs. The Dallas Cowboys Cheerleaders and Bridget Everett vs. Vanessa Bayer</sub-title>
+    <desc lang="en">The Harlem Globetrotters face off against the Dallas Cowboys Cheerleaders; actresses Bridget Everett and Vanessa Bayer compete for their selected charities.Guests: Bridget Everett, Vanessa Bayer..</desc>
+    <category lang="en">Game Shows</category>
+    <episode-num system="onscreen">E1106</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250904230000 +0400" stop="20250904233500 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Eyewitness News at 11</title>
+    <desc lang="en">Breaking news.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13769039_b_s4_aa.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250904233500 +0400" stop="20250905003700 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Jimmy Kimmel Live!</title>
+    <sub-title lang="en">Regina King; Michael Chiklis; Supergrass</sub-title>
+    <desc lang="en">Actress Regina King; actor Michael Chiklis; Supergrass performs.Guests: Regina King, Michael Chiklis..</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184869_i_h8_aa.jpg" />
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20250905003700 +0400" stop="20250905010600 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Nightline</title>
+    <desc lang="en">In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184465_b_v12_ab.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250905010600 +0400" stop="20250905020600 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Live with Kelly and Mark</title>
+    <desc lang="en">Mark Ruffalo; Julianne Hough (ABC's "Dancing With the Stars").Guests: Mark Ruffalo, Julianne Hough..</desc>
+    <category lang="en">Talk Shows</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24324378_b_v12_ab.jpg" />
+    <episode-num system="onscreen">E250904</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250905020600 +0400" stop="20250905023600 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Daytime Jeopardy</title>
+    <desc lang="en">The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <category lang="en">Game Shows</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184056_i_s2_aa.jpg" />
+    <episode-num system="onscreen">E9384</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20250905023600 +0400" stop="20250905030600 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">ABC World News Tonight With David Muir</title>
+    <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10880351_b_v12_ah.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20250905030600 +0400" stop="20250905040000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Tamron Hall</title>
+    <sub-title lang="en">True Crime With Tamron Hall</sub-title>
+    <desc lang="en">Melissa G. Moore tells what it was like to find out her father was the Happy Face Killer; Delimar Vera ("The Hand That Robbed the Cradle"); crime reporter Oliva LaVoice and Jane Parrent ("The Bakersfield 3: A Tale of Murder and Motherhood").Guests: Melissa G. Moore, Delimar Vera, Olivia LaVoice..</desc>
+    <category lang="en">Talk Shows</category>
+    <category lang="en">Local</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17197549_b_s4_af.jpg" />
+    <episode-num system="onscreen">E6149</episode-num>
+    <previously-shown />
+    <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20250905040000 +0400" stop="20250905043000 +0400" channel="ABC.(WABC).New.York,.NY.us">
+    <title lang="en">Good Morning America First Look</title>
+    <desc lang="en">Formerly known as "ABC World News This Morning," this newscast from "ABC News" features live reports from Washington, headlines of the day, an ESPN sports package and "MoneyScope," a regular financial news segment.</desc>
+    <category lang="en">News</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28311369_b_h8_aa.jpg" />
+    <previously-shown />
+  </programme>
   <channel id="BBC.NEWS.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2085.png" />
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2085.png" />
     <url>http://www.sky.com</url>
     <display-name lang="en">BBC NEWS HD</display-name>
   </channel>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901000000 +0000" stop="20250901003000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5c3afd83-8237-412c-a754-d4f89ea5bcb7/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901003000 +0000" stop="20250901010000 +0000">
-    <title lang="en">Ukrainecast</title>
-    <desc lang="en">Your questions answered after a major Russian attack on Kyiv saw multiple civilian casualties, and Russia's ambassador summoned by the UK Foreign Office.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/17139326-bc45-4212-b853-28c4e8503315/16-9" />
-    <episode-num system="xmltv_ns">.3.</episode-num>
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901010000 +0000" stop="20250901013000 +0000">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/cb313566-ff67-4c6b-b7ac-acf4abaaf941/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901013000 +0000" stop="20250901014500 +0000">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4993a100-522d-4c44-85b4-8c0a00ba88ce/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901014500 +0000" stop="20250901020000 +0000">
-    <title lang="en">BBC Sport</title>
-    <desc lang="en">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5b967f3c-4750-4b31-975c-37d1dff8377a/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901020000 +0000" stop="20250901023000 +0000">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/579c947b-0bda-4159-a562-b9770c0e9131/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901023000 +0000" stop="20250901024500 +0000">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3d865499-bc08-410e-8b3b-7d03b831db8d/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901024500 +0000" stop="20250901030000 +0000">
-    <title lang="en">BBC Sport</title>
-    <desc lang="en">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/49b5311c-6dec-4305-acec-46a06722dd7c/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901030000 +0000" stop="20250901033000 +0000">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/510d73cc-3ea1-40f0-aa07-c5261bf414f8/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901033000 +0000" stop="20250901034500 +0000">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/eb9189dd-4ec6-4632-9d4a-7721cbfd1c57/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901034500 +0000" stop="20250901040000 +0000">
-    <title lang="en">BBC Sport</title>
-    <desc lang="en">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5d0ad309-ef1f-4eb5-9c41-f3a955f7f86d/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901040000 +0000" stop="20250901043000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c2df3ee8-4c80-4224-ae0d-dc3bbce94ed6/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901043000 +0000" stop="20250901050000 +0000">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ed4179e1-6779-46de-878b-a9e0c088c525/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901050000 +0000" stop="20250901080000 +0000">
-    <title lang="en">Breakfast</title>
-    <desc lang="en">The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/446804b4-8a8e-4fde-ae69-937e8adf7246/16-9" />
-    <episode-num system="xmltv_ns">.10.</episode-num>
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901080000 +0000" stop="20250901083000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1a7dedee-78af-41d0-a4ad-4551aa66af19/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901083000 +0000" stop="20250901090000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/67d84d82-a1f4-4f3a-9fbf-1bbff90a1d2c/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901090000 +0000" stop="20250901093000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a92d3e2f-0560-47f1-a7c1-0e63057d51f3/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901093000 +0000" stop="20250901100000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e2600892-77ba-42f4-b46c-f4d00b4d8e09/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901100000 +0000" stop="20250901103000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5b5bd94f-2d7c-4ff9-9546-d6a55cbce339/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901103000 +0000" stop="20250901104500 +0000">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c5ec0f95-0753-46ab-a58c-54af8d5d4806/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901104500 +0000" stop="20250901110000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ee8bc39b-baf0-401e-a0dd-e888f542a29a/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901110000 +0000" stop="20250901113000 +0000">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d7901c2c-0074-449b-9156-3b08b35d70fe/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901113000 +0000" stop="20250901120000 +0000">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0540a8ba-39a4-4cc0-9341-aa4308695f4a/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901120000 +0000" stop="20250901130000 +0000">
-    <title lang="en">Signed: BBC News at One</title>
-    <desc lang="en">The latest national and international news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5b8dd120-c175-4ee6-b606-1e904b15ce65/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901130000 +0000" stop="20250901140000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b51b7164-6964-43e0-bc23-d5fd460e6fb1/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901140000 +0000" stop="20250901143000 +0000">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/66f08d54-628d-41ff-ae88-a23ef600948c/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901143000 +0000" stop="20250901150000 +0000">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/32adcfbf-b313-4f01-8863-940c29fd51c2/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901150000 +0000" stop="20250901153000 +0000">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0a6b7ed0-76b5-42f7-83e2-6c0e17863e2e/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901153000 +0000" stop="20250901154500 +0000">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/fd6ca708-c4db-4cfc-ba11-05adf4d014f7/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901154500 +0000" stop="20250901160000 +0000">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/098ffb11-a77e-4d3c-9a7c-1052990ae8b0/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901160000 +0000" stop="20250901163000 +0000">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/222ac304-8730-4d1f-83cd-180fa7de6a2f/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901163000 +0000" stop="20250901170000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/da75560e-930c-4168-b364-53ce8d5aef30/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901170000 +0000" stop="20250901173000 +0000">
-    <title lang="en">BBC News at Six</title>
-    <desc lang="en">The latest national and international news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/20e358fc-752f-4759-a311-b07bc122454a/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901173000 +0000" stop="20250901180000 +0000">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8801b84b-eeb1-4df5-bb8a-e2590043467b/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901180000 +0000" stop="20250901183000 +0000">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/68f6263c-cd8e-4b35-a8af-6c4c8010f519/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901183000 +0000" stop="20250901190000 +0000">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b6728c19-8725-4a87-814f-57b2abcc2aad/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901190000 +0000" stop="20250901193000 +0000">
-    <title lang="en">The Context</title>
-    <desc lang="en">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/10c6ebe3-9cda-40d2-8cdf-15f5bdb8aa55/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901193000 +0000" stop="20250901200000 +0000">
-    <title lang="en">The Context</title>
-    <desc lang="en">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e3d8b9c7-05a1-4440-b57e-186bed802c90/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901200000 +0000" stop="20250901203000 +0000">
-    <title lang="en">The Context USA</title>
-    <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/20881ec7-38e0-4ba5-a6ba-6b3b5f63b6f3/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901203000 +0000" stop="20250901210000 +0000">
-    <title lang="en">The Context USA</title>
-    <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e0e58740-eff2-4e2e-a311-453b84183889/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901210000 +0000" stop="20250901213000 +0000">
-    <title lang="en">BBC News at Ten</title>
-    <desc lang="en">The latest national and international news, with reports from BBC correspondents worldwide.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/eeb106ec-c701-46c4-b6cb-cfbff7f2beba/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901213000 +0000" stop="20250901220000 +0000">
-    <title lang="en">Newsnight</title>
-    <desc lang="en">Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d8c078b7-9b5b-40c8-8e78-8a682522dcfd/16-9" />
-    <episode-num system="xmltv_ns">.245.</episode-num>
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901220000 +0000" stop="20250901230000 +0000">
-    <title lang="en">BBC World News America</title>
-    <desc lang="en">In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/daeafaed-8933-4574-9949-db528eb764fd/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901230000 +0000" stop="20250901233000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e89e9c4b-c0a5-462e-9c25-59a26b34120c/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250901233000 +0000" stop="20250902000000 +0000">
-    <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3122bf89-0b14-4953-893b-138098d14ca5/16-9" />
-    <episode-num system="xmltv_ns">.10.</episode-num>
-  </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250902000000 +0000" stop="20250902003000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
@@ -31955,7 +31872,7 @@
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <icon src="https://images.metadata.sky.com/pd-image/e07af700-aaf1-48e9-99df-904ae53d733b/16-9" />
-    <episode-num system="xmltv_ns">.11.</episode-num>
+    <episode-num system="xmltv_ns">.9.</episode-num>
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250902080000 +0000" stop="20250902083000 +0000">
     <title lang="en">BBC News</title>
@@ -31997,7 +31914,7 @@
     <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/07c71d78-3dfc-4d0a-b8d8-b1a83d4d97b0/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/7af5e850-98d4-4d42-b257-c7980b02b827/16-9" />
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250902104500 +0000" stop="20250902110000 +0000">
     <title lang="en">BBC News</title>
@@ -32161,12 +32078,11 @@
     <icon src="https://images.metadata.sky.com/pd-image/ff691ac9-df02-41f5-8159-003b0946c1a8/16-9" />
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250902213000 +0000" stop="20250902220000 +0000">
-    <title lang="en">Newsnight</title>
-    <desc lang="en">Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
+    <title lang="en">BBC World News America</title>
+    <desc lang="en">In-depth reports on the major international and US news of the day.</desc>
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a3480a4c-f115-42b7-9777-a149c3965cc6/16-9" />
-    <episode-num system="xmltv_ns">.246.</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/0b01aa51-f87c-4629-9f72-97873bc2235d/16-9" />
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250902220000 +0000" stop="20250902230000 +0000">
     <title lang="en">BBC World News America</title>
@@ -32288,7 +32204,7 @@
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <icon src="https://images.metadata.sky.com/pd-image/99f2566f-4824-4841-a9eb-bccc7b7d2a35/16-9" />
-    <episode-num system="xmltv_ns">.12.</episode-num>
+    <episode-num system="xmltv_ns">.10.</episode-num>
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250903080000 +0000" stop="20250903083000 +0000">
     <title lang="en">BBC News</title>
@@ -32621,7 +32537,7 @@
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <icon src="https://images.metadata.sky.com/pd-image/dc3757bc-1de5-4ec0-867c-dae476421018/16-9" />
-    <episode-num system="xmltv_ns">.13.</episode-num>
+    <episode-num system="xmltv_ns">.11.</episode-num>
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250904080000 +0000" stop="20250904083000 +0000">
     <title lang="en">BBC News</title>
@@ -32840,5 +32756,339 @@
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <icon src="https://images.metadata.sky.com/pd-image/d99c96a4-a54e-476e-bad6-eb0931418761/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250904230000 +0000" stop="20250904233000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/10a1aed8-114a-4456-be2f-90a1ee04fc7b/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250904233000 +0000" stop="20250905000000 +0000">
+    <title lang="en">Newscast</title>
+    <desc lang="en">Lighthearted discussion of the day's news.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.metadata.sky.com/pd-image/71249fcb-9f9e-4ce2-b39c-8f2030d0ed98/16-9" />
+    <episode-num system="xmltv_ns">.13.</episode-num>
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905000000 +0000" stop="20250905003000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/caeb32d7-6dd0-4fe0-bda7-253c291861a6/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905003000 +0000" stop="20250905010000 +0000">
+    <title lang="en">The Media Show</title>
+    <desc lang="en">Suspected AI bylines prompt retractions, Bundesliga rights reach YouTube, and the making of Parenthood, the BBC's latest David Attenborough series.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Arts</category>
+    <icon src="https://images.metadata.sky.com/pd-image/056f4968-cfcc-4bb8-b81a-d95570569721/16-9" />
+    <episode-num system="xmltv_ns">.47.</episode-num>
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905010000 +0000" stop="20250905013000 +0000">
+    <title lang="en">Newsday</title>
+    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6b6e3e0b-0fa2-479d-a64f-becaa67add5c/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905013000 +0000" stop="20250905014500 +0000">
+    <title lang="en">Business Today</title>
+    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/42fa0eda-34d4-467e-8305-b55267fe4a9d/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905014500 +0000" stop="20250905020000 +0000">
+    <title lang="en">BBC Sport</title>
+    <desc lang="en">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3c12e422-b988-4953-8ca5-2bb9dc625f4c/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905020000 +0000" stop="20250905023000 +0000">
+    <title lang="en">Newsday</title>
+    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bbc5d4dd-e739-40b4-9b04-4b1d8a5f48b3/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905023000 +0000" stop="20250905024500 +0000">
+    <title lang="en">Business Today</title>
+    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9dc2befb-c5a1-4fe9-a045-c1351447fd96/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905024500 +0000" stop="20250905030000 +0000">
+    <title lang="en">BBC Sport</title>
+    <desc lang="en">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f60dd0c0-57fa-4332-ac44-7f6a947715a3/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905030000 +0000" stop="20250905033000 +0000">
+    <title lang="en">Newsday</title>
+    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/55eb6a6f-cfa6-4c18-9083-9793dbb98543/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905033000 +0000" stop="20250905034500 +0000">
+    <title lang="en">Business Today</title>
+    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e8d9cc16-1593-4621-ae5e-7f2a8df10cf1/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905034500 +0000" stop="20250905040000 +0000">
+    <title lang="en">BBC Sport</title>
+    <desc lang="en">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a3a9e4dc-25aa-4c77-b839-1a4124adbf62/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905040000 +0000" stop="20250905043000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dc483747-15ed-4c79-8e33-af53f91c5a02/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905043000 +0000" stop="20250905050000 +0000">
+    <title lang="en">Business Today</title>
+    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2f703ae3-c8aa-4843-b06e-38c7c5352293/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905050000 +0000" stop="20250905080000 +0000">
+    <title lang="en">Breakfast</title>
+    <desc lang="en">The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d0452817-49f2-4634-8124-10190b33ee67/16-9" />
+    <episode-num system="xmltv_ns">.12.</episode-num>
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905080000 +0000" stop="20250905083000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ec261f3d-dd4e-4828-af5e-87cfce472881/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905083000 +0000" stop="20250905090000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1b3026f1-7992-4763-9852-6a0b51f77e8d/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905090000 +0000" stop="20250905093000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a95b9d28-3d13-474d-b6b4-e317e8f9ae02/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905093000 +0000" stop="20250905100000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f34d4208-7a06-48f4-b878-228323fe2609/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905100000 +0000" stop="20250905103000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/965d1bf0-ac00-4867-bb04-f9d6c17f2c7b/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905103000 +0000" stop="20250905104500 +0000">
+    <title lang="en">Business Today</title>
+    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6f59faa4-989b-48ab-8e8e-c471a9394246/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905104500 +0000" stop="20250905110000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0c89708f-60fa-415e-b9fc-b2958ed42719/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905110000 +0000" stop="20250905113000 +0000">
+    <title lang="en">BBC News Now</title>
+    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e4bed720-df76-4e32-8564-e60c8844693b/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905113000 +0000" stop="20250905120000 +0000">
+    <title lang="en">BBC News Now</title>
+    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b460041d-c7c0-4cd6-b1ed-08f1cbc8f429/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905120000 +0000" stop="20250905130000 +0000">
+    <title lang="en">Signed: BBC News at One</title>
+    <desc lang="en">The latest national and international news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/afc0cb75-6c3a-4385-ab2a-e176c6a78133/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905130000 +0000" stop="20250905133000 +0000">
+    <title lang="en">BBC News Now</title>
+    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f295ccb1-74c2-4c97-941c-874f153572ad/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905133000 +0000" stop="20250905134500 +0000">
+    <title lang="en">Business Today - NYSE Opening Bell</title>
+    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from New York and around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e1356e2b-945f-4e40-9bea-0e929a8519ab/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905134500 +0000" stop="20250905140000 +0000">
+    <title lang="en">BBC News Now</title>
+    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7ed84d25-b042-4f56-9d56-77ad2ae189c4/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905140000 +0000" stop="20250905143000 +0000">
+    <title lang="en">Verified Live</title>
+    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0e196584-bfd8-43b4-9a36-dc9790edcca0/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905143000 +0000" stop="20250905150000 +0000">
+    <title lang="en">Verified Live</title>
+    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a03742ce-7981-4c0d-8a8f-458f766d50cf/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905150000 +0000" stop="20250905153000 +0000">
+    <title lang="en">Verified Live</title>
+    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/32c888c4-c6eb-4d68-b912-4780041b3617/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905153000 +0000" stop="20250905160000 +0000">
+    <title lang="en">Verified Live</title>
+    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8288b367-8167-4c52-9e66-23fb8dffdbee/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905160000 +0000" stop="20250905163000 +0000">
+    <title lang="en">Verified Live</title>
+    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3752ec82-6afc-4261-8a02-b2bf3ee5c83e/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905163000 +0000" stop="20250905170000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d3a2f5ee-5635-4fe5-b1d7-80a3eb6ad1e9/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905170000 +0000" stop="20250905173000 +0000">
+    <title lang="en">BBC News at Six</title>
+    <desc lang="en">The latest national and international news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/02d9807e-6af7-4d6d-a72e-c48406b0ca45/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905173000 +0000" stop="20250905180000 +0000">
+    <title lang="en">The World Today with Maryam Moshiri</title>
+    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fb01feab-0607-41e4-b345-05508b6a7b8c/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905180000 +0000" stop="20250905183000 +0000">
+    <title lang="en">The World Today with Maryam Moshiri</title>
+    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7c6ad1a3-f68b-4993-810d-4080181d65d7/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905183000 +0000" stop="20250905190000 +0000">
+    <title lang="en">The World Today with Maryam Moshiri</title>
+    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/22468ff4-b0bf-4079-b768-0fd1d619c6d7/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905190000 +0000" stop="20250905193000 +0000">
+    <title lang="en">The Context</title>
+    <desc lang="en">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2854c2ef-655d-42e4-8a52-1559d4be242a/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905193000 +0000" stop="20250905200000 +0000">
+    <title lang="en">The Context</title>
+    <desc lang="en">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f45789f6-31dd-49ec-a810-7fc4d32d8ff5/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905200000 +0000" stop="20250905203000 +0000">
+    <title lang="en">The Context USA</title>
+    <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/15bcc486-58c4-4ec7-ac59-6ac219bc646a/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905203000 +0000" stop="20250905210000 +0000">
+    <title lang="en">The Context USA</title>
+    <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/00ba49b8-952a-4cab-b6ea-413a492a0da5/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905210000 +0000" stop="20250905213000 +0000">
+    <title lang="en">BBC News at Ten</title>
+    <desc lang="en">The latest national and international news, with reports from BBC correspondents worldwide.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/660f9b12-7ebb-4bec-8215-1485a7f108a5/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905213000 +0000" stop="20250905220000 +0000">
+    <title lang="en">Newsnight</title>
+    <desc lang="en">Insights and global interviews on the crucial news stories of the day. With Matt Chorley.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8746d1d4-1404-44f1-8286-11f33c80b2ca/16-9" />
+    <episode-num system="xmltv_ns">.249.</episode-num>
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905220000 +0000" stop="20250905223000 +0000">
+    <title lang="en">BBC World News America</title>
+    <desc lang="en">In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a0e23f8b-e6ab-4176-b9b6-d26b2fc5970a/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250905223000 +0000" stop="20250905230000 +0000">
+    <title lang="en">The President's Path</title>
+    <desc lang="en">Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.metadata.sky.com/pd-image/22dfe08f-febf-4c3a-be0a-6a24652b629a/16-9" />
+    <episode-num system="xmltv_ns">.4.</episode-num>
   </programme>
   </tv>
