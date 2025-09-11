@@ -1,40 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv><channel id="TV2000 HD.it"><display-name>TV2000 HD.it</display-name></channel>
-<programme start="20250910005000 +0000" stop="20250910012500 +0000" channel="TV2000 HD.it"><title>Siamo noi</title><desc>Siamo noi - Raccontare lattualita, sfidando il pessimismo e accendendo i riflettori sulle buone pratiche di unItalia che ogni giorno costruisce bene comune.</desc></programme>
-<programme start="20250910012500 +0000" stop="20250910014500 +0000" channel="TV2000 HD.it"><title>In Cammino</title><desc>In Cammino - Un appuntamento quotidiano che, attraverso temi e ospiti ogni giorno diversi, racconta il cammino della Chiesa verso il Sinodo.</desc></programme>
-<programme start="20250910014500 +0000" stop="20250910022500 +0000" channel="TV2000 HD.it"><title>Il mio medico</title><desc>Il mio medico - Programma di informazione medica a servizio dei cittadini pensato per diffondere, con linguaggio semplice, una cultura della salute basata sulla prevenzione</desc></programme>
-<programme start="20250910022500 +0000" stop="20250910025000 +0000" channel="TV2000 HD.it"><title>VEDIAMOCI CHIARO ESTATE</title><sub-title>Vediamoci Chiaro</sub-title><desc>Vediamoci Chiaro - Vediamoci chiaro si propone di supportare e tutelare i cittadini e suggerire soluzioni ai piccoli e ai grandi problemi delle famiglie.</desc></programme>
-<programme start="20250910025000 +0000" stop="20250910030000 +0000" channel="TV2000 HD.it"><title>Clip Borghi dItalia</title><desc>Clip Borghi dItalia - Clip Borghi dItalia</desc></programme>
-<programme start="20250910030000 +0000" stop="20250910032500 +0000" channel="TV2000 HD.it"><title>SANTO ROSARIO LOURDES</title><sub-title>Santo Rosario</sub-title><desc>Santo Rosario - Santo Rosario da Lourdes</desc></programme>
-<programme start="20250910032500 +0000" stop="20250910034500 +0000" channel="TV2000 HD.it"><title>In Cammino</title><desc>In Cammino - Un appuntamento quotidiano che, attraverso temi e ospiti ogni giorno diversi, racconta il cammino della Chiesa verso il Sinodo.</desc></programme>
-<programme start="20250910034500 +0000" stop="20250910043500 +0000" channel="TV2000 HD.it"><title>Lora solare</title><desc>Lora solare - Paola Saluzzi racconta langolo luminoso della vita quotidiana. Storie di uomini e donne che non si sono arresi davanti alle difficolta e hanno creduto nel futuro</desc></programme>
-<programme start="20250910043500 +0000" stop="20250910050000 +0000" channel="TV2000 HD.it"><title>La preghiera del mattino</title><desc>La preghiera del mattino - La preghiera del mattino</desc></programme>
-<programme start="20250910050000 +0000" stop="20250910052500 +0000" channel="TV2000 HD.it"><title>SANTO ROSARIO DA CASCIA</title><sub-title>Santo Rosario</sub-title><desc>Santo Rosario - Santo Rosario dal Santuario di Santa Rita da Cascia</desc></programme>
-<programme start="20250910052500 +0000" stop="20250910062500 +0000" channel="TV2000 HD.it"><title>Di Buon Mattino</title><desc>Di Buon Mattino - Il contenitore di attualita che apre la mattina di TV 2000, tra notizie e curiosita, politica e costume</desc></programme>
-<programme start="20250910062500 +0000" stop="20250910063000 +0000" channel="TV2000 HD.it"><title>TG 2000 Flash</title><desc>TG 2000 Flash - Telegiornale</desc></programme>
-<programme start="20250910063000 +0000" stop="20250910070500 +0000" channel="TV2000 HD.it"><title>Santa Messa</title><desc>Santa Messa - SANTA MESSA DALLA CHIESA DI SANTA BRIGIDA IN ROMA</desc></programme>
-<programme start="20250910070500 +0000" stop="20250910080000 +0000" channel="TV2000 HD.it"><title>Di Buon Mattino</title><desc>Di Buon Mattino - Il contenitore di attualita che apre la mattina di TV 2000, tra notizie e curiosita, politica e costume</desc></programme>
-<programme start="20250910080000 +0000" stop="20250910085500 +0000" channel="TV2000 HD.it"><title>Udienza Generale</title><desc>Udienza Generale - Udienza Generale</desc></programme>
-<programme start="20250910085500 +0000" stop="20250910095000 +0000" channel="TV2000 HD.it"><title>QUEL CHE BOLLE IN PENTOLA</title><desc>Quel che bolle in pentola - Beatrice Fazi e lo chef Cinelli cucinano con gli ospiti, sotto locchio attento degli assaggiatori. Francesca Ceci visita cucine dItalia.</desc></programme>
-<programme start="20250910095000 +0000" stop="20250910100000 +0000" channel="TV2000 HD.it"><title>ANGELUS DA LORETO 2025</title><sub-title>Angelus da Loreto</sub-title><desc>Angelus da Loreto - Angelus recitato dal Santuario della Santa Casa di Loreto</desc></programme>
-<programme start="20250910100000 +0000" stop="20250910101500 +0000" channel="TV2000 HD.it"><title>Tg2000</title><desc>Tg2000 - Notiziario</desc></programme>
-<programme start="20250910101500 +0000" stop="20250910111500 +0000" channel="TV2000 HD.it"><title>Lora solare</title><desc>Lora solare - Paola Saluzzi racconta langolo luminoso della vita quotidiana. Storie di uomini e donne che non si sono arresi davanti alle difficolta e hanno creduto nel futuro</desc></programme>
-<programme start="20250910111500 +0000" stop="20250910130000 +0000" channel="TV2000 HD.it"><title>Cuore selvaggio</title><desc>Cuore selvaggio - Regia di J. Rendon, con E. Gonzalez e E. Palomo. Ambientato nel 1800, e una storia ricca di emozioni e sentimenti, in cui si intrecciano quattro destini, in un turbine di intrighi, ve</desc></programme>
-<programme start="20250910130000 +0000" stop="20250910131500 +0000" channel="TV2000 HD.it"><title>CORONCINA ALLA DIVINA MISERICORDIA GELA 2022</title><sub-title>Coroncina alla Divina Misericordia</sub-title><desc>Coroncina alla Divina Misericordia - La preghiera con le promesse trasmesse da Gesu a Santa Faustina Kowalska</desc></programme>
-<programme start="20250910131500 +0000" stop="20250910135500 +0000" channel="TV2000 HD.it"><title>Siamo noi</title><desc>Siamo noi - Raccontare lattualita, sfidando il pessimismo e accendendo i riflettori sulle buone pratiche di unItalia che ogni giorno costruisce bene comune.</desc></programme>
-<programme start="20250910135500 +0000" stop="20250910153000 +0000" channel="TV2000 HD.it"><title>Cuore selvaggio</title><desc>Cuore selvaggio - Regia di J. Rendon, con E. Gonzalez e E. Palomo. Ambientato nel 1800, e una storia ricca di emozioni e sentimenti, in cui si intrecciano quattro destini, in un turbine di intrighi, ve</desc></programme>
-<programme start="20250910153000 +0000" stop="20250910160000 +0000" channel="TV2000 HD.it"><title>CHIESA VIVA</title><desc>Chiesa Viva - Il programma che racconta ogni giorno le storie e le riflessioni di una comunita universale in dialogo con la realta</desc></programme>
-<programme start="20250910160000 +0000" stop="20250910163000 +0000" channel="TV2000 HD.it"><title>Rosario In Diretta Da Lourdes</title><desc>Rosario In Diretta Da Lourdes - Rosario in diretta da Lourdes</desc></programme>
-<programme start="20250910163000 +0000" stop="20250910170000 +0000" channel="TV2000 HD.it"><title>Tg2000</title><desc>Tg2000 - Notiziario</desc></programme>
-<programme start="20250910170000 +0000" stop="20250910173000 +0000" channel="TV2000 HD.it"><title>Santa Messa</title><desc>Santa Messa - SANTA MESSA DALLA BASILICA DI NOSTRA SIGNORA DI GUADALUPE E SAN FILIPPO MARTIRE IN ROMA</desc></programme>
-<programme start="20250910173000 +0000" stop="20250910180000 +0000" channel="TV2000 HD.it"><title>In Cammino</title><desc>In Cammino - Un appuntamento quotidiano che, attraverso temi e ospiti ogni giorno diversi, racconta il cammino della Chiesa verso il Sinodo.</desc></programme>
-<programme start="20250910180000 +0000" stop="20250910184500 +0000" channel="TV2000 HD.it"><title>SANTO ROSARIO DA CASCIA LUNGO</title><sub-title>Santo Rosario da Cascia</sub-title><desc>Santo Rosario da Cascia - Santo Rosario da Cascia</desc></programme>
-<programme start="20250910184500 +0000" stop="20250910190500 +0000" channel="TV2000 HD.it"><title>Tg2000</title><desc>Tg2000 - Notiziario</desc></programme>
-<programme start="20250910190500 +0000" stop="20250910205500 +0000" channel="TV2000 HD.it"><title>Notorius</title><desc>Notorius - Regia di Alfred Hitchcock. Con Cary Grant (1946) Alla fine della Seconda Guerra Mondiale, la figlia di una spia nazista viene convinta dai servizi segreti statunitensi a sposare un pezzo gross</desc></programme>
-<programme start="20250910205500 +0000" stop="20250910223500 +0000" channel="TV2000 HD.it"><title>Il processo Percy</title><desc>Il processo Percy - Regia di C. Johnson (2020). La battaglia di Percy Schmeiser, un agricoltore che nel 1988 avvia una causa legale contro la multinazionale Monsanto.</desc></programme>
-<programme start="20250910223500 +0000" stop="20250910225500 +0000" channel="TV2000 HD.it"><title>LA COMPIETA PREGHIERA DELLA SERA 2023</title><sub-title>La Compieta</sub-title><desc>La Compieta - Compieta</desc></programme>
-<programme start="20250910225500 +0000" stop="20250910232000 +0000" channel="TV2000 HD.it"><title>SANTO ROSARIO DALLA BASILICA PAPALE DI SANTA MARIA MAGGIORE IN ROMA</title><sub-title>Santo Rosario</sub-title><desc>Santo Rosario - Santo rosario recitato dalla basilica di Santa Maria Maggiore in Roma</desc></programme>
-<programme start="20250910232000 +0000" stop="20250911001000 +0000" channel="TV2000 HD.it"><title>Lora solare</title><desc>Lora solare - Paola Saluzzi racconta langolo luminoso della vita quotidiana. Storie di uomini e donne che non si sono arresi davanti alle difficolta e hanno creduto nel futuro</desc></programme>
 <programme start="20250911001000 +0000" stop="20250911004500 +0000" channel="TV2000 HD.it"><title>Siamo noi</title><desc>Siamo noi - Raccontare lattualita, sfidando il pessimismo e accendendo i riflettori sulle buone pratiche di unItalia che ogni giorno costruisce bene comune.</desc></programme>
 <programme start="20250911004500 +0000" stop="20250911024500 +0000" channel="TV2000 HD.it"><title>In Cammino</title><desc>In Cammino - Un appuntamento quotidiano che, attraverso temi e ospiti ogni giorno diversi, racconta il cammino della Chiesa verso il Sinodo.</desc></programme>
 <programme start="20250911024500 +0000" stop="20250911030000 +0000" channel="TV2000 HD.it"><title>Clip Borghi dItalia</title><desc>Clip Borghi dItalia - Clip Borghi dItalia</desc></programme>
@@ -78,6 +43,45 @@
 <programme start="20250912015000 +0000" stop="20250912023000 +0000" channel="TV2000 HD.it"><title>Il mio medico</title><desc>Il mio medico - Programma di informazione medica a servizio dei cittadini pensato per diffondere, con linguaggio semplice, una cultura della salute basata sulla prevenzione</desc></programme>
 <programme start="20250912023000 +0000" stop="20250912025500 +0000" channel="TV2000 HD.it"><title>VEDIAMOCI CHIARO ESTATE</title><sub-title>Vediamoci Chiaro</sub-title><desc>Vediamoci Chiaro - Vediamoci chiaro si propone di supportare e tutelare i cittadini e suggerire soluzioni ai piccoli e ai grandi problemi delle famiglie.</desc></programme>
 <programme start="20250912025500 +0000" stop="20250912030000 +0000" channel="TV2000 HD.it"><title>Clip Borghi dItalia</title><desc>Clip Borghi dItalia - Clip Borghi dItalia</desc></programme>
+<programme start="20250912030000 +0000" stop="20250912034000 +0000" channel="TV2000 HD.it"><title>SANTO ROSARIO LOURDES</title><sub-title>Santo Rosario</sub-title><desc>Santo Rosario - Santo Rosario da Lourdes</desc></programme>
+<programme start="20250912034000 +0000" stop="20250912040000 +0000" channel="TV2000 HD.it"><title>In Cammino</title><desc>In Cammino - Un appuntamento quotidiano che, attraverso temi e ospiti ogni giorno diversi, racconta il cammino della Chiesa verso il Sinodo.</desc></programme>
+<programme start="20250912040000 +0000" stop="20250912044500 +0000" channel="TV2000 HD.it"><title>Lora solare</title><desc>Lora solare - Paola Saluzzi racconta langolo luminoso della vita quotidiana. Storie di uomini e donne che non si sono arresi davanti alle difficolta e hanno creduto nel futuro</desc></programme>
+<programme start="20250912044500 +0000" stop="20250912050000 +0000" channel="TV2000 HD.it"><title>La preghiera del mattino</title><desc>La preghiera del mattino - La preghiera del mattino</desc></programme>
+<programme start="20250912050000 +0000" stop="20250912052500 +0000" channel="TV2000 HD.it"><title>SANTO ROSARIO DA CASCIA</title><sub-title>Santo Rosario</sub-title><desc>Santo Rosario - Santo Rosario dal Santuario di Santa Rita da Cascia</desc></programme>
+<programme start="20250912052500 +0000" stop="20250912062500 +0000" channel="TV2000 HD.it"><title>Di Buon Mattino</title><desc>Di Buon Mattino - Il contenitore di attualita che apre la mattina di TV 2000, tra notizie e curiosita, politica e costume</desc></programme>
+<programme start="20250912062500 +0000" stop="20250912063000 +0000" channel="TV2000 HD.it"><title>TG 2000 Flash</title><desc>TG 2000 Flash - Telegiornale</desc></programme>
+<programme start="20250912063000 +0000" stop="20250912071000 +0000" channel="TV2000 HD.it"><title>Santa Messa</title><desc>Santa Messa - SANTA MESSA DALLA CHIESA DI SANTA BRIGIDA IN ROMA</desc></programme>
+<programme start="20250912071000 +0000" stop="20250912074500 +0000" channel="TV2000 HD.it"><title>Di Buon Mattino</title><desc>Di Buon Mattino - Il contenitore di attualita che apre la mattina di TV 2000, tra notizie e curiosita, politica e costume</desc></programme>
+<programme start="20250912074500 +0000" stop="20250912083000 +0000" channel="TV2000 HD.it"><title>Il mio medico</title><desc>Il mio medico - Programma di informazione medica a servizio dei cittadini pensato per diffondere, con linguaggio semplice, una cultura della salute basata sulla prevenzione</desc></programme>
+<programme start="20250912083000 +0000" stop="20250912085500 +0000" channel="TV2000 HD.it"><title>VEDIAMOCI CHIARO ESTATE</title><sub-title>Vediamoci Chiaro</sub-title><desc>Vediamoci Chiaro - Vediamoci chiaro si propone di supportare e tutelare i cittadini e suggerire soluzioni ai piccoli e ai grandi problemi delle famiglie.</desc></programme>
+<programme start="20250912085500 +0000" stop="20250912095500 +0000" channel="TV2000 HD.it"><title>QUEL CHE BOLLE IN PENTOLA</title><desc>Quel che bolle in pentola - Beatrice Fazi e lo chef Cinelli cucinano con gli ospiti, sotto locchio attento degli assaggiatori. Francesca Ceci visita cucine dItalia.</desc></programme>
+<programme start="20250912095500 +0000" stop="20250912100000 +0000" channel="TV2000 HD.it"><title>ANGELUS DA LORETO 2025</title><sub-title>Angelus da Loreto</sub-title><desc>Angelus da Loreto - Angelus recitato dal Santuario della Santa Casa di Loreto</desc></programme>
+<programme start="20250912100000 +0000" stop="20250912101500 +0000" channel="TV2000 HD.it"><title>Tg2000</title><desc>Tg2000 - Notiziario</desc></programme>
+<programme start="20250912101500 +0000" stop="20250912111500 +0000" channel="TV2000 HD.it"><title>Lora solare</title><desc>Lora solare - Paola Saluzzi racconta langolo luminoso della vita quotidiana. Storie di uomini e donne che non si sono arresi davanti alle difficolta e hanno creduto nel futuro</desc></programme>
+<programme start="20250912111500 +0000" stop="20250912130000 +0000" channel="TV2000 HD.it"><title>Cuore selvaggio</title><desc>Cuore selvaggio - Regia di J. Rendon, con E. Gonzalez e E. Palomo. Ambientato nel 1800, e una storia ricca di emozioni e sentimenti, in cui si intrecciano quattro destini, in un turbine di intrighi, ve</desc></programme>
+<programme start="20250912130000 +0000" stop="20250912131500 +0000" channel="TV2000 HD.it"><title>CORONCINA ALLA DIVINA MISERICORDIA GELA 2022</title><sub-title>Coroncina alla Divina Misericordia</sub-title><desc>Coroncina alla Divina Misericordia - La preghiera con le promesse trasmesse da Gesu a Santa Faustina Kowalska</desc></programme>
+<programme start="20250912131500 +0000" stop="20250912135500 +0000" channel="TV2000 HD.it"><title>Siamo noi</title><desc>Siamo noi - Raccontare lattualita, sfidando il pessimismo e accendendo i riflettori sulle buone pratiche di unItalia che ogni giorno costruisce bene comune.</desc></programme>
+<programme start="20250912135500 +0000" stop="20250912153000 +0000" channel="TV2000 HD.it"><title>Cuore selvaggio</title><desc>Cuore selvaggio - Regia di J. Rendon, con E. Gonzalez e E. Palomo. Ambientato nel 1800, e una storia ricca di emozioni e sentimenti, in cui si intrecciano quattro destini, in un turbine di intrighi, ve</desc></programme>
+<programme start="20250912153000 +0000" stop="20250912160000 +0000" channel="TV2000 HD.it"><title>CHIESA VIVA</title><desc>Chiesa Viva - Il programma che racconta ogni giorno le storie e le riflessioni di una comunita universale in dialogo con la realta</desc></programme>
+<programme start="20250912160000 +0000" stop="20250912163000 +0000" channel="TV2000 HD.it"><title>Rosario In Diretta Da Lourdes</title><desc>Rosario In Diretta Da Lourdes - Rosario in diretta da Lourdes</desc></programme>
+<programme start="20250912163000 +0000" stop="20250912170000 +0000" channel="TV2000 HD.it"><title>Tg2000</title><desc>Tg2000 - Notiziario</desc></programme>
+<programme start="20250912170000 +0000" stop="20250912173000 +0000" channel="TV2000 HD.it"><title>Santa Messa</title><desc>Santa Messa - SANTA MESSA DALLA BASILICA DI NOSTRA SIGNORA DI GUADALUPE E SAN FILIPPO MARTIRE IN ROMA</desc></programme>
+<programme start="20250912173000 +0000" stop="20250912180000 +0000" channel="TV2000 HD.it"><title>In Cammino</title><desc>In Cammino - Un appuntamento quotidiano che, attraverso temi e ospiti ogni giorno diversi, racconta il cammino della Chiesa verso il Sinodo.</desc></programme>
+<programme start="20250912180000 +0000" stop="20250912184500 +0000" channel="TV2000 HD.it"><title>SANTO ROSARIO DA CASCIA LUNGO</title><sub-title>Santo Rosario da Cascia</sub-title><desc>Santo Rosario da Cascia - Santo Rosario da Cascia</desc></programme>
+<programme start="20250912184500 +0000" stop="20250912190500 +0000" channel="TV2000 HD.it"><title>Tg2000</title><desc>Tg2000 - Notiziario</desc></programme>
+<programme start="20250912190500 +0000" stop="20250912205500 +0000" channel="TV2000 HD.it"><title>Woman in gold</title><desc>Woman in gold - Regia di S. Curtis (2015). Maria, ebrea scampata alla Shoah, tenta di recuperare il quadro di Klimt appartenuto alla sua famiglia e sequestrato dai nazisti...</desc></programme>
+<programme start="20250912205500 +0000" stop="20250912212500 +0000" channel="TV2000 HD.it"><title>Effetto notte</title><desc>Effetto notte - Un viaggio dentro il cinema, il suo cuore, le sue passioni, i protagonisti. A cura di Fabio Falzone.</desc></programme>
+<programme start="20250912212500 +0000" stop="20250912215000 +0000" channel="TV2000 HD.it"><title>LA COMPIETA PREGHIERA DELLA SERA 2023</title><sub-title>La Compieta</sub-title><desc>La Compieta - Compieta</desc></programme>
+<programme start="20250912215000 +0000" stop="20250912221500 +0000" channel="TV2000 HD.it"><title>SANTO ROSARIO DALLA BASILICA PAPALE DI SANTA MARIA MAGGIORE IN ROMA</title><sub-title>Santo Rosario</sub-title><desc>Santo Rosario - Santo rosario recitato dalla basilica di Santa Maria Maggiore in Roma</desc></programme>
+<programme start="20250912221500 +0000" stop="20250912231000 +0000" channel="TV2000 HD.it"><title>Lora solare</title><desc>Lora solare - Paola Saluzzi racconta langolo luminoso della vita quotidiana. Storie di uomini e donne che non si sono arresi davanti alle difficolta e hanno creduto nel futuro</desc></programme>
+<programme start="20250912231000 +0000" stop="20250912235000 +0000" channel="TV2000 HD.it"><title>Siamo noi</title><desc>Siamo noi - Raccontare lattualita, sfidando il pessimismo e accendendo i riflettori sulle buone pratiche di unItalia che ogni giorno costruisce bene comune.</desc></programme>
+<programme start="20250912235000 +0000" stop="20250913001000 +0000" channel="TV2000 HD.it"><title>In Cammino</title><desc>In Cammino - Un appuntamento quotidiano che, attraverso temi e ospiti ogni giorno diversi, racconta il cammino della Chiesa verso il Sinodo.</desc></programme>
+<programme start="20250913001000 +0000" stop="20250913010000 +0000" channel="TV2000 HD.it"><title>QUEL CHE BOLLE IN PENTOLA</title><desc>Quel che bolle in pentola - Beatrice Fazi e lo chef Cinelli cucinano con gli ospiti, sotto locchio attento degli assaggiatori. Francesca Ceci visita cucine dItalia.</desc></programme>
+<programme start="20250913010000 +0000" stop="20250913012000 +0000" channel="TV2000 HD.it"><title>Santuari</title><desc>Santuari - Santuari. tra ladriatico e lEuuropa nuovi orizzonti</desc></programme>
+<programme start="20250913012000 +0000" stop="20250913014000 +0000" channel="TV2000 HD.it"><title>Maestri di strada</title><desc>Maestri di strada - Maestri di strada</desc></programme>
+<programme start="20250913014000 +0000" stop="20250913022500 +0000" channel="TV2000 HD.it"><title>Il mio medico</title><desc>Il mio medico - Programma di informazione medica a servizio dei cittadini pensato per diffondere, con linguaggio semplice, una cultura della salute basata sulla prevenzione</desc></programme>
+<programme start="20250913022500 +0000" stop="20250913025000 +0000" channel="TV2000 HD.it"><title>VEDIAMOCI CHIARO ESTATE</title><sub-title>Vediamoci Chiaro</sub-title><desc>Vediamoci Chiaro - Vediamoci chiaro si propone di supportare e tutelare i cittadini e suggerire soluzioni ai piccoli e ai grandi problemi delle famiglie.</desc></programme>
+<programme start="20250913025000 +0000" stop="20250913030000 +0000" channel="TV2000 HD.it"><title>Clip Borghi dItalia</title><desc>Clip Borghi dItalia - Clip Borghi dItalia</desc></programme>
 <channel id="Rete.4.it">
     <display-name lang="it">Rete 4</display-name>
     <icon src="https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/r4.png" />
@@ -35820,216 +35824,6 @@
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s10003_h15_ac.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
-  <programme start="20250909060000 +0400" stop="20250909070000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Eyewitness News This Morning</title>
-    <desc lang="en">News coverage to start the day.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p677214_b_v8_ad.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250909070000 +0400" stop="20250909090000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Good Morning America</title>
-    <desc lang="en">Author Emma Heming Willis; actor Mark Duplass; author Dan Brown; Deals &amp; Steals with Tory Johnson.Guests: Emma Heming Willis, Mark Duplass, Dan Brown, Tory Johnson..</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">News</category>
-    <previously-shown />
-  </programme>
-  <programme start="20250909090000 +0400" stop="20250909100000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Live with Kelly and Mark</title>
-    <sub-title lang="en">"Kelly &amp; Mark Do It" Week</sub-title>
-    <desc lang="en">Charlie Sheen; Matteo Bocelli performs; men vs. women challenges.Guests: Charlie Sheen..</desc>
-    <category lang="en">Talk Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p24324378_b_v12_ab.jpg" />
-    <episode-num system="onscreen">E250909</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250909100000 +0400" stop="20250909110000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Eyewitness News Mornings at 10</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p25568169_b_h8_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250909110000 +0400" stop="20250909120000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">The View</title>
-    <desc lang="en">Justice Sonia Sotomayor.Guests: Sonia Sotomayor..</desc>
-    <category lang="en">Talk Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184466_i_h8_ai.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250909120000 +0400" stop="20250909130000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Eyewitness News at Noon</title>
-    <desc lang="en">Midday news update.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11844655_b_v8_ad.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250909130000 +0400" stop="20250909140000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">GMA3</title>
-    <desc lang="en">Actress Karen Pittman; Deals &amp; Steals with Tory Johnson; ABC Secret Savings with Will Ganss.Guests: Karen Pittman, Tory Johnson, Will Ganss..</desc>
-    <category lang="en">News</category>
-    <category lang="en">Talk Shows</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250909140000 +0400" stop="20250909150000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Tamron Hall</title>
-    <sub-title lang="en">Ripped From the Headlines</sub-title>
-    <desc lang="en">Actor Todd Bridges discusses the death of former co-star Gary Coleman; Heather Lane tells how she solved her sister's murder after a nine-day search.Guests: Todd Bridges..</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">Local</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17197549_b_s4_af.jpg" />
-    <episode-num system="onscreen">E7002</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20250909150000 +0400" stop="20250909160000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">General Hospital</title>
-    <desc lang="en">Time is running out for Britt; Michael asks Curtis for help; Lulu has a big decision to make; Alexis says too much; Portia turns the tables.</desc>
-    <credits>
-      <actor>Maurice Benard</actor>
-      <actor>Steve Burton</actor>
-      <actor>Michael Easton</actor>
-    </credits>
-    <category lang="en">Soaps</category>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p183893_b_h8_al.jpg" />
-    <episode-num system="onscreen">E15792</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250909160000 +0400" stop="20250909170000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Eyewitness News First at 4</title>
-    <desc lang="en">Local and regional news coverage.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8679870_b_s4_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250909170000 +0400" stop="20250909180000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Eyewitness News at 5</title>
-    <desc lang="en">Local and regional news.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13769033_i_s4_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250909180000 +0400" stop="20250909183000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Eyewitness News at 6</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13769035_b_s4_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250909183000 +0400" stop="20250909190000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">ABC World News Tonight With David Muir</title>
-    <desc lang="en">The latest news from America, as reported by the ABC television network.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10880351_b_v12_ah.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250909190000 +0400" stop="20250909193000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Jeopardy!</title>
-    <desc lang="en">The Emmy-winning quiz show features a unique answer-and-question format.</desc>
-    <category lang="en">Game Shows</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184056_b_v12_aa.jpg" />
-    <episode-num system="onscreen">E9387</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20250909193000 +0400" stop="20250909200000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Wheel of Fortune</title>
-    <sub-title lang="en">WTF (What the Fun)</sub-title>
-    <desc lang="en">In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
-    <category lang="en">Game Shows</category>
-    <episode-num system="onscreen">E8207</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20250909200000 +0400" stop="20250909210000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">High Potential</title>
-    <sub-title lang="en">The Sauna at the End of the Stairs</sub-title>
-    <desc lang="en">Soto reopens an old murder case, determined to uncover the true killer in classic "whodunit" style.</desc>
-    <credits>
-      <actor>Kaitlin Olson</actor>
-      <actor>Daniel Sunjata</actor>
-      <actor>Javicia Leslie</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <category lang="en">Comedy</category>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250909210000 +0400" stop="20250909220000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">High Potential</title>
-    <sub-title lang="en">Partners</sub-title>
-    <desc lang="en">The FBI joins the investigation into the murder of a controversial tech magnate, forcing Karadec to reunite with his former partner; Ludo becomes overwhelmed with his increasing childcare duties.</desc>
-    <credits>
-      <actor>Kaitlin Olson</actor>
-      <actor>Daniel Sunjata</actor>
-      <actor>Javicia Leslie</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29265240_e_h10_aa.jpg" />
-    <episode-num system="onscreen">E112</episode-num>
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250909220000 +0400" stop="20250909230000 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">High Potential</title>
-    <sub-title lang="en">Let's Play</sub-title>
-    <desc lang="en">An anonymous tip to the LAPD sparks an unusual multiple-victim kidnapping investigation, forcing the team to rely on board games and puzzles to track down their suspect.</desc>
-    <credits>
-      <actor>Kaitlin Olson</actor>
-      <actor>Daniel Sunjata</actor>
-      <actor>Javicia Leslie</actor>
-    </credits>
-    <category lang="en">Sitcom</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29311436_e_h10_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20250909230000 +0400" stop="20250909233500 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Eyewitness News at 11</title>
-    <desc lang="en">Breaking news.</desc>
-    <category lang="en">News</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13769039_b_s4_aa.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20250909233500 +0400" stop="20250910003700 +0400" channel="ABC.(WABC).New.York,.NY.us">
-    <title lang="en">Jimmy Kimmel Live!</title>
-    <sub-title lang="en">Nate Bargatze; Martha Plimpton; CMAT</sub-title>
-    <desc lang="en">Comic Nate Bargatze; actress Martha Plimpton; CMAT performs.Guests: Nate Bargatze, Martha Plimpton..</desc>
-    <category lang="en">Talk Shows</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184869_i_h8_aa.jpg" />
-    <previously-shown />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
   <programme start="20250910003700 +0400" stop="20250910010600 +0400" channel="ABC.(WABC).New.York,.NY.us">
     <title lang="en">Nightline</title>
     <desc lang="en">In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
@@ -36872,331 +36666,6 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">BBC NEWS HD</display-name>
   </channel>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909000000 +0000" stop="20250909003000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/00a6daaa-70c6-4f7a-a7cf-a8fd398fc020/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909003000 +0000" stop="20250909010000 +0000">
-    <title lang="en">Talking Business</title>
-    <desc lang="en">Just how big a business can women's sports become? The rugby world cup and football's Euros have seen demand for tickets soar so how can that be translated into long-term commercial success.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <icon src="https://images.metadata.sky.com/pd-image/53689a9e-4160-46f4-8f23-188f4f27b858/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909010000 +0000" stop="20250909013000 +0000">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/64247c86-48ea-42d5-9420-5c54ca391cae/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909013000 +0000" stop="20250909014500 +0000">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d571c13e-ad9f-42eb-abc5-b78ff4b08f35/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909014500 +0000" stop="20250909020000 +0000">
-    <title lang="en">BBC Sport</title>
-    <desc lang="en">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c4304222-7272-460b-b04f-9404cf24c606/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909020000 +0000" stop="20250909023000 +0000">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8350d3b9-86dd-4f1d-8858-10830b39e5b0/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909023000 +0000" stop="20250909024500 +0000">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/85729722-9aa9-4ce6-8058-5201aa6cdb2a/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909024500 +0000" stop="20250909030000 +0000">
-    <title lang="en">BBC Sport</title>
-    <desc lang="en">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8ef6fcdd-25cb-467c-9287-5d81ecc1078e/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909030000 +0000" stop="20250909033000 +0000">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ce4ea779-b007-4dfd-9e5d-214c5b735afa/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909033000 +0000" stop="20250909034500 +0000">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ff63bc7a-1849-4949-81f3-2eda825551c1/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909034500 +0000" stop="20250909040000 +0000">
-    <title lang="en">BBC Sport</title>
-    <desc lang="en">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/cf501e1d-1292-417e-b0b1-640583bafd9e/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909040000 +0000" stop="20250909043000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f1d26bc9-e410-4bae-8811-d2cea8058744/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909043000 +0000" stop="20250909050000 +0000">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/be1d4cbd-600d-42fa-93e1-12cc7428b085/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909050000 +0000" stop="20250909080000 +0000">
-    <title lang="en">Breakfast</title>
-    <desc lang="en">The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1d3ce8a7-1548-474f-8e5d-df1c7e8f474b/16-9" />
-    <episode-num system="xmltv_ns">.8.</episode-num>
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909080000 +0000" stop="20250909083000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6b295fc0-faf7-4540-9938-be96cc048557/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909083000 +0000" stop="20250909090000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5b7c49e1-17ae-45e6-8297-d18cbde65127/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909090000 +0000" stop="20250909093000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/2da5ae52-2668-4dbb-a3ce-119875837dec/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909093000 +0000" stop="20250909100000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/060741f9-cfe6-4753-a19e-2d70c4fe1a1d/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909100000 +0000" stop="20250909103000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8ae0adb0-14de-485c-a733-381e63af98d6/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909103000 +0000" stop="20250909104500 +0000">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/69bd6e3e-41e4-4ef1-a5af-dae5609cfbb6/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909104500 +0000" stop="20250909110000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4d14def1-9c80-4746-b64d-7116320e11eb/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909110000 +0000" stop="20250909113000 +0000">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4cd721a2-1ae0-43bb-b7dd-a0179b01dbf7/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909113000 +0000" stop="20250909120000 +0000">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6342d3eb-ed27-4573-9ca3-0929d178bbdc/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909120000 +0000" stop="20250909130000 +0000">
-    <title lang="en">Signed: BBC News at One</title>
-    <desc lang="en">The latest national and international news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/18bb3485-15ff-4e73-ba8d-1193a996ae22/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909130000 +0000" stop="20250909133000 +0000">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/07ee019f-ff72-4619-b6ba-90351bb25a0b/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909133000 +0000" stop="20250909134500 +0000">
-    <title lang="en">Business Today - NYSE Opening Bell</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from New York and around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0eda295b-062f-4f8f-a02f-f83dafbd9bc7/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909134500 +0000" stop="20250909140000 +0000">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/82ebf074-f57b-4fc6-8e00-ce79d122c8d2/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909140000 +0000" stop="20250909143000 +0000">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/027bb479-704d-4972-a7f7-d1c5ac0f727b/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909143000 +0000" stop="20250909150000 +0000">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d8f681e5-37d8-4009-ad48-e0d2dc1f16f7/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909150000 +0000" stop="20250909154500 +0000">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ba583b3e-88de-474f-9ff7-f26f2ca26aad/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909154500 +0000" stop="20250909160000 +0000">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c70007fc-ea36-47fd-be0e-727f55ac269e/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909160000 +0000" stop="20250909163000 +0000">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a9a41ccd-8c60-47f7-8521-91b6f128e7cb/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909163000 +0000" stop="20250909170000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0f844589-bd09-4370-b24c-87f40668ef10/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909170000 +0000" stop="20250909173000 +0000">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0cbb0368-3352-411a-ba64-b722f415055a/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909173000 +0000" stop="20250909180000 +0000">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a506f7bf-48ec-4009-8b8e-c772b10678d3/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909180000 +0000" stop="20250909183000 +0000">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4f1b0fe7-4dee-47c9-baa0-e13135e7d9db/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909183000 +0000" stop="20250909190000 +0000">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a9347923-4c5d-4f83-ad38-9180aa5a69b3/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909190000 +0000" stop="20250909193000 +0000">
-    <title lang="en">The Context</title>
-    <desc lang="en">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b1f31d0b-fc96-46a8-bd6a-7de08dc270dc/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909193000 +0000" stop="20250909200000 +0000">
-    <title lang="en">The Context</title>
-    <desc lang="en">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/00032ed6-ef9e-4b84-adde-7045e9a7ca13/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909200000 +0000" stop="20250909203000 +0000">
-    <title lang="en">The Context USA</title>
-    <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3ab4b058-8946-4edd-b137-12c881b3bafe/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909203000 +0000" stop="20250909210000 +0000">
-    <title lang="en">The Context USA</title>
-    <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6fe1f6b0-7285-49ed-bc00-85156c31f3ea/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909210000 +0000" stop="20250909213000 +0000">
-    <title lang="en">BBC News at Ten</title>
-    <desc lang="en">The latest national and international news, with reports from BBC correspondents worldwide.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/26b0a142-f79a-430e-833c-291d5546e259/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909213000 +0000" stop="20250909220000 +0000">
-    <title lang="en">Newsnight</title>
-    <desc lang="en">Insights and global interviews on the news stories of the day. With Paddy O'Connell.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/10bd34cf-c821-486f-ba4f-7f7588461564/16-9" />
-    <episode-num system="xmltv_ns">.246.</episode-num>
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909220000 +0000" stop="20250909230000 +0000">
-    <title lang="en">BBC World News America</title>
-    <desc lang="en">In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/fa52d406-92c0-4072-96a0-0a4bd3de4825/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909230000 +0000" stop="20250909233000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/fd81ad17-6660-4b02-8928-73a63c197717/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250909233000 +0000" stop="20250910000000 +0000">
-    <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <icon src="https://images.metadata.sky.com/pd-image/31612dad-8106-4cc5-b51f-4bf6c46135e8/16-9" />
-    <episode-num system="xmltv_ns">.16.</episode-num>
-  </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250910000000 +0000" stop="20250910003000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
@@ -37295,7 +36764,7 @@
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <icon src="https://images.metadata.sky.com/pd-image/7750f7b6-95b5-4e2b-88b0-b21dafadb66a/16-9" />
-    <episode-num system="xmltv_ns">.9.</episode-num>
+    <episode-num system="xmltv_ns">.8.</episode-num>
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250910080000 +0000" stop="20250910083000 +0000">
     <title lang="en">BBC News</title>
@@ -37506,7 +36975,7 @@
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <icon src="https://images.metadata.sky.com/pd-image/65533cfc-263a-416c-b6ff-356e29f3cb4b/16-9" />
-    <episode-num system="xmltv_ns">.247.</episode-num>
+    <episode-num system="xmltv_ns">.246.</episode-num>
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250910220000 +0000" stop="20250910230000 +0000">
     <title lang="en">BBC World News America</title>
@@ -37528,7 +36997,7 @@
     <category lang="en">Entertainment</category>
     <category lang="en">Factual</category>
     <icon src="https://images.metadata.sky.com/pd-image/361d619c-9ad9-448e-8bee-65a8b3f89922/16-9" />
-    <episode-num system="xmltv_ns">.17.</episode-num>
+    <episode-num system="xmltv_ns">.16.</episode-num>
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250911000000 +0000" stop="20250911003000 +0000">
     <title lang="en">BBC News</title>
@@ -37627,7 +37096,7 @@
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <icon src="https://images.metadata.sky.com/pd-image/9caf596f-7634-470d-aa14-7c41aba11e88/16-9" />
-    <episode-num system="xmltv_ns">.10.</episode-num>
+    <episode-num system="xmltv_ns">.9.</episode-num>
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250911080000 +0000" stop="20250911083000 +0000">
     <title lang="en">BBC News</title>
@@ -37838,7 +37307,7 @@
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <icon src="https://images.metadata.sky.com/pd-image/e988cbae-5fe2-4d43-9b8a-59ca45366939/16-9" />
-    <episode-num system="xmltv_ns">.248.</episode-num>
+    <episode-num system="xmltv_ns">.247.</episode-num>
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250911220000 +0000" stop="20250911230000 +0000">
     <title lang="en">BBC World News America</title>
@@ -37860,7 +37329,7 @@
     <category lang="en">Entertainment</category>
     <category lang="en">Factual</category>
     <icon src="https://images.metadata.sky.com/pd-image/742c257f-7b57-4509-821a-dd201ff2d7bb/16-9" />
-    <episode-num system="xmltv_ns">.18.</episode-num>
+    <episode-num system="xmltv_ns">.17.</episode-num>
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250912000000 +0000" stop="20250912003000 +0000">
     <title lang="en">BBC News</title>
@@ -37960,7 +37429,7 @@
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <icon src="https://images.metadata.sky.com/pd-image/3aba9f39-ce05-4ed1-abea-737dac8cc3a7/16-9" />
-    <episode-num system="xmltv_ns">.11.</episode-num>
+    <episode-num system="xmltv_ns">.10.</episode-num>
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250912080000 +0000" stop="20250912083000 +0000">
     <title lang="en">BBC News</title>
@@ -38164,7 +37633,7 @@
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <icon src="https://images.metadata.sky.com/pd-image/35a2ee81-b8a8-4487-a25f-e6c76c9013d9/16-9" />
-    <episode-num system="xmltv_ns">.249.</episode-num>
+    <episode-num system="xmltv_ns">.248.</episode-num>
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250912220000 +0000" stop="20250912223000 +0000">
     <title lang="en">BBC World News America</title>
@@ -38180,5 +37649,298 @@
     <category lang="en">Factual</category>
     <icon src="https://images.metadata.sky.com/pd-image/c40be6d0-cd36-4126-a9e0-ab4311100ff2/16-9" />
     <episode-num system="xmltv_ns">.4.</episode-num>
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250912230000 +0000" stop="20250912233000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a3f48cdd-4a77-482d-bdcd-5a607d842aae/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250912233000 +0000" stop="20250913000000 +0000">
+    <title lang="en">Talking Business</title>
+    <desc lang="en">For more than two decades Google has dominated the way we search, shop and do business online - so how is AI changing all of that.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0d26dcc2-0641-4516-a9b8-8c5b896a18dc/16-9" />
+    <episode-num system="xmltv_ns">.45.</episode-num>
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913000000 +0000" stop="20250913003000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/91caaf1a-0af8-4e48-9b9a-2466a7e9188e/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913003000 +0000" stop="20250913010000 +0000">
+    <title lang="en">Tech Now</title>
+    <desc lang="en">Lara Lewington explores the tech being trialled to find 'hidden' pancreatic cancer cases. Chris Vallance finds out how AI is being used to spot and prevent incidents on our roads.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0a37ca43-6842-46e6-ac42-3f1e44599b53/16-9" />
+    <episode-num system="xmltv_ns">.14.</episode-num>
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913010000 +0000" stop="20250913013000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/401d080c-0028-4e91-a5bd-0bc927e4930f/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913013000 +0000" stop="20250913020000 +0000">
+    <title lang="en">Ukrainecast</title>
+    <desc lang="en">In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/989a0028-d8ea-411d-b55c-a1ca1c881b56/16-9" />
+    <episode-num system="xmltv_ns">.3.</episode-num>
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913020000 +0000" stop="20250913023000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0452300c-c042-43ee-ac81-41639e411da4/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913023000 +0000" stop="20250913030000 +0000">
+    <title lang="en">Kharkiv War Diaries</title>
+    <desc lang="en">Video diaries from Ukraine's frontline city as Russia intensifies its bombardment. Contains scenes which some viewers may find upsetting.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.metadata.sky.com/pd-image/19505d94-e2d3-4e7d-8079-7822274f2f1c/16-9" />
+    <episode-num system="xmltv_ns">.19.</episode-num>
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913030000 +0000" stop="20250913033000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/74f02f93-8c3b-4c11-99f8-e437c1187165/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913033000 +0000" stop="20250913040000 +0000">
+    <title lang="en">The Media Show</title>
+    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Arts</category>
+    <icon src="https://images.metadata.sky.com/pd-image/343267e2-7aee-412b-ad9b-793e836aeaa9/16-9" />
+    <episode-num system="xmltv_ns">.48.</episode-num>
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913040000 +0000" stop="20250913043000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bd1b84e2-4111-42c3-8363-5b4f73fcc821/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913043000 +0000" stop="20250913050000 +0000">
+    <title lang="en">The Travel Show</title>
+    <desc lang="en">Revisting some favourite musical experiences.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travel</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3e0545ea-c5c9-45e3-9e2f-c37ada820ea0/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913050000 +0000" stop="20250913080000 +0000">
+    <title lang="en">Breakfast</title>
+    <desc lang="en">The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fe02d228-773d-4f68-858f-9c31f8bc11e9/16-9" />
+    <episode-num system="xmltv_ns">.11.</episode-num>
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913080000 +0000" stop="20250913090000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2a24b30e-5ca9-42cd-a6ed-03056d788482/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913090000 +0000" stop="20250913093000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ee8bc2b2-d139-4fa7-983b-d6b4a580e8a6/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913093000 +0000" stop="20250913100000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/87e13aae-a37a-4799-abb5-62dc18599485/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913100000 +0000" stop="20250913103000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/27751635-541a-4584-8846-4dc9d0ea2e63/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913103000 +0000" stop="20250913110000 +0000">
+    <title lang="en">Talking Business</title>
+    <desc lang="en">For more than two decades Google has dominated the way we search, shop and do business online - so how is AI changing all of that.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0d26dcc2-0641-4516-a9b8-8c5b896a18dc/16-9" />
+    <episode-num system="xmltv_ns">.45.</episode-num>
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913110000 +0000" stop="20250913113000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c58d122c-e488-4c37-b9ab-c17a61bb050c/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913113000 +0000" stop="20250913120000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b91c02d9-cbd1-4d9c-b04d-b9d984f2985e/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913120000 +0000" stop="20250913123000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/db74fda9-02e4-415d-8cfb-93f821c3b7df/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913123000 +0000" stop="20250913130000 +0000">
+    <title lang="en">Ukrainecast</title>
+    <desc lang="en">In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/989a0028-d8ea-411d-b55c-a1ca1c881b56/16-9" />
+    <episode-num system="xmltv_ns">.3.</episode-num>
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913130000 +0000" stop="20250913133000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b00dc6a7-344e-41b7-bfa2-dc8fba411ce3/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913133000 +0000" stop="20250913140000 +0000">
+    <title lang="en">The President's Path 25/26 - The President's Path</title>
+    <desc lang="en">Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c40be6d0-cd36-4126-a9e0-ab4311100ff2/16-9" />
+    <episode-num system="xmltv_ns">.4.</episode-num>
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913140000 +0000" stop="20250913143000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c85dbf3e-6c90-42a7-9c77-aea077f75517/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913143000 +0000" stop="20250913144500 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a9ab905a-bcd9-4827-9d42-3b047fa2c070/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913144500 +0000" stop="20250913150000 +0000">
+    <title lang="en">Newswatch</title>
+    <desc lang="en">Your views on the coverage of events by BBC News, answered by the editors and decision makers in charge.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e98af523-e065-45e8-9952-883b9743e358/16-9" />
+    <episode-num system="xmltv_ns">.42.</episode-num>
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913150000 +0000" stop="20250913153000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e1b65883-ef34-4b23-91ec-ccef3bcbbc42/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913153000 +0000" stop="20250913160000 +0000">
+    <title lang="en">Global Eye</title>
+    <desc lang="en">A weekly programme bringing forensic journalism from all corners of the world. In the first episode, we hear from residents in Ukraine's Kharkiv and Nawal Al-Maghafi reports from Sudan.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fb37fbf5-c7cc-4ec4-b7fe-93f343d6fd3e/16-9" />
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913160000 +0000" stop="20250913170000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b67be598-101d-471e-a1dc-1892c91395df/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913170000 +0000" stop="20250913173000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e3dba39c-8294-4d13-9e81-9920c5431d44/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913173000 +0000" stop="20250913180000 +0000">
+    <title lang="en">BBC News including Sport</title>
+    <desc lang="en">The latest news from the BBC including a round-up of the day's sporting action.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2b7c0c80-1a37-41b1-aa5c-43a88be38f2d/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913180000 +0000" stop="20250913183000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/275cba75-9e08-4e17-ac4a-209699e817d4/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913183000 +0000" stop="20250913190000 +0000">
+    <title lang="en">BBC News including Sport</title>
+    <desc lang="en">The latest news from the BBC including a round-up of the day's sporting action.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7341f6f1-a0ea-4f15-a904-f0d933dc845f/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913190000 +0000" stop="20250913193000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0841c3f7-48ce-4bc3-a087-edaef03a1bdf/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913193000 +0000" stop="20250913200000 +0000">
+    <title lang="en">Newscast</title>
+    <desc lang="en">Lighthearted discussion of the day's news.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.metadata.sky.com/pd-image/223360b3-ba98-497b-918c-df358fbe3dd2/16-9" />
+    <episode-num system="xmltv_ns">.18.</episode-num>
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913200000 +0000" stop="20250913210000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/df5cbb78-0d49-4495-b72c-1dbf4f4a3276/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913210000 +0000" stop="20250913220000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/170154cd-1255-45d2-9b35-714bc631a3df/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913220000 +0000" stop="20250913223000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/604187c8-550c-489b-b75c-f09f8fe71f8f/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250913223000 +0000" stop="20250913230000 +0000">
+    <title lang="en">Political Thinking with Nick Robinson</title>
+    <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b5f43563-0bbf-47ed-80d8-c476485b8e1a/16-9" />
+    <episode-num system="xmltv_ns">1.1.</episode-num>
   </programme>
   </tv>
