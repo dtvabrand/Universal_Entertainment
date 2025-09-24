@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+
+  <!-- ================== ITALY ================== -->
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="Rai1.it"        site_id="DTH#899">Rai 1</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="Rai2.it"        site_id="DTH#898">Rai 2</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="Rai3.it"        site_id="DTH#897">Rai 3</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="Rete4.it"       site_id="DTH#10464">Rete 4</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="Canale5.it"     site_id="DTH#10354">Canale 5</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="Italia1.it"     site_id="DTH#10454">Italia 1</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="TV2000.it"      site_id="DTH#7588">TV 2000</channel>
+
+  <!-- ================== USA ================== -->
+  <channel site="tvpassport.com" lang="en" xmltv_id="ABCNewsLive.us"    site_id="abc-news-live/36224">ABC News Live</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FoxNews.us"        site_id="fox-news/1083">Fox News Channel</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CNN.us"            site_id="cnn/70">CNN</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="WABC.us"           site_id="abc-wabc-new-york-ny-hd/4553">WABC</channel>
+
+  <channel site="tvpassport.com" lang="en" xmltv_id="AMC.us"            site_id="amc--eastern-feed-hd/6219">AMC</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Freeform.us"       site_id="freeform-hd--east-feed/6110">Freeform</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="FX.us"             site_id="fx-networks-east-coast-hd/6111">FX</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HBO.us"            site_id="hbo-hd--eastern-feed/627">HBO</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HBO2.us"           site_id="hbo-2--eastern-feed-hd/6313">HBO 2</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HBOSignature.us"   site_id="hbo-signature-hbo-3--eastern-hd/7099">HBO Signature</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HBOComedy.us"      site_id="hbo-comedy-hd--east/7105">HBO Comedy</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="HBOZone.us"        site_id="hbo-zone-hd--east/7102">HBO Zone</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="MGMPlus.us"        site_id="mgm-hd--east/7610">MGM+</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Showtime.us"       site_id="paramount-with-showtime--eastern/3034">Showtime</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Starz.us"          site_id="starz1--east-hd/3613">Starz</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Syfy.us"           site_id="syfy-hd--eastern-feed/5643">SYFY</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="TNT.us"            site_id="tnt-hd--east-feed/3037">TNT</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="USANetwork.us"     site_id="usa-network-hd--east/5490">USA Network</channel>
+
+  <channel site="tvpassport.com" lang="en" xmltv_id="Nickelodeon.us"    site_id="nickelodeon-usa--east-feed-hd/6342">Nickelodeon</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Nicktoons.us"      site_id="nicktoons-hd--east/11445">Nicktoons</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="CartoonNetwork.us" site_id="cartoon-network-usa-hd--eastern/6917">Cartoon Network</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="Boomerang.us"      site_id="boomerang-hd/16413">Boomerang</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="DisneyChannel.us"  site_id="disney-hd--eastern/6112">Disney Channel</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="DisneyXD.us"       site_id="disney-xd-usa-hd--eastern-feed/6236">Disney XD</channel>
+
+</channels>
