@@ -29,14 +29,11 @@ jobs:
         working-directory: ./epg
         run: npm ci
 
-      - name: Grab EPG (XML only)
+      - name: Grab EPG
         run: |
           pushd epg
           npm run grab --- \
-            --channels="${GITHUB_WORKSPACE}/epg/channels_mapping.xml" \
-            --days 7 \
-            --lang it,en \
-            --maxConnections 8 \
+            --channels="${GITHUB_WORKSPACE}/channels_mapping.xml" \
             --output "${GITHUB_WORKSPACE}/epg.xml"
           popd
 
