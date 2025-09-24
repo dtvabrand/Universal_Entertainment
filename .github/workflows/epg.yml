@@ -34,6 +34,8 @@ jobs:
           pushd epg
           npm run grab --- \
             --channels="${GITHUB_WORKSPACE}/channels_mapping.xml" \
+            --days 7 \
+            --maxConnections 8 \
             --output "${GITHUB_WORKSPACE}/epg.xml"
           popd
 
