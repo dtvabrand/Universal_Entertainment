@@ -1,0 +1,63 @@
+name: Update EPG
+
+on:
+  schedule:
+    - cron: "0 4 * * *"  # 5 am CET (UTC+1) , 6 am CEST (UTC+2)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update_epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Clone iptv-org/epg
+        run: |
+          git clone --depth 1 https://github.com/iptv-org/epg.git
+
+      - name: Install grabber deps
+        working-directory: ./epg
+        run: npm ci
+
+      - name: Grab EPG (XML + GZ)
+        run: |
+          # Genera epg.xml nella root del repo
+          pushd epg
+          npm run grab --- \
+            --channels="${GITHUB_WORKSPACE}/epg/channels_mapping.xml" \
+            --days 7 \
+            --lang it,en \
+            --maxConnections 8 \
+            --output "${GITHUB_WORKSPACE}/epg.xml"
+          # Genera anche la versione compressa
+          npm run grab --- \
+            --channels="${GITHUB_WORKSPACE}/epg/channels_mapping.xml" \
+            --days 7 \
+            --lang it,en \
+            --maxConnections 8 \
+            --gzip \
+            --output "${GITHUB_WORKSPACE}/epg.xml.gz"
+          popd
+
+      - name: Commit changes if needed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add epg.xml epg.xml.gz || true
+          changes=$(git diff --cached --name-only)
+          if [ -n "$changes" ]; then
+            git commit -m "EPG Updated! 📺"
+            git push || echo "Push failed due to permissions or no changes."
+          else
+            echo "No EPG changes to commit."
+          fi
