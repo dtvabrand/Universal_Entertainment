@@ -1,8 +1,8 @@
 name: Update EPG
 
 on:
-  schedule:
-    - cron: "0 4 * * *"  # 5 am CET (UTC+1) , 6 am CEST (UTC+2)
+#  schedule:
+#    - cron: "0 4 * * *"  # 5 am CET (UTC+1) , 6 am CEST (UTC+2)
   workflow_dispatch:
 
 permissions:
