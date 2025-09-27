@@ -9,7 +9,7 @@
 <channel id="ABCNewsLive.us"><display-name>ABC News Live</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png"/><url>https://pluto.tv</url></channel>
 <channel id="FoxNews.us"><display-name>Fox News Channel</display-name><url>https://tvinsider.com</url></channel>
 <channel id="CNN.us"><display-name>CNN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png"/><url>https://tvinsider.com</url></channel>
-<channel id="WABC.us"><display-name>ABC7 New York</display-name><url>https://i.mjh.nz</url></channel>
+<channel id="WABC.us"><display-name>WABC</display-name><url>https://ontvtonight.com</url></channel>
 <channel id="AMC.us"><display-name>AMC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png"/><url>https://tvinsider.com</url></channel>
 <channel id="Freeform.us"><display-name>Freeform</display-name><icon src="https://i.imgur.com/BGAGeIf.png"/><url>https://tvinsider.com</url></channel>
 <channel id="FX.us"><display-name>FX</display-name><icon src="https://i.postimg.cc/263GFb0J/fx.png"/><url>https://tvinsider.com</url></channel>
@@ -871,4 +871,29 @@
 <programme start="20250928010000 +0000" stop="20250928020000 +0000" channel="USANetwork.us"><title lang="en">9-1-1</title><sub-title lang="en">In Another Life</sub-title><desc lang="en">As Buck&apos;s life hangs in the balance, he dreams of a world where he never became a firefighter.</desc><date>20230101</date><category lang="en">Series</category><episode-num system="xmltv_ns">5.10.0/1</episode-num><episode-num system="onscreen">S06E11</episode-num><previously-shown/></programme>
 <programme start="20250928020000 +0000" stop="20250928030000 +0000" channel="USANetwork.us"><title lang="en">9-1-1</title><sub-title lang="en">Recovery</sub-title><desc lang="en">Bobby is determined to prove his Alcoholics Anonymous sponsor was murdered.</desc><date>20230101</date><category lang="en">Series</category><episode-num system="xmltv_ns">5.11.0/1</episode-num><episode-num system="onscreen">S06E12</episode-num><previously-shown/></programme>
 <programme start="20250928030000 +0000" stop="20250928033000 +0000" channel="USANetwork.us"><title lang="en">9-1-1</title><sub-title lang="en">Mixed Feelings</sub-title><desc lang="en">The 118 faces emergencies at a spin class and a hair salon; Buck discovers new cognitive abilities.</desc><date>20230101</date><category lang="en">Series</category><episode-num system="xmltv_ns">5.12.0/1</episode-num><episode-num system="onscreen">S06E13</episode-num><previously-shown/></programme>
+<programme start="20250927043700 +0000" stop="20250927050700 +0000" channel="WABC.us"><title lang="en">Nightline</title><desc lang="en">09-27-2025 																											 										- Season 46, Episode 245</desc></programme>
+<programme start="20250927050700 +0000" stop="20250927060500 +0000" channel="WABC.us"><title lang="en">Live With Kelly and Mark</title><desc lang="en">Jimmy Fallon; Rachel Scott; Dr. Jeanine Downie 																											 										- Season 35, Episode 782</desc></programme>
+<programme start="20250927060500 +0000" stop="20250927063500 +0000" channel="WABC.us"><title lang="en">Jeopardy!</title><desc lang="en">Episode 9400 																											 										- Season 41, Episode 269</desc></programme>
+<programme start="20250927063500 +0000" stop="20250927070500 +0000" channel="WABC.us"><title lang="en">ABC World News Tonight With David Muir</title><desc lang="en">09-26-2025 																											 										- Season 2025, Episode 501</desc></programme>
+<programme start="20250927070500 +0000" stop="20250927080000 +0000" channel="WABC.us"><title lang="en">Tamron Hall</title><desc lang="en">Holly J. Barrett, Courtney Kosnik 																											 										- Season 7, Episode 15</desc></programme>
+<programme start="20250927080000 +0000" stop="20250927083000 +0000" channel="WABC.us"><title lang="en">Best of Localish</title></programme>
+<programme start="20250927083000 +0000" stop="20250927090000 +0000" channel="WABC.us"><title lang="en">Jeopardy!</title><desc lang="en">Regular Shows 																											 										- Season 41, Episode 161</desc></programme>
+<programme start="20250927090000 +0000" stop="20250927093000 +0000" channel="WABC.us"><title lang="en">Wheel of Fortune</title><desc lang="en">Girlfriend Getaways 																											 										- Season 42, Episode 18</desc></programme>
+<programme start="20250927093000 +0000" stop="20250927100000 +0000" channel="WABC.us"><title lang="en">Sports Stars of Tomorrow</title><desc lang="en">NFL Preview</desc></programme>
+<programme start="20250927100000 +0000" stop="20250927120000 +0000" channel="WABC.us"><title lang="en">Eyewitness News This Morning</title></programme>
+<programme start="20250927120000 +0000" stop="20250927130000 +0000" channel="WABC.us"><title lang="en">Good Morning America: Weekend Edition</title><desc lang="en">Nicole Lapin; Tory Johnson; Dani Beckstrom 																											 										- Season 2024, Episode 255</desc></programme>
+<programme start="20250927130000 +0000" stop="20250927140000 +0000" channel="WABC.us"><title lang="en">Eyewitness News This Morning</title></programme>
+<programme start="20250927140000 +0000" stop="20250927150000 +0000" channel="WABC.us"><title lang="en">Good Morning America: Weekend Edition</title><desc lang="en">Nicole Lapin; Tory Johnson; Dani Beckstrom 																											 										- Season 2024, Episode 256</desc></programme>
+<programme start="20250927150000 +0000" stop="20250927153000 +0000" channel="WABC.us"><title lang="en">Wildlife Nation with Jeff Corwin</title><desc lang="en">Natives Versus Invasives 																											 										- Season 2, Episode 4</desc></programme>
+<programme start="20250927153000 +0000" stop="20250927160000 +0000" channel="WABC.us"><title lang="en">Jack Hanna&apos;s Passport</title></programme>
+<programme start="20250927160000 +0000" stop="20250927190000 +0000" channel="WABC.us"><title lang="en">College Football</title><desc lang="en">Notre Dame at Arkansas</desc></programme>
+<programme start="20250927190000 +0000" stop="20250927193000 +0000" channel="WABC.us"><title lang="en">College Football Scoreboard</title></programme>
+<programme start="20250927193000 +0000" stop="20250927194000 +0000" channel="WABC.us"><title lang="en">Allstate Kickoff</title></programme>
+<programme start="20250927194000 +0000" stop="20250927223000 +0000" channel="WABC.us"><title lang="en">College Football</title><desc lang="en">LSU at Ole Miss</desc></programme>
+<programme start="20250927223000 +0000" stop="20250927230000 +0000" channel="WABC.us"><title lang="en">College Football Scoreboard</title></programme>
+<programme start="20250927230000 +0000" stop="20250927233000 +0000" channel="WABC.us"><title lang="en">College Football Scoreboard</title></programme>
+<programme start="20250927233000 +0000" stop="20250927233700 +0000" channel="WABC.us"><title lang="en">Papa John&apos;s Kickoff</title></programme>
+<programme start="20250927233700 +0000" stop="20250928030000 +0000" channel="WABC.us"><title lang="en">College Football</title><desc lang="en">Alabama at Georgia</desc></programme>
+<programme start="20250928030000 +0000" stop="20250928040000 +0000" channel="WABC.us"><title lang="en">Eyewitness News at 11</title></programme>
+<programme start="20250928040000 +0000" stop="20250928050000 +0000" channel="WABC.us"><title lang="en">9-1-1</title><desc lang="en">Starting Over 																											 										- Season 5, Episode 18</desc></programme>
 </tv>
