@@ -11,9 +11,9 @@
   <channel site="guidatv.sky.it" lang="it" xmltv_id="TV2000.it"      site_id="DTH#7588">TV 2000</channel>
 
   <!-- ================== USA ================== -->
-  #<channel site="tvtv.us" lang="en" xmltv_id="ABCNewsLive.us"        site_id="113380">ABC News Live</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="FoxNews.us"        site_id="9233000410">Fox News Channel</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="CNN.us"            site_id="9233013812">CNN</channel>
+  #<channel site="tvinsider.com" lang="en" xmltv_id="ABCNewsLive.us"    site_id="113380">ABC News Live</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="FoxNews.us"        site_id="fox-news">Fox News Channel</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="CNN.us"            site_id="cnn">CNN</channel>
   <channel site="tvinsider.com" lang="en" xmltv_id="WABC.us"           site_id="abc">ABC 7</channel>
 
   <channel site="tvinsider.com" lang="en" xmltv_id="AMC.us"            site_id="amc">AMC</channel>
@@ -26,16 +26,16 @@
   <channel site="tvinsider.com" lang="en" xmltv_id="HBOZone.us"        site_id="hbo-zone">HBO Zone</channel>
   <channel site="tvinsider.com" lang="en" xmltv_id="MGMPlus.us"        site_id="mgm-plus">MGM+</channel>
   <channel site="tvinsider.com" lang="en" xmltv_id="Showtime.us"       site_id="showtime">Paramount+ with SHOWTIME (East)</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="Starz.us"          site_id="9233013809">STARZ (East HD)</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="Syfy.us"           site_id="9200004316">SYFY</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="TNT.us"            site_id="9233011830">TNT</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="USANetwork.us"     site_id="9233004106">USA Network</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="Starz.us"          site_id="starz">STARZ (East HD)</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="Syfy.us"           site_id="syfy">SYFY</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="TNT.us"            site_id="tnt">TNT</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="USANetwork.us"     site_id="usa-network">USA Network</channel>
 
-  <channel site="tvguide.com" lang="en" xmltv_id="Nickelodeon.us"    site_id="9200006939">Nickelodeon</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="Nicktoons.us"      site_id="9200020469">Nicktoons</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="CartoonNetwork.us" site_id="9200004848">Cartoon Network</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="Nickelodeon.us"    site_id="nickelodeon">Nickelodeon</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="Nicktoons.us"      site_id="nicktoons">Nicktoons</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="CartoonNetwork.us" site_id="cartoon-network">Cartoon Network</channel>
   <channel site="tvinsider.com" lang="en" xmltv_id="Boomerang.us"      site_id="boomerang">Boomerang</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="DisneyChannel.us"  site_id="9200018475">Disney</channel>
-  <channel site="tvguide.com" lang="en" xmltv_id="DisneyXD.us"       site_id="9200004852">Disney XD</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="DisneyChannel.us"  site_id="disney-channel">Disney</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="DisneyXD.us"       site_id="disney-xd">Disney XD</channel>
 
 </channels>
