@@ -2,16 +2,16 @@
 <channels>
 
   <!-- ================== ITALY ================== -->
-  <channel site="guidatv.sky.it" lang="it" xmltv_id="Rai1.it"        site_id="DTH#899">Rai 1</channel>
-  <channel site="guidatv.sky.it" lang="it" xmltv_id="Rai2.it"        site_id="DTH#898">Rai 2</channel>
-  <channel site="guidatv.sky.it" lang="it" xmltv_id="Rai3.it"        site_id="DTH#897">Rai 3</channel>
-  <channel site="guidatv.sky.it" lang="it" xmltv_id="Rete4.it"       site_id="DTH#10464">Rete 4</channel>
-  <channel site="guidatv.sky.it" lang="it" xmltv_id="Canale5.it"     site_id="DTH#10354">Canale 5</channel>
-  <channel site="guidatv.sky.it" lang="it" xmltv_id="Italia1.it"     site_id="DTH#10454">Italia 1</channel>
+  <channel site="raiplay.it" lang="it" xmltv_id="Rai1.it"            site_id="rai-1">RAI 1</channel>
+  <channel site="raiplay.it" lang="it" xmltv_id="Rai2.it"            site_id="rai-2">RAI 2</channel>
+  <channel site="raiplay.it" lang="it" xmltv_id="Rai3.it"            site_id="rai-3">RAI 3</channel>
+  <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Rete4.it" site_id="R4">Rete 4</channel>
+  <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Canale5.it" site_id="C5">Canale 5</channel>
+  <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Italia1.it" site_id="I1">Italia 1</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="TV2000.it"      site_id="DTH#7588">TV 2000</channel>
 
   <!-- ================== USA ================== -->
-  <channel site="tvtv.us" lang="en" xmltv_id="ABCNewsLive.us"          site_id="11259">ABC News Live</channel>
+  <channel site="pluto.tv" lang="en" xmltv_id="ABCNewsLive.us"         site_id="6508be683a0d700008c534e4">ABC News Live</channel>
   <channel site="tvinsider.com" lang="en" xmltv_id="FoxNews.us"        site_id="fox-news">Fox News Channel</channel>
   <channel site="tvinsider.com" lang="en" xmltv_id="CNN.us"            site_id="cnn">CNN</channel>
   <channel site="tvtv.us" lang="en" xmltv_id="WABC.us"                 site_id="11259">ABC 7</channel>
