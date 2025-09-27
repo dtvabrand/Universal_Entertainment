@@ -43,7 +43,7 @@ jobs:
           pushd epg
           npm run grab -- \
             --channels="$CHANNELS_FILE" \
-            --days 3 \
+            --days 7 \
             --maxConnections 16 \
             --timeout 15000 \
             --output "$OUTPUT_FILE"
