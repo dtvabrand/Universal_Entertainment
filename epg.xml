@@ -9,7 +9,7 @@
 <channel id="ABCNewsLive.us"><display-name>ABC News Live</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png"/><url>https://pluto.tv</url></channel>
 <channel id="FoxNews.us"><display-name>Fox News Channel</display-name><url>https://tvinsider.com</url></channel>
 <channel id="CNN.us"><display-name>CNN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png"/><url>https://tvinsider.com</url></channel>
-<channel id="WABC.us"><display-name>ABC 7</display-name><url>https://tvtv.us</url></channel>
+<channel id="WABC.us"><display-name>ABC7 New York</display-name><url>https://xumo.tv</url></channel>
 <channel id="AMC.us"><display-name>AMC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png"/><url>https://tvinsider.com</url></channel>
 <channel id="Freeform.us"><display-name>Freeform</display-name><icon src="https://i.imgur.com/BGAGeIf.png"/><url>https://tvinsider.com</url></channel>
 <channel id="FX.us"><display-name>FX</display-name><icon src="https://i.postimg.cc/263GFb0J/fx.png"/><url>https://tvinsider.com</url></channel>
