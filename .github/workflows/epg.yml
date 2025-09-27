@@ -1,9 +1,9 @@
 name: Update EPG
 
 on:
-#  schedule:
-#    - cron: "0 4 * * *"  # 5 am CET (UTC+1) , 6 am CEST (UTC+2)
   workflow_dispatch:
+  # schedule:
+  #   - cron: "0 4 * * *"  # 5 am CET (UTC+1) , 6 am CEST (UTC+2)
 
 permissions:
   contents: write
@@ -11,15 +11,21 @@ permissions:
 jobs:
   update_epg:
     runs-on: ubuntu-latest
+    timeout-minutes: 3
+    concurrency:
+      group: epg-update
+      cancel-in-progress: true
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Node.js
+      - name: Set up Node.js (with npm cache)
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: epg/package-lock.json
 
       - name: Clone iptv-org/epg
         run: |
@@ -29,25 +35,38 @@ jobs:
         working-directory: ./epg
         run: npm ci
 
-      - name: Grab EPG
+      - name: Grab EPG (3 days, fast)
+        env:
+          CHANNELS_FILE: ${{ github.workspace }}/channels.xml
+          OUTPUT_FILE:   ${{ github.workspace }}/epg.xml
         run: |
           pushd epg
-          npm run grab --- \
-            --channels="${GITHUB_WORKSPACE}/channels_mapping.xml" \
-            --days 7 \
-            --maxConnections 8 \
-            --output "${GITHUB_WORKSPACE}/epg.xml"
+          npm run grab -- \
+            --channels="$CHANNELS_FILE" \
+            --days 3 \
+            --maxConnections 16 \
+            --output "$OUTPUT_FILE"
           popd
+          # Mini-report
+          echo "---- EPG SUMMARY ----"
+          if [ -f "$OUTPUT_FILE" ]; then
+            channels_count=$(grep -c "<channel" "$OUTPUT_FILE" || true)
+            progs_count=$(grep -c "<programme " "$OUTPUT_FILE" || true)
+            echo "Channels: $channels_count"
+            echo "Programmes: $progs_count"
+            ls -lh "$OUTPUT_FILE"
+          else
+            echo "No epg.xml produced."
+          fi
 
       - name: Commit changes if needed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add epg.xml || true
-          changes=$(git diff --cached --name-only)
-          if [ -n "$changes" ]; then
+          if ! git diff --cached --quiet; then
             git commit -m "EPG Updated! 📺"
-            git push || echo "Push failed due to permissions or no changes."
+            git push
           else
             echo "No EPG changes to commit."
           fi
