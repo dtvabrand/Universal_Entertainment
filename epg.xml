@@ -11,261 +11,6 @@
     <display-name lang="it">Rai3</display-name>
     <url>http://www.raiplay.it</url>
   </channel>
-  <programme start="20250925000000 -0200" stop="20250925013500 -0200" channel="Rai1.it">
-    <title lang="it">Porta a porta</title>
-    <sub-title lang="it">Puntata del 24/09/2025</sub-title>
-    <desc lang="it">Programma di informazione e approfondimento di Bruno Vespa dedicato all'attualità politica, alla cronaca e al costume.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/16/1758005649359_porta_a-porta.jpg" />
-  </programme>
-  <programme start="20250925013500 -0200" stop="20250925014000 -0200" channel="Rai1.it">
-    <title lang="it">Che tempo fa</title>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2022/03/21/1647863780558_2048x1152logo.jpg" />
-  </programme>
-  <programme start="20250925014000 -0200" stop="20250925021000 -0200" channel="Rai1.it">
-    <title lang="it">Sottovoce</title>
-    <sub-title lang="it">In ricordo di Claudia Cardinale</sub-title>
-    <desc lang="it">In ricordo di Claudia Cardinale.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2023/02/28/1677587099907_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925021000 -0200" stop="20250925033000 -0200" channel="Rai1.it">
-    <title lang="it">Reazione a catena</title>
-    <sub-title lang="it">Puntata del 24/09/2025</sub-title>
-    <desc lang="it">Il gioco che, attraverso l'associazione logica di parole, mette alla prova l'intuito, la prontezza e la padronanza della lingua italiana dei concorrenti ma anche dei telespettatori. 3 giocatori amici, colleghi o parenti, si sfidano sulla loro capacità di indovinare, formare, completare e ordinare parole e "catene" di vocaboli. Sarà, soprattutto, decisiva la loro capacità di capirsi al volo nel gioco "intesa vincente" che stabilisce i campioni della puntata. Solo loro avranno accesso al gioco finale e alla possibilità di aggiudicarsi il montepremi accumulato. Il gioco che, attraverso l'associazione logica di parole, mette alla prova l'intuito, la prontezza e la padronanza della lingua italiana dei concorrenti ma anche dei telespettatori. 3 giocatori amici, colleghi o parenti, si sfidano sulla loro capacità di indovinare, formare, completare e ordinare parole e \"catene\" di vocaboli. Sarà, soprattutto, decisiva la loro capacità di capirsi al volo nel gioco \"intesa vincente\" che stabilisce i campioni della puntata. Solo loro avranno accesso al gioco finale e alla possibilità di aggiudicarsi il montepremi accumulato.</desc>
-    <credits>
-      <director>Amedeo Gianfrotta</director>
-      <presenter>Pino Insegno</presenter>
-    </credits>
-    <date>2025</date>
-    <category lang="it">Giochi &amp; Quiz</category>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/16/1758005617549_Reazione%20a%20catena.jpg" />
-    <country lang="it">Italia</country>
-  </programme>
-  <programme start="20250925033000 -0200" stop="20250925042000 -0200" channel="Rai1.it">
-    <title lang="it">Il commissario Rex</title>
-    <sub-title lang="it">La donna del parco</sub-title>
-    <desc lang="it">Una donna viene ritrovata morta in un parco, coperta appena dalla biancheria intima, ma il luogo del ritrovamento non coincide con quello del delitto. Richard Moser scoprirà grazie a Rex che la donna è stata uccisa nel parco del castello di Schonbrunn e poi portata altrove. Una donna viene ritrovata morta in un parco, coperta appena dalla biancheria intima, ma il luogo del ritrovamento non coincide con quello del delitto. Richard Moser scoprirà grazie a Rex che la donna è stata uccisa nel parco del castello di Schonbrunn e poi portata altrove.</desc>
-    <credits>
-      <actor>Tobias Moretti</actor>
-      <actor>Rhett Butler</actor>
-      <actor>Gedeon Burkhard</actor>
-      <actor>Alexander Pschill</actor>
-      <actor>Karl Markovics</actor>
-      <actor>Heinz Weixelbraun</actor>
-    </credits>
-    <date>1994</date>
-    <category lang="it">Azione &amp; Avventura</category>
-    <icon src="https://www.raiplay.it/dl/img/2018/10/09/1539095756497_S1E6.jpg" />
-    <country lang="it">Austria</country>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20250925042000 -0200" stop="20250925050000 -0200" channel="Rai1.it">
-    <title lang="it">Techetechetè</title>
-    <sub-title lang="it">Techetechetè notte</sub-title>
-    <desc lang="it">Le repliche delle passate edizioni.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/07/01/1751366832992_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925050000 -0200" stop="20250925060000 -0200" channel="Rai1.it">
-    <title lang="it">RaiNews</title>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2022/12/05/1670268515096_2048x1152_logo.jpg" />
-  </programme>
-  <programme start="20250925060000 -0200" stop="20250925062800 -0200" channel="Rai1.it">
-    <title lang="it">1mattina News</title>
-    <sub-title lang="it">Puntata del 25/09/2025</sub-title>
-    <desc lang="it">Al centro del programma ci sono le notizie del giorno e l'attualità in tempo reale: dai fatti italiani a ciò che accade nel resto del mondo, dalla cronaca allo sport, dalla cultura allo spettacolo. Un modo veloce, chiaro e autorevole per informare e per aggiornare, grazie a ospiti in studio, collegamenti con gli inviati del Tg1 e i corrispondenti Rai, interviste a grandi personaggi e protagonisti della cronaca.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/05/1757079141048_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925062800 -0200" stop="20250925063000 -0200" channel="Rai1.it">
-    <title lang="it">CCISS - Viaggiare informati</title>
-    <desc lang="it">Previsioni sulla viabilità CCISS Viaggiare informati.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2017/10/10/1507654113635_cis_h.jpg" />
-  </programme>
-  <programme start="20250925063000 -0200" stop="20250925063300 -0200" channel="Rai1.it">
-    <title lang="it">Tg1</title>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2021/03/21/1616315208134_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925063300 -0200" stop="20250925065800 -0200" channel="Rai1.it">
-    <title lang="it">1mattina News</title>
-    <sub-title lang="it">Puntata del 25/09/2025</sub-title>
-    <desc lang="it">Al centro del programma ci sono le notizie del giorno e l'attualità in tempo reale: dai fatti italiani a ciò che accade nel resto del mondo, dalla cronaca allo sport, dalla cultura allo spettacolo. Un modo veloce, chiaro e autorevole per informare e per aggiornare, grazie a ospiti in studio, collegamenti con gli inviati del Tg1 e i corrispondenti Rai, interviste a grandi personaggi e protagonisti della cronaca.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/05/1757079141048_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925065800 -0200" stop="20250925070000 -0200" channel="Rai1.it">
-    <title lang="it">Che tempo fa</title>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2022/03/21/1647863780558_2048x1152logo.jpg" />
-  </programme>
-  <programme start="20250925070000 -0200" stop="20250925071000 -0200" channel="Rai1.it">
-    <title lang="it">Tg1</title>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2021/03/21/1616315208134_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925071000 -0200" stop="20250925080000 -0200" channel="Rai1.it">
-    <title lang="it">1mattina News</title>
-    <sub-title lang="it">Puntata del 25/09/2025</sub-title>
-    <desc lang="it">Al centro del programma ci sono le notizie del giorno e l'attualità in tempo reale: dai fatti italiani a ciò che accade nel resto del mondo, dalla cronaca allo sport, dalla cultura allo spettacolo. Un modo veloce, chiaro e autorevole per informare e per aggiornare, grazie a ospiti in studio, collegamenti con gli inviati del Tg1 e i corrispondenti Rai, interviste a grandi personaggi e protagonisti della cronaca.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/05/1757079141048_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925080000 -0200" stop="20250925083000 -0200" channel="Rai1.it">
-    <title lang="it">Tg1</title>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2021/03/21/1616315208134_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925083000 -0200" stop="20250925083500 -0200" channel="Rai1.it">
-    <title lang="it">Che tempo fa</title>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2022/03/21/1647863780558_2048x1152logo.jpg" />
-  </programme>
-  <programme start="20250925083500 -0200" stop="20250925085500 -0200" channel="Rai1.it">
-    <title lang="it">Unomattina</title>
-    <sub-title lang="it">Puntata del 25/09/2025</sub-title>
-    <desc lang="it">Un racconto della realtà con un taglio di maggiore approfondimento. Dai temi più caldi come il lavoro, l'occupazione, l'economia e i consumi, si affrontano anche tematiche legate alla salute e agli stili di vita. Poi il racconto della provincia italiana e i temi legati all'ambiente e alla sostenibilità con un occhio attento alle scelte di tutti i giorni. Non mancheranno ospiti in studio, filmati e collegamenti in diretta.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2023/09/08/1694187267544_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925085500 -0200" stop="20250925090000 -0200" channel="Rai1.it">
-    <title lang="it">Tg Parlamento</title>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2021/07/20/1626761017898_TG_Parlamento_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925090000 -0200" stop="20250925090300 -0200" channel="Rai1.it">
-    <title lang="it">TG1 LIS</title>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2023/03/31/1680272500388_TG1_LIS_per_RaiPlay_ORIZZONTALE.jpg" />
-  </programme>
-  <programme start="20250925090300 -0200" stop="20250925095000 -0200" channel="Rai1.it">
-    <title lang="it">Unomattina</title>
-    <sub-title lang="it">Puntata del 25/09/2025</sub-title>
-    <desc lang="it">Un racconto della realtà con un taglio di maggiore approfondimento. Dai temi più caldi come il lavoro, l'occupazione, l'economia e i consumi, si affrontano anche tematiche legate alla salute e agli stili di vita. Poi il racconto della provincia italiana e i temi legati all'ambiente e alla sostenibilità con un occhio attento alle scelte di tutti i giorni. Non mancheranno ospiti in studio, filmati e collegamenti in diretta.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2023/09/08/1694187267544_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925095000 -0200" stop="20250925115500 -0200" channel="Rai1.it">
-    <title lang="it">Storie italiane</title>
-    <sub-title lang="it">Puntata del 25/09/2025</sub-title>
-    <desc lang="it">Eleonora Daniele approfondisce i temi di stretta attualità e i principali casi di cronaca con i protagonisti che raccontano in prima persona le loro esperienze.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/08/1757312584333_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925115500 -0200" stop="20250925133000 -0200" channel="Rai1.it">
-    <title lang="it">È sempre mezzogiorno</title>
-    <sub-title lang="it">Puntata del 25/09/2025</sub-title>
-    <desc lang="it">Show quotidiano che usa la cucina come contesto in cui parlare di attualità con gli ospiti fissi del programma e giocare con il pubblico a casa.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2023/09/08/1694191835702_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925133000 -0200" stop="20250925140500 -0200" channel="Rai1.it">
-    <title lang="it">Tg1</title>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2021/03/21/1616315208134_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925140500 -0200" stop="20250925160000 -0200" channel="Rai1.it">
-    <title lang="it">La volta buona</title>
-    <sub-title lang="it">Puntata del 25/09/2025</sub-title>
-    <desc lang="it">I tratti distintivi del programma sono la leggerezza con cui vengono approfonditi i temi di puntata e l'eleganza con cui la conduttrice accoglie ospiti e pubblico sul suo divano. Un pomeriggio animato da un salotto, durante il quale gli ospiti si confrontano sulle principali notizie di costume, rievocano vecchi ricordi che li legano al mondo dello spettacolo e della musica, raccontano il loro quotidiano tra amori, amicizie, e vita in famiglia.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/08/1757325563834_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925160000 -0200" stop="20250925165300 -0200" channel="Rai1.it">
-    <title lang="it">Il paradiso delle signore</title>
-    <desc lang="it">Adelaide, sempre più decisa a non farsi piegare dagli eventi, con la complicità di Odile, organizza un incontro con Conaro: vuole avere la sua versione dei fatti. Umberto, intanto, propone a Rosa di scrivere un articolo per riabilitare l'immagine di Marcello e tutelare, così, il nome dei Sant'Erasmo.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/19/1758292438483_114.jpg" />
-    <episode-num system="onscreen">S10 E14</episode-num>
-  </programme>
-  <programme start="20250925165300 -0200" stop="20250925165500 -0200" channel="Rai1.it">
-    <title lang="it">Che tempo fa</title>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2022/03/21/1647863780558_2048x1152logo.jpg" />
-  </programme>
-  <programme start="20250925165500 -0200" stop="20250925170500 -0200" channel="Rai1.it">
-    <title lang="it">Tg1</title>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2021/03/21/1616315208134_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925170500 -0200" stop="20250925184000 -0200" channel="Rai1.it">
-    <title lang="it">Vita in diretta</title>
-    <sub-title lang="it">Puntata del 25/09/2025</sub-title>
-    <desc lang="it">Il programma di attualità, cronaca e spettacolo del pomeriggio. Collegamenti in diretta sul territorio con inviati, esperti e ospiti in studio per gli approfondimenti sui temi quotidiani di cronaca, attualità e spettacolo.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/09/1757418631996_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925184000 -0200" stop="20250925200000 -0200" channel="Rai1.it">
-    <title lang="it">Reazione a catena</title>
-    <sub-title lang="it">Puntata del 25/09/2025</sub-title>
-    <desc lang="it">Il gioco che, attraverso l'associazione logica di parole, mette alla prova l'intuito, la prontezza e la padronanza della lingua italiana dei concorrenti ma anche dei telespettatori. 3 giocatori amici, colleghi o parenti, si sfidano sulla loro capacità di indovinare, formare, completare e ordinare parole e "catene" di vocaboli. Sarà, soprattutto, decisiva la loro capacità di capirsi al volo nel gioco "intesa vincente" che stabilisce i campioni della puntata. Solo loro avranno accesso al gioco finale e alla possibilità di aggiudicarsi il montepremi accumulato.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/05/30/1748629035129_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925200000 -0200" stop="20250925203000 -0200" channel="Rai1.it">
-    <title lang="it">Tg1</title>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2021/03/21/1616315208134_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925203000 -0200" stop="20250925213000 -0200" channel="Rai1.it">
-    <title lang="it">Affari tuoi</title>
-    <sub-title lang="it">Puntata del 25/09/2025</sub-title>
-    <desc lang="it">Venti concorrenti in rappresentanza delle venti regioni italiane. In ogni puntata, il Pacchista sorteggiato giocherà con un partner ed insieme dovranno affrontare le insidie del famigerato Dottore.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2024/09/05/1725550727561_2048x1152%204.jpg" />
-  </programme>
-  <programme start="20250925213000 -0200" stop="20250925223000 -0200" channel="Rai1.it">
-    <title lang="it">La ricetta della felicità</title>
-    <desc lang="it">La vita perfetta di Marta Rampini crolla quando il marito Enrico scompare nel nulla. Con la figlia Greta e la suocera Rosa parte per Marina di Romagna, ma un guasto all'auto le porta alla pensione "La Rotonda", vivace regno di Susanna Niccolai e della sua famiglia. Qui, tra imprevisti e nuovi incontri, inizierà un'inattesa avventura. La vita perfetta di Marta Rampini crolla quando il marito Enrico scompare nel nulla. Con la figlia Greta e la suocera Rosa parte per Marina di Romagna, ma un guasto all'auto le porta alla pensione \"La Rotonda\.</desc>
-    <credits>
-      <director>Giacomo Campiotti</director>
-      <actor>Cristiana Capotondi</actor>
-      <actor>Lucia Mascino</actor>
-      <actor>Eugenio Franceschini</actor>
-      <actor>Flavio Parenti</actor>
-      <actor>Valeria Fabrizi</actor>
-      <actor>Andrea Roncato</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="it">Drammatico</category>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/16/1758008150452_R1.jpg" />
-    <country lang="it">Italia</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20250925223000 -0200" stop="20250925233000 -0200" channel="Rai1.it">
-    <title lang="it">La ricetta della felicità</title>
-    <desc lang="it">Alla "Rotonda", mentre Marta, dopo un inizio burrascoso trova intesa con Susanna, Rosa stringe amicizia con il padre Giovà, e Greta con Asia, la figlia. Decisa a scoprire la verità sulla scomparsa del marito, resta bloccata lì e chiede l'aiuto di Giacomo, maresciallo dei Carabinieri dal fascino irresistibile. Alla \"Rotonda\.</desc>
-    <credits>
-      <director>Giacomo Campiotti</director>
-      <actor>Cristiana Capotondi</actor>
-      <actor>Lucia Mascino</actor>
-      <actor>Eugenio Franceschini</actor>
-      <actor>Flavio Parenti</actor>
-      <actor>Valeria Fabrizi</actor>
-      <actor>Andrea Roncato</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="it">Drammatico</category>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/16/1758008160616_R2.jpg" />
-    <country lang="it">Italia</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20250925233000 -0200" stop="20250925235500 -0200" channel="Rai1.it">
-    <title lang="it">Porta a porta</title>
-    <sub-title lang="it">Puntata del 25/09/2025</sub-title>
-    <desc lang="it">Programma di informazione e approfondimento di Bruno Vespa dedicato all'attualità politica, alla cronaca e al costume.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2023/02/28/1677587721371_2048x1152_porta_a-porta.jpg" />
-  </programme>
-  <programme start="20250925235500 -0200" stop="20250926000000 -0200" channel="Rai1.it">
-    <title lang="it">Tg1</title>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2021/03/21/1616315208134_2048x1152.jpg" />
-  </programme>
   <programme start="20250926000000 -0200" stop="20250926011500 -0200" channel="Rai1.it">
     <title lang="it">Porta a porta</title>
     <sub-title lang="it">Puntata del 25/09/2025</sub-title>
@@ -281,9 +26,15 @@
   <programme start="20250926012000 -0200" stop="20250926023500 -0200" channel="Rai1.it">
     <title lang="it">Reazione a catena</title>
     <sub-title lang="it">Puntata del 25/09/2025</sub-title>
-    <desc lang="it">Il gioco che, attraverso l'associazione logica di parole, mette alla prova l'intuito, la prontezza e la padronanza della lingua italiana dei concorrenti ma anche dei telespettatori. 3 giocatori amici, colleghi o parenti, si sfidano sulla loro capacità di indovinare, formare, completare e ordinare parole e "catene" di vocaboli. Sarà, soprattutto, decisiva la loro capacità di capirsi al volo nel gioco "intesa vincente" che stabilisce i campioni della puntata. Solo loro avranno accesso al gioco finale e alla possibilità di aggiudicarsi il montepremi accumulato.</desc>
-    <date>2019</date>
+    <desc lang="it">Il gioco che, attraverso l'associazione logica di parole, mette alla prova l'intuito, la prontezza e la padronanza della lingua italiana dei concorrenti ma anche dei telespettatori. 3 giocatori amici, colleghi o parenti, si sfidano sulla loro capacità di indovinare, formare, completare e ordinare parole e "catene" di vocaboli. Sarà, soprattutto, decisiva la loro capacità di capirsi al volo nel gioco "intesa vincente" che stabilisce i campioni della puntata. Solo loro avranno accesso al gioco finale e alla possibilità di aggiudicarsi il montepremi accumulato. Il gioco che, attraverso l'associazione logica di parole, mette alla prova l'intuito, la prontezza e la padronanza della lingua italiana dei concorrenti ma anche dei telespettatori. 3 giocatori amici, colleghi o parenti, si sfidano sulla loro capacità di indovinare, formare, completare e ordinare parole e \"catene\" di vocaboli. Sarà, soprattutto, decisiva la loro capacità di capirsi al volo nel gioco \"intesa vincente\" che stabilisce i campioni della puntata. Solo loro avranno accesso al gioco finale e alla possibilità di aggiudicarsi il montepremi accumulato.</desc>
+    <credits>
+      <director>Amedeo Gianfrotta</director>
+      <presenter>Pino Insegno</presenter>
+    </credits>
+    <date>2025</date>
+    <category lang="it">Giochi &amp; Quiz</category>
     <icon src="https://www.raiplay.it/dl/img/2025/09/16/1758006489714_Reazione%20a%20catena.jpg" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20250926023500 -0200" stop="20250926041500 -0200" channel="Rai1.it">
     <title lang="it">Il maresciallo Rocca</title>
@@ -481,9 +232,9 @@
   <programme start="20250927000000 -0200" stop="20250927011000 -0200" channel="Rai1.it">
     <title lang="it">Tv7</title>
     <sub-title lang="it">Puntata del 26/09/2025</sub-title>
-    <desc lang="it">Settimanale del TG1 Direttore Gian Marco Chiocci.</desc>
+    <desc lang="it">A Tv7 i venti di guerra in Europa, con il reportage dall'Estonia e i timori per la provocazione russa alla Nato. Cyber conflitti e attacchi ibridi, il super-carro europeo e un'intervista esclusiva a Michel Houellebecq sul destino dell'Occidente. Inchiesta su immagini rubate e manipolate dall'intelligenza artificiale, le vittime di "fake corpi e ricatti". Poi i "maranza" delle periferie milanesi, tra codici, musica e scontri. Spazio all'emergenza dei ghiacciai con la spedizione sul Monte Rosa, alla passione dei collezionisti italiani, e ai 70 anni di Zucchero all'Arena di Verona. In chiusura, un prezioso Tv7 del 1963 con una giovane Claudia Cardinale.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2021/03/19/1616172920439_2048x1152.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2023/09/22/1695362186206_tv7.jpg" />
   </programme>
   <programme start="20250927011000 -0200" stop="20250927011500 -0200" channel="Rai1.it">
     <title lang="it">Che tempo fa</title>
@@ -614,7 +365,7 @@
     <episode-num system="onscreen">S2025</episode-num>
   </programme>
   <programme start="20250927120000 -0200" stop="20250927123000 -0200" channel="Rai1.it">
-    <title lang="it">Linea Verde</title>
+    <title lang="it">Linea Verde Trentino</title>
     <sub-title lang="it">Linea Verde Trentino - 27/09/2025</sub-title>
     <desc lang="it">Riparte il viaggio di Federico Quaranta alla incessante ricerca delle radici più recondite del nostro paese. Nel cuore pulsante delle Alpi, dove il cielo e le cime degli alberi si incontrano in un abbraccio fraterno, si staglia il Trentino, terra di antiche leggende, di passioni profonde, e di un patrimonio che attraversa i secoli. Qui, il tempo sembra scorrere a un ritmo delle stagioni, scolpito dalle mani laboriose di persone che custodiscono gelosamente tradizioni secolari. Le valli del Trentino sono un palcoscenico di storie, di sorrisi sinceri e di miti che si perdono nella memoria. Ne sono testimonianza le feste popolari, gli usi e i costumi che si tramandano di generazione in generazione, narrando di eroi silenziosi che hanno scolpito questa terra di rocce e di fiumi. E tra i più affascinanti segreti di questi luoghi si ergono i monti delle Alpi Cimbre, luoghi che custodiscono un patrimonio unico, dove ancora oggi si percepiscono le tracce di una lingua antica, di culture che respirano tra le pietre e gli alberi dei boschi, di popolazioni che hanno modellato un'identità forte, radicata nel rispetto della natura e delle proprie origini. Una terra di confine, spesso teatro di aspre guerre di trincea, la guerra bianca e verticale, dove agli uomini è stato chiesto un sacrificio immane. Questo sacrificio oggi si vede tutto, si respira tra i sentieri di montagna e si bagna di acque che respirano di nuove libertà. Allevatori e contadini, artigiani e chef sopraffini, artisti visionari e boschi incontaminati sono il filo conduttore della puntata, dove le campane della memoria non smettono mai di far sentire i loro rintocchi e il vento ne tramanda l'eco lontano generando un tutt'uno con il perpetuo respiro dei boschi.</desc>
     <date>2019</date>
@@ -624,9 +375,9 @@
   <programme start="20250927123000 -0200" stop="20250927133000 -0200" channel="Rai1.it">
     <title lang="it">Linea Verde Italia</title>
     <sub-title lang="it">Messina - 27/09/2025</sub-title>
-    <desc lang="it">Questa settimana facciamo tappa a Messina. Andiamo in esplorazione della città e del suo territorio in un viaggio pieno sorprese. Un racconto tra bellezze naturalistiche e innovazioni che guardano ad un futuro sempre più sostenibile. E poi tante altre curiosità alla scoperta di una delle regioni più bella d'Italia: la Sicilia.</desc>
+    <desc lang="it">Messina e il suo territorio sono i protagonisti della puntata di Linea Verde Italia. Un viaggio per scoprire, insieme ai conduttori Monica Caradonna e Tinto, quella che anticamente veniva chiamata Zancle, ovvero "la falce", grazie alla forma del suo porto. Una città che vanta diversi primati, come quello di essere la "città più lunga d'Italia", considerata la sua costa che si estende per ben 50 chilometri e che si affaccia su due mari, lo Jonio ed il Tirreno. Monica racconta storie e progetti che negli ultimi tempi stanno portando la città a grandi passi verso la transizione ecologica e digitale, con l'obiettivo di rinnovarsi verso un modello green e sostenibile. Tinto ci fa ammirare lo spettacolare orologio meccanico e astronomico, considerato il più grande e complesso al mondo, che si trova nel Campanile del Duomo cittadino. Monica naviga, a bordo di una barca a remi, sul Lago Grande di Ganzirri, un'oasi naturale dove trovano rifugio numerose specie di uccelli, per scoprire tecniche della coltivazione sostenibile delle vongole che si pratica sul bacino lacustre, tramandate da generazioni. Tinto visita poi Taormina, mettendosi sulle orme di Lady Florence Trevelyan, nobildonna inglese di origini scozzesi, filantropa e naturista, che alla fine del XIX secolo diede il via a una vera e propria trasformazione del paesaggio taorminese mentre Monica scopre le meraviglie naturali che corrono lungo la costa frastagliata dell'Area Marina Protetta di "Capo Milazzo", tra fondali variopinti e secche ricche di fauna marina, grazie anche ad un progetto dell'Università di Messina e finanziato con fondi PNRR, che ha per obiettivo la salvaguardia della biodiversità. Tinto, infine, visita il Parco geologico delle Gole dell'Alcantara, un canyon dalla bellezza selvaggia, nato dall'incontro tra una colata lavica dell'Etna e le acque del fiume, dove si possono praticare attività di trekking fluviale e vivere adrenaliniche esperienze di body rafting.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/10/1757502330981_2048x1152.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2025/09/18/1758196397818_linea%20verde%20italia%20thumb%202025%202026_2048x1152.jpg" />
   </programme>
   <programme start="20250927133000 -0200" stop="20250927140000 -0200" channel="Rai1.it">
     <title lang="it">Tg1</title>
@@ -813,7 +564,7 @@
     <date>2019</date>
     <icon src="https://www.raiplay.it/dl/img/2022/04/19/1650352163965_r1_asuaimmagine.jpg" />
   </programme>
-  <programme start="20250928095000 -0200" stop="20250928114000 -0200" channel="Rai1.it">
+  <programme start="20250928095000 -0200" stop="20250928115500 -0200" channel="Rai1.it">
     <title lang="it">Tg1</title>
     <sub-title lang="it">Giubileo dei Catechisti - Santa Messa presieduta da Papa Leone XVI - 28/09/2025</sub-title>
     <desc lang="it">In occasione del Giubileo dei Catechisti, la Santa Messa presieduta da Papa Leone XIV in Piazza San Pietro, a seguire la recita dell'Angelus.</desc>
@@ -821,7 +572,7 @@
     <icon src="https://www.raiplay.it/dl/img/2025/09/22/1758543574905_Nuovo%20progetto%201.jpg" />
     <episode-num system="onscreen">S2025</episode-num>
   </programme>
-  <programme start="20250928114000 -0200" stop="20250928122000 -0200" channel="Rai1.it">
+  <programme start="20250928115500 -0200" stop="20250928122000 -0200" channel="Rai1.it">
     <title lang="it">A Sua immagine</title>
     <sub-title lang="it">Puntata del 28/09/2025</sub-title>
     <desc lang="it">Programma di approfondimento religioso.</desc>
@@ -903,391 +654,235 @@
     <date>2019</date>
     <icon src="https://www.raiplay.it/dl/img/2021/03/21/1616315208134_2048x1152.jpg" />
   </programme>
-  <programme start="20250925003400 -0200" stop="20250925003500 -0200" channel="Rai2.it">
-    <title lang="it">Meteo 2</title>
+  <programme start="20250928233500 -0200" stop="20250929004500 -0200" channel="Rai1.it">
+    <title lang="it">Speciale Tg1</title>
+    <sub-title lang="it">Puntata del 28/09/2025</sub-title>
+    <desc lang="it">Settimanale del TG1 Direttore Gian Marco Chiocci.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2016/06/08/1465376427411_meteo_oo.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2019/07/15/1563201046221_SPECIALE%20TG1_2048x1152.jpg" />
   </programme>
-  <programme start="20250925003500 -0200" stop="20250925011000 -0200" channel="Rai2.it">
-    <title lang="it">Radio2 Social Club</title>
-    <sub-title lang="it">Puntata del 24/09/2025</sub-title>
-    <desc lang="it">Luca Barbarossa ed Ema Stokholma aprono le porte di via Asiago a Roma a importanti ospiti musicali della scena nazionale e internazionale che si esibiscono dal vivo accompagnati dalla Social Band e dalla voce di Frances Alina Ascione.</desc>
+  <programme start="20250929004500 -0200" stop="20250929005000 -0200" channel="Rai1.it">
+    <title lang="it">Che tempo fa</title>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2024/09/25/1727249175034_2048x1152.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2022/03/21/1647863780558_2048x1152logo.jpg" />
+  </programme>
+  <programme start="20250929005000 -0200" stop="20250929022000 -0200" channel="Rai1.it">
+    <title lang="it">Sottovoce</title>
+    <sub-title lang="it">Puntata del 28/09/2025</sub-title>
+    <desc lang="it">Cinematografo, Applausi, Milleunlibro, Testimoni e Protagonisti.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2023/02/28/1677587099907_2048x1152.jpg" />
+  </programme>
+  <programme start="20250929022000 -0200" stop="20250929035000 -0200" channel="Rai1.it">
+    <title lang="it">Da noi... a ruota libera</title>
+    <sub-title lang="it">Puntata del 28/09/2025</sub-title>
+    <desc lang="it">Francesca Fialdini racconta storie di vita quotidiana fra sorprese e situazioni dai sapori diversi, il tutto all'insegna del buonumore e della riflessione. Storie di persone famose e persone comuni, accomunate dall'amore e dalla positività.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/09/21/1758484933174_da%20noi%20...%20a%20ruota.jpg" />
     <episode-num system="onscreen">S2025</episode-num>
   </programme>
-  <programme start="20250925011000 -0200" stop="20250925020000 -0200" channel="Rai2.it">
-    <title lang="it">Felicità</title>
-    <sub-title lang="it">Puntata del 20/09/2025</sub-title>
-    <desc lang="it">Il magazine estivo che, attraverso l'esperienza di personaggi popolari, racconta l'estate italiana e le iniziative artistiche, culturali e le cronache dello spettacolo che la caratterizzano. Il magazine estivo che, attraverso l'esperienza di personaggi popolari, racconta l'estate italiana e le iniziative artistiche, culturali e le cronache dello spettacolo che la caratterizzano.</desc>
+  <programme start="20250929035000 -0200" stop="20250929043500 -0200" channel="Rai1.it">
+    <title lang="it">Il commissario Rex</title>
+    <sub-title lang="it">La donna del parco</sub-title>
+    <desc lang="it">Una donna viene ritrovata morta in un parco, coperta appena dalla biancheria intima, ma il luogo del ritrovamento non coincide con quello del delitto. Richard Moser scoprirà grazie a Rex che la donna è stata uccisa nel parco del castello di Schonbrunn e poi portata altrove. Una donna viene ritrovata morta in un parco, coperta appena dalla biancheria intima, ma il luogo del ritrovamento non coincide con quello del delitto. Richard Moser scoprirà grazie a Rex che la donna è stata uccisa nel parco del castello di Schonbrunn e poi portata altrove.</desc>
     <credits>
-      <presenter>Pascal Vicedomini</presenter>
+      <actor>Tobias Moretti</actor>
+      <actor>Rhett Butler</actor>
+      <actor>Gedeon Burkhard</actor>
+      <actor>Alexander Pschill</actor>
+      <actor>Karl Markovics</actor>
+      <actor>Heinz Weixelbraun</actor>
     </credits>
-    <date>2025</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/21/1758407097065_1758407141662.png" />
-    <country lang="it">Italia</country>
-    <episode-num system="onscreen">S2025</episode-num>
-  </programme>
-  <programme start="20250925020000 -0200" stop="20250925024000 -0200" channel="Rai2.it">
-    <title lang="it">Un milione di piccole cose</title>
-    <sub-title lang="it">Riavvicinarsi</sub-title>
-    <desc lang="it">Sophie partecipa a una serata open-mic per acquisire sicurezza nell'esecuzione del pezzo da presentare all'audizione. Katherine ha il suo primo appuntamento con una donna ma non va bene.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2023/08/24/1692863995563_fgf.jpg" />
-    <episode-num system="onscreen">S4 E7</episode-num>
-  </programme>
-  <programme start="20250925024000 -0200" stop="20250925040500 -0200" channel="Rai2.it">
-    <title lang="it">The Boat</title>
-    <desc lang="it">Tre coppie benestanti, Flavio ed Elena, Federico e Claudia, Enrico e Martina, trascorrono un weekend sullo yacht di Flavio nel Mediterraneo per riconciliarsi e svagarsi. Dopo il primo giorno, si ritrovano in panne, senza viveri e in balia di uno sconosciuto che, tramite walkie-talkie, li minaccia e li ricatta per ottenere i loro soldi. Un piano malefico che sembra una spietata vendetta. Tre coppie benestanti, Flavio ed Elena, Federico e Claudia, Enrico e Martina, trascorrono un weekend sullo yacht di Flavio nel Mediterraneo per riconciliarsi e svagarsi. Dopo il primo giorno, si ritrovano in panne, senza viveri e in balia di uno sconosciuto che, tramite walkie-talkie, li minaccia e li ricatta per ottenere i loro soldi. Un piano malefico che sembra una spietata vendetta.</desc>
-    <credits>
-      <director>Alessio Liguori</director>
-      <actor>Marco Bocci</actor>
-      <actor>Diane Fleri</actor>
-      <actor>Filippo Nigro</actor>
-      <actor>Marina Rocco</actor>
-      <actor>Caterina Shulha</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="it">Drammatico</category>
-    <icon src="https://www.raiplay.it/dl/img/2024/11/15/1731680494132_2048x1152.jpg" />
-    <country lang="it">Italia</country>
-  </programme>
-  <programme start="20250925040500 -0200" stop="20250925044500 -0200" channel="Rai2.it">
-    <title lang="it">Rex</title>
-    <sub-title lang="it">Fratelli</sub-title>
-    <desc lang="it">Un misterioso austriaco compie delle rapine usando un cane identico a Rex. Marco Terzani e Rex vengono così stati trasferiti in un'altra stazione di polizia sotto il comando di Annamaria Fiori. Un misterioso austriaco compie delle rapine usando un cane identico a Rex. Marco Terzani e Rex vengono così stati trasferiti in un'altra stazione di polizia sotto il comando di Annamaria Fiori...</desc>
-    <credits>
-      <actor>Kaspar Capparoni</actor>
-      <actor>Ettore Bassi</actor>
-      <actor>Francesco Arca</actor>
-      <actor>Fabio Ferri</actor>
-    </credits>
-    <date>2014</date>
+    <date>1994</date>
     <category lang="it">Azione &amp; Avventura</category>
-    <icon src="https://www.raiplay.it/dl/img/2024/01/10/1704885697942_xx.jpg" />
-    <country lang="it">Italia</country>
-    <episode-num system="onscreen">S7 E1</episode-num>
+    <icon src="https://www.raiplay.it/dl/img/2018/10/09/1539095756497_S1E6.jpg" />
+    <country lang="it">Austria</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20250925044500 -0200" stop="20250925053000 -0200" channel="Rai2.it">
-    <title lang="it">Rex</title>
-    <sub-title lang="it">Circolo vizioso</sub-title>
-    <desc lang="it">Indagando sull'omicidio di una escort Marco Terzani, accompagnato dal fido Rex, si introduce in un esclusivo club romano fingendosi un uomo d'affari. Indagando sull'omicidio di una escort Marco Terzani, accompagnato dal fido Rex, si introduce in un esclusivo club romano fingendosi un uomo d'affari.</desc>
-    <credits>
-      <actor>Kaspar Capparoni</actor>
-      <actor>Ettore Bassi</actor>
-      <actor>Francesco Arca</actor>
-      <actor>Fabio Ferri</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="it">Azione &amp; Avventura</category>
-    <icon src="https://www.raiplay.it/dl/img/2024/01/10/1704885824053_xx.jpg" />
-    <country lang="it">Italia</country>
-    <episode-num system="onscreen">S7 E2</episode-num>
-  </programme>
-  <programme start="20250925053000 -0200" stop="20250925054000 -0200" channel="Rai2.it">
-    <title lang="it">Zio Gianni</title>
-    <sub-title lang="it">Gianni e l'esame</sub-title>
-    <desc lang="it">Per aiutare zio Gianni a sostenere il primo esame dopo essersi iscritto all'università, Fulvio gli somministra una pillola che aumenta temporaneamente le capacità mnemoniche. Per aiutare zio Gianni a sostenere il primo esame dopo essersi iscritto all'università, Fulvio gli somministra una pillola che aumenta temporaneamente le capacità mnemoniche.</desc>
-    <credits>
-      <director>Daniele Grassetti</director>
-      <director>Sidney Sibilia</director>
-      <actor>Paolo Calabresi</actor>
-      <actor>Crystel Checca</actor>
-      <actor>Francesco Russo</actor>
-      <actor>Luca Di Capua</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="it">Commedia</category>
-    <icon src="https://www.raiplay.it/dl/img/2016/06/21/1466502546759_EP%2003.jpg" />
-    <episode-num system="onscreen">S2 E3</episode-num>
-  </programme>
-  <programme start="20250925054000 -0200" stop="20250925060000 -0200" channel="Rai2.it">
-    <title lang="it">Piloti</title>
-    <desc lang="it">Il commendator Aurelio è il titolare della compagnia aerea low-cost "Piccione AirLines". Sull'aereo e nella cabina di pilotaggio, può accadere di tutto.</desc>
+  <programme start="20250929043500 -0200" stop="20250929050000 -0200" channel="Rai1.it">
+    <title lang="it">Techetechetè</title>
+    <sub-title lang="it">Techetechetè notte</sub-title>
+    <desc lang="it">Appuntamento televisivo con la memoria storica dell'archivio delle Teche Rai. Lo storico programma ripropone i suoi temi più cult: personaggi, musica, gag, eventi sportivi, commenti d'autore e della gente comune, raccolti in più di settanta anni di tg e di intrattenimento televisivo.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2013/03/1364393630800piloti_H.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2025/07/01/1751366832992_2048x1152.jpg" />
   </programme>
-  <programme start="20250925060000 -0200" stop="20250925064500 -0200" channel="Rai2.it">
-    <title lang="it">La Grande Vallata</title>
-    <sub-title lang="it">L'evaso di Tamarack</sub-title>
-    <desc lang="it">Heath è intrappolato sotto un carro rovesciato a causa di un incidente, Victoria non riesce a tirarlo fuori e l'unico che può aiutarli è un evaso in fuga. Episodio 26.</desc>
+  <programme start="20250929050000 -0200" stop="20250929053000 -0200" channel="Rai1.it">
+    <title lang="it">RaiNews</title>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2023/11/30/1701352216251_1485525357116_LA-GRANDE-VALLATA_2048x1152.jpg" />
-    <episode-num system="onscreen">S1 E26</episode-num>
+    <icon src="https://www.raiplay.it/dl/img/2022/12/05/1670268515096_2048x1152_logo.jpg" />
   </programme>
-  <programme start="20250925064500 -0200" stop="20250925065400 -0200" channel="Rai2.it">
-    <title lang="it">On Ari</title>
-    <sub-title lang="it">Educazione fisica</sub-title>
-    <desc lang="it">Ari svela la sua "Top 5" dei compagni di squadra da sogno e Bip, un po' confuso ma curioso, scopre che non serve essere super forti, ma quel che conta è migliorare e divertirsi! Tra pause-sport in classe con "SmuoviLaScuola" e la storia vera di un atleta che ha iniziato proprio grazie al suo prof, Ari e Bip mostrano che fare sport è giocare insieme e rispettare le regole. Ari svela la sua \"Top 5\" dei compagni di squadra da sogno e Bip, un po' confuso ma curioso, scopre che non serve essere super forti, ma quel che conta è migliorare e divertirsi! Tra pause-sport in classe con \"SmuoviLaScuola\" e la storia vera di un atleta che ha iniziato proprio grazie al suo prof, Ari e Bip mostrano che fare sport è giocare insieme e rispettare le regole!</desc>
-    <credits>
-      <actor>Arianna Craviotto</actor>
-      <producer>Rai Ragazzi</producer>
-    </credits>
-    <date>2025</date>
-    <category lang="it">Sketch Com</category>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/22/1758539997987_On-Art_S1E8_sketch-com_2048x1152.jpg" />
-    <country lang="it">Italia</country>
-    <episode-num system="onscreen">S1 E8</episode-num>
-  </programme>
-  <programme start="20250925065400 -0200" stop="20250925065500 -0200" channel="Rai2.it">
-    <title lang="it">On Ari</title>
-    <sub-title lang="it">Tecna o Stella: Intro</sub-title>
-    <desc lang="it">Il benvenuto di Ari e Bip.</desc>
+  <programme start="20250929053000 -0200" stop="20250929060000 -0200" channel="Rai1.it">
+    <title lang="it">Parlamento Punto Europa</title>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/23/1758619477484_On-Ari_S1E9_Intro_2048x1152.jpg" />
-    <episode-num system="onscreen">S1 E9</episode-num>
+    <icon src="https://www.raiplay.it/dl/img/2021/07/16/1626437478717_2048x1152.jpg" />
   </programme>
-  <programme start="20250925065500 -0200" stop="20250925070200 -0200" channel="Rai2.it">
-    <title lang="it">Peanuts</title>
-    <sub-title lang="it">Frieda</sub-title>
-    <desc lang="it">La nuova serie animata dedicata ai Peanuts dà vita alle vignette di Charles M. Schulz, raccontando le avventure senza tempo di Charlie Brown e della sua gang, compreso il bracchetto più famoso del mondo, Snoopy. CARTONI ANIMATI - La nuova serie animata dedicata ai Peanuts dà vita alle vignette di Charles M. Schulz, raccontando le avventure senza tempo di Charlie Brown e della sua gang, compreso il bracchetto più famoso del mondo, Snoopy.</desc>
-    <credits>
-      <director>Lavillat</director>
-    </credits>
-    <date>2014</date>
-    <category lang="it">Cartoni Animati</category>
-    <icon src="https://www.raiplay.it/dl/img/2016/10/1475573344506Immagine.jpg" />
-    <country lang="it">Francia</country>
-    <episode-num system="onscreen">S1 E11</episode-num>
-  </programme>
-  <programme start="20250925070200 -0200" stop="20250925070500 -0200" channel="Rai2.it">
-    <title lang="it">On Ari</title>
-    <sub-title lang="it">Tecna o Stella: Bip Challenge / Bip Quiz</sub-title>
-    <desc lang="it">Bip sfida Ari a individuare quali personaggi sono più da materie scientifiche e quali più da materie artistiche. E non manca un "Bip Quiz" a base di geografia.</desc>
+  <programme start="20250929060000 -0200" stop="20250929062800 -0200" channel="Rai1.it">
+    <title lang="it">1mattina News</title>
+    <sub-title lang="it">Puntata del 29/09/2025</sub-title>
+    <desc lang="it">Al centro del programma ci sono le notizie del giorno e l'attualità in tempo reale: dai fatti italiani a ciò che accade nel resto del mondo, dalla cronaca allo sport, dalla cultura allo spettacolo. Un modo veloce, chiaro e autorevole per informare e per aggiornare, grazie a ospiti in studio, collegamenti con gli inviati del Tg1 e i corrispondenti Rai, interviste a grandi personaggi e protagonisti della cronaca.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/23/1758619542493_On-Ari_S1E9_Rubrica-1_Bip-Challenge_2048x1152.jpg" />
-    <episode-num system="onscreen">S1 E9</episode-num>
+    <icon src="https://www.raiplay.it/dl/img/2025/09/05/1757079141048_2048x1152.jpg" />
   </programme>
-  <programme start="20250925070500 -0200" stop="20250925071600 -0200" channel="Rai2.it">
-    <title lang="it">I Puffi - La nuova serie</title>
-    <sub-title lang="it">Effetto opposto</sub-title>
-    <desc lang="it">Durante l'ennesimo inseguimento di Gargamella, Tontolone cade e viene catturato dal mago.</desc>
+  <programme start="20250929062800 -0200" stop="20250929063000 -0200" channel="Rai1.it">
+    <title lang="it">CCISS - Viaggiare informati</title>
+    <desc lang="it">Previsioni sulla viabilità CCISS Viaggiare informati.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2022/04/01/1648825050297_Schermata%202022-04-01%20alle%2016.50.59%201.jpg" />
-    <episode-num system="onscreen">S1 E9</episode-num>
+    <icon src="https://www.raiplay.it/dl/img/2017/10/10/1507654113635_cis_h.jpg" />
   </programme>
-  <programme start="20250925071600 -0200" stop="20250925072000 -0200" channel="Rai2.it">
-    <title lang="it">On Ari</title>
-    <sub-title lang="it">Tecna o Stella: AriCalling</sub-title>
-    <desc lang="it">Ari sa come farci divertire.</desc>
+  <programme start="20250929063000 -0200" stop="20250929063300 -0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/23/1758619685910_On-Ari_S1E9_Rubrica-2_AriCalling_2048x1152.jpg" />
-    <episode-num system="onscreen">S1 E9</episode-num>
+    <icon src="https://www.raiplay.it/dl/img/2021/03/21/1616315208134_2048x1152.jpg" />
   </programme>
-  <programme start="20250925072000 -0200" stop="20250925074200 -0200" channel="Rai2.it">
-    <title lang="it">Winx Club</title>
-    <sub-title lang="it">La luce di Gorgol</sub-title>
-    <desc lang="it">Negli abissi di Andros, Aisha deve riuscire a salvare Nex, che si trova in grave pericolo. Intanto, le altre Winx tentano di impedire a Obscurum e agli Staryummy di portarsi via la luce di Gorgol, ma purtroppo vengono imprigionate all'interno della stella e attaccate da alcuni anemoni magici. Aisha comprende come calmare gli anemoni e le Winx riescono a ridare luce al nucleo di Gorgol. Negli abissi di Andros, Aisha deve riuscire a salvare Nex, che si trova in grave pericolo. Intanto, le altre Winx tentano di impedire a Obscurum e agli Staryummy di portarsi via la luce di Gorgol, ma purtroppo vengono imprigionate all'interno della stella e attaccate da alcuni anemoni magici. Aisha comprende come calmare gli anemoni e le Winx riescono a ridare luce al nucleo di Gorgol….</desc>
-    <credits>
-      <producer>Rai Yoyo</producer>
-    </credits>
+  <programme start="20250929063300 -0200" stop="20250929065800 -0200" channel="Rai1.it">
+    <title lang="it">1mattina News</title>
+    <sub-title lang="it">Puntata del 29/09/2025</sub-title>
+    <desc lang="it">Al centro del programma ci sono le notizie del giorno e l'attualità in tempo reale: dai fatti italiani a ciò che accade nel resto del mondo, dalla cronaca allo sport, dalla cultura allo spettacolo. Un modo veloce, chiaro e autorevole per informare e per aggiornare, grazie a ospiti in studio, collegamenti con gli inviati del Tg1 e i corrispondenti Rai, interviste a grandi personaggi e protagonisti della cronaca.</desc>
     <date>2019</date>
-    <category lang="it">Cartoni Animati</category>
-    <icon src="https://www.raiplay.it/dl/img/2019/04/26/1556295022267_alicanto640.jpg" />
-    <country lang="it">Italia</country>
-    <episode-num system="onscreen">S8 E9</episode-num>
+    <icon src="https://www.raiplay.it/dl/img/2025/09/05/1757079141048_2048x1152.jpg" />
   </programme>
-  <programme start="20250925074200 -0200" stop="20250925074500 -0200" channel="Rai2.it">
-    <title lang="it">On Ari</title>
-    <sub-title lang="it">Tecna o Stella: I saluti</sub-title>
-    <desc lang="it">Ari e Bip danno appuntamento alla prossima puntata.</desc>
+  <programme start="20250929065800 -0200" stop="20250929070000 -0200" channel="Rai1.it">
+    <title lang="it">Che tempo fa</title>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/23/1758619805050_On-Ari_S1E9_saluiti_2048x1152.jpg" />
-    <episode-num system="onscreen">S1 E9</episode-num>
+    <icon src="https://www.raiplay.it/dl/img/2022/03/21/1647863780558_2048x1152logo.jpg" />
   </programme>
-  <programme start="20250925074500 -0200" stop="20250925083000 -0200" channel="Rai2.it">
-    <title lang="it">Heartland</title>
-    <sub-title lang="it">Al cuore non si comanda</sub-title>
-    <desc lang="it">Amy e Ty trovano una cavalla ed un puledro feriti e li portano in una mandria a Pike River. Jack, però, si unisce a loro, non invitato, per fare visita al suo vecchio amico Will Vernon.</desc>
+  <programme start="20250929070000 -0200" stop="20250929071000 -0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2021/10/29/1635522454602_sssssss.jpg" />
-    <episode-num system="onscreen">S12 E2</episode-num>
+    <icon src="https://www.raiplay.it/dl/img/2021/03/21/1616315208134_2048x1152.jpg" />
   </programme>
-  <programme start="20250925083000 -0200" stop="20250925084500 -0200" channel="Rai2.it">
-    <title lang="it">Tg2</title>
+  <programme start="20250929071000 -0200" stop="20250929080000 -0200" channel="Rai1.it">
+    <title lang="it">1mattina News</title>
+    <sub-title lang="it">Puntata del 29/09/2025</sub-title>
+    <desc lang="it">Al centro del programma ci sono le notizie del giorno e l'attualità in tempo reale: dai fatti italiani a ciò che accade nel resto del mondo, dalla cronaca allo sport, dalla cultura allo spettacolo. Un modo veloce, chiaro e autorevole per informare e per aggiornare, grazie a ospiti in studio, collegamenti con gli inviati del Tg1 e i corrispondenti Rai, interviste a grandi personaggi e protagonisti della cronaca.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/01/20/1737372806578_2048x1152.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2025/09/05/1757079141048_2048x1152.jpg" />
   </programme>
-  <programme start="20250925084500 -0200" stop="20250925095800 -0200" channel="Rai2.it">
-    <title lang="it">Radio2 Social Club</title>
-    <sub-title lang="it">Puntata del 25/09/2025</sub-title>
-    <desc lang="it">Luca Barbarossa ed Ema Stokholma aprono le porte di via Asiago a Roma a importanti ospiti musicali della scena nazionale e internazionale che si esibiscono dal vivo accompagnati dalla Social Band e dalla voce di Frances Alina Ascione.</desc>
+  <programme start="20250929080000 -0200" stop="20250929083000 -0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2024/09/25/1727249175034_2048x1152.jpg" />
-    <episode-num system="onscreen">S2025</episode-num>
+    <icon src="https://www.raiplay.it/dl/img/2021/03/21/1616315208134_2048x1152.jpg" />
   </programme>
-  <programme start="20250925095800 -0200" stop="20250925100000 -0200" channel="Rai2.it">
-    <title lang="it">Meteo 2</title>
+  <programme start="20250929083000 -0200" stop="20250929083500 -0200" channel="Rai1.it">
+    <title lang="it">Che tempo fa</title>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2016/06/08/1465376427411_meteo_oo.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2022/03/21/1647863780558_2048x1152logo.jpg" />
   </programme>
-  <programme start="20250925100000 -0200" stop="20250925105500 -0200" channel="Rai2.it">
-    <title lang="it">TG2 Italia Europa</title>
-    <desc lang="it">Direttore Antonio Preziosi.</desc>
+  <programme start="20250929083500 -0200" stop="20250929085500 -0200" channel="Rai1.it">
+    <title lang="it">Unomattina</title>
+    <sub-title lang="it">Puntata del 29/09/2025</sub-title>
+    <desc lang="it">Un racconto della realtà con un taglio di maggiore approfondimento. Dai temi più caldi come il lavoro, l'occupazione, l'economia e i consumi, si affrontano anche tematiche legate alla salute e agli stili di vita. Poi il racconto della provincia italiana e i temi legati all'ambiente e alla sostenibilità con un occhio attento alle scelte di tutti i giorni. Non mancheranno ospiti in studio, filmati e collegamenti in diretta.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2021/03/19/1616174617825_2048x1152.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2023/09/08/1694187267544_2048x1152.jpg" />
   </programme>
-  <programme start="20250925105500 -0200" stop="20250925110000 -0200" channel="Rai2.it">
-    <title lang="it">Tg2 Flash</title>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2021/02/02/1612263226607_1552933465773_Tg2_2048X1152_1.jpg" />
-  </programme>
-  <programme start="20250925110000 -0200" stop="20250925111000 -0200" channel="Rai2.it">
-    <title lang="it">Tg Sport</title>
-    <desc lang="it">TG Sport Giorno.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2019/12/03/1575384917496_tg_sport_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925111000 -0200" stop="20250925130000 -0200" channel="Rai2.it">
-    <title lang="it">Crociere di nozze</title>
-    <sub-title lang="it">Zambia</sub-title>
-    <desc lang="it">Una coppia è a bordo della nave da crociera che sta facendo rotta verso lo Zambia per festeggiare le nozze d'argento. Durante la cerimonia, però, c'è un colpo di scena.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2021/03/26/1616753338495_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925130000 -0200" stop="20250925133000 -0200" channel="Rai2.it">
-    <title lang="it">Tg2</title>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/01/20/1737372806578_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925133000 -0200" stop="20250925135000 -0200" channel="Rai2.it">
-    <title lang="it">TG2 Tutto il bello che c'è</title>
-    <desc lang="it">Direttore Antonio Preziosi Vicedirettore Alfonso Samengo A cura di Silvia Vaccarezza.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2021/03/19/1616174898134_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925135000 -0200" stop="20250925140000 -0200" channel="Rai2.it">
-    <title lang="it">Tg2 Medicina 33</title>
-    <desc lang="it">Direttore Antonio Preziosi A cura di Laura Berti.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2021/03/21/1616313901534_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925140000 -0200" stop="20250925152500 -0200" channel="Rai2.it">
-    <title lang="it">Ore 14</title>
-    <sub-title lang="it">Puntata del 25/09/2025</sub-title>
-    <desc lang="it">L'appuntamento quotidiano, ideato e condotto da Milo Infante, dalla forte vocazione giornalistica, con particolare attenzione alle inchieste, all'attualità e alla cronaca.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/22/1758528902875_1663923979779_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925152500 -0200" stop="20250925170000 -0200" channel="Rai2.it">
-    <title lang="it">BellaMa</title>
-    <sub-title lang="it">Puntata del 25/09/2025</sub-title>
-    <desc lang="it">20 concorrenti e 30 opinionisti, equamente divisi tra Generazione Z (18 - 25 anni) e Boomer (oltre i 55 anni) intervistano gli ospiti, animano i talk sull'attualità e si confrontano a colpi di reel e gare di ballo e canto.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/05/05/1746447104940_BellaMa.jpg" />
-    <episode-num system="onscreen">S2025</episode-num>
-  </programme>
-  <programme start="20250925170000 -0200" stop="20250925170400 -0200" channel="Rai2.it">
-    <title lang="it">70 x 70 Vol. 2</title>
-    <sub-title lang="it">Cento domeniche</sub-title>
-    <desc lang="it">Il 4 marzo 1979 "L'altra Domenica", lo storico programma di Renzo Arbore, festeggia la sua centesima puntata con un evento speciale: due episodi trasmessi nello stesso giorno. Ma c'è un dettaglio che fa sorgere qualche dubbio sui numeri. Il 4 marzo 1979 \"L'altra Domenica\.</desc>
-    <credits>
-      <actor>Renzo Arbore</actor>
-      <presenter>Francesca Barolini</presenter>
-    </credits>
-    <date>2025</date>
-    <category lang="it">Approfondimento</category>
-    <icon src="https://www.raiplay.it/dl/img/2025/05/23/1748009394346_70%20x%2070%20Vol.%202%20_ep.40%20-%20Cento%20domeniche.png" />
-    <country lang="it">Italia</country>
-    <episode-num system="onscreen">S2025 E40</episode-num>
-  </programme>
-  <programme start="20250925170400 -0200" stop="20250925170700 -0200" channel="Rai2.it">
-    <title lang="it">70 x 70 Vol. 2</title>
-    <sub-title lang="it">La storia in diretta</sub-title>
-    <desc lang="it">Il 18 febbraio 1957 la Rai trasmise in diretta i funerali di Arturo Toscanini. Proprio come accadde allora, quando milioni di italiani seguirono l'evento davanti ai teleschermi, anche noi oggi possiamo rivedere quelle immagini, riprese nel preciso istante in cui i fatti si svolgevano. Il 18 febbraio 1957 la Rai trasmise in diretta i funerali di Arturo Toscanini. Proprio come accadde allora, quando milioni di italiani seguirono l'evento davanti ai teleschermi, anche noi oggi possiamo rivedere quelle immagini, riprese nel preciso istante in cui i fatti si svolgevano.</desc>
-    <credits>
-      <producer>Rai Digital</producer>
-      <presenter>Francesca Barolini</presenter>
-    </credits>
-    <date>2025</date>
-    <category lang="it">Approfondimento</category>
-    <icon src="https://www.raiplay.it/dl/img/2025/06/03/1748930879483_70x70_vol2_ep41.jpg" />
-    <country lang="it">Italia</country>
-    <episode-num system="onscreen">S2025 E41</episode-num>
-  </programme>
-  <programme start="20250925170700 -0200" stop="20250925171000 -0200" channel="Rai2.it">
-    <title lang="it">70 x 70 Vol. 2</title>
-    <sub-title lang="it">L'esordio di "Ballando con le Stelle</sub-title>
-    <desc lang="it">L'8 gennaio 2005 debutta su Rai 1 Ballando con le Stelle, il celebre show condotto da Milly Carlucci. Ritorniamo a quella sera e scopriamo cosa andava in onda. L'8 gennaio 2005 debutta su Rai 1 Ballando con le Stelle, il celebre show condotto da Milly Carlucci. Ritorniamo a quella sera e scopriamo cosa andava in onda.</desc>
-    <credits>
-      <producer>Rai Digital</producer>
-      <presenter>Francesca Barolini</presenter>
-    </credits>
-    <date>2025</date>
-    <category lang="it">Approfondimento</category>
-    <icon src="https://www.raiplay.it/dl/img/2025/06/03/1748931850580_70-x-70-Vol.-2-_ep42.jpg" />
-    <country lang="it">Italia</country>
-    <episode-num system="onscreen">S2025 E42</episode-num>
-  </programme>
-  <programme start="20250925171000 -0200" stop="20250925180000 -0200" channel="Rai2.it">
-    <title lang="it">S.W.A.T</title>
-    <sub-title lang="it">Distanze</sub-title>
-    <desc lang="it">Charlie, un uomo che soffre di schizofrenia, manda pacchi bomba a tutti quelli che, secondo lui, lo stanno perseguitando. Chris, intanto, aiutata da Erika, continua ad allenarsi per il Master Gunner.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2021/11/05/1636124503389_ssssssssss.jpg" />
-    <episode-num system="onscreen">S4 E5</episode-num>
-  </programme>
-  <programme start="20250925180000 -0200" stop="20250925181000 -0200" channel="Rai2.it">
+  <programme start="20250929085500 -0200" stop="20250929090000 -0200" channel="Rai1.it">
     <title lang="it">Tg Parlamento</title>
-    <desc lang="it">Direttore Giuseppe Carboni.</desc>
     <date>2019</date>
     <icon src="https://www.raiplay.it/dl/img/2021/07/20/1626761017898_TG_Parlamento_2048x1152.jpg" />
   </programme>
-  <programme start="20250925181000 -0200" stop="20250925181500 -0200" channel="Rai2.it">
-    <title lang="it">TG2 LIS</title>
+  <programme start="20250929090000 -0200" stop="20250929090300 -0200" channel="Rai1.it">
+    <title lang="it">TG1 LIS</title>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2021/03/21/1616314226970_2048x1152.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2023/03/31/1680272500388_TG1_LIS_per_RaiPlay_ORIZZONTALE.jpg" />
   </programme>
-  <programme start="20250925181500 -0200" stop="20250925183500 -0200" channel="Rai2.it">
-    <title lang="it">Tg2</title>
+  <programme start="20250929090300 -0200" stop="20250929095000 -0200" channel="Rai1.it">
+    <title lang="it">Unomattina</title>
+    <sub-title lang="it">Puntata del 29/09/2025</sub-title>
+    <desc lang="it">Un racconto della realtà con un taglio di maggiore approfondimento. Dai temi più caldi come il lavoro, l'occupazione, l'economia e i consumi, si affrontano anche tematiche legate alla salute e agli stili di vita. Poi il racconto della provincia italiana e i temi legati all'ambiente e alla sostenibilità con un occhio attento alle scelte di tutti i giorni. Non mancheranno ospiti in studio, filmati e collegamenti in diretta.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/01/20/1737372806578_2048x1152.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2023/09/08/1694187267544_2048x1152.jpg" />
   </programme>
-  <programme start="20250925183500 -0200" stop="20250925185800 -0200" channel="Rai2.it">
-    <title lang="it">Tg Sport</title>
-    <desc lang="it">TG Sport Sera.</desc>
+  <programme start="20250929095000 -0200" stop="20250929115500 -0200" channel="Rai1.it">
+    <title lang="it">Storie italiane</title>
+    <sub-title lang="it">Puntata del 29/09/2025</sub-title>
+    <desc lang="it">Eleonora Daniele approfondisce i temi di stretta attualità e i principali casi di cronaca con i protagonisti che raccontano in prima persona le loro esperienze.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2019/12/03/1575384917496_tg_sport_2048x1152.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2025/09/08/1757312584333_2048x1152.jpg" />
   </programme>
-  <programme start="20250925185800 -0200" stop="20250925190000 -0200" channel="Rai2.it">
-    <title lang="it">Meteo 2</title>
+  <programme start="20250929115500 -0200" stop="20250929133000 -0200" channel="Rai1.it">
+    <title lang="it">È sempre mezzogiorno</title>
+    <sub-title lang="it">Puntata del 29/09/2025</sub-title>
+    <desc lang="it">Show quotidiano che usa la cucina come contesto in cui parlare di attualità con gli ospiti fissi del programma e giocare con il pubblico a casa.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2016/06/08/1465376427411_meteo_oo.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2023/09/08/1694191835702_2048x1152.jpg" />
   </programme>
-  <programme start="20250925190000 -0200" stop="20250925194000 -0200" channel="Rai2.it">
-    <title lang="it">The Rookie</title>
-    <sub-title lang="it">Doppio problema</sub-title>
-    <desc lang="it">Attraverso varie interviste ai protagonisti, viene acceso un faro sulla vicenda di Jake e Sava, i due sosia di Tim e Lucy, a partire dalla liberazione di Jake dal Carcere Centrale.</desc>
+  <programme start="20250929133000 -0200" stop="20250929140500 -0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2024/01/26/1706258838313_er.jpg" />
-    <episode-num system="onscreen">S5 E18</episode-num>
+    <icon src="https://www.raiplay.it/dl/img/2021/03/21/1616315208134_2048x1152.jpg" />
   </programme>
-  <programme start="20250925194000 -0200" stop="20250925203000 -0200" channel="Rai2.it">
-    <title lang="it">N.C.I.S</title>
-    <sub-title lang="it">Reazione a catena</sub-title>
-    <desc lang="it">I cadaveri di tre persone, apparentemente senza alcun legame tra loro, vengono trovati su una nave della Marina che sta per essere affondata e trasformata in un reef artificiale.</desc>
+  <programme start="20250929140500 -0200" stop="20250929160000 -0200" channel="Rai1.it">
+    <title lang="it">La volta buona</title>
+    <sub-title lang="it">Puntata del 29/09/2025</sub-title>
+    <desc lang="it">I tratti distintivi del programma sono la leggerezza con cui vengono approfonditi i temi di puntata e l'eleganza con cui la conduttrice accoglie ospiti e pubblico sul suo divano. Un pomeriggio animato da un salotto, durante il quale gli ospiti si confrontano sulle principali notizie di costume, rievocano vecchi ricordi che li legano al mondo dello spettacolo e della musica, raccontano il loro quotidiano tra amori, amicizie, e vita in famiglia.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2024/11/15/1731663570365_vfr.jpg" />
-    <episode-num system="onscreen">S21 E10</episode-num>
+    <icon src="https://www.raiplay.it/dl/img/2025/09/08/1757325563834_2048x1152.jpg" />
   </programme>
-  <programme start="20250925203000 -0200" stop="20250925210000 -0200" channel="Rai2.it">
-    <title lang="it">Tg2</title>
+  <programme start="20250929160000 -0200" stop="20250929165300 -0200" channel="Rai1.it">
+    <title lang="it">Il paradiso delle signore</title>
+    <desc lang="it">Marina Valli ringrazia Enrico dopo l'intervento, ma lui si sente sempre più a disagio per dover mentire riguardo il suo problema alla mano. A Villa Guarnieri, superata la bufera mediatica della settimana precedente, che ha coinvolto i futuri sposi, Adelaide torna a occuparsi con entusiasmo del suo matrimonio.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/01/20/1737372806578_2048x1152.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2025/09/23/1758612433617_116.jpg" />
+    <episode-num system="onscreen">S10 E16</episode-num>
   </programme>
-  <programme start="20250925210000 -0200" stop="20250925212000 -0200" channel="Rai2.it">
-    <title lang="it">TG2 Post</title>
-    <desc lang="it">Rubrica informativa del TG2. Direttore Antonio Preziosi Vicedirettori Massimo D'Amore e Fabrizio Frullani.</desc>
+  <programme start="20250929165300 -0200" stop="20250929165500 -0200" channel="Rai1.it">
+    <title lang="it">Che tempo fa</title>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2021/03/19/1616173050643_2048x1152.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2022/03/21/1647863780558_2048x1152logo.jpg" />
   </programme>
-  <programme start="20250925212000 -0200" stop="20250926003000 -0200" channel="Rai2.it">
-    <title lang="it">Ore 14 Sera</title>
-    <sub-title lang="it">Puntata del 25/09/2025</sub-title>
-    <desc lang="it">La cronaca, i principali fatti del giorno, i gialli che appassionano: il progetto "Ore 14" porta l'informazione televisiva in prima serata con collegamenti in diretta con gli inviati sui luoghi ove i fatti sono avvenuti.</desc>
+  <programme start="20250929165500 -0200" stop="20250929170500 -0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/22/1758529119109_2048x1152%2041.jpg" />
-    <episode-num system="onscreen">S2</episode-num>
+    <icon src="https://www.raiplay.it/dl/img/2021/03/21/1616315208134_2048x1152.jpg" />
+  </programme>
+  <programme start="20250929170500 -0200" stop="20250929184000 -0200" channel="Rai1.it">
+    <title lang="it">Vita in diretta</title>
+    <sub-title lang="it">Puntata del 29/09/2025</sub-title>
+    <desc lang="it">Il programma di attualità, cronaca e spettacolo del pomeriggio. Collegamenti in diretta sul territorio con inviati, esperti e ospiti in studio per gli approfondimenti sui temi quotidiani di cronaca, attualità e spettacolo.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/09/09/1757418631996_2048x1152.jpg" />
+  </programme>
+  <programme start="20250929184000 -0200" stop="20250929200000 -0200" channel="Rai1.it">
+    <title lang="it">Reazione a catena</title>
+    <sub-title lang="it">Puntata del 29/09/2025</sub-title>
+    <desc lang="it">Il gioco che, attraverso l'associazione logica di parole, mette alla prova l'intuito, la prontezza e la padronanza della lingua italiana dei concorrenti ma anche dei telespettatori. 3 giocatori amici, colleghi o parenti, si sfidano sulla loro capacità di indovinare, formare, completare e ordinare parole e "catene" di vocaboli. Sarà, soprattutto, decisiva la loro capacità di capirsi al volo nel gioco "intesa vincente" che stabilisce i campioni della puntata. Solo loro avranno accesso al gioco finale e alla possibilità di aggiudicarsi il montepremi accumulato.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/05/30/1748629035129_2048x1152.jpg" />
+  </programme>
+  <programme start="20250929200000 -0200" stop="20250929203000 -0200" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2021/03/21/1616315208134_2048x1152.jpg" />
+  </programme>
+  <programme start="20250929203000 -0200" stop="20250929203500 -0200" channel="Rai1.it">
+    <title lang="it">Cinque Minuti</title>
+    <sub-title lang="it">Puntata del 29/09/2025</sub-title>
+    <desc lang="it">Subito dopo la fine del Tg1, Bruno Vespa conduce "Cinque minuti", per raccontare l'Italia e il mondo giorno per giorno.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2023/03/01/1677675187944_2048x1152.jpg" />
+  </programme>
+  <programme start="20250929203500 -0200" stop="20250929213000 -0200" channel="Rai1.it">
+    <title lang="it">Affari tuoi</title>
+    <sub-title lang="it">Puntata del 29/09/2025</sub-title>
+    <desc lang="it">Venti concorrenti in rappresentanza delle venti regioni italiane. In ogni puntata, il Pacchista sorteggiato giocherà con un partner ed insieme dovranno affrontare le insidie del famigerato Dottore.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2024/09/05/1725550727561_2048x1152%204.jpg" />
+  </programme>
+  <programme start="20250929213000 -0200" stop="20250929233000 -0200" channel="Rai1.it">
+    <title lang="it">Blanca</title>
+    <sub-title lang="it">Cane 3</sub-title>
+    <desc lang="it">Blanca affronta nuove paure e l'arrivo del suo nuovo cane guida "Cane 3", mentre Liguori sembra vicino ad una scelta cruciale per il futuro. Intanto, l'omicidio di Valya, una suora ucraina, e la scomparsa di un bambino, scuotono il commissariato, portando Blanca ad incontrare Domenico Falena, enigmatico contractor dal passato misterioso.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/09/23/1758609165182_Blanca%20Ep%201.jpg" />
+    <episode-num system="onscreen">S3 E1</episode-num>
+  </programme>
+  <programme start="20250929233000 -0200" stop="20250929235500 -0200" channel="Rai1.it">
+    <title lang="it">Cose Nostre</title>
+    <sub-title lang="it">Puntata del 29/09/2025</sub-title>
+    <desc lang="it">Il programma racconta la storia e la vita di donne e uomini che sono stati coinvolti per scelta, per legami familiari o per semplice vendetta dentro le trame oscure e l'abisso della violenza della criminalità organizzata e di chi si è opposto alla violenza cieca delle mafie, pagando un prezzo molto alto ma senza smettere di fare il proprio dovere.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/05/15/1747331066247_2048x1152.jpg" />
+    <episode-num system="onscreen">S2025</episode-num>
   </programme>
   <programme start="20250926003000 -0200" stop="20250926010300 -0200" channel="Rai2.it">
     <title lang="it">Pet Anatomy</title>
@@ -1310,9 +905,17 @@
   <programme start="20250926010500 -0200" stop="20250926021500 -0200" channel="Rai2.it">
     <title lang="it">Radio2 Social Club</title>
     <sub-title lang="it">Puntata del 25/09/2025</sub-title>
-    <desc lang="it">Luca Barbarossa ed Ema Stokholma aprono le porte di via Asiago a Roma a importanti ospiti musicali della scena nazionale e internazionale che si esibiscono dal vivo accompagnati dalla Social Band e dalla voce di Frances Alina Ascione.</desc>
-    <date>2019</date>
+    <desc lang="it">Luca Barbarossa ed Ema Stokholma aprono le porte di via Asiago a Roma a importanti ospiti musicali della scena nazionale e internazionale che si esibiscono dal vivo accompagnati dalla Social Band e dalla voce di Frances Alina Ascione. Luca Barbarossa ed Ema Stokholma aprono le porte di via Asiago a Roma a importanti ospiti musicali della scena nazionale e internazionale che si esibiscono dal vivo accompagnati dalla Social Band e dalla voce di Frances Alina Ascione.</desc>
+    <credits>
+      <director>Mauro Sebastianelli</director>
+      <director>Giuseppe Caporale</director>
+      <presenter>Luca Barbarossa</presenter>
+      <presenter>Ema Stokholma</presenter>
+    </credits>
+    <date>2025</date>
+    <category lang="it">Musica</category>
     <icon src="https://www.raiplay.it/dl/img/2024/09/25/1727249175034_2048x1152.jpg" />
+    <country lang="it">Italia</country>
     <episode-num system="onscreen">S2025</episode-num>
   </programme>
   <programme start="20250926021500 -0200" stop="20250926025500 -0200" channel="Rai2.it">
@@ -1329,13 +932,40 @@
     <date>2019</date>
     <icon src="https://www.raiplay.it/dl/img/2023/07/31/1690788181995_2048x1152.jpg" />
   </programme>
-  <programme start="20250926043500 -0200" stop="20250926055000 -0200" channel="Rai2.it">
+  <programme start="20250926043500 -0200" stop="20250926053000 -0200" channel="Rai2.it">
     <title lang="it">Rex</title>
-    <desc lang="it">Le appassionanti avventure del più famoso pastore tedesco impegnato nella risoluzione di delicati casi polizieschi.... - Con Francesco Arca, Domenico Fortunato, Massimo Reale.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2017/08/24/1503563387772_Rex_h_a.jpg" />
+    <sub-title lang="it">N13</sub-title>
+    <desc lang="it">Quattro uomini vestiti da clown entrano in un centro commerciale per compiere una rapina. Casualmente sono presenti anche Papini e la Fiori. Qualcosa va storto e, nella sparatoria, una guardia giurata viene uccisa ed un rapinatore ferito gravemente. Quattro uomini vestiti da clown entrano in un centro commerciale per compiere una rapina. Casualmente sono presenti anche Papini e la Fiori. Qualcosa va storto e, nella sparatoria, una guardia giurata viene uccisa ed un rapinatore ferito gravemente.</desc>
+    <credits>
+      <actor>Kaspar Capparoni</actor>
+      <actor>Ettore Bassi</actor>
+      <actor>Francesco Arca</actor>
+      <actor>Fabio Ferri</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="it">Azione &amp; Avventura</category>
+    <icon src="https://www.raiplay.it/dl/img/2024/01/10/1704886353800_xx.jpg" />
+    <country lang="it">Italia</country>
+    <episode-num system="onscreen">S7 E9</episode-num>
   </programme>
-  <programme start="20250926055000 -0200" stop="20250926060000 -0200" channel="Rai2.it">
+  <programme start="20250926053000 -0200" stop="20250926054000 -0200" channel="Rai2.it">
+    <title lang="it">Zio Gianni</title>
+    <sub-title lang="it">Gianni Memento</sub-title>
+    <desc lang="it">Dopo aver ingerito una pillola che gli ha fatto perdere la memoria, Zio Gianni si risveglia travestito da Marilyn Monroe. Ad aiutarlo a ricostruire quanto accaduto, solo alcune scritte sul suo corpo. Dopo aver ingerito una pillola che gli ha fatto perdere la memoria, Zio Gianni si risveglia travestito da Marilyn Monroe. Ad aiutarlo a ricostruire quanto accaduto, solo alcune scritte sul suo corpo.</desc>
+    <credits>
+      <director>Daniele Grassetti</director>
+      <director>Sidney Sibilia</director>
+      <actor>Paolo Calabresi</actor>
+      <actor>Crystel Checca</actor>
+      <actor>Francesco Russo</actor>
+      <actor>Luca Di Capua</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="it">Commedia</category>
+    <icon src="https://www.raiplay.it/dl/img/2016/06/21/1466502699092_EP%2004.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20250926054000 -0200" stop="20250926060000 -0200" channel="Rai2.it">
     <title lang="it">Piloti</title>
     <desc lang="it">Il commendator Aurelio è il titolare della compagnia aerea low-cost "Piccione AirLines". Sull'aereo e nella cabina di pilotaggio, può accadere di tutto.</desc>
     <date>2019</date>
@@ -1352,9 +982,15 @@
   <programme start="20250926064500 -0200" stop="20250926065300 -0200" channel="Rai2.it">
     <title lang="it">On Ari</title>
     <sub-title lang="it">Tecna o Stella</sub-title>
-    <desc lang="it">In questa puntata, quiz assurdi metteranno alla prova la tua mente, classifiche impensabili ti sorprenderanno e un messaggio speciale dalla nostra amica Shinhai Ventura, ti farà scoprire com'è davvero la scuola in Giappone. Tra risate e riflessioni, capirai che non esiste un solo modo per brillare, ma tanti modi tutti tuoi. Preparati a scoprire il talento nascosto, che forse non sapevi di avere.</desc>
-    <date>2019</date>
+    <desc lang="it">In questa puntata, quiz assurdi metteranno alla prova la tua mente, classifiche impensabili ti sorprenderanno e un messaggio speciale dalla nostra amica Shinhai Ventura, ti farà scoprire com'è davvero la scuola in Giappone. Tra risate e riflessioni, capirai che non esiste un solo modo per brillare, ma tanti modi tutti tuoi. Preparati a scoprire il talento nascosto, che forse non sapevi di avere. In questa puntata, quiz assurdi metteranno alla prova la tua mente, classifiche impensabili ti sorprenderanno e un messaggio speciale dalla nostra amica Shinhai Ventura, ti farà scoprire com'è davvero la scuola in Giappone. Tra risate e riflessioni, capirai che non esiste un solo modo per brillare, ma tanti modi tutti tuoi. Preparati a scoprire il talento nascosto, che forse non sapevi di avere!</desc>
+    <credits>
+      <actor>Arianna Craviotto</actor>
+      <producer>Rai Ragazzi</producer>
+    </credits>
+    <date>2025</date>
+    <category lang="it">Sketch Com</category>
     <icon src="https://www.raiplay.it/dl/img/2025/09/23/1758619414373_On-Ari_S1E9_Tecna-o-stella_Sketch-Com_2048x1152.jpg" />
+    <country lang="it">Italia</country>
     <episode-num system="onscreen">S1 E9</episode-num>
   </programme>
   <programme start="20250926065300 -0200" stop="20250926065500 -0200" channel="Rai2.it">
@@ -1508,8 +1144,7 @@
     <sub-title lang="it">Puntata del 26/09/2025</sub-title>
     <desc lang="it">20 concorrenti e 30 opinionisti, equamente divisi tra Generazione Z (18 - 25 anni) e Boomer (oltre i 55 anni) intervistano gli ospiti, animano i talk sull'attualità e si confrontano a colpi di reel e gare di ballo e canto.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2022/08/08/1659968471126_2048x1152.jpg" />
-    <episode-num system="onscreen">S2025</episode-num>
+    <icon src="https://www.raiplay.it/dl/img/2025/05/05/1746447104940_BellaMa.jpg" />
   </programme>
   <programme start="20250926170000 -0200" stop="20250926170400 -0200" channel="Rai2.it">
     <title lang="it">70 x 70 Vol. 2</title>
@@ -1555,11 +1190,11 @@
   </programme>
   <programme start="20250926171000 -0200" stop="20250926180000 -0200" channel="Rai2.it">
     <title lang="it">S.W.A.T</title>
-    <sub-title lang="it">Sotto la cenere</sub-title>
-    <desc lang="it">Max Adam ha perso moglie e figlia in un incendio ed incolpa la squadra Uno Ventisette dei Vigili del Fuoco, che ha lasciato che la sua famiglia morisse senza intervenire.</desc>
+    <sub-title lang="it">Proteggere e servire</sub-title>
+    <desc lang="it">La S.W.A.T. affronta la perdita di controllo di un impiegato nel giorno del suo licenziamento. Chris, nel suo giorno libero, si ritrova ad affrontare una specie di setta istituita da un finto Vescovo.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2021/11/12/1636723006972_sssss.jpg" />
-    <episode-num system="onscreen">S4 E7</episode-num>
+    <icon src="https://www.raiplay.it/dl/img/2021/11/05/1636124599386_ssss.jpg" />
+    <episode-num system="onscreen">S4 E6</episode-num>
   </programme>
   <programme start="20250926180000 -0200" stop="20250926181000 -0200" channel="Rai2.it">
     <title lang="it">Tg Parlamento</title>
@@ -1733,8 +1368,8 @@
     <sub-title lang="it">Puntata del 27/09/2025</sub-title>
     <desc lang="it">Una lettura in chiave scientifica di importanti temi strategici come la transizione ecologica, le materie prime rare e le fonti di energia rinnovabili. Spazio anche alle ultime novità dal mondo dell'Intelligenza Artificiale.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2023/10/11/1697031163363_2048x1152.jpg" />
-    <episode-num system="onscreen">S2025</episode-num>
+    <icon src="https://www.raiplay.it/dl/img/2025/07/16/1752695312962_Quasar.jpg" />
+    <episode-num system="onscreen">S6</episode-num>
   </programme>
   <programme start="20250927105500 -0200" stop="20250927110000 -0200" channel="Rai2.it">
     <title lang="it">Meteo 2</title>
@@ -1911,9 +1546,10 @@
   </programme>
   <programme start="20250928074000 -0200" stop="20250928075500 -0200" channel="Rai2.it">
     <title lang="it">TG2 Tutto il bello che c'è</title>
-    <desc lang="it">Direttore Antonio Preziosi Vicedirettore Alfonso Samengo A cura di Silvia Vaccarezza.</desc>
-    <date>2019</date>
+    <desc lang="it">Direttore Antonio Preziosi Vicedirettore Alfonso Samengo A cura di Silvia Vaccarezza. Direttore Antonio Preziosi Vicedirettore Alfonso Samengo  A cura di Silvia Vaccarezza.</desc>
+    <category lang="it">News &amp; Approfondimento</category>
     <icon src="https://www.raiplay.it/dl/img/2021/03/19/1616174898134_2048x1152.jpg" />
+    <country lang="it">Italia</country>
   </programme>
   <programme start="20250928075500 -0200" stop="20250928082000 -0200" channel="Rai2.it">
     <title lang="it">TG2 Mizar</title>
@@ -1942,9 +1578,11 @@
   </programme>
   <programme start="20250928093000 -0200" stop="20250928110000 -0200" channel="Rai2.it">
     <title lang="it">Le indagini di Hailey Dean</title>
-    <desc lang="it">Basata sui romanzi di Nancy Greace, Hailey Dean collabora con la Polizia di Atlanta nella risoluzione di delicate indagini per omicidio.</desc>
+    <sub-title lang="it">Appuntamento con l'assassino</sub-title>
+    <desc lang="it">Prima una giovane blogger di successo viene uccisa, poi scompaiono altre tre ragazze. Il mistero s'infittisce ed Hailey Dean decide di dare la caccia a quello che sembra essere un serial killer.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2020/04/29/1588147800542_2048x1152.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2024/02/23/1708696516450_1588147800542_2048x1152.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
   <programme start="20250928110000 -0200" stop="20250928111500 -0200" channel="Rai2.it">
     <title lang="it">Tg Sport</title>
@@ -2043,236 +1681,265 @@
     <icon src="https://www.raiplay.it/dl/img/2025/02/14/1739555301445_2048x1152.jpg" />
     <episode-num system="onscreen">S1 E14</episode-num>
   </programme>
-  <programme start="20250925000000 -0200" stop="20250925010000 -0200" channel="Rai3.it">
-    <title lang="it">Tg3 Linea Notte</title>
+  <programme start="20250928224500 -0200" stop="20250929003000 -0200" channel="Rai2.it">
+    <title lang="it">La Nuova DS</title>
+    <sub-title lang="it">Puntata del 28/09/2025</sub-title>
+    <desc lang="it">Il racconto dell'attualità del calcio e degli altri sport attraverso immagini, dati, interviste ed opinioni. In studio, i protagonisti raccontano i loro successi sportivi e personali.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/15/1757947708965_TG3LineaNotte2048x1152.png" />
+    <icon src="https://www.raiplay.it/dl/img/2025/09/19/1758292532544_nuova%20DS%20sport.png" />
   </programme>
-  <programme start="20250925010000 -0200" stop="20250925010500 -0200" channel="Rai3.it">
-    <title lang="it">Meteo 3</title>
+  <programme start="20250929003000 -0200" stop="20250929010900 -0200" channel="Rai2.it">
+    <title lang="it">La Nuova DS</title>
+    <sub-title lang="it">L'altra DS del 28/09/2025</sub-title>
+    <desc lang="it">Servizi, interviste ed approfondimenti a tutto campo, cronaca ed anticipazioni sugli eventi più importanti dello Sport e sul mondo dei Motori.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2022/08/12/1660292155590_Domenica-Sportiva-2022-assets2048x1152.jpg" />
+  </programme>
+  <programme start="20250929010900 -0200" stop="20250929011500 -0200" channel="Rai2.it">
+    <title lang="it">Meteo 2</title>
     <date>2019</date>
     <icon src="https://www.raiplay.it/dl/img/2016/06/08/1465376427411_meteo_oo.jpg" />
   </programme>
-  <programme start="20250925010500 -0200" stop="20250925011500 -0200" channel="Rai3.it">
-    <title lang="it">Parlamento Magazine</title>
-    <desc lang="it">A cura di Rai Parlamento.</desc>
+  <programme start="20250929011500 -0200" stop="20250929012000 -0200" channel="Rai2.it">
+    <title lang="it">Appuntamento al cinema</title>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2021/07/20/1626760390469_Parlamento_Magazine_2048x1152.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2016/07/01/1467382228407_cinema_oo.jpg" />
   </programme>
-  <programme start="20250925011500 -0200" stop="20250925014500 -0200" channel="Rai3.it">
-    <title lang="it">Sorgente di vita</title>
-    <sub-title lang="it">Puntata del 21/09/2025</sub-title>
-    <desc lang="it">Attualità e cultura, feste e tradizioni, storia e identità degli ebrei in Italia, in Europa e nel mondo, a cura dell'Unione delle Comunità Ebraiche Italiane. Attualità e cultura, feste e tradizioni, storia e identità degli ebrei in Italia, in Europa e nel mondo, a cura dell'Unione delle Comunità Ebraiche Italiane.</desc>
-    <date>2025</date>
-    <category lang="it">Religioso</category>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/19/1758293109154_Thumb-EP%203.jpg" />
-    <country lang="it">Italia</country>
-  </programme>
-  <programme start="20250925014500 -0200" stop="20250925022000 -0200" channel="Rai3.it">
-    <title lang="it">Sulla via di Damasco</title>
-    <sub-title lang="it">Puntata del 21/09/2025</sub-title>
-    <desc lang="it">Eva Crosetta analizza la variegata realtà ecumenica, umana e sociale, dedita al volontariato sul territorio non solo italiano. Eva Crosetta analizza la variegata realtà ecumenica, umana e sociale, dedita al volontariato sul territorio non solo italiano.</desc>
-    <credits>
-      <director>Marina Gambini</director>
-      <presenter>Eva Crosetta</presenter>
-    </credits>
-    <date>2025</date>
-    <category lang="it">Approfondimento</category>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/19/1758284653032_Thumb-EP%204.jpg" />
-    <country lang="it">Italia</country>
-  </programme>
-  <programme start="20250925022000 -0200" stop="20250925060000 -0200" channel="Rai3.it">
+  <programme start="20250929012000 -0200" stop="20250929060000 -0200" channel="Rai2.it">
     <title lang="it">RaiNews</title>
     <date>2019</date>
     <icon src="https://www.raiplay.it/dl/img/2022/12/05/1670268515096_2048x1152_logo.jpg" />
   </programme>
-  <programme start="20250925060000 -0200" stop="20250925070000 -0200" channel="Rai3.it">
-    <title lang="it">RaiNews</title>
+  <programme start="20250929060000 -0200" stop="20250929064500 -0200" channel="Rai2.it">
+    <title lang="it">La Grande Vallata</title>
+    <sub-title lang="it">Dramma sul treno</sub-title>
+    <desc lang="it">Victoria aiuta un suo vecchio amico ad aprire un negozio, non sapendo che il vero obiettivo dell'uomo è quello di far rubare un carico d'oro che sta per passare in città. Episodio 30.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2022/12/05/1670268515096_2048x1152_logo.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2023/11/30/1701352564967_1485525357116_LA-GRANDE-VALLATA_2048x1152.jpg" />
+    <episode-num system="onscreen">S1 E30</episode-num>
   </programme>
-  <programme start="20250925070000 -0200" stop="20250925073000 -0200" channel="Rai3.it">
-    <title lang="it">TGR Buongiorno Italia</title>
-    <desc lang="it">Direttore Roberto Pacchetti. Caporedattrice centrale Daniela Sodano.</desc>
+  <programme start="20250929064500 -0200" stop="20250929065300 -0200" channel="Rai2.it">
+    <title lang="it">On Ari</title>
+    <sub-title lang="it">Cosa vuoi fare da grande</sub-title>
+    <desc lang="it">Ari e Bip ci fanno scoprire lavori davvero strani e poi proveranno a rispondere ai messaggi di ragazze e ragazzi che si sentono un po' persi e che hanno mille passioni tutte insieme... Ospite speciale il fumettista Matteo Cremona, che ci mostra come si crea un fumetto, dalla sceneggiatura al disegno. Se non sapete ancora cosa fare da grandi, va benissimo così. Perché la domanda più importante non è "cosa vuoi fare?", ma "chi vuoi essere?". E scoprirlo è la parte più bella.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2021/03/19/1616172640597_2048x1152.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2025/09/24/1758697918550_On%20Ari_S1E10_sktech-com_2048x1152.jpg" />
+    <episode-num system="onscreen">S1 E10</episode-num>
   </programme>
-  <programme start="20250925073000 -0200" stop="20250925080000 -0200" channel="Rai3.it">
-    <title lang="it">TGR Buongiorno Regione</title>
-    <desc lang="it">A cura delle redazioni regionali della TGR.</desc>
+  <programme start="20250929065300 -0200" stop="20250929065500 -0200" channel="Rai2.it">
+    <title lang="it">On Ari</title>
+    <sub-title lang="it">Il bello dei secondari: Intro</sub-title>
+    <desc lang="it">Il benvenuto di Ari e Bip.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/22/1758555087152_BuongiornoRegione2048x1152.png" />
+    <icon src="https://www.raiplay.it/dl/img/2025/08/21/1755762082728_on-ari-s1_2048x1152.jpg" />
+    <episode-num system="onscreen">S1 E11</episode-num>
   </programme>
-  <programme start="20250925080000 -0200" stop="20250925094500 -0200" channel="Rai3.it">
-    <title lang="it">Agorà</title>
-    <sub-title lang="it">Puntata del 25/09/2025</sub-title>
-    <desc lang="it">Roberto Inciocchi approfondisce i temi di stretta attualità e segue il dibattito politico con ospiti in studio, inviati, servizi, inchieste, collegamenti e contributi video dai social.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2023/09/07/1694080559882_2048x1152_logo.jpg" />
-  </programme>
-  <programme start="20250925094500 -0200" stop="20250925105000 -0200" channel="Rai3.it">
-    <title lang="it">Re Start</title>
-    <sub-title lang="it">Puntata del 25/09/2025</sub-title>
-    <desc lang="it">Annalisa Bruchi dialoga con i protagonisti della vita economica italiana per avvicinare i cittadini ai temi della finanza, dell'economia e del lavoro.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2022/10/06/1665026973384_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925105000 -0200" stop="20250925115500 -0200" channel="Rai3.it">
-    <title lang="it">Elisir</title>
-    <sub-title lang="it">Puntata del 25/09/2025</sub-title>
-    <desc lang="it">Un difetto assai comune della vista che rende difficoltosa la percezione nitida degli oggetti lontani: la miopia. A cosa è dovuta e in che modo può essere corretta? Risponde il professor Leopoldo Spadea, direttore dell'Unità Operativa Complessa di Oftalmologia del Policlinico Umberto I, Sapienza Università di Roma. A seguire, nella rubrica "Mangiarsano", il professor Nicolò Merendino, docente di Scienza dell'Alimentazione e della Nutrizione Umana presso l'Università degli Studi della Tuscia, parla dei frutti di bosco: piccoli frutti ricchi di vitamine, fibre e antiossidanti, che contribuiscono a proteggere il cuore e a rafforzare il sistema immunitario. Lo spazio conclusivo dedicato alla salute della mente è incentrato sul tema dell'egoismo: una tendenza a privilegiare i propri bisogni e interessi a scapito di quelli altrui che, in forma eccessiva, può interferire con le relazioni sociali e il benessere emotivo. In studio il professor Giorgio Caviglia, docente di Psicologia Dinamica all'Università della Campania Luigi Vanvitelli.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2022/09/23/1663967625952_2048x1152%201.jpg" />
-  </programme>
-  <programme start="20250925115500 -0200" stop="20250925120000 -0200" channel="Rai3.it">
-    <title lang="it">Meteo 3</title>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2016/06/08/1465376427411_meteo_oo.jpg" />
-  </programme>
-  <programme start="20250925120000 -0200" stop="20250925122500 -0200" channel="Rai3.it">
-    <title lang="it">Tg3</title>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2021/03/19/1616172758681_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925122500 -0200" stop="20250925125000 -0200" channel="Rai3.it">
-    <title lang="it">TG3 Fuori TG</title>
-    <desc lang="it">Il rotocalco del Tg3 con spazi quotidiani dedicati ai consumatori, alla salute dell'agricoltura, al costume, all'economia, al mondo femminile ed alla cultura.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/15/1757948826860_TG3FuoriTG2048X1152.png" />
-  </programme>
-  <programme start="20250925125000 -0200" stop="20250925132000 -0200" channel="Rai3.it">
-    <title lang="it">Quante storie</title>
-    <sub-title lang="it">Puntata del 25/09/2025</sub-title>
-    <desc lang="it">Dall'arte alla letteratura, dalla musica alla storia recente, dalla filosofia alla politica, Giorgio Zanchini e i suoi ospiti offrono spunti di riflessione per comprendere le mille facce di un Paese meraviglioso e contraddittorio.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2019/09/06/1567765269930_Quante%20Storie_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925132000 -0200" stop="20250925140000 -0200" channel="Rai3.it">
-    <title lang="it">Passato e Presente</title>
-    <sub-title lang="it">Alberto Manzi, il Maestro degli Italiani</sub-title>
-    <desc lang="it">Noto ai più unicamente come il maestro gentile del programma "Non è mai troppo tardi", Alberto Manzi è in realtà un personaggio emblematico delle trasformazioni dell'Italia del Novecento. Negli anni del boom diventa simbolo della lotta all'analfabetismo ancora presente nel Paese, poi torna felicemente al suo lavoro di maestro elementare, che svolge con passione sino alla pensione. Ma esiste anche un lato meno noto della sua persona: la sua indole ribelle, refrattaria alle grettezze del potere, il suo coraggioso impegno per gli indios dell'Amazzonia, la sua penna di scrittore di romanzi per ragazzi, tradotti in tutto il mondo, come Orzowei. In studio, con Paolo Mieli lo storico Bruno Maida. Noto ai più unicamente come il maestro gentile del programma \"Non è mai troppo tardi\.</desc>
+  <programme start="20250929065500 -0200" stop="20250929070200 -0200" channel="Rai2.it">
+    <title lang="it">Peanuts</title>
+    <sub-title lang="it">Problemi tecnici</sub-title>
+    <desc lang="it">La nuova serie animata dedicata ai Peanuts dà vita alle vignette di Charles M. Schulz, raccontando le avventure senza tempo di Charlie Brown e della sua gang, compreso il bracchetto più famoso del mondo, Snoopy. CARTONI ANIMATI - La nuova serie animata dedicata ai Peanuts dà vita alle vignette di Charles M. Schulz, raccontando le avventure senza tempo di Charlie Brown e della sua gang, compreso il bracchetto più famoso del mondo, Snoopy.</desc>
     <credits>
-      <director>Davide Frasnelli</director>
-      <actor>Alberto Manzi</actor>
-      <actor>Bruno Maida</actor>
-      <presenter>Paolo Mieli</presenter>
+      <director>Lavillat</director>
     </credits>
-    <date>2024</date>
-    <icon src="https://www.raiplay.it/dl/img/2024/11/05/1730804263070_1730804323261.png" />
+    <date>2014</date>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://www.raiplay.it/dl/img/2016/10/1475673425309Immagine.jpg" />
+    <country lang="it">Francia</country>
+    <episode-num system="onscreen">S1 E13</episode-num>
+  </programme>
+  <programme start="20250929070200 -0200" stop="20250929070500 -0200" channel="Rai2.it">
+    <title lang="it">On Ari</title>
+    <sub-title lang="it">Il bello dei secondari: Rubrica 1</sub-title>
+    <desc lang="it">Ari sa come farci divertire.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/08/21/1755762082728_on-ari-s1_2048x1152.jpg" />
+    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme>
+  <programme start="20250929070500 -0200" stop="20250929071600 -0200" channel="Rai2.it">
+    <title lang="it">I Puffi - La nuova serie</title>
+    <sub-title lang="it">L'invasione dei Mini Burloni</sub-title>
+    <desc lang="it">Vanitoso, dopo l'ennesimo scherzo di Burlone, decide di dargli una lezione.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2022/04/01/1648825277738_Schermata%202022-04-01%20alle%2017.01.49.jpg" />
+    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme>
+  <programme start="20250929071600 -0200" stop="20250929072000 -0200" channel="Rai2.it">
+    <title lang="it">On Ari</title>
+    <sub-title lang="it">Il bello dei secondari: Rubrica 2</sub-title>
+    <desc lang="it">Ari sa come farci divertire.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/08/21/1755762082728_on-ari-s1_2048x1152.jpg" />
+    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme>
+  <programme start="20250929072000 -0200" stop="20250929074200 -0200" channel="Rai2.it">
+    <title lang="it">Winx Club</title>
+    <sub-title lang="it">Il tesoro magico di Syderia</sub-title>
+    <desc lang="it">Valtor e Obscurum intendono attaccare una nuova stella, Syderia, e per farlo decidono di adottare una strategia diversa: l'inganno. Quando le Winx arrivano in soccorso di Syderia, scoprono che le Lumen che la abitano sono convinte che le fate siano venute a rubare il tesoro della loro stella. Dopo aver scoperto che nel sottosuolo di Syderia c'è una montagna di cristallo, le Winx la fanno brillare con i loro poteri Cosmix. Bloom ha l'idea di portare un frammento di cristallo a Orion per fargli costruire nuovi nuclei per le stelle spente. Valtor e Obscurum intendono attaccare una nuova stella, Syderia, e per farlo decidono di adottare una strategia diversa: l'inganno. Quando le Winx arrivano in soccorso di Syderia, scoprono che le Lumen che la abitano sono convinte che le fate siano venute a rubare il tesoro della loro stella. Dopo aver scoperto che nel sottosuolo di Syderia c'è una montagna di cristallo, le Winx la fanno brillare con i loro poteri Cosmix. Bloom ha l'idea di portare un frammento di cristallo a Orion per fargli costruire nuovi nuclei per le stelle spente.</desc>
+    <credits>
+      <producer>Rai Yoyo</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://www.raiplay.it/dl/img/2019/04/29/1556555355728_winx12640.jpg" />
     <country lang="it">Italia</country>
+    <episode-num system="onscreen">S8 E11</episode-num>
   </programme>
-  <programme start="20250925140000 -0200" stop="20250925141900 -0200" channel="Rai3.it">
-    <title lang="it">Tg Regione</title>
+  <programme start="20250929074200 -0200" stop="20250929074500 -0200" channel="Rai2.it">
+    <title lang="it">On Ari</title>
+    <sub-title lang="it">Il bello dei secondari: I saluti</sub-title>
+    <desc lang="it">Ari e Bip ci danno appuntamento alla prossima appuntamento.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2016/06/08/1465376127831_tgr_oo.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2025/08/21/1755762082728_on-ari-s1_2048x1152.jpg" />
+    <episode-num system="onscreen">S1 E11</episode-num>
   </programme>
-  <programme start="20250925141900 -0200" stop="20250925142000 -0200" channel="Rai3.it">
-    <title lang="it">Tg Regione Meteo</title>
+  <programme start="20250929074500 -0200" stop="20250929083000 -0200" channel="Rai2.it">
+    <title lang="it">Heartland</title>
+    <sub-title lang="it">Rischio e rendimento</sub-title>
+    <desc lang="it">Amy e Ty portano Lyndy a fare il suo primo campeggio, ma le cose non vanno come previsto perché trovano un cane ferito lungo la strada. Jade fa una brutta caduta cavalcando un mustang.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/08/27/1756290427480_TgRegioneMeteo2048x1152.png" />
+    <icon src="https://www.raiplay.it/dl/img/2021/11/02/1635846379583_sssss.jpg" />
+    <episode-num system="onscreen">S12 E4</episode-num>
   </programme>
-  <programme start="20250925142000 -0200" stop="20250925144900 -0200" channel="Rai3.it">
-    <title lang="it">Tg3</title>
+  <programme start="20250929083000 -0200" stop="20250929084500 -0200" channel="Rai2.it">
+    <title lang="it">Tg2</title>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2021/03/19/1616172758681_2048x1152.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2025/01/20/1737372806578_2048x1152.jpg" />
   </programme>
-  <programme start="20250925144900 -0200" stop="20250925145000 -0200" channel="Rai3.it">
-    <title lang="it">Meteo 3</title>
+  <programme start="20250929084500 -0200" stop="20250929095800 -0200" channel="Rai2.it">
+    <title lang="it">Radio2 Social Club</title>
+    <sub-title lang="it">Puntata del 29/09/2025</sub-title>
+    <desc lang="it">Luca Barbarossa ed Ema Stokholma aprono le porte di via Asiago a Roma ad importanti ospiti musicali della scena nazionale ed internazionale che si esibiscono dal vivo accompagnati dalla Social Band e dalla voce di Frances Alina Ascione.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2024/09/25/1727249175034_2048x1152.jpg" />
+  </programme>
+  <programme start="20250929095800 -0200" stop="20250929100000 -0200" channel="Rai2.it">
+    <title lang="it">Meteo 2</title>
     <date>2019</date>
     <icon src="https://www.raiplay.it/dl/img/2016/06/08/1465376427411_meteo_oo.jpg" />
   </programme>
-  <programme start="20250925145000 -0200" stop="20250925145800 -0200" channel="Rai3.it">
-    <title lang="it">TGR Leonardo</title>
-    <desc lang="it">TG di Scienza e Ambiente a cura della redazione scientifica della Tgr Piemonte.</desc>
+  <programme start="20250929100000 -0200" stop="20250929105500 -0200" channel="Rai2.it">
+    <title lang="it">TG2 Italia Europa</title>
+    <desc lang="it">Direttore Antonio Preziosi.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2016/11/15/1479202026725_Leonardo%20O.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2021/03/19/1616174617825_2048x1152.jpg" />
   </programme>
-  <programme start="20250925145800 -0200" stop="20250925161000 -0200" channel="Rai3.it">
-    <title lang="it">Rai Parlamento - Question Time</title>
-    <desc lang="it">In diretta dal Senato della Repubblica "Question Time" - Interrogazioni a risposta immediata.</desc>
+  <programme start="20250929105500 -0200" stop="20250929110000 -0200" channel="Rai2.it">
+    <title lang="it">Tg2 Flash</title>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2021/07/21/1626862570213_RAI_PARLAMENTO_QUESTION_TIME_2048x1152.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2021/02/02/1612263226607_1552933465773_Tg2_2048X1152_1.jpg" />
   </programme>
-  <programme start="20250925161000 -0200" stop="20250925162000 -0200" channel="Rai3.it">
-    <title lang="it">TGR Piazza Affari</title>
-    <desc lang="it">TG di Economia e Finanza a cura della redazione economica della Tgr Lombardia.</desc>
+  <programme start="20250929110000 -0200" stop="20250929111000 -0200" channel="Rai2.it">
+    <title lang="it">Tg Sport</title>
+    <desc lang="it">TG Sport Giorno.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2023/10/25/1698228137165_1470307948842_piazza_2048x1152.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2019/12/03/1575384917496_tg_sport_2048x1152.jpg" />
   </programme>
-  <programme start="20250925162000 -0200" stop="20250925162500 -0200" channel="Rai3.it">
-    <title lang="it">TG3 LIS</title>
+  <programme start="20250929111000 -0200" stop="20250929130000 -0200" channel="Rai2.it">
+    <title lang="it">I Fatti Vostri</title>
+    <sub-title lang="it">Puntata del 29/09/2025</sub-title>
+    <desc lang="it">La Piazza più famosa della televisione apre le sue porte a nuove storie e ai loro protagonisti, propone rubriche, momenti di gioco con i telespettatori, momenti musicali e l'immancabile Oroscopo di Paolo Fox.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/16/1758033337529_TG3LIS2048x1152.png" />
+    <icon src="https://www.raiplay.it/dl/img/2025/09/20/1758360552146_Nuovo%20progetto%2033.jpg" />
+    <episode-num system="onscreen">S2025</episode-num>
   </programme>
-  <programme start="20250925162500 -0200" stop="20250925163000 -0200" channel="Rai3.it">
+  <programme start="20250929130000 -0200" stop="20250929133000 -0200" channel="Rai2.it">
+    <title lang="it">Tg2</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/01/20/1737372806578_2048x1152.jpg" />
+  </programme>
+  <programme start="20250929133000 -0200" stop="20250929135000 -0200" channel="Rai2.it">
+    <title lang="it">Tg2 Costume &amp; Società</title>
+    <desc lang="it">Direttore Antonio Preziosi A cura di Rocco Tolfa Di Francesco Paolo Cozza.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2021/03/19/1616174790223_2048x1152.jpg" />
+  </programme>
+  <programme start="20250929135000 -0200" stop="20250929140000 -0200" channel="Rai2.it">
+    <title lang="it">Tg2 Medicina 33</title>
+    <desc lang="it">Direttore Antonio Preziosi A cura di Laura Berti.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2021/03/21/1616313901534_2048x1152.jpg" />
+  </programme>
+  <programme start="20250929140000 -0200" stop="20250929152500 -0200" channel="Rai2.it">
+    <title lang="it">Ore 14</title>
+    <sub-title lang="it">Puntata del 29/09/2025</sub-title>
+    <desc lang="it">L'appuntamento quotidiano, ideato e condotto da Milo Infante, dalla forte vocazione giornalistica, con particolare attenzione alle inchieste, all'attualità ed alla cronaca.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2022/09/23/1663923979779_2048x1152.jpg" />
+  </programme>
+  <programme start="20250929152500 -0200" stop="20250929170000 -0200" channel="Rai2.it">
+    <title lang="it">BellaMa</title>
+    <sub-title lang="it">Puntata del 29/09/2025</sub-title>
+    <desc lang="it">20 concorrenti e 30 opinionisti, equamente divisi tra Generazione Z (18 - 25 anni) e Boomer (oltre i 55 anni) intervistano gli ospiti, animano i talk sull'attualità e si confrontano a colpi di reel e gare di ballo e canto.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2022/08/08/1659968471126_2048x1152.jpg" />
+  </programme>
+  <programme start="20250929170000 -0200" stop="20250929180000 -0200" channel="Rai2.it">
+    <title lang="it">La Porta Magica</title>
+    <sub-title lang="it">Puntata del 29/09/2025</sub-title>
+    <desc lang="it">Andrea Delogu incontra persone comuni che vogliono cambiare un aspetto della propria vita e le affida ad un coach professionista del settore, in modo che il sogno si realizzi e che duri nel tempo.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2024/10/16/1729077188871_2048x1152.jpg" />
+  </programme>
+  <programme start="20250929180000 -0200" stop="20250929181000 -0200" channel="Rai2.it">
     <title lang="it">Tg Parlamento</title>
+    <desc lang="it">Direttore Giuseppe Carboni.</desc>
     <date>2019</date>
     <icon src="https://www.raiplay.it/dl/img/2021/07/20/1626761017898_TG_Parlamento_2048x1152.jpg" />
   </programme>
-  <programme start="20250925163000 -0200" stop="20250925190000 -0200" channel="Rai3.it">
-    <title lang="it">Geo</title>
-    <sub-title lang="it">Puntata del 25/09/2025</sub-title>
-    <desc lang="it">Attraverso i grandi documentari di "Geo" e gli esperti in studio, Sveva Sagramola ed Emanuele Biggi raccontano le persone, le meraviglie e le fragilità del nostro pianeta, dando particolare spazio ai grandi squilibri ambientali che compromettono la sopravvivenza della specie.</desc>
+  <programme start="20250929181000 -0200" stop="20250929181500 -0200" channel="Rai2.it">
+    <title lang="it">TG2 LIS</title>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2019/07/09/1562672685846_GEO%202048x1152.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2021/03/21/1616314226970_2048x1152.jpg" />
   </programme>
-  <programme start="20250925190000 -0200" stop="20250925193000 -0200" channel="Rai3.it">
-    <title lang="it">Tg3</title>
+  <programme start="20250929181500 -0200" stop="20250929183500 -0200" channel="Rai2.it">
+    <title lang="it">Tg2</title>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2021/03/19/1616172758681_2048x1152.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2025/01/20/1737372806578_2048x1152.jpg" />
   </programme>
-  <programme start="20250925193000 -0200" stop="20250925195100 -0200" channel="Rai3.it">
-    <title lang="it">Tg Regione</title>
+  <programme start="20250929183500 -0200" stop="20250929185800 -0200" channel="Rai2.it">
+    <title lang="it">Tg Sport</title>
+    <desc lang="it">TG Sport Sera.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2016/06/08/1465376127831_tgr_oo.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2019/12/03/1575384917496_tg_sport_2048x1152.jpg" />
   </programme>
-  <programme start="20250925195100 -0200" stop="20250925200000 -0200" channel="Rai3.it">
-    <title lang="it">Tg Regione Meteo</title>
+  <programme start="20250929185800 -0200" stop="20250929190000 -0200" channel="Rai2.it">
+    <title lang="it">Meteo 2</title>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/08/27/1756290427480_TgRegioneMeteo2048x1152.png" />
+    <icon src="https://www.raiplay.it/dl/img/2016/06/08/1465376427411_meteo_oo.jpg" />
   </programme>
-  <programme start="20250925200000 -0200" stop="20250925201500 -0200" channel="Rai3.it">
-    <title lang="it">Blob</title>
-    <sub-title lang="it">Puntata del 25/09/2025</sub-title>
-    <desc lang="it">Venti minuti di "surrogato televisivo". La tv smontata, rimontata e messa a nudo attraverso il montaggio per svelare cosa il video e i suoi protagonisti di tutti i giorni ci dicono in realtà.</desc>
+  <programme start="20250929190000 -0200" stop="20250929194000 -0200" channel="Rai2.it">
+    <title lang="it">The Rookie</title>
+    <sub-title lang="it">Copertura rischiosa</sub-title>
+    <desc lang="it">Mentre Lucy viene mandata in un'operazione sotto copertura, sotto lo sguardo vigile e amorevole di Tim, Aaron dà una mano ai casi di cui si occupa Lopez, che dovrebbe già essere in maternità.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2019/11/13/1573642200950_Blob%202048x1152.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2024/02/02/1706863733153_er.jpg" />
+    <episode-num system="onscreen">S5 E21</episode-num>
   </programme>
-  <programme start="20250925201500 -0200" stop="20250925204000 -0200" channel="Rai3.it">
-    <title lang="it">Riserva Indiana</title>
-    <sub-title lang="it">Paola Turci - 25/09/2025</sub-title>
-    <desc lang="it">Nel 1942, a Lidice, i nazisti destinarono 82 bambini alle camere a gas. Oggi, in quel villaggio ceco, un monumento li ricorda: 82 statue in bronzo, scolpite una per una, che fissano per sempre la violenza cieca della guerra. I nomi dei bambini continuano a riempire elenchi infiniti: a Marzabotto, poche settimane fa, il Cardinale Zuppi ha letto senza distinzione i nomi dei piccoli uccisi in Medio Oriente, 469 pagine di vittime innocenti, da Gaza a Israele. Statue e liste ci chiedono memoria, ma intanto i bambini continuano a morire. A Riserva Indiana, un viaggio tra passato e presente, davanti all'altare crudele della barbarie.</desc>
+  <programme start="20250929194000 -0200" stop="20250929203000 -0200" channel="Rai2.it">
+    <title lang="it">N.C.I.S. Hawai'i</title>
+    <sub-title lang="it">Paniolo</sub-title>
+    <desc lang="it">Un marine proveniente da una famiglia di paniolo (cowboys hawaiiani), viene ferito gravemente durante una passeggiata a cavallo. Gli agenti dell'N.C.I.S. Hawai'i scoprono che è stato aggredito da una gang.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/19/1758281771939_RI-2025-PaolaTurci.jpg" />
-    <episode-num system="onscreen">S4</episode-num>
+    <icon src="https://www.raiplay.it/dl/img/2022/03/03/1646318035843_vvvvvvvvvvvvv.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20250925204000 -0200" stop="20250925205000 -0200" channel="Rai3.it">
-    <title lang="it">Il cavallo e la torre</title>
-    <sub-title lang="it">Puntata del 25/09/2025</sub-title>
-    <desc lang="it">Il fatto del giorno in 10 minuti. La politica, i poteri, le persone dei nostri tempi raccontati da Marco Damilano.</desc>
+  <programme start="20250929203000 -0200" stop="20250929210000 -0200" channel="Rai2.it">
+    <title lang="it">Tg2</title>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2022/09/30/1664549492271_2048x1152.jpeg" />
+    <icon src="https://www.raiplay.it/dl/img/2025/01/20/1737372806578_2048x1152.jpg" />
   </programme>
-  <programme start="20250925205000 -0200" stop="20250925212000 -0200" channel="Rai3.it">
-    <title lang="it">Un posto al sole</title>
-    <sub-title lang="it">Puntata del 25/09/2025</sub-title>
-    <desc lang="it">In attesa del processo, Eduardo decide di mettersi alla ricerca di un lavoro, ma l'accoglienza del quartiere si rivelerà diversa da ciò che sperava mettendolo di fronte a una dura realtà.</desc>
+  <programme start="20250929210000 -0200" stop="20250929212000 -0200" channel="Rai2.it">
+    <title lang="it">TG2 Post</title>
+    <desc lang="it">Rubrica informativa del TG2. Direttore Antonio Preziosi Vicedirettori Massimo D'Amore e Fabrizio Frullani.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/21/1758453655754_vlcsnap-2025-09-21-13h12m01s321.jpg" />
-    <episode-num system="onscreen">S29 E6784</episode-num>
+    <icon src="https://www.raiplay.it/dl/img/2021/03/19/1616173050643_2048x1152.jpg" />
   </programme>
-  <programme start="20250925212000 -0200" stop="20250925231000 -0200" channel="Rai3.it">
-    <title lang="it">Zucchero - Sugar Fornaciari</title>
-    <desc lang="it">Uno dei più amati protagonisti della scena musicale italiana e internazionale racconta la sua vita e la sua arte in un coinvolgente documentario ricco di filmati inediti: uno sguardo inedito sul più grande bluesman italiano.</desc>
+  <programme start="20250929212000 -0200" stop="20250929233000 -0200" channel="Rai2.it">
+    <title lang="it">Boss in incognito</title>
+    <sub-title lang="it">Puntata del 29/09/2025</sub-title>
+    <desc lang="it">Con la novità alla conduzione di Elettra Lamborghini, andiamo alla scoperta di aziende italiane d'eccellenza e dei loro boss, che hanno accettato la sfida di lavorare per una settimana tra i propri dipendenti sotto mentite spoglie.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2025/09/19/1758270243248_2048x1152.jpg" />
-  </programme>
-  <programme start="20250925231000 -0200" stop="20250926000000 -0200" channel="Rai3.it">
-    <title lang="it">Dottori in corsia</title>
-    <desc lang="it">Asia ha 9 anni, vive in provincia di Roma e soffre di una grave forma di scoliosi precoce. I chirurghi dell'ospedale Bambino Gesù hanno deciso di intervenire per evitare che, con l'andare del tempo, questo problema possa aggravarsi. Alessandro un giorno ha iniziato ad avvertire un forte dolore alla guancia. Nessuno immaginava che dietro quel sintomo si nascondesse una diagnosi difficile: un tumore insidioso. Dopo un percorso complesso, Alessandro ha superato la malattia.</desc>
-    <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2021/01/08/1610093552749_2048x1152.jpg" />
-    <episode-num system="onscreen">S6 E4</episode-num>
+    <icon src="https://www.raiplay.it/dl/img/2025/09/17/1758115682028_boss%20in%20incognito%202025_2048x1152.jpg" />
   </programme>
   <programme start="20250926000000 -0200" stop="20250926010000 -0200" channel="Rai3.it">
     <title lang="it">Tg3 Linea Notte</title>
@@ -2328,7 +1995,7 @@
   <programme start="20250926080000 -0200" stop="20250926094500 -0200" channel="Rai3.it">
     <title lang="it">Agorà</title>
     <sub-title lang="it">Puntata del 26/09/2025</sub-title>
-    <desc lang="it">Roberto Inciocchi approfondisce i temi di stretta attualità e segue il dibattito politico con ospiti in studio, inviati, servizi, inchieste, collegamenti e contributi video dai social.</desc>
+    <desc lang="it">Continua a crescere la tensione fra Russia e Nato, dopo che alcuni jet russi sono stati intercettati in Alaska e ai confini estoni dai Caccia Usa. Immediata la risposta di Mosca, attraverso le parole dell'ambasciatore russo a Parigi "se abbattono i nostri aerei sarà guerra". Prosegue il viaggio umanitario della Flotilla, dopo l'attacco dei droni e l'invio della fregata Fasan in soccorso. Gli attivisti, tuttavia, rifiutano una mediazione sulla proposta di una possibile deviazione degli aiuti a Cipro per poi farli arrivare a Gaza. Il ministro Crosetto, che ha condannato gli attacchi e annunciato che la nave Alpino sostituirà la Fasan nell'accompagnamento della Flotilla, ha invitato però gli equipaggi a mediare perché "in acque israeliane non potremo garantire la sicurezza". In attesa delle prossime elezioni regionali, un'intervista a Francesco Acquaroli, candidato del centrodestra alla presidenza della Regione Marche. Ospiti di Roberto Inciocchi: Raffaele Nevi, Forza Italia; Riccardo Magi, +Europa; Francesco Acquaroli, candidato del centrodestra Regione Marche; Gian Micalessin, giornalista; Maria Cuffaro, Tg3 Mondo; Marco Minniti, presidente Fondazione Med-Or; Cristiano Rufini, esperto cybersicurezza; Claudio Brachino, editorialista Italpress; Tonia Mastrobuoni, corrispondente La Repubblica da Berlino; Giuseppe Remuzzi, direttore Istituto Mario Negri; Roberto Vicaretti, Rainews24; Adele Grossi, Rainews24.</desc>
     <date>2019</date>
     <icon src="https://www.raiplay.it/dl/img/2023/09/07/1694080559882_2048x1152_logo.jpg" />
   </programme>
@@ -2817,9 +2484,9 @@
   <programme start="20250928070000 -0200" stop="20250928073000 -0200" channel="Rai3.it">
     <title lang="it">Protestantesimo</title>
     <sub-title lang="it">Fede e impegno - 28/09/2025</sub-title>
-    <desc lang="it">Da movimento missionario fino all'integrazione con la Chiesa valdese, il metodismo in Italia è fede che diventa impegno, giustizia sociale e difesa dei più fragili. Una storia che non è solo memoria, ma una sfida viva. Una voce che parla al presente e guarda al futuro del nostro Paese. Conduce Federica Tourn.</desc>
+    <desc lang="it">Da movimento missionario fino all'Integrazione con la Chiesa valdese, il metodismo in Italia è fede che diventa impegno, giustizia sociale e difesa dei più fragili. Una storia che non è solo memoria, ma una sfida viva. Una voce che parla al presente e guarda al futuro del nostro Paese. Conduce Federica Tourn.</desc>
     <date>2019</date>
-    <icon src="https://www.raiplay.it/dl/img/2021/03/01/1614593662453_2048x1152.jpg" />
+    <icon src="https://www.raiplay.it/dl/img/2025/09/25/1758802223359_protestantesimo%2028%20settembre%202025.jpg" />
   </programme>
   <programme start="20250928073000 -0200" stop="20250928080500 -0200" channel="Rai3.it">
     <title lang="it">Sulla via di Damasco</title>
@@ -2950,332 +2617,244 @@
     <date>2019</date>
     <icon src="https://www.raiplay.it/dl/img/2022/03/03/1646322402541_2048x1152.jpeg" />
   </programme>
+  <programme start="20250928231000 -0200" stop="20250929000000 -0200" channel="Rai3.it">
+    <title lang="it">Un giorno in pretura</title>
+    <sub-title lang="it">Ostaggi del sospetto</sub-title>
+    <desc lang="it">Nuovo processo d'Appello per i componenti della famiglia Mottola, già assolti in un primo appello per l'omicidio di Serena Mollicone, dopo il rinvio della Cassazione.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/09/23/1758635223663_2048x1152.jpg" />
+  </programme>
+  <programme start="20250929000000 -0200" stop="20250929002500 -0200" channel="Rai3.it">
+    <title lang="it">TG3 Mondo</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/09/17/1758120454855_TG3Mondo2048x1152.png" />
+  </programme>
+  <programme start="20250929002500 -0200" stop="20250929003000 -0200" channel="Rai3.it">
+    <title lang="it">Meteo 3</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2016/06/08/1465376427411_meteo_oo.jpg" />
+  </programme>
+  <programme start="20250929003000 -0200" stop="20250929024500 -0200" channel="Rai3.it">
+    <title lang="it">In mezz'ora</title>
+    <sub-title lang="it">Puntata del 28/09/2025</sub-title>
+    <desc lang="it">Monica Maggioni analizza i temi chiave della settimana a livello nazionale ed internazionale attraverso le voci dei protagonisti e degli esperti e il supporto di reportage che raccontano il mondo in cui viviamo.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2023/09/28/1695892524888_2048x1152.jpg" />
+  </programme>
+  <programme start="20250929024500 -0200" stop="20250929025000 -0200" channel="Rai3.it">
+    <title lang="it">Fuori orario. Cose (mai) viste</title>
+    <desc lang="it">Di Ghezzi Baglivi Esposito Fina Francia Luciani Turigliatto presenta THE ACT OF SEEING / 6 di Fulvio Baglivi e Roberto Turigliatto.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2024/01/15/1705328650559_2048x1152.jpg" />
+  </programme>
+  <programme start="20250929025000 -0200" stop="20250929051500 -0200" channel="Rai3.it">
+    <title lang="it">As I was moving ahead occasionally I saw brief glimpses of beauty</title>
+    <sub-title lang="it">2ª Parte</sub-title>
+    <desc lang="it">I film-diario di Jonas Mekas, figura centrale del cinema in America nella seconda metà del '900, nel periodo tra il 1970 e il 1999. Spezzoni di vita quotidiana, frammenti di felicità e bellezza, viaggi in Francia, Italia, Spagna, Austria. Stagioni dell'anno che attraversano New York. Amici, vita in casa, natura, ricerca incessante di momenti di bellezza e celebrazione della vita tra amicizie, sensazioni, brevi momenti di gioia e condivisione.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2023/12/27/1703675049915_As-I-Was-Moving-Ahead-Occasionally_2aparte.jpg" />
+  </programme>
+  <programme start="20250929051500 -0200" stop="20250929054000 -0200" channel="Rai3.it">
+    <title lang="it">Histoire(S) du Cinéma</title>
+    <sub-title lang="it">3a - La Monnaie De L'absolu</sub-title>
+    <desc lang="it">La serie costituisce l'opus magnum del grande cineasta e una delle opere più importanti del Novecento, il compimento di una vita dedicata alla domanda: "Che cosa è il cinema?". "Non una tecnica. Non un'arte. Un mistero". Organizzata attraverso un lavoro di montaggio strabiliante e ineguagliato, disseminato di rimandi e citazioni, la storia non cronologica orchestrata da Godard diventa il ritratto del secolo scorso e l'autoritratto stesso del suo autore, un'autobiografia poetica struggente.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2024/02/23/1708679744252_HistoireS-du-Cinma_5.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20250929054000 -0200" stop="20250929060000 -0200" channel="Rai3.it">
+    <title lang="it">Fuori orario. Cose (mai) viste</title>
+    <desc lang="it">Di Ghezzi Baglivi Esposito Fina Francia Luciani Turigliatto presenta THE ACT OF SEEING / 6 di Fulvio Baglivi e Roberto Turigliatto.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2024/01/15/1705328650559_2048x1152.jpg" />
+  </programme>
+  <programme start="20250929060000 -0200" stop="20250929070000 -0200" channel="Rai3.it">
+    <title lang="it">RaiNews</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2022/12/05/1670268515096_2048x1152_logo.jpg" />
+  </programme>
+  <programme start="20250929070000 -0200" stop="20250929073000 -0200" channel="Rai3.it">
+    <title lang="it">TGR Buongiorno Italia</title>
+    <desc lang="it">Direttore Roberto Pacchetti. Condirettore Antonello Perillo. Caporedattrice centrale Daniela Sodano. Caporedattore Rino Giusa.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2021/03/19/1616172640597_2048x1152.jpg" />
+  </programme>
+  <programme start="20250929073000 -0200" stop="20250929080000 -0200" channel="Rai3.it">
+    <title lang="it">TGR Buongiorno Regione</title>
+    <desc lang="it">A cura delle redazioni regionali della TGR.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/09/22/1758555087152_BuongiornoRegione2048x1152.png" />
+  </programme>
+  <programme start="20250929080000 -0200" stop="20250929094500 -0200" channel="Rai3.it">
+    <title lang="it">Agorà</title>
+    <sub-title lang="it">Puntata del 29/09/2025</sub-title>
+    <desc lang="it">Roberto Inciocchi approfondisce i temi di stretta attualità e segue il dibattito politico con ospiti in studio, inviati, servizi, inchieste, collegamenti e contributi video dai social.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2023/09/07/1694080559882_2048x1152_logo.jpg" />
+  </programme>
+  <programme start="20250929094500 -0200" stop="20250929105000 -0200" channel="Rai3.it">
+    <title lang="it">Re Start</title>
+    <sub-title lang="it">Puntata del 29/09/2025</sub-title>
+    <desc lang="it">Annalisa Bruchi dialoga con i protagonisti della vita economica italiana per avvicinare i cittadini ai temi della finanza, dell'economia e del lavoro.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2022/10/06/1665026973384_2048x1152.jpg" />
+  </programme>
+  <programme start="20250929105000 -0200" stop="20250929115500 -0200" channel="Rai3.it">
+    <title lang="it">Elisir</title>
+    <sub-title lang="it">Puntata del 29/09/2025</sub-title>
+    <desc lang="it">Michele Mirabella, Francesca Parisella e Benedetta Rinaldi presentano nuovi approfondimenti su benessere fisico e psicologico, alimentazione, stili di vita e attualità medico-scientifica, grazie al contributo di esperti e a servizi sempre aggiornati.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2022/09/23/1663967625952_2048x1152%201.jpg" />
+  </programme>
+  <programme start="20250929115500 -0200" stop="20250929120000 -0200" channel="Rai3.it">
+    <title lang="it">Meteo 3</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2016/06/08/1465376427411_meteo_oo.jpg" />
+  </programme>
+  <programme start="20250929120000 -0200" stop="20250929122500 -0200" channel="Rai3.it">
+    <title lang="it">Tg3</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2021/03/19/1616172758681_2048x1152.jpg" />
+  </programme>
+  <programme start="20250929122500 -0200" stop="20250929125000 -0200" channel="Rai3.it">
+    <title lang="it">TG3 Fuori TG</title>
+    <desc lang="it">Il rotocalco del Tg3 con spazi quotidiani dedicati ai consumatori, alla salute dell'agricoltura, al costume, all'economia, al mondo femminile ed alla cultura.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/09/15/1757948826860_TG3FuoriTG2048X1152.png" />
+  </programme>
+  <programme start="20250929125000 -0200" stop="20250929132000 -0200" channel="Rai3.it">
+    <title lang="it">Quante storie</title>
+    <sub-title lang="it">Puntata del 29/09/2025</sub-title>
+    <desc lang="it">Dall'arte alla letteratura, dalla musica alla storia recente, dalla filosofia alla politica, Giorgio Zanchini e i suoi ospiti offrono spunti di riflessione per comprendere le mille facce di un Paese meraviglioso e contraddittorio.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2019/09/06/1567765269930_Quante%20Storie_2048x1152.jpg" />
+  </programme>
+  <programme start="20250929132000 -0200" stop="20250929140000 -0200" channel="Rai3.it">
+    <title lang="it">Passato e Presente</title>
+    <sub-title lang="it">La strage di Marzabotto-Monte Sole</sub-title>
+    <desc lang="it">Tra il 29 settembre e il 5 ottobre del 1944, si compie a Monte Sole la più sanguinosa strage compiuta dai nazifascisti durante l'occupazione tedesca. La strage viene spesso ricordata come strage di Marzabotto, ma le violenze subite dalla popolazione civile hanno riguardato non solo il comune di Marzabotto ma tutta l'area. I tedeschi asserragliati sulla Linea Gotica, con gli Alleati che avanzano verso nord e i partigiani che rappresentano una spina nel fianco, decidono di rispondere attuando la strategia della "terra bruciata": annientare interi territori e la popolazione che ci vive. A Monte Sole è una settimana di fuoco che distrugge per sempre 115 località. Alla fine, il bilancio è di 770 morti, di cui quasi un terzo al di sotto dei dodici anni. È la più grande strage di civili di tutta l'Europa occidentale. Emanuela Lucchetti racconta gli eventi direttamente dai luoghi in cui si sono svolti mentre in studio, con Paolo Mieli, c'è la storica Isabella Insolvibile. Tra il 29 settembre e il 5 ottobre del 1944, si compie a Monte Sole la più sanguinosa strage compiuta dai nazifascisti durante l'occupazione tedesca. La strage viene spesso ricordata come strage di Marzabotto, ma le violenze subite dalla popolazione civile hanno riguardato non solo il comune di Marzabotto ma tutta l'area. I tedeschi asserragliati sulla Linea Gotica, con gli Alleati che avanzano verso nord e i partigiani che rappresentano una spina nel fianco, decidono di rispondere attuando la strategia della \"terra bruciata\": annientare interi territori e la popolazione che ci vive. A Monte Sole è una settimana di fuoco che distrugge per sempre 115 località. Alla fine, il bilancio è di 770 morti, di cui quasi un terzo al di sotto dei dodici anni. È la più grande strage di civili di tutta l'Europa occidentale. Emanuela Lucchetti racconta gli eventi direttamente dai luoghi in cui si sono svolti mentre in studio, con Paolo Mieli, c'è la storica Isabella Insolvibile.</desc>
+    <credits>
+      <director>Davide Frasnelli</director>
+      <actor>Emanuela Lucchetti</actor>
+      <actor>Isabella Insolvibile</actor>
+      <presenter>Paolo Mieli</presenter>
+    </credits>
+    <date>2024</date>
+    <icon src="https://www.raiplay.it/dl/img/2024/09/30/1727713595620_1727713582714.png" />
+    <country lang="it">Italia</country>
+  </programme>
+  <programme start="20250929140000 -0200" stop="20250929141900 -0200" channel="Rai3.it">
+    <title lang="it">Tg Regione</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2016/06/08/1465376127831_tgr_oo.jpg" />
+  </programme>
+  <programme start="20250929141900 -0200" stop="20250929142000 -0200" channel="Rai3.it">
+    <title lang="it">Tg Regione Meteo</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/08/27/1756290427480_TgRegioneMeteo2048x1152.png" />
+  </programme>
+  <programme start="20250929142000 -0200" stop="20250929144900 -0200" channel="Rai3.it">
+    <title lang="it">Tg3</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2021/03/19/1616172758681_2048x1152.jpg" />
+  </programme>
+  <programme start="20250929144900 -0200" stop="20250929145000 -0200" channel="Rai3.it">
+    <title lang="it">Meteo 3</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2016/06/08/1465376427411_meteo_oo.jpg" />
+  </programme>
+  <programme start="20250929145000 -0200" stop="20250929150500 -0200" channel="Rai3.it">
+    <title lang="it">TGR Leonardo</title>
+    <desc lang="it">TG di Scienza e Ambiente a cura della redazione scientifica della Tgr Piemonte.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2016/11/15/1479202026725_Leonardo%20O.jpg" />
+  </programme>
+  <programme start="20250929150500 -0200" stop="20250929151500 -0200" channel="Rai3.it">
+    <title lang="it">TGR Piazza Affari</title>
+    <desc lang="it">TG di Economia e Finanza a cura della redazione economica della Tgr Lombardia.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2023/10/25/1698228137165_1470307948842_piazza_2048x1152.jpg" />
+  </programme>
+  <programme start="20250929151500 -0200" stop="20250929152000 -0200" channel="Rai3.it">
+    <title lang="it">TG3 LIS</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/09/16/1758033337529_TG3LIS2048x1152.png" />
+  </programme>
+  <programme start="20250929152000 -0200" stop="20250929152500 -0200" channel="Rai3.it">
+    <title lang="it">Tg Parlamento</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2021/07/20/1626761017898_TG_Parlamento_2048x1152.jpg" />
+  </programme>
+  <programme start="20250929152500 -0200" stop="20250929154500 -0200" channel="Rai3.it">
+    <title lang="it">TGR Giubileo - Cammini di Speranza</title>
+    <desc lang="it">Di Antonella Armentano. A cura della TGR Lazio.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/01/07/1736272994332_TgrGiubileo.jpg" />
+  </programme>
+  <programme start="20250929154500 -0200" stop="20250929163500 -0200" channel="Rai3.it">
+    <title lang="it">Little Tony. Cuore matto</title>
+    <desc lang="it">Un omaggio vibrante a un cuore rock e a un'anima italiana che continua a battere nelle note delle sue canzoni. Little Tony non è stato soltanto il ragazzo dal ciuffo ribelle che ha portato il rock'n'roll nelle case degli italiani: è stato un artista capace di unire generazioni, un interprete che ha saputo mescolare il ritmo travolgente della musica americana con la sensibilità melodica italiana, diventando uno dei simboli più amati della nostra cultura popolare. Luca Siciliano.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2020/09/15/1600167949316_Rai3_tappo_2048x1152.jpg" />
+  </programme>
+  <programme start="20250929163500 -0200" stop="20250929190000 -0200" channel="Rai3.it">
+    <title lang="it">Geo</title>
+    <sub-title lang="it">Puntata del 29/09/2025</sub-title>
+    <desc lang="it">Attraverso i grandi documentari di "Geo" e gli esperti in studio, Sveva Sagramola ed Emanuele Biggi raccontano le persone, le meraviglie e le fragilità del nostro pianeta, dando particolare spazio ai grandi squilibri ambientali che compromettono la sopravvivenza della specie.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2019/07/09/1562672685846_GEO%202048x1152.jpg" />
+  </programme>
+  <programme start="20250929190000 -0200" stop="20250929193000 -0200" channel="Rai3.it">
+    <title lang="it">Tg3</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2021/03/19/1616172758681_2048x1152.jpg" />
+  </programme>
+  <programme start="20250929193000 -0200" stop="20250929195100 -0200" channel="Rai3.it">
+    <title lang="it">Tg Regione</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2016/06/08/1465376127831_tgr_oo.jpg" />
+  </programme>
+  <programme start="20250929195100 -0200" stop="20250929200000 -0200" channel="Rai3.it">
+    <title lang="it">Tg Regione Meteo</title>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/08/27/1756290427480_TgRegioneMeteo2048x1152.png" />
+  </programme>
+  <programme start="20250929200000 -0200" stop="20250929201500 -0200" channel="Rai3.it">
+    <title lang="it">Blob</title>
+    <sub-title lang="it">Puntata del 29/09/2025</sub-title>
+    <desc lang="it">Venti minuti di "surrogato televisivo". La tv smontata, rimontata e messa a nudo attraverso il montaggio per svelare cosa il video e i suoi protagonisti di tutti i giorni ci dicono in realtà.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2019/11/13/1573642200950_Blob%202048x1152.jpg" />
+  </programme>
+  <programme start="20250929201500 -0200" stop="20250929204000 -0200" channel="Rai3.it">
+    <title lang="it">Riserva Indiana</title>
+    <sub-title lang="it">Riccardo Sinigallia - 29/09/2025</sub-title>
+    <desc lang="it">La parola "ricco", in origine, non era legata soltanto al denaro. Deriva da rex, cioè re: un termine che richiama il potere, lo scettro, la corona. La ricchezza, all'inizio, indicava proprio questo: la capacità di comandare e di avere dominio sugli altri. Nel 1944, a Bretton Woods, si stabilì che il metro universale sarebbe stato il PIL. Da allora viviamo ossessionati da punti e decimali di crescita. Ma non ovunque è così. In Bhutan, il parametro non è il prodotto interno lordo, ma la felicità interna lorda. Un Paese povero, eppure tra i più felici al mondo. A Riserva Indiana, un viaggio per chiederci: che cos'è davvero la ricchezza.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2025/09/24/1758721717345_RI-Senigallia-2048x1152.jpg" />
+    <episode-num system="onscreen">S4</episode-num>
+  </programme>
+  <programme start="20250929204000 -0200" stop="20250929205000 -0200" channel="Rai3.it">
+    <title lang="it">Il cavallo e la torre</title>
+    <sub-title lang="it">Puntata del 29/09/2025</sub-title>
+    <desc lang="it">Il fatto del giorno in 10 minuti. La politica, i poteri, le persone dei nostri tempi raccontati da Marco Damilano.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2022/09/30/1664549492271_2048x1152.jpeg" />
+  </programme>
+  <programme start="20250929205000 -0200" stop="20250929212000 -0200" channel="Rai3.it">
+    <title lang="it">Un posto al sole</title>
+    <sub-title lang="it">Puntata del 29/09/2025</sub-title>
+    <desc lang="it">Mentre Giulia e Rosa appaiono stranite dalla modalità con cui Gianluca ha venduto un orologio che dichiara essere suo, Piero Baccini arriva a Napoli per reclamarne la restituzione.</desc>
+    <date>2019</date>
+    <icon src="https://www.raiplay.it/dl/img/2022/04/20/1650448355555_2048x1152.jpg" />
+    <episode-num system="onscreen">S29</episode-num>
+  </programme>
   <channel id="BBC.NEWS.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2085.png" />
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2085.png" />
     <url>http://www.sky.com</url>
     <display-name lang="en">BBC NEWS HD</display-name>
   </channel>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925000000 +0000" stop="20250925003000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4ed4300f-51b7-4f51-9967-6ea286d6e604/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925003000 +0000" stop="20250925010000 +0000">
-    <title lang="en">World Questions</title>
-    <desc lang="en">Jonny Dymond and a panel of politicians and experts debate questions from an Athens audience on immigration, over-tourism and the threat that Greece itself may be dying.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5466b879-6bee-4ec3-b471-1d52a15b3a2b/16-9" />
-    <episode-num system="xmltv_ns">.0.</episode-num>
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925010000 +0000" stop="20250925013000 +0000">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8ed13973-210c-400d-913e-b60d59a7e427/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925013000 +0000" stop="20250925014500 +0000">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/01d77861-1f77-43c8-8f8c-9571b86e4fc2/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925014500 +0000" stop="20250925020000 +0000">
-    <title lang="en">BBC Sport</title>
-    <desc lang="en">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d085828f-2bd8-4538-8444-bc631f38a50a/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925020000 +0000" stop="20250925023000 +0000">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d10e371f-eec2-4dc5-95e4-ad75698b0fc0/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925023000 +0000" stop="20250925024500 +0000">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0210ab88-b529-457a-8093-0d3b415a9d7a/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925024500 +0000" stop="20250925030000 +0000">
-    <title lang="en">BBC Sport</title>
-    <desc lang="en">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8aa162b7-a9ce-42a1-8a58-9b72ffd9114a/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925030000 +0000" stop="20250925033000 +0000">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/df5d15f4-5438-4110-81df-81766f457c83/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925033000 +0000" stop="20250925034500 +0000">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/18c123e1-fdb7-491e-994e-a21f6ce40281/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925034500 +0000" stop="20250925040000 +0000">
-    <title lang="en">BBC Sport</title>
-    <desc lang="en">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/cda6b7cc-c669-477f-bfdb-d4bb967ff55c/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925040000 +0000" stop="20250925043000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c0295cdf-044f-4ccd-b6db-631a03dab1c7/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925043000 +0000" stop="20250925050000 +0000">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/72ecbf75-4a1c-472c-9344-d556061d8e69/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925050000 +0000" stop="20250925080000 +0000">
-    <title lang="en">Breakfast</title>
-    <desc lang="en">The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1bf1f01a-cdbe-4a8d-a2e9-fe5839526521/16-9" />
-    <episode-num system="xmltv_ns">.9.</episode-num>
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925080000 +0000" stop="20250925083000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/e7519d39-6228-4a56-b73d-ae4affb5e63e/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925083000 +0000" stop="20250925093000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0dbaa17d-87ab-4460-8589-f6fad9a3529b/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925093000 +0000" stop="20250925100000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b639b93f-31e2-4be1-a1f8-1d0eaf4cf9da/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925100000 +0000" stop="20250925103000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5d73a5c3-8fd8-4000-98aa-a32e3558b3ce/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925103000 +0000" stop="20250925104500 +0000">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/647d8af0-7c55-4ab9-bdf3-b70d9f1bb397/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925104500 +0000" stop="20250925110000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/21f57ed3-2cc7-4bd9-b25d-6b3180320bb7/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925110000 +0000" stop="20250925113000 +0000">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6a792e1e-b5d8-46bd-b6e7-9c6aa14f4896/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925113000 +0000" stop="20250925120000 +0000">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/44cacf81-63ff-49bb-ac22-795ba91db64b/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925120000 +0000" stop="20250925130000 +0000">
-    <title lang="en">Signed: BBC News at One</title>
-    <desc lang="en">The latest national and international news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/cd0f21f4-2bbd-40b7-87b0-adc89d834150/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925130000 +0000" stop="20250925133000 +0000">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b4d02150-3fbf-481e-9281-e61854fce3aa/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925133000 +0000" stop="20250925134500 +0000">
-    <title lang="en">Business Today - NYSE Opening Bell</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from New York and around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c7530d27-a4b5-4ef4-b33a-ef89397d8213/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925134500 +0000" stop="20250925140000 +0000">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/78251194-2979-43bb-9217-0b26b715d516/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925140000 +0000" stop="20250925143000 +0000">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1a15b7d2-a548-48e2-8e3f-a2f789be0869/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925143000 +0000" stop="20250925150000 +0000">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/698fc11e-168d-478e-96e7-a1dc12524047/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925150000 +0000" stop="20250925153000 +0000">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/fbed5fc5-a84b-47cf-8f75-c4ace257bf20/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925153000 +0000" stop="20250925154500 +0000">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/9a9b0ca3-7516-417e-aad4-0fcd20114952/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925154500 +0000" stop="20250925160000 +0000">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4e876e72-e87c-4447-a886-52fc8654f13b/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925160000 +0000" stop="20250925163000 +0000">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a3b8b125-844d-4a81-bc99-4d567fd26499/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925163000 +0000" stop="20250925170000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a58e7c1e-063a-44ea-aaaf-c136053f42cc/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925170000 +0000" stop="20250925173000 +0000">
-    <title lang="en">BBC News at Six</title>
-    <desc lang="en">The latest national and international news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/26e75f20-f4a9-46e6-a81c-13d6f44e4ea5/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925173000 +0000" stop="20250925180000 +0000">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1fdf492e-0f80-4ac7-b612-94514f74b9c5/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925180000 +0000" stop="20250925183000 +0000">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4790a462-1cf5-449f-8df3-fa2774e107bd/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925183000 +0000" stop="20250925190000 +0000">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c75a823e-418b-43c1-9b7f-b6bd3205893a/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925190000 +0000" stop="20250925193000 +0000">
-    <title lang="en">The Context</title>
-    <desc lang="en">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/949c4bf0-3dae-43e6-87fe-ee31cd4a001e/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925193000 +0000" stop="20250925200000 +0000">
-    <title lang="en">The Context</title>
-    <desc lang="en">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/9071f311-47f4-42a8-aa68-009d7b17f34e/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925200000 +0000" stop="20250925210000 +0000">
-    <title lang="en">Question Time</title>
-    <desc lang="en">Debate with politicians, commentators and members of the public from Bedworth, Warks.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <icon src="https://images.metadata.sky.com/pd-image/fccb1506-d21b-483c-a9d0-fa3755896b21/16-9" />
-    <episode-num system="xmltv_ns">.22.</episode-num>
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925210000 +0000" stop="20250925213000 +0000">
-    <title lang="en">BBC News at Ten</title>
-    <desc lang="en">The latest national and international news, with reports from BBC correspondents worldwide.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/79d80a78-36fc-45ec-bc25-9b8a26b406a0/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925213000 +0000" stop="20250925220000 +0000">
-    <title lang="en">Newsnight</title>
-    <desc lang="en">Insights and global interviews on the crucial news stories of the day. With Faisal Islam.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b2552dca-b776-49c1-8dec-3c92aa3dfaf4/16-9" />
-    <episode-num system="xmltv_ns">.246.</episode-num>
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925220000 +0000" stop="20250925230000 +0000">
-    <title lang="en">BBC World News America</title>
-    <desc lang="en">In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/afeed989-1533-40e4-958e-4b99913bffb3/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925230000 +0000" stop="20250925233000 +0000">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/7c168b5e-e075-4a52-9f89-7b0c262b7dee/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250925233000 +0000" stop="20250926000000 +0000">
-    <title lang="en">Newscast</title>
-    <desc lang="en">Adam is joined by Henry Zeffman and Simon Jack to discuss Andy Burnham, Jaguar Land Rover and the cost of pharmaceuticals.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ea858d03-f83d-40bc-a391-b6ff23180701/16-9" />
-    <episode-num system="xmltv_ns">.17.</episode-num>
-  </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250926000000 +0000" stop="20250926003000 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
@@ -3374,7 +2953,7 @@
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <icon src="https://images.metadata.sky.com/pd-image/485e2649-aa94-471c-9bdb-d323596d3a9b/16-9" />
-    <episode-num system="xmltv_ns">.10.</episode-num>
+    <episode-num system="xmltv_ns">.9.</episode-num>
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250926080000 +0000" stop="20250926083000 +0000">
     <title lang="en">BBC News</title>
@@ -3404,19 +2983,12 @@
     <category lang="en">News</category>
     <icon src="https://images.metadata.sky.com/pd-image/8cea424a-b483-4188-a81b-0b36cfa07cb4/16-9" />
   </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250926100000 +0000" stop="20250926103000 +0000">
+  <programme channel="BBC.NEWS.HD.uk" start="20250926100000 +0000" stop="20250926104500 +0000">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <icon src="https://images.metadata.sky.com/pd-image/1e769cf7-023a-407d-91bd-02b113cf44bc/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250926103000 +0000" stop="20250926104500 +0000">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/10930738-429c-4b34-b254-c0c12d859095/16-9" />
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250926104500 +0000" stop="20250926110000 +0000">
     <title lang="en">BBC News</title>
@@ -3439,26 +3011,26 @@
     <category lang="en">News</category>
     <icon src="https://images.metadata.sky.com/pd-image/9dbf3b0d-60f6-4288-85e4-27665c3b9fae/16-9" />
   </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250926120000 +0000" stop="20250926130000 +0000">
-    <title lang="en">Signed: BBC News at One</title>
-    <desc lang="en">The latest national and international news from the BBC.</desc>
+  <programme channel="BBC.NEWS.HD.uk" start="20250926120000 +0000" stop="20250926123000 +0000">
+    <title lang="en">BBC News Now</title>
+    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a5bdde30-346d-4776-8fe6-08fd96771d05/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/9cae61a3-872e-47d3-82aa-f2e42e859322/16-9" />
   </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250926130000 +0000" stop="20250926133000 +0000">
+  <programme channel="BBC.NEWS.HD.uk" start="20250926123000 +0000" stop="20250926130000 +0000">
+    <title lang="en">BBC News Now</title>
+    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8d8fb9e4-7aba-44ca-8135-63ade1f0fbfc/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250926130000 +0000" stop="20250926134500 +0000">
     <title lang="en">BBC News Now</title>
     <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <icon src="https://images.metadata.sky.com/pd-image/53e0d6a9-17c0-449d-af74-0998c9e0bb61/16-9" />
-  </programme>
-  <programme channel="BBC.NEWS.HD.uk" start="20250926133000 +0000" stop="20250926134500 +0000">
-    <title lang="en">Business Today - NYSE Opening Bell</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from New York and around the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <icon src="https://images.metadata.sky.com/pd-image/26092dde-b56f-43c1-b6ff-0019dccbf7c3/16-9" />
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250926134500 +0000" stop="20250926140000 +0000">
     <title lang="en">BBC News Now</title>
@@ -3578,7 +3150,7 @@
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <icon src="https://images.metadata.sky.com/pd-image/5d6d3dfd-d30c-4b6d-8152-23d5d4200140/16-9" />
-    <episode-num system="xmltv_ns">.247.</episode-num>
+    <episode-num system="xmltv_ns">.246.</episode-num>
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250926220000 +0000" stop="20250926223000 +0000">
     <title lang="en">BBC World News America</title>
@@ -3589,7 +3161,7 @@
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250926223000 +0000" stop="20250926230000 +0000">
     <title lang="en">The President's Path</title>
-    <desc lang="en">Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
+    <desc lang="en">Caitríona Perry, Courtney Subramanian and Sumi Somaskanda analyse how the Trump administration is taking on the press and its critics.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Factual</category>
     <icon src="https://images.metadata.sky.com/pd-image/99457206-89aa-4d01-852b-2a53cb9af4d8/16-9" />
@@ -3689,7 +3261,7 @@
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <icon src="https://images.metadata.sky.com/pd-image/f2d24a18-95b0-4346-8ff6-02f91958416e/16-9" />
-    <episode-num system="xmltv_ns">.11.</episode-num>
+    <episode-num system="xmltv_ns">.10.</episode-num>
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250927080000 +0000" stop="20250927090000 +0000">
     <title lang="en">BBC News</title>
@@ -3771,7 +3343,7 @@
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250927133000 +0000" stop="20250927140000 +0000">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
+    <desc lang="en">At the United Nations General Assembly over 200 prominent politicians and scientists released an urgent call for binding international measures against dangerous uses of AI.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Factual</category>
     <icon src="https://images.metadata.sky.com/pd-image/7b8a2152-3690-469d-a4c3-af9d557fc24c/16-9" />
@@ -3793,7 +3365,7 @@
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250927144500 +0000" stop="20250927150000 +0000">
     <title lang="en">Newswatch</title>
-    <desc lang="en">Your views on the coverage of events by BBC News, answered by the editors and decision makers in charge.</desc>
+    <desc lang="en">BBC2's lunchtime discussion programme Politics Live is given a more 'daytime' feel. Its presenter Vicki Young explains the thinking behind the new look.</desc>
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <icon src="https://images.metadata.sky.com/pd-image/98849ad4-e2ae-415f-b52e-e0b92b757646/16-9" />
@@ -3808,7 +3380,7 @@
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250927153000 +0000" stop="20250927160000 +0000">
     <title lang="en">Political Thinking with Nick Robinson</title>
-    <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
+    <desc lang="en">The newest Reform UK MP on why he thinks Christian conservatism can save society.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Factual</category>
     <icon src="https://images.metadata.sky.com/pd-image/732df61c-61eb-4b8f-8be3-50aed2dd5a32/16-9" />
@@ -3946,7 +3518,7 @@
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250928023000 +0000" stop="20250928030000 +0000">
     <title lang="en">Ukrainecast</title>
-    <desc lang="en">In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
+    <desc lang="en">The US president backed Kyiv to regain its territory at the UN General Assembly this week, in a bold claim Russia dismissed as 'erroneous'.</desc>
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <icon src="https://images.metadata.sky.com/pd-image/a472beed-6712-45fd-9da3-62eac7977fcc/16-9" />
@@ -3961,7 +3533,7 @@
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250928033000 +0000" stop="20250928040000 +0000">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
+    <desc lang="en">At the United Nations General Assembly over 200 prominent politicians and scientists released an urgent call for binding international measures against dangerous uses of AI.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Factual</category>
     <icon src="https://images.metadata.sky.com/pd-image/7b8a2152-3690-469d-a4c3-af9d557fc24c/16-9" />
@@ -3988,11 +3560,11 @@
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <icon src="https://images.metadata.sky.com/pd-image/ba956c77-0df6-4c1a-8598-70eb4e14fda3/16-9" />
-    <episode-num system="xmltv_ns">.13.</episode-num>
+    <episode-num system="xmltv_ns">.12.</episode-num>
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250928080000 +0000" stop="20250928090000 +0000">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
+    <desc lang="en">Laura Kuenssberg is joined by prime minister Sir Keir Starmer and James Cleverly MP, the shadow housing secretary.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Factual</category>
     <icon src="https://images.metadata.sky.com/pd-image/bfc5ff2c-3d82-4476-b84b-aee2a4bcee8c/16-9" />
@@ -4021,7 +3593,7 @@
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250928103000 +0000" stop="20250928110000 +0000">
     <title lang="en">The President's Path</title>
-    <desc lang="en">Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
+    <desc lang="en">Caitríona Perry, Courtney Subramanian and Sumi Somaskanda analyse how the Trump administration is taking on the press and its critics.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Factual</category>
     <icon src="https://images.metadata.sky.com/pd-image/99457206-89aa-4d01-852b-2a53cb9af4d8/16-9" />
@@ -4093,12 +3665,11 @@
     <icon src="https://images.metadata.sky.com/pd-image/cc7e9a66-210f-49a5-b596-c3c2bf636245/16-9" />
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250928153000 +0000" stop="20250928160000 +0000">
-    <title lang="en">AI Decoded</title>
-    <desc lang="en">Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
+    <title lang="en">Global Eye 25/26 (News) - Global Eye</title>
+    <desc lang="en">A BBC Eye undercover reporter exposes a fake news operation in Moldova in Eastern Europe as the country prepares to go to the polls.</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Factual</category>
-    <icon src="https://images.metadata.sky.com/pd-image/7b8a2152-3690-469d-a4c3-af9d557fc24c/16-9" />
-    <episode-num system="xmltv_ns">.3.</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/69906399-87af-491b-81ee-883d5fea5b0c/16-9" />
   </programme>
   <programme channel="BBC.NEWS.HD.uk" start="20250928160000 +0000" stop="20250928170000 +0000">
     <title lang="en">BBC News</title>
@@ -4185,5 +3756,338 @@
     <category lang="en">News &amp; Documentary</category>
     <category lang="en">News</category>
     <icon src="https://images.metadata.sky.com/pd-image/e7b12373-efec-4887-a2d8-8d9511e6ac22/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250928230000 +0000" stop="20250928233000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bbb7aaa0-30fc-4f70-9918-b7407ca27496/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250928233000 +0000" stop="20250929000000 +0000">
+    <title lang="en">AI Decoded</title>
+    <desc lang="en">At the United Nations General Assembly over 200 prominent politicians and scientists released an urgent call for binding international measures against dangerous uses of AI.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7b8a2152-3690-469d-a4c3-af9d557fc24c/16-9" />
+    <episode-num system="xmltv_ns">.3.</episode-num>
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929000000 +0000" stop="20250929003000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ed22aca6-462e-4d07-a366-e0059ca9e17a/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929003000 +0000" stop="20250929010000 +0000">
+    <title lang="en">Ukrainecast</title>
+    <desc lang="en">The US president backed Kyiv to regain its territory at the UN General Assembly this week, in a bold claim Russia dismissed as 'erroneous'.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a472beed-6712-45fd-9da3-62eac7977fcc/16-9" />
+    <episode-num system="xmltv_ns">.4.</episode-num>
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929010000 +0000" stop="20250929013000 +0000">
+    <title lang="en">Newsday</title>
+    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dcbe0eb9-f207-41f8-983e-2e0437973af6/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929013000 +0000" stop="20250929014500 +0000">
+    <title lang="en">Business Today</title>
+    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e5ba03c2-9a12-4206-82f2-ff9e95252931/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929014500 +0000" stop="20250929020000 +0000">
+    <title lang="en">BBC Sport</title>
+    <desc lang="en">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e5e2f4c3-ae4d-494c-b22f-6e822b572a9a/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929020000 +0000" stop="20250929023000 +0000">
+    <title lang="en">Newsday</title>
+    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/66b4aa17-a1d4-4ded-9041-811bfb31e5e6/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929023000 +0000" stop="20250929024500 +0000">
+    <title lang="en">Business Today</title>
+    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1ae267ae-77bc-4548-bc98-47a4a01a040d/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929024500 +0000" stop="20250929030000 +0000">
+    <title lang="en">BBC Sport</title>
+    <desc lang="en">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b88459e5-ea54-4095-875b-0f029f309c2d/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929030000 +0000" stop="20250929033000 +0000">
+    <title lang="en">Newsday</title>
+    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d616eee7-1801-4b52-a0cb-6115b22fe82c/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929033000 +0000" stop="20250929034500 +0000">
+    <title lang="en">Business Today</title>
+    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b2d5098a-4c5e-4c9a-a000-4f3a19dd2e73/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929034500 +0000" stop="20250929040000 +0000">
+    <title lang="en">BBC Sport</title>
+    <desc lang="en">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5bdab950-937d-4094-9d56-1da07732fa4d/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929040000 +0000" stop="20250929043000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/95347e06-063a-4a90-b9f4-6d23a5cb4c8a/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929043000 +0000" stop="20250929050000 +0000">
+    <title lang="en">Business Today</title>
+    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/37550944-e77b-459d-ac8c-accc7144d75a/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929050000 +0000" stop="20250929080000 +0000">
+    <title lang="en">Breakfast</title>
+    <desc lang="en">The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9c952a7a-427c-41a9-9e9f-998fba5d33c3/16-9" />
+    <episode-num system="xmltv_ns">.13.</episode-num>
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929080000 +0000" stop="20250929083000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/291aef36-a136-4fbf-be6a-c0f081ada98b/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929083000 +0000" stop="20250929090000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6fd8bf10-cf67-4528-b782-764fb043fd5f/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929090000 +0000" stop="20250929093000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3f07f1c6-75d8-48b4-a8c1-5497856dc24b/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929093000 +0000" stop="20250929100000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e346b51d-0c1d-4e39-a29a-7bdf13df6f5c/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929100000 +0000" stop="20250929103000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/316a5147-4a26-4948-940d-9ed59282ee75/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929103000 +0000" stop="20250929104500 +0000">
+    <title lang="en">Business Today</title>
+    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ed976cf6-5cff-4a89-8bc4-b0840ab75ac9/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929104500 +0000" stop="20250929110000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2e874ccd-f9ec-4c5b-8745-d8e3f8907a93/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929110000 +0000" stop="20250929113000 +0000">
+    <title lang="en">BBC News Now</title>
+    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/82af6e09-f4c4-4f19-8d3d-a5395e121453/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929113000 +0000" stop="20250929120000 +0000">
+    <title lang="en">BBC News Now</title>
+    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bb442194-2b1c-4394-a49f-fa3d077fd6bd/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929120000 +0000" stop="20250929130000 +0000">
+    <title lang="en">Signed: BBC News at One</title>
+    <desc lang="en">The latest national and international news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2d447166-1983-4cdb-9423-c7825d1e0841/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929130000 +0000" stop="20250929133000 +0000">
+    <title lang="en">BBC News Now</title>
+    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/36b3f594-fd33-4d67-9e54-9ec299de741e/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929133000 +0000" stop="20250929134500 +0000">
+    <title lang="en">Business Today - NYSE Opening Bell</title>
+    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from New York and around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dc21a3d3-dc2f-462b-a265-716e459ead36/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929134500 +0000" stop="20250929140000 +0000">
+    <title lang="en">BBC News Now</title>
+    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2c8213ba-08ac-4a2f-aa14-1a4a69535e5a/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929140000 +0000" stop="20250929143000 +0000">
+    <title lang="en">Verified Live</title>
+    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d347553d-01db-4c00-aa33-4d1606d71ff5/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929143000 +0000" stop="20250929150000 +0000">
+    <title lang="en">Verified Live</title>
+    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0359e29a-8730-4367-b787-c62056bc3817/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929150000 +0000" stop="20250929153000 +0000">
+    <title lang="en">Verified Live</title>
+    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/31d6b92d-f9d4-4e8f-9abe-256eebc80109/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929153000 +0000" stop="20250929154500 +0000">
+    <title lang="en">Business Today</title>
+    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dc0ded5b-7b53-4d7d-a321-d0346d43e3df/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929154500 +0000" stop="20250929160000 +0000">
+    <title lang="en">Verified Live</title>
+    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b7766e8b-44de-45c1-91d8-8a7cd4f604bf/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929160000 +0000" stop="20250929163000 +0000">
+    <title lang="en">Verified Live</title>
+    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ef649227-9c8b-4ef1-abcf-567fd8e3cd96/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929163000 +0000" stop="20250929170000 +0000">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7ef59fb8-f88d-4f42-ace1-a9664e58b691/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929170000 +0000" stop="20250929173000 +0000">
+    <title lang="en">BBC News at Six</title>
+    <desc lang="en">The latest national and international news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/208cbbe1-382c-4e5e-bf1b-01a08762349e/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929173000 +0000" stop="20250929180000 +0000">
+    <title lang="en">The World Today with Maryam Moshiri</title>
+    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6d0d4558-c189-4bd4-8e8b-4dd770eb06ed/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929180000 +0000" stop="20250929183000 +0000">
+    <title lang="en">The World Today with Maryam Moshiri</title>
+    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/91213090-0022-466d-af26-af51073e655f/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929183000 +0000" stop="20250929190000 +0000">
+    <title lang="en">The World Today with Maryam Moshiri</title>
+    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cb0c678b-7f76-4f3a-b2a6-6fd9e6d10b41/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929190000 +0000" stop="20250929193000 +0000">
+    <title lang="en">The Context</title>
+    <desc lang="en">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/262f798d-d94c-4999-a98a-00d16d2bf9be/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929193000 +0000" stop="20250929200000 +0000">
+    <title lang="en">The Context</title>
+    <desc lang="en">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/26dc2479-fba0-47eb-8542-e19b7f5a3b08/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929200000 +0000" stop="20250929203000 +0000">
+    <title lang="en">The Context USA</title>
+    <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c575d53b-ad40-487a-8af7-1d217d152693/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929203000 +0000" stop="20250929210000 +0000">
+    <title lang="en">The Context USA</title>
+    <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1525acf7-28d0-498c-a969-39b584290e38/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929210000 +0000" stop="20250929213000 +0000">
+    <title lang="en">BBC News at Ten</title>
+    <desc lang="en">The latest national and international news, with reports from BBC correspondents worldwide.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/480cd5d4-cfad-4b7e-b2c7-cab51b6da2dd/16-9" />
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929213000 +0000" stop="20250929220000 +0000">
+    <title lang="en">Newsnight</title>
+    <desc lang="en">Insights and global interviews on the crucial news stories of the day. With Victoria Derbyshire.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/df72d43a-2d01-4d41-99e4-2fe176eebce3/16-9" />
+    <episode-num system="xmltv_ns">.247.</episode-num>
+  </programme>
+  <programme channel="BBC.NEWS.HD.uk" start="20250929220000 +0000" stop="20250929230000 +0000">
+    <title lang="en">BBC World News America</title>
+    <desc lang="en">In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1487d3e8-4d26-48c4-bb3f-3dd8da18a083/16-9" />
   </programme>
   </tv>
