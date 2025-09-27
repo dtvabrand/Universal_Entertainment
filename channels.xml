@@ -14,7 +14,7 @@
   <channel site="pluto.tv" lang="en" xmltv_id="ABCNewsLive.us"         site_id="6508be683a0d700008c534e4">ABC News Live</channel>
   <channel site="tvinsider.com" lang="en" xmltv_id="FoxNews.us"        site_id="fox-news">Fox News Channel</channel>
   <channel site="tvinsider.com" lang="en" xmltv_id="CNN.us"            site_id="cnn">CNN</channel>
-  <channel site="tvtv.us" lang="en" xmltv_id="WABC.us"                 site_id="11259">ABC 7</channel>
+  <channel site="xumo.tv" lang="en" xmltv_id="WABC.us"                 site_id="300#99951169">ABC7 New York</channel>
 
   <channel site="tvinsider.com" lang="en" xmltv_id="AMC.us"            site_id="amc">AMC</channel>
   <channel site="tvinsider.com" lang="en" xmltv_id="Freeform.us"       site_id="freeform">Freeform</channel>
