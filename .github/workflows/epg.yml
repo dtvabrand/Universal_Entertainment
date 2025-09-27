@@ -2,8 +2,8 @@ name: Update EPG
 
 on:
   workflow_dispatch:
-  # schedule:
-  #   - cron: "0 4 * * *"  # 05:00 CET / 06:00 CEST
+   schedule:
+     - cron: "0 4 * * *"  # 05:00 CET / 06:00 CEST
 
 permissions:
   contents: write
@@ -43,7 +43,7 @@ jobs:
           pushd epg
           npm run grab -- \
             --channels="$CHANNELS_FILE" \
-            --days 1 \
+            --days 3 \
             --maxConnections 16 \
             --timeout 15000 \
             --output "$OUTPUT_FILE"
