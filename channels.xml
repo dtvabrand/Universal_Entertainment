@@ -29,7 +29,7 @@
   <channel site="directv.com" lang="en" xmltv_id="TNT.us"            site_id="245">TNT</channel>
   <channel site="directv.com" lang="en" xmltv_id="USANetwork.us"     site_id="242">USA Network</channel>
 
-  <channel site="directv.com" lang="en" xmltv_id="Nickelodeon.us"    site_id="299#8274">Nickelodeon (East)</channel>
+  <channel site="tvguide.com" lang="en" xmltv_id="Nickelodeon.us" site_id="9200006939">Nickelodeon</channel>
   <channel site="directv.com" lang="en" xmltv_id="Nicktoons.us"      site_id="302#302">Nicktoons</channel>
   <channel site="directv.com" lang="en" xmltv_id="CartoonNetwork.us" site_id="296#8255">Cartoon Network (East)</channel>
   <channel site="directv.com" lang="en" xmltv_id="Boomerang.us"      site_id="298#297">Boomerang</channel>
