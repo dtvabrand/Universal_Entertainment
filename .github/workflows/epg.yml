@@ -1,9 +1,9 @@
 name: Update EPG
 
 on:
+  schedule:
+    - cron: "0 4 * * *"  # 05:00 CET / 06:00 CEST
   workflow_dispatch:
-   schedule:
-     - cron: "0 4 * * *"  # 05:00 CET / 06:00 CEST
 
 permissions:
   contents: write
