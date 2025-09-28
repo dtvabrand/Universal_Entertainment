@@ -22,10 +22,10 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forc
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 group-title="Rai" tvg-id="RaiNews24.it" tvg-logo="https://i.imgur.com/gdzGwB6.png"  tvg-name="Rai News 24",Rai News 24
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
+https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8
 
 #EXTINF:-1 group-title="Rai" tvg-id="RaiStoria.it" tvg-logo="https://i.imgur.com/K8y5q8x.png"  tvg-name="Rai Storia",Rai Storia
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
+https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8
 
 #EXTINF:-1 group-title="Rai" tvg-id="RaiSport.it" tvg-logo="https://i.imgur.com/xsGljsb.png"  tvg-name="Rai Sport",Rai Sport
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
@@ -122,15 +122,3 @@ https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="Puglia" tvg-logo="http://odmsto.com/uploads/tv_image/sm/telenorba.jpg",Telenorba
 https://stream10.xdevel.com/video2s976570-2117/stream/playlist_dvr.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-id="FoxDeportes.us" tvg-name="Fox Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/220px-FOX_Deportes_logo.png",Fox Deportes
-http://ncsshost.xyz:8080/garylee540/37396943/1000041
-
-#EXTINF:-1 group-title="Sport",Матч (FHD)
-https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg",TNT SPORTS 1 (UK)
-http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
-
-#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="Sports",CBS Sports Golazo Network
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
