@@ -87,10 +87,10 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8
 #EXTINF:-1 group-title="Sky Italia" tvg-id="TV8.it" tvg-logo="https://i.imgur.com/xvoHVOU.png" tvg-name="TV8",TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 
-#EXTINF:-1 group-title="Sky Italia" tvg-id="SkyTG24.it" tvg-logo="https://i.imgur.com/q4d3Dah.png" tvg-name="Sky TG24" ,Sky TG24
+#EXTINF:-1 group-title="Sky Italia" tvg-id="SkyTG24.it" tvg-logo="https://i.imgur.com/q4d3Dah.png" tvg-name="SkyTG24",SkyTG24
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 
-#EXTINF:-1 group-title="Rete Blu" tvg-id="TV2000.it" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-name="TV 2000",TV 2000
+#EXTINF:-1 group-title="Rete Blu" tvg-id="TV2000.it" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-name="TV2000",TV2000
 https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8
 
 #EXTINF:-1 group-title="Italia Sport Communication" tvg-id="Sportitalia.it" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-name="Sportitalia",Sportitalia
