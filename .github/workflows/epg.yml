@@ -11,7 +11,7 @@ permissions:
 jobs:
   update_epg:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 3
     concurrency:
       group: epg-update
       cancel-in-progress: true
@@ -35,70 +35,36 @@ jobs:
         working-directory: ./epg
         run: npm ci --no-audit --no-fund
 
-      - name: Grab all EPGs in parallel
+      - name: Grab EPG
         env:
-          CHANNEL_OUTPUT_PAIRS: "channels.xml:epg.xml d_channels.xml:d_epg.xml"
+          CHANNELS_FILE: ${{ github.workspace }}/d_channels.xml
+          OUTPUT_FILE:   ${{ github.workspace }}/d_epg.xml
         run: |
-          set -e
-          echo "Pairs: $CHANNEL_OUTPUT_PAIRS"
-
-          pids=()
-          names=()
-
-          for pair in $CHANNEL_OUTPUT_PAIRS; do
-            CHANNELS_FILE="${pair%%:*}"
-            OUTPUT_FILE="${pair##*:}"
-
-            echo ">> Launching grab for $CHANNELS_FILE -> $OUTPUT_FILE"
-
-            (
-              pushd epg >/dev/null
-              npm run grab -- \
-                --channels="${GITHUB_WORKSPACE}/${CHANNELS_FILE}" \
-                --days 7 \
-                --maxConnections 16 \
-                --timeout 15000 \
-                --output "${GITHUB_WORKSPACE}/${OUTPUT_FILE}"
-              popd >/dev/null
-
-              if [ -f "${OUTPUT_FILE}" ]; then
-                echo "---- EPG SUMMARY (${OUTPUT_FILE}) ----"
-                channels_count=$(grep -c "<channel" "${OUTPUT_FILE}" || true)
-                progs_count=$(grep -c "<programme " "${OUTPUT_FILE}" || true)
-                echo "Channels: $channels_count"
-                echo "Programmes: $progs_count"
-                ls -lh "${OUTPUT_FILE}"
-              else
-                echo "No ${OUTPUT_FILE} produced."
-                exit 1
-              fi
-            ) &
-
-            pids+=($!)
-            names+=("${OUTPUT_FILE}")
-          done
-
-          # Wait for all parallel grabs
-          fail=0
-          for i in "${!pids[@]}"; do
-            pid=${pids[$i]}
-            name=${names[$i]}
-            if wait "$pid"; then
-              echo "✔ Completed: ${name}"
-            else
-              echo "✖ Failed: ${name}"
-              fail=1
-            fi
-          done
-
-          exit $fail
+          pushd epg
+          npm run grab -- \
+            --channels="$CHANNELS_FILE" \
+            --days 7 \
+            --maxConnections 16 \
+            --timeout 15000 \
+            --output "$OUTPUT_FILE"
+          popd
+          echo "---- EPG SUMMARY ----"
+          if [ -f "$OUTPUT_FILE" ]; then
+            channels_count=$(grep -c "<channel" "$OUTPUT_FILE" || true)
+            progs_count=$(grep -c "<programme " "$OUTPUT_FILE" || true)
+            echo "Channels: $channels_count"
+            echo "Programmes: $progs_count"
+            ls -lh "$OUTPUT_FILE"
+          else
+            echo "No d_epg.xml produced."
+            exit 1
+          fi
 
       - name: Commit changes if needed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # committa tutti i file *_epg.xml presenti
-          git add *_epg.xml epg.xml d_epg.xml 2>/dev/null || true
+          git add d_epg.xml || true
           if ! git diff --cached --quiet; then
             git commit -m "EPG Updated! 📺"
             git push
