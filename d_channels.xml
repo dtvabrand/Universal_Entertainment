@@ -32,6 +32,6 @@
   <channel site="guidatv.sky.it" lang="it" xmltv_id="TV8.it"           site_id="DTH#8195">TV8</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="SkyTG24.it"       site_id="DTH#9117">Sky TG24</channel>
   <channel site="guidatv.sky.it" lang="it" xmltv_id="TV2000.it"        site_id="DTH#7588">TV2000</channel>
-  <channel site="tv.zam.it"      lang="it" xmltv_id="Sportitalia.it"   site_id="Sportitalia"</channel>
+  <channel site="tv.zam.it"      lang="it" xmltv_id="Sportitalia.it"   site_id="Sportitalia">Sportitalia Plus</channel>
 
 </channels>
