@@ -93,7 +93,7 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnt
 #EXTINF:-1 group-title="Rete Blu" tvg-id="TV2000.it" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-name="TV 2000",TV 2000
 https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8
 
-#EXTINF:-1 group-title="Italia Sport Communication" tvg-id="Sportitalia.it" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-name="Sportitalia Plus",Sportitalia Plus
+#EXTINF:-1 group-title="Italia Sport Communication" tvg-id="Sportitalia.it" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-name="Sportitalia",Sportitalia
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Campania" tvg-logo="https://i.imgur.com/mU6Cq89.png" tvg-name="Canale 21",Canale 21
