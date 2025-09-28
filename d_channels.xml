@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+
+  <channel site="raiplay.it" lang="it" xmltv_id="Rai1.it"            site_id="rai-1">RAI 1</channel>
+  <channel site="raiplay.it" lang="it" xmltv_id="Rai2.it"            site_id="rai-2">RAI 2</channel>
+  <channel site="raiplay.it" lang="it" xmltv_id="Rai3.it"            site_id="rai-3">RAI 3</channel>
+  <channel site="raiplay.it" lang="it" xmltv_id="Rai4.it"            site_id="rai-4">RAI 4</channel>
+  <channel site="raiplay.it" lang="it" xmltv_id="Rai5.it"            site_id="rai-5">RAI 5</channel>
+  <channel site="raiplay.it" lang="it" xmltv_id="RaiMovie.it"        site_id="rai-movie">RAI Movie</channel>
+  <channel site="raiplay.it" lang="it" xmltv_id="RaiPremium.it"      site_id="rai-premium">RAI Premium</channel>
+  <channel site="raiplay.it" lang="it" xmltv_id="RaiNews24.it"       site_id="rai-news-24">RAI News 24</channel>
+  <channel site="raiplay.it" lang="it" xmltv_id="RaiStoria.it"       site_id="rai-storia">RAI Storia</channel>
+  <channel site="raiplay.it" lang="it" xmltv_id="RaiSport.it"        site_id="rai-sport">RAI Sport</channel>
+  <channel site="raiplay.it" lang="it" xmltv_id="RaiScuola.it"       site_id="rai-scuola">RAI Scuola</channel>
+  
+  <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Rete4.it"            site_id="R4">Rete 4</channel>
+  <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Canale5.it"          site_id="C5">Canale 5</channel>
+  <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Italia1.it"          site_id="I1">Italia 1</channel>
+  <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="20.it"               site_id="LB">20 Mediaset</channel>
+  <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Iris.it"             site_id="KI">Iris</channel>
+  <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="La5.it"              site_id="LA">La5</channel>
+  <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="TopCrime.it"         site_id="LT">Top Crime</channel>
+  <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="27.Twentyseven.it"   site_id="TS">27 Twentyseven</channel>
+  <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="Cine34.it"           site_id="B6">Cine34</channel>
+  <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="TgCom24.it"          site_id="KF">TGCOM 24</channel>
+  <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="MediasetExtra.it"    site_id="KQ">Mediaset Extra</channel>
+
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="La7.it"           site_id="DTH#6624">La7</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="La7d.it"          site_id="DTH#319">La7D</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="Nove.it"          site_id="DTH#9753">Nove</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="Cielo.it"         site_id="DTH#8133">Cielo</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="TV8.it"           site_id="DTH#8195">TV8</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="SkyTG24.it"       site_id="DTH#9117">Sky TG24</channel>
+  <channel site="guidatv.sky.it" lang="it" xmltv_id="TV2000.it"        site_id="DTH#7588">TV2000</channel>
+  <channel site="tv.zam.it"      lang="it" xmltv_id="Sportitalia.it"   site_id="Sportitalia"</channel>
+
+</channels>
