@@ -27,7 +27,7 @@
 
   <channel site="guidatv.sky.it"   lang="it" xmltv_id="La7.it"           site_id="DTH#6624">La7</channel>
   <channel site="guidatv.sky.it"   lang="it" xmltv_id="La7d.it"          site_id="DTH#319">La7D</channel>
-  <channel site="tv.tv"            lang="it" xmltv_id="Nove.it"          site_id="174">Nove</channel>
+  <channel site="tivu.tv"            lang="it" xmltv_id="Nove.it"          site_id="174">Nove</channel>
   <channel site="guidatv.sky.it"   lang="it" xmltv_id="Cielo.it"         site_id="DTH#8133">Cielo</channel>
   <channel site="guidatv.sky.it"   lang="it" xmltv_id="TV8.it"           site_id="DTH#8195">TV8</channel>
   <channel site="guidatv.sky.it"   lang="it" xmltv_id="SkyTG24.it"       site_id="DTH#9117">Sky TG24</channel>
