@@ -99,5 +99,5 @@ https://tvpass.org/live/ESPN2/hd
 #EXTINF:-1 group-title="Sport" tvg-name="ESPN U" tvg-id="espnu" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-u-us.png?raw=true",ESPN U
 https://tvpass.org/live/ESPNU/hd
 
-#EXTINF:-1 group-title="Sport" tvg-name="SEC Network" tvg-id="sec-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-sec-us.png?raw=true",SEC Network HD
+#EXTINF:-1 group-title="Sport" tvg-name="SEC Network" tvg-id="sec-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-sec-us.png?raw=true",SEC Network
 https://tvpass.org/live/SECN/hd
