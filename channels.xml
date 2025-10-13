@@ -38,4 +38,9 @@
   <channel site="tvinsider.com" lang="en" xmltv_id="DisneyChannel.us"  site_id="disney-channel">Disney</channel>
   <channel site="tvinsider.com" lang="en" xmltv_id="DisneyXD.us"       site_id="disney-xd">Disney XD</channel>
 
+  <channel site="tvinsider.com" lang="en" xmltv_id="ESPN"              site_id="espn">ESPN</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="ESPN2"             site_id="espn2">ESPN2</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="ESPN U"            site_id="espnu">ESPNU</channel>
+  <channel site="tvinsider.com" lang="en" xmltv_id="SEC Network"       site_id="sec-network">SEC Network</channel>
+
 </channels>
