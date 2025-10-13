@@ -89,3 +89,15 @@ https://tvpass.org/live/DisneyChannelEast/hd
 
 #EXTINF:-1 group-title="Kids" tvg-id="DisneyXD.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" tvg-name="Disney XD",Disney XD
 https://tvpass.org/live/DisneyXDEast/hd
+
+#EXTINF:-1 group-title="Sport" tvg-name="ESPN" tvg-id="espn" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-icon-us.png?raw=true",ESPN
+https://tvpass.org/live/ESPN/hd
+
+#EXTINF:-1 group-title="Sport" tvg-name="ESPN2" tvg-id="espn2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-2-us.png?raw=true",ESPN2
+https://tvpass.org/live/ESPN2/hd
+
+#EXTINF:-1 group-title="Sport" tvg-name="ESPN U" tvg-id="espnu" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-u-us.png?raw=true",ESPN U
+https://tvpass.org/live/ESPNU/hd
+
+#EXTINF:-1 group-title="Sport" tvg-name="SEC Network" tvg-id="sec-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-sec-us.png?raw=true",SEC Network HD
+https://tvpass.org/live/SECN/hd
