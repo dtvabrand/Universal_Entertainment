@@ -27,8 +27,8 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 group-title="News" tvg-id="WABC.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" tvg-name="WABC",ABC 7
 https://tvpass.org/live/WABCDT1/hd
 
-##EXTINF:-1 group-title="News" tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" tvg-name="BBC News",BBC News
-##https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="News" tvg-id="fox-wnyw" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" tvg-name="FOX (WNYW) New York",FOX
+https://tvpass.org/live/WNYWDT1/hd
 
 #EXTINF:-1 group-title="Movies" tvg-id="AMC.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" tvg-name="AMC",AMC
 https://tvpass.org/live/AMCEast/hd
@@ -99,8 +99,17 @@ https://tvpass.org/live/ESPN2/hd
 #EXTINF:-1 group-title="Sport" tvg-id="espnu" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-u-us.png?raw=true" tvg-name="ESPN U",ESPN U
 https://tvpass.org/live/ESPNU/hd
 
+#EXTINF:-1 group-title="Sport" tvg-id="acc-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" tvg-name="ACC Network",ACC Network
+https://tvpass.org/live/ACCNetwork/hd
+
 #EXTINF:-1 group-title="Sport" tvg-id="sec-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-sec-us.png?raw=true" tvg-name="SEC Network",SEC Network
 https://tvpass.org/live/SECN/hd
+
+#EXTINF:-1 group-title="Sport" tvg-id="cbs-sports-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-network-us.png?raw=true" tvg-name="CBS Sports Network",CBS Sports Network
+https://tvpass.org/live/CBSSportsNetworkUSA/hd
+
+#EXTINF:-1 group-title="Sport" tvg-id="fox-sports-1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" tvg-name="Fox Sports 1",Fox Sports 1
+https://tvpass.org/live/FoxSports1/hd
 
 #EXTINF:-1 group-title="Sport" tvg-id="nfl-redzone" tvg-logo="http://lonewolftvpr.com/logos/redzone.png" tvg-name="NFL RedZone",NFL RedZone
 https://tvpass.org/live/NFLRedZone/hd
