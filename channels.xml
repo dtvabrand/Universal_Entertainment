@@ -15,7 +15,7 @@
   <channel site="tvinsider.com"    lang="en" xmltv_id="FoxNews.us"       site_id="fox-news">Fox News Channel</channel>
   <channel site="tvinsider.com"    lang="en" xmltv_id="CNN.us"           site_id="cnn">CNN</channel>
   <channel site="ontvtonight.com"  lang="en" xmltv_id="WABC.us"          site_id="us#69048654/wabc">WABC</channel>
-  <channel site="tvinsider.com"    lang="en" xmltv_id="fox-wnyw"         site_id="fox">FOX</channel
+  <channel site="tvinsider.com"    lang="en" xmltv_id="fox-wnyw"         site_id="fox">FOX</channel>
 
   <channel site="tvinsider.com"   lang="en" xmltv_id="AMC.us"            site_id="amc">AMC</channel>
   <channel site="tvinsider.com"   lang="en" xmltv_id="Freeform.us"       site_id="freeform">Freeform</channel>
