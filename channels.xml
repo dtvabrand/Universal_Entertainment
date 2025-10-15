@@ -11,10 +11,11 @@
   <channel site="guidatv.sky.it"                   lang="it" xmltv_id="TV2000.it"       site_id="DTH#7588">TV 2000</channel>
 
   <!-- ================== USA ================== -->
-  <channel site="pluto.tv"         lang="en" xmltv_id="ABCNewsLive.us"    site_id="6508be683a0d700008c534e4">ABC News Live</channel>
-  <channel site="tvinsider.com"    lang="en" xmltv_id="FoxNews.us"        site_id="fox-news">Fox News Channel</channel>
-  <channel site="tvinsider.com"    lang="en" xmltv_id="CNN.us"            site_id="cnn">CNN</channel>
-  <channel site="ontvtonight.com"  lang="en" xmltv_id="WABC.us"           site_id="us#69048654/wabc">WABC</channel>
+  <channel site="pluto.tv"         lang="en" xmltv_id="ABCNewsLive.us"   site_id="6508be683a0d700008c534e4">ABC News Live</channel>
+  <channel site="tvinsider.com"    lang="en" xmltv_id="FoxNews.us"       site_id="fox-news">Fox News Channel</channel>
+  <channel site="tvinsider.com"    lang="en" xmltv_id="CNN.us"           site_id="cnn">CNN</channel>
+  <channel site="ontvtonight.com"  lang="en" xmltv_id="WABC.us"          site_id="us#69048654/wabc">WABC</channel>
+  <channel site="tvinsider.com"    lang="en" xmltv_id="fox-wnyw"         site_id="fox">FOX</channel
 
   <channel site="tvinsider.com"   lang="en" xmltv_id="AMC.us"            site_id="amc">AMC</channel>
   <channel site="tvinsider.com"   lang="en" xmltv_id="Freeform.us"       site_id="freeform">Freeform</channel>
@@ -38,10 +39,13 @@
   <channel site="tvinsider.com"   lang="en" xmltv_id="DisneyChannel.us"  site_id="disney-channel">Disney</channel>
   <channel site="tvinsider.com"   lang="en" xmltv_id="DisneyXD.us"       site_id="disney-xd">Disney XD</channel>
 
-  <channel site="tvinsider.com"   lang="en" xmltv_id="espn"              site_id="espn">ESPN</channel>
-  <channel site="tvinsider.com"   lang="en" xmltv_id="espn2"             site_id="espn2">ESPN2</channel>
-  <channel site="tvinsider.com"   lang="en" xmltv_id="espnu"             site_id="espnu">ESPNU</channel>
-  <channel site="tvinsider.com"   lang="en" xmltv_id="sec-network"       site_id="sec-network">SEC Network</channel>
-  <channel site="ontvtonight.com" lang="en" xmltv_id="nfl-redzone"       site_id="us#69034276/nfl-redzone">NFL RedZone</channel>
+  <channel site="tvinsider.com"   lang="en" xmltv_id="espn"               site_id="espn">ESPN</channel>
+  <channel site="tvinsider.com"   lang="en" xmltv_id="espn2"              site_id="espn2">ESPN2</channel>
+  <channel site="tvinsider.com"   lang="en" xmltv_id="espnu"              site_id="espnu">ESPNU</channel>
+  <channel site="tvinsider.com"   lang="en" xmltv_id="acc-network"        site_id="acc-network">ACC Network</channel>
+  <channel site="tvinsider.com"   lang="en" xmltv_id="sec-network"        site_id="sec-network">SEC Network</channel>
+  <channel site="tvinsider.com"   lang="en" xmltv_id="cbs-sports-network" site_id="cbs-sports-network">CBS Sports Network</channel>
+  <channel site="tvinsider.com"   lang="en" xmltv_id="fox-sports-1"       site_id="fox-sports-1">Fox Sports 1</channel>
+  <channel site="ontvtonight.com" lang="en" xmltv_id="nfl-redzone"        site_id="us#69034276/nfl-redzone">NFL RedZone</channel>
 
 </channels>
