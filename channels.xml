@@ -16,13 +16,10 @@
   <channel site="plex.tv"          lang="en" xmltv_id="reuters-tv"            site_id="5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc">Reuters TV</channel>
   <channel site="i.mjh.nz"         lang="en" xmltv_id="bloomberg-quicktake"   site_id="SamsungTVPlus/us#USAJ30000041W">Bloomberg Originals</channel>
   
-  <channel site="i.mjh.nz"         lang="en" xmltv_id="wabc"               site_id="Roku/epg#roku-65f1e34427ef5d61a2db61cb9a2819d0">WABC ABC7 New York</channel>
-  <channel site="directv.com" lang="en" xmltv_id="wnbc" site_id="392#382">WNBC (New York) NBC East</channel>
-  <channel site="ontvtonight.com" lang="en" xmltv_id="wnbc" site_id="us#69043310/wnbc">WNBC</channel>
-  <channel site="streamingtvguides.com" lang="en" xmltv_id="wnbc" site_id="DTV:NBCe:392">WNBC (New York) NBC East</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="wnbc" site_id="US1#NBC.(WNBC).New.York,.NY.us">NBC (WNBC) New York, NY</channel>
-  <channel site="tvtv.us"          lang="en" xmltv_id="wcbs"               site_id="16689">CBS (WCBS-DT1) New York, NY</channel>
-  <channel site="tvtv.us"          lang="en" xmltv_id="wnyw"               site_id="20360">FOX (WNYW-DT1) New York, NY</channel>
+  <channel site="tvinsider.com"    lang="en" xmltv_id="wabc"               site_id="abc">ABC</channel>
+  <channel site="tvinsider.com"    lang="en" xmltv_id="wnbc"               site_id="nbc">NBC</channel>
+  <channel site="tvinsider.com"    lang="en" xmltv_id="wcbs"               site_id="cbs">CBS</channel>
+  <channel site="tvinsider.com"    lang="en" xmltv_id="wnyw"               site_id="fox">FOX</channel>
 
   <channel site="tvinsider.com"    lang="en" xmltv_id="bravo"              site_id="bravo">Bravo</channel>
   <channel site="tvinsider.com"    lang="en" xmltv_id="e-entertainment"    site_id="e">E!</channel>
