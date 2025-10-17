@@ -17,9 +17,9 @@
   <channel site="i.mjh.nz"         lang="en" xmltv_id="bloomberg-quicktake"   site_id="SamsungTVPlus/us#USAJ30000041W">Bloomberg Originals</channel>
   
   <channel site="i.mjh.nz"         lang="en" xmltv_id="wabc"               site_id="Roku/epg#roku-65f1e34427ef5d61a2db61cb9a2819d0">WABC ABC7 New York</channel>
-  <channel site="ontvtonight.com"  lang="en" xmltv_id="wnbc"               site_id="us#69043310/wnbc">WNBC</channel>
-  <channel site="ontvtonight.com"  lang="en" xmltv_id="wcbs"               site_id="us#69021345/wcbs">WCBS</channel>
-  <channel site="ontvtonight.com"  lang="en" xmltv_id="wnyw"               site_id="us#69045892/wnyw">WNYW</channel>
+  <channel site="tvtv.us"          lang="en" xmltv_id="wnbc"               site_id="20459">NBC (WNBC-DT1) New York, NY</channel>
+  <channel site="tvtv.us"          lang="en" xmltv_id="wcbs"               site_id="16689">CBS (WCBS-DT1) New York, NY</channel>
+  <channel site="tvtv.us"          lang="en" xmltv_id="wnyw"               site_id="20360">FOX (WNYW-DT1) New York, NY</channel>
 
   <channel site="tvinsider.com"    lang="en" xmltv_id="bravo"              site_id="bravo">Bravo</channel>
   <channel site="tvinsider.com"    lang="en" xmltv_id="e-entertainment"    site_id="e">E!</channel>
