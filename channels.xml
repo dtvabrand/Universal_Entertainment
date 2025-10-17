@@ -14,7 +14,7 @@
   <channel site="pluto.tv"         lang="en" xmltv_id="nbc-news-now"          site_id="5df97894467dfa00091c873c">NBC News NOW</channel>
   <channel site="pluto.tv"         lang="en" xmltv_id="cbs-news-247"          site_id="5a6b92f6e22a617379789618">CBS News 24/7</channel>
   <channel site="plex.tv"          lang="en" xmltv_id="reuters-tv"            site_id="5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc">Reuters TV</channel>
-  <channel site="i.mjh.nz"         lang="en" xmltv_id="bloomberg-quicktake"   site_id="SamsungTVPlus/us#USAJ30000041W">Bloomberg Originals</channel>
+  <channel site="i.mjh.nz"         lang="en" xmltv_id="bloomberg-originals"   site_id="SamsungTVPlus/us#USAJ30000041W">Bloomberg Originals</channel>
   
   <channel site="tvinsider.com"    lang="en" xmltv_id="wabc"               site_id="abc">ABC</channel>
   <channel site="tvinsider.com"    lang="en" xmltv_id="wnbc"               site_id="nbc">NBC</channel>
