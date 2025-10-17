@@ -15,80 +15,39 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 #EXTINF:-1 group-title="Italy" tvg-id="TV2000.it" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-name="TV 2000",TV 2000
 https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8
 
-#EXTINF:-1 group-title="News" tvg-id="ABCNewsLive.us" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png" tvg-name="ABC News Live",ABC News Live
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 group-title="News" tvg-id="FoxNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" tvg-name="Fox News Channel",Fox News Channel
-https://tvpass.org/live/FoxNewsChannel/hd
+#EXTINF:-1 group-title="News" tvg-id="nbc-news-now" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114174_dark_360w_270h.png",NBC News NOW
+https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 group-title="News" tvg-id="CNN.us" tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/CNN.jpg" tvg-name="CNN",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="News" tvg-id="cbs-news-247" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104846_dark_360w_270h.png",CBS News 24/7
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 group-title="News" tvg-id="WABC.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" tvg-name="WABC",ABC 7
+#EXTINF:-1 group-title="News" tvg-id="reuters-tv" tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png",Reuters TV
+https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="bloomberg-quicktake" tvg-logo="https://yt3.ggpht.com/fTP5oS376nZhVbS55-OocogCJCDH4UXIyRrirF6keIya4AN4I54TmLkFnnjvE4FRq5UMv8BO=s200" tvg-name="Bloomberg Quicktake",Bloomberg Quicktake
+https://www.bloomberg.com/media-manifest/streams/qt.m3u8
+
+#EXTINF:-1 group-title="Variety" tvg-id="wabc" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" tvg-name="WABC",ABC 7
 https://tvpass.org/live/WABCDT1/hd
 
-#EXTINF:-1 group-title="News" tvg-id="fox-wnyw" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" tvg-name="FOX (WNYW) New York",FOX
+#EXTINF:-1 group-title="Variety" tvg-id="wnbc" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-alt-us.png?raw=true" tvg-name="WNBC",NBC 4
+https://tvpass.org/live/WNBCDT1/hd
+
+#EXTINF:-1 group-title="Variety" tvg-id="wcbs" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" tvg-name="WCBS",CBS 2
+https://tvpass.org/live/WCBSDT1/hd
+
+#EXTINF:-1 group-title="Variety" tvg-id="wnyw" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" tvg-name="WNYW",FOX 5
 https://tvpass.org/live/WNYWDT1/hd
 
-#EXTINF:-1 group-title="Movies" tvg-id="AMC.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" tvg-name="AMC",AMC
-https://tvpass.org/live/AMCEast/hd
+#EXTINF:-1 group-title="Entertainment" tvg-id="bravo" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bravo-us.png?raw=true" tvg-name="Bravo",Bravo
+https://tvpass.org/live/BravoEast/hd
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="Freeform.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" tvg-name="Freeform",Freeform
-https://tvpass.org/live/FreeformEast/hd
+#EXTINF:-1 group-title="Entertainment" tvg-id="e-entertainment" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true" tvg-name="E! Entertainment",E! Entertainment
+https://tvpass.org/live/EEast/hd
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="FX.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" tvg-name="FX",FX
-https://tvpass.org/live/FXEast/hd
-
-#EXTINF:-1 group-title="Movies" tvg-id="HBO.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" tvg-name="HBO",HBO
-https://tvpass.org/live/HBOEast/hd
-
-#EXTINF:-1 group-title="Movies" tvg-id="HBO2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" tvg-name="HBO2",HBO2
-https://tvpass.org/live/HBO2East/hd
-
-#EXTINF:-1 group-title="Movies" tvg-id="HBOSignature.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10243_dark_360w_270h.png" tvg-name="HBO Signature",HBO Signature
-https://tvpass.org/live/HBOSignatureEast/hd
-
-#EXTINF:-1 group-title="Movies" tvg-id="HBOComedy.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" tvg-name="HBO Comedy",HBO Comedy
-https://tvpass.org/live/HBOComedyEast/hd
-
-#EXTINF:-1 group-title="Movies" tvg-id="HBOZone.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" tvg-name="HBO Zone",HBO Zone
-https://tvpass.org/live/HBOZoneEast/hd
-
-#EXTINF:-1 group-title="Movies" tvg-id="MGMPlus.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" tvg-name="MGM+",MGM+
-http://fl7.moveonjoy.com/EPIX/index.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="Showtime.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" tvg-name="Showtime",Showtime
-https://tvpass.org/live/ShowtimeEast/hd
-
-#EXTINF:-1 group-title="Movies" tvg-id="Starz.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" tvg-name="Starz",Starz
-https://tvpass.org/live/StarzEast/hd
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="Syfy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" tvg-name="SYFY",SYFY
-https://tvpass.org/live/SyfyEast/hd
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="TNT.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" tvg-name="TNT",TNT
-https://tvpass.org/live/TNTEast/hd
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="USANetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-name="USA Network",USA Network
-https://tvpass.org/live/USANetworkEast/hd
-
-#EXTINF:-1 group-title="Kids" tvg-id="Nickelodeon.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-us.png" tvg-name="Nickelodeon",Nickelodeon
-https://tvpass.org/live/NickelodeonEast/hd
-
-#EXTINF:-1 group-title="Kids" tvg-id="Nicktoons.us" tvg-name="Nicktoons" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30420_dark_360w_270h.png",Nicktoons
-https://tvpass.org/live/NicktoonsEast/hd
-
-#EXTINF:-1 group-title="Kids" tvg-id="CartoonNetwork.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" tvg-name="Cartoon Network",Cartoon Network
-https://tvpass.org/live/CartoonNetworkEast/hd
-
-#EXTINF:-1 group-title="Kids" tvg-id="Boomerang.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" tvg-name="Boomerang",Boomerang
+#EXTINF:-1 group-title="Kids" tvg-id="boomerang" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" tvg-name="Boomerang",Boomerang
 https://tvpass.org/live/Boomerang/hd
-
-#EXTINF:-1 group-title="Kids" tvg-id="DisneyChannel.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png" tvg-name="Disney Channel",Disney Channel
-https://tvpass.org/live/DisneyChannelEast/hd
-
-#EXTINF:-1 group-title="Kids" tvg-id="DisneyXD.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" tvg-name="Disney XD",Disney XD
-https://tvpass.org/live/DisneyXDEast/hd
 
 #EXTINF:-1 group-title="Sport" tvg-id="espn" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-icon-us.png?raw=true" tvg-name="ESPN",ESPN
 https://tvpass.org/live/ESPN/hd
@@ -104,12 +63,3 @@ https://tvpass.org/live/ACCNetwork/hd
 
 #EXTINF:-1 group-title="Sport" tvg-id="sec-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-sec-us.png?raw=true" tvg-name="SEC Network",SEC Network
 https://tvpass.org/live/SECN/hd
-
-#EXTINF:-1 group-title="Sport" tvg-id="cbs-sports-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-network-us.png?raw=true" tvg-name="CBS Sports Network",CBS Sports Network
-https://tvpass.org/live/CBSSportsNetworkUSA/hd
-
-#EXTINF:-1 group-title="Sport" tvg-id="fox-sports-1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" tvg-name="Fox Sports 1",Fox Sports 1
-https://tvpass.org/live/FoxSports1/hd
-
-#EXTINF:-1 group-title="Sport" tvg-id="nfl-redzone" tvg-logo="http://lonewolftvpr.com/logos/redzone.png" tvg-name="NFL RedZone",NFL RedZone
-https://tvpass.org/live/NFLRedZone/hd
