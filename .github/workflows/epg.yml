@@ -93,12 +93,16 @@ jobs:
 
           exit $fail
 
+      - name: Bump EPG URL version in playlist.m3u8
+        run: |
+          TS=$(date -u +%Y%m%d%H)
+          sed -i -E 's|(url-tvg="https://raw.githubusercontent.com/dtvabrand/Universal_Entertainment/refs/heads/main/epg\.xml)(\?[^"]*)?"|\1?ts='"$TS"'"|' playlist.m3u8
+
       - name: Commit changes if needed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # committa tutti i file *_epg.xml presenti
-          git add *_epg.xml epg.xml d_epg.xml 2>/dev/null || true
+          git add *_epg.xml epg.xml d_epg.xml playlist.m3u8 2>/dev/null || true
           if ! git diff --cached --quiet; then
             git commit -m "EPG Updated! 📺"
             git push
