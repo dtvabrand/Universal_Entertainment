@@ -29,7 +29,7 @@ https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-r
 https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 
 #EXTINF:-1 group-title="Variety" tvg-id="wabc" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" tvg-name="WABC",ABC 7
-https://tvpass.org/live/WABCDT1/hd
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
 
 #EXTINF:-1 group-title="Variety" tvg-id="wnbc" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-alt-us.png?raw=true" tvg-name="WNBC",NBC 4
 https://tvpass.org/live/WNBCDT1/hd
