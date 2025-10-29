@@ -25,9 +25,6 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTINF:-1 group-title="News" tvg-id="reuters-tv" tvg-logo="https://s21.ax1x.com/2024/12/02/pAIGxkn.png",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
 
-#EXTINF:-1 group-title="News" tvg-id="bloomberg-originals" tvg-logo="https://yt3.ggpht.com/fTP5oS376nZhVbS55-OocogCJCDH4UXIyRrirF6keIya4AN4I54TmLkFnnjvE4FRq5UMv8BO=s200" tvg-name="Bloomberg Originals",Bloomberg Originals
-https://www.bloomberg.com/media-manifest/streams/qt.m3u8
-
 #EXTINF:-1 group-title="Variety" tvg-id="wabc" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" tvg-name="WABC",ABC 7
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
 
@@ -41,25 +38,25 @@ https://tvpass.org/live/WCBSDT1/hd
 https://tvpass.org/live/WNYWDT1/hd
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="bravo" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bravo-us.png?raw=true" tvg-name="Bravo",Bravo
-https://tvpass.org/live/BravoEast/hd
+https://fl30.moveonjoy.com/BRAVO/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="e-entertainment" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true" tvg-name="E! Entertainment",E! Entertainment
-https://tvpass.org/live/EEast/hd
+https://fl30.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-id="boomerang" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" tvg-name="Boomerang",Boomerang
-https://tvpass.org/live/Boomerang/hd
+https://fl7.moveonjoy.com/BOOMERANG/index.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-id="espn" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-icon-us.png?raw=true" tvg-name="ESPN",ESPN
-https://tvpass.org/live/ESPN/hd
+https://fl7.moveonjoy.com/ESPN/index.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-id="espn2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-2-us.png?raw=true" tvg-name="ESPN2",ESPN2
 https://tvpass.org/live/ESPN2/hd
 
 #EXTINF:-1 group-title="Sport" tvg-id="espnu" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-u-us.png?raw=true" tvg-name="ESPN U",ESPN U
-https://tvpass.org/live/ESPNU/hd
+https://fl30.moveonjoy.com/ESPN_U/index.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-id="acc-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" tvg-name="ACC Network",ACC Network
-https://tvpass.org/live/ACCNetwork/hd
+https://fl30.moveonjoy.com/ACC_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-id="sec-network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-sec-us.png?raw=true" tvg-name="SEC Network",SEC Network
-https://tvpass.org/live/SECN/hd
+http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
