@@ -41,7 +41,7 @@ https://tvpass.org/live/WNYWDT1/hd
 https://fl2.moveonjoy.com/BRAVO/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="e-entertainment" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true" tvg-name="E! Entertainment",E! Entertainment
-https://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+https://fl30.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-id="boomerang" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" tvg-name="Boomerang",Boomerang
 https://fl7.moveonjoy.com/BOOMERANG/index.m3u8
