@@ -1,16 +1,16 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dtvabrand/Universal_Entertainment/refs/heads/main/d_epg.xml"
 
 #EXTINF:-1 group-title="Rai" tvg-id="Rai1.it" tvg-logo="https://i.imgur.com/CAx7yRm.png" tvg-name="Rai 1",Rai 1
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
+https://raiuno3-live.akamaized.net/hls/live/2017910/raiuno3/raiuno3/playlist.m3u8
 
 #EXTINF:-1 group-title="Rai" tvg-id="Rai2.it" tvg-logo="https://i.imgur.com/zA0PTcs.png" tvg-name="Rai 2",Rai 2 
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u8
 
 #EXTINF:-1 group-title="Rai" tvg-id="Rai3.it" tvg-logo="https://i.imgur.com/9kuQCIi.png" tvg-name="Rai 3",Rai 3
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+https://raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u8
 
 #EXTINF:-1 group-title="Rai" tvg-id="Rai4.it" tvg-logo="https://i.imgur.com/XFkZRfv.png" tvg-name="Rai 4",Rai 4
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+https://raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/playlist.m3u8
 
 #EXTINF:-1 group-title="Rai" tvg-id="Rai5.it" tvg-logo="https://i.imgur.com/Leu2zTO.png" tvg-name="Rai 5",Rai 5
 https://raicinque3-live.akamaized.net/hls/live/2018007/raicinque3/raicinque3/playlist.m3u8
