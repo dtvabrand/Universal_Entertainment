@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dtvabrand/Universal_Entertainment/refs/heads/main/epg.xml"
 
 #EXTINF:-1 group-title="Italy" tvg-id="Rai1.it" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" tvg-name="Rai 1",Rai 1
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
+https://raiuno3-live.akamaized.net/hls/live/2017910/raiuno3/raiuno3/playlist.m3u8
 #EXTINF:-1 group-title="Italy" tvg-id="Rai2.it" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-2-bobi5do2jjqa.png" tvg-name="Rai 2",Rai 2 
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u8
 #EXTINF:-1 group-title="Italy" tvg-id="Rai3.it" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-3-kwvj7ve82k1u.png" tvg-name="Rai 3",Rai 3
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+https://raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u8
 #EXTINF:-1 group-title="Italy" tvg-id="Rete4.it" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/02/11/144338957-20212311-a45d-4002-a783-e9cde2ded4c0@2.png" tvg-name="Rete 4",Rete 4
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 #EXTINF:-1 group-title="Italy" tvg-id="Canale5.it" tvg-logo="https://static2.mediasetplay.mediaset.it/mam/2021/01/20/132645331-a3b3b56f-d240-4fcc-b4a0-2fd1f5b9124f@2.png" tvg-name="Canale 5",Canale 5
