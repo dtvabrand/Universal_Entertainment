@@ -25,10 +25,10 @@
   <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="TgCom24.it"          site_id="KF">TGCOM 24</channel>
   <channel site="mediasetinfinity.mediaset.it" lang="it" xmltv_id="MediasetExtra.it"    site_id="KQ">Mediaset Extra</channel>
 
-  <channel site="guidatv.sky.it"    lang="it" xmltv_id="La7.it"           site_id="DTH#6624">La7</channel>
-  <channel site="guidatv.sky.it"    lang="it" xmltv_id="La7.Cinema.it"    site_id="DTH#319">La7D</channel>
-  <channel site="epgshare01.online" lang="it" xmltv_id="Nove.it"          site_id="IT1#Nove.it">Nove</channel>
-  <channel site="tivu.tv"           lang="it" xmltv_id="Cielo.it"         site_id="187">Cielo</channel>
+  <channel site="guidatv.sky.it"    lang="it" xmltv_id="La7.it"           site_id="DTH#319">La7</channel>
+  <channel site="guidatv.sky.it"    lang="it" xmltv_id="La7.Cinema.it"    site_id="DTH#6624">La7 Cinema</channel>
+  <channel site="guidatv.sky.it"    lang="it" xmltv_id="Nove.it"          site_id="DTH#9753">Nove</channel>
+  <channel site="guidatv.sky.it"    lang="it" xmltv_id="Cielo.it"         site_id="DTH#8133">Cielo</channel>
   <channel site="guidatv.sky.it"    lang="it" xmltv_id="TV8.it"           site_id="DTH#8195">TV8</channel>
   <channel site="guidatv.sky.it"    lang="it" xmltv_id="SkyTG24.it"       site_id="DTH#9117">SkyTG24</channel>
   <channel site="guidatv.sky.it"    lang="it" xmltv_id="TV2000.it"        site_id="DTH#7588">TV2000</channel>
