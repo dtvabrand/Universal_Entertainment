@@ -67,8 +67,10 @@ jobs:
 
               if [ -f "${OUTPUT_FILE}" ]; then
                 echo "---- EPG SUMMARY (${OUTPUT_FILE}) ----"
-                grep -c "<channel" "${OUTPUT_FILE}" || true
-                grep -c "<programme " "${OUTPUT_FILE}" || true
+                channels_count=$(grep -c "<channel" "${OUTPUT_FILE}" || true)
+                progs_count=$(grep -c "<programme " "${OUTPUT_FILE}" || true)
+                echo "Channels: $channels_count"
+                echo "Programmes: $progs_count"
                 ls -lh "${OUTPUT_FILE}"
               else
                 echo "No ${OUTPUT_FILE} produced."
@@ -94,57 +96,6 @@ jobs:
 
           exit $fail
 
-      - name: Inject only 4 US locals (WABC/WNBC/WCBS/WNYW) into epg.xml
-        shell: bash
-        run: |
-          set -euo pipefail
-
-          echo ">> Fetching US locals feed..."
-          curl -fsSL "https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz" -o /tmp/us_locals1.xml.gz
-          gzip -dc /tmp/us_locals1.xml.gz > /tmp/us_locals1.xml
-
-          PY=/tmp/us_locals_merge.py
-          : > "$PY"
-          printf '%s\n' \
-            'import sys, xml.etree.ElementTree as ET' \
-            'BASE = "epg.xml"; SRC = "/tmp/us_locals1.xml"; OUT = "epg.xml"' \
-            'FEED_TO_TARGET = {' \
-            '  "WABC-DT.us_locals1": "wabc",' \
-            '  "WNBC-DT.us_locals1": "wnbc",' \
-            '  "WCBS-DT.us_locals1": "wcbs",' \
-            '  "WNYW-DT.us_locals1": "wnyw",' \
-            '}' \
-            'b = ET.parse(BASE); r = b.getroot()' \
-            'if r.tag != "tv": print("Root base non e <tv>", file=sys.stderr)' \
-            'pkeys = {(p.get("channel"), p.get("start"), p.get("stop")) for p in r.findall("programme")}' \
-            'added = 0; seen = 0' \
-            'for _, e in ET.iterparse(SRC, events=("end",)):' \
-            '    if e.tag != "programme":' \
-            '        e.clear(); continue' \
-            '    ch = e.get("channel")' \
-            '    if ch not in FEED_TO_TARGET:' \
-            '        e.clear(); continue' \
-            '    target_id = FEED_TO_TARGET[ch]' \
-            '    key = (target_id, e.get("start"), e.get("stop"))' \
-            '    seen += 1' \
-            '    if key in pkeys:' \
-            '        e.clear(); continue' \
-            '    new = ET.fromstring(ET.tostring(e, encoding="utf-8"))' \
-            '    new.set("channel", target_id)' \
-            '    r.append(new)' \
-            '    pkeys.add(key)' \
-            '    added += 1' \
-            '    e.clear()' \
-            'b.write(OUT, encoding="utf-8", xml_declaration=True)' \
-            'print("Programmi feed considerati:", seen)' \
-            'print("Programmi US locals aggiunti:", added)'
-
-          python3 "$PY"
-
-          echo "---- EPG SUMMARY (epg.xml after US locals merge) ----"
-          grep -c "<programme " epg.xml || true
-          ls -lh epg.xml
-
       - name: Commit changes if needed
         shell: bash
         run: |
@@ -154,9 +105,13 @@ jobs:
           shopt -s nullglob
           files=(epg.xml *_epg.xml)
           to_add=()
-          for f in "${files[@]}"; do [[ -e "$f" ]] && to_add+=("$f"); done
+          for f in "${files[@]}"; do
+            [[ -e "$f" ]] && to_add+=("$f")
+          done
 
-          if ((${#to_add[@]})); then git add "${to_add[@]}"; fi
+          if ((${#to_add[@]})); then
+            git add "${to_add[@]}"
+          fi
 
           if ! git diff --cached --quiet; then
             git commit -m "EPG Updated! 📺"
