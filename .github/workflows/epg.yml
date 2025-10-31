@@ -35,14 +35,13 @@ jobs:
         working-directory: ./epg
         run: npm ci --no-audit --no-fund
 
-              # 🔎 DEBUG (parte solo su workflow_dispatch)
       - name: DEBUG · Mostra riga WABC in channels.xml
         if: ${{ github.event_name == 'workflow_dispatch' }}
         run: |
           echo "Cerco la riga di WABC…"
           grep -n 'xmltv_id="wabc"' channels.xml || true
 
-      - name: DEBUG · Grab WABC via ontvtonight (1 giorno, curl)
+      - name: DEBUG · Grab WABC via ontvtonight (1 giorno)
         if: ${{ github.event_name == 'workflow_dispatch' }}
         run: |
           cat > debug_wabc_ontv.channels.xml <<'XML'
@@ -55,14 +54,15 @@ jobs:
           pushd epg >/dev/null
           npm run grab -- \
             --channels="${GITHUB_WORKSPACE}/debug_wabc_ontv.channels.xml" \
-            --days 1 \
-            --maxConnections 1 \
-            --timeout 20000 \
+            --days=1 \
+            --maxConnections=1 \
+            --timeout=30000 \
             --curl \
-            --output "${GITHUB_WORKSPACE}/debug_wabc_ontv.xml"
+            --output="${GITHUB_WORKSPACE}/debug_wabc_ontv.xml" || exit 1
           popd >/dev/null
 
           echo "---- SUMMARY (debug_wabc_ontv.xml) ----"
+          test -f debug_wabc_ontv.xml || { echo "Manca debug_wabc_ontv.xml"; exit 1; }
           grep -c "<programme " debug_wabc_ontv.xml || true
           tail -n 40 debug_wabc_ontv.xml || true
 
@@ -79,13 +79,15 @@ jobs:
           pushd epg >/dev/null
           npm run grab -- \
             --channels="${GITHUB_WORKSPACE}/debug_wabc_tvi.channels.xml" \
-            --days 1 \
-            --maxConnections 1 \
-            --timeout 20000 \
-            --output "${GITHUB_WORKSPACE}/debug_wabc_tvi.xml"
+            --days=1 \
+            --maxConnections=1 \
+            --timeout=30000 \
+            --curl \
+            --output="${GITHUB_WORKSPACE}/debug_wabc_tvi.xml" || exit 1
           popd >/dev/null
 
           echo "---- SUMMARY (debug_wabc_tvi.xml) ----"
+          test -f debug_wabc_tvi.xml || { echo "Manca debug_wabc_tvi.xml"; exit 1; }
           grep -c "<programme " debug_wabc_tvi.xml || true
           tail -n 40 debug_wabc_tvi.xml || true
 
@@ -93,21 +95,18 @@ jobs:
         if: ${{ github.event_name == 'workflow_dispatch' }}
         working-directory: ./epg
         run: |
-          # Genera la lista canali dal parser ufficiale
-          npm run channels:parse -- --config=./sites/ontvtonight.com/ontvtonight.com.config.js
+          npm run channels:parse -- \
+            --config=./sites/ontvtonight.com/ontvtonight.com.config.js \
+            --output=./sites/ontvtonight.com/ontvtonight.com_us.channels.xml \
+            --set=country:us
 
-          FILE="sites/ontvtonight.com/ontvtonight.com.channels.xml"
-          if [ ! -f "$FILE" ]; then
-            echo "Manca $FILE (channels:parse non ha prodotto il file)"; exit 1
-          fi
+          FILE="sites/ontvtonight.com/ontvtonight.com_us.channels.xml"
+          test -f "$FILE" || { echo "Manca $FILE"; exit 1; }
 
-          echo "---- Righe che contengono WABC (con contesto) ----"
-          grep -ni -C2 -E 'xmltv_id="wabc"|wabc-hdtv|>WABC<' "$FILE" || true
+          echo "---- Righe che contengono WABC ----"
+          grep -ni -E 'xmltv_id="wabc"|wabc-hdtv|>WABC<' "$FILE" || true
 
-          echo "---- Eventuali righe ABC (per confronto) ----"
-          grep -ni -C1 -E 'xmltv_id="wabc"|>ABC<' "$FILE" || true
-
-          echo "---- Statistiche file generato ----"
+          echo "---- Statistiche ----"
           echo "Channels totali: $(grep -c '<channel ' "$FILE" || true)"
           head -n 5 "$FILE"
           tail -n 5 "$FILE"
@@ -132,9 +131,9 @@ jobs:
               pushd epg >/dev/null
               npm run grab -- \
                 --channels="${GITHUB_WORKSPACE}/${CHANNELS_FILE}" \
-                --days 7 \
-                --maxConnections 16 \
-                --timeout 15000 \
+                --days=7 \
+                --maxConnections=16 \
+                --timeout=15000 \
                 --output "${GITHUB_WORKSPACE}/${OUTPUT_FILE}"
               popd >/dev/null
 
