@@ -11,7 +11,7 @@ permissions:
 jobs:
   update_epg:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 10
     concurrency:
       group: epg-update
       cancel-in-progress: true
@@ -22,15 +22,9 @@ jobs:
 
       - name: Clone iptv-org/epg
         run: |
-          set -euxo pipefail
           git clone --depth 1 https://github.com/iptv-org/epg.git
-          cd epg
-          # Pin a un commit stabile per evitare bug recenti sul master
-          (git fetch --depth 50 origin +refs/heads/master:refs/remotes/origin/master || true)
-          (git checkout 9d20d1f || git checkout "$(git rev-list -n 1 --before='2025-10-20' origin/master)")
-          git rev-parse --short HEAD
 
-      - name: Set up Node.js
+      - name: Set up Node.js (cache npm su epg/)
         uses: actions/setup-node@v4
         with:
           node-version: '20'
@@ -39,141 +33,138 @@ jobs:
 
       - name: Install grabber deps
         working-directory: ./epg
-        run: npm ci --no-audit --no-fund
+        run: |
+          npm ci --no-audit --no-fund
 
-      # -------------------- PATCH HEADERS + PARSER ONTVTONIGHT --------------------
-      - name: Patch · Hardening headers + parser tollerante per ontvtonight.com
-        working-directory: ./epg/sites/ontvtonight.com
+      ##############################################
+      # DEBUG WNBC (tvpassport)
+      ##############################################
+      - name: (DEBUG) WNBC tvpassport - 1 giorno
+        shell: bash
+        run: |
+          set -euxo pipefail
+          printf '%s\n' \
+            '<?xml version="1.0" encoding="UTF-8"?>' \
+            '<channels>' \
+            '<channel site="tvpassport.com" lang="en" xmltv_id="wnbc" site_id="nbc-wnbc-new-york-ny/1767">NBC</channel>' \
+            '</channels>' \
+            > "${GITHUB_WORKSPACE}/debug_wnbc_tvpass.channels.xml"
+
+          pushd epg
+          npm run grab --- \
+            --channels="${GITHUB_WORKSPACE}/debug_wnbc_tvpass.channels.xml" \
+            --days=1 \
+            --maxConnections=1 \
+            --timeout=30000 \
+            --curl \
+            --output="${GITHUB_WORKSPACE}/debug_wnbc_tvpass.xml"
+          popd
+
+          test -f "${GITHUB_WORKSPACE}/debug_wnbc_tvpass.xml"
+          grep -c '<programme ' "${GITHUB_WORKSPACE}/debug_wnbc_tvpass.xml" || echo 0
+
+      ##############################################
+      # FALLBACK WNBC → tvinsider
+      ##############################################
+      - name: (Fallback) WNBC tvinsider se tvpassport è vuoto
+        shell: bash
         run: |
           set -euo pipefail
-          cp -v ontvtonight.com.config.js ontvtonight.com.config.js.bak
+          PROGS=$(grep -c '<programme ' "${GITHUB_WORKSPACE}/debug_wnbc_tvpass.xml" || echo 0)
+          if [ "${PROGS}" -eq 0 ]; then
+            echo "WNBC tvpassport assente → fallback tvinsider"
+            printf '%s\n' \
+              '<?xml version="1.0" encoding="UTF-8"?>' \
+              '<channels>' \
+              '<channel site="tvinsider.com" lang="en" xmltv_id="wnbc" site_id="nbc">NBC</channel>' \
+              '</channels>' \
+              > "${GITHUB_WORKSPACE}/wnbc_tvinsider.channels.xml"
 
-          cat > ontvtonight.com.config.js <<'JS'
-          const dayjs = require('dayjs')
-          const utc = require('dayjs/plugin/utc')
-          const tz = require('dayjs/plugin/timezone')
-          const cheerio = require('cheerio')
-          dayjs.extend(utc)
-          dayjs.extend(tz)
+            pushd epg
+            npm run grab --- \
+              --channels="${GITHUB_WORKSPACE}/wnbc_tvinsider.channels.xml" \
+              --days=1 \
+              --maxConnections=1 \
+              --timeout=30000 \
+              --curl \
+              --output="${GITHUB_WORKSPACE}/wnbc_tvinsider.xml"
+            popd
 
-          module.exports = {
-            site: 'ontvtonight.com',
-            request: {
-              timeout: 30000,
-              delay: 800,
-              headers: {
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-                'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-                'Accept-Language': 'en-US,en;q=0.9',
-                'Connection': 'keep-alive',
-                'Referer': 'https://www.ontvtonight.com/guide/'
-              },
-              cookies: 'country=us'
-            },
-            // site_id: "us#<numero>/<slug>"
-            url({ date, channel }) {
-              const m = String(channel.site_id || '').match(/^(..)#(\d+)\/([\w-]+)$/)
-              if (!m) return null
-              const dt = dayjs.tz(date, 'America/New_York').format('YYYY-MM-DD')
-              return `https://www.ontvtonight.com/guide/listings/channel/${m[2]}/${m[3]}.html?dt=${dt}`
-            },
-            // Parser robusto: prova vari layout; fallback a coppie orario+titolo
-            parser({ content }) {
-              const $ = cheerio.load(content)
-              const out = []
+            echo "Programmi fallback WNBC: $(grep -c '<programme ' "${GITHUB_WORKSPACE}/wnbc_tvinsider.xml" || echo 0)"
+            echo "Fallback WNBC completato."
+          else
+            echo "WNBC tvpassport OK: ${PROGS} programmi."
+          fi
 
-              // 1) layout ".schedule .show"
-              $('.schedule .show').each((_, el) => {
-                const title = $(el).find('.title,.show__title').first().text().trim()
-                const start = $(el).attr('data-start') || $(el).find('time').first().attr('datetime') || ''
-                const stop  = $(el).attr('data-stop')  || $(el).find('time').eq(1).attr('datetime') || ''
-                if (title && start) out.push({ title, start, stop })
-              })
-
-              // 2) layout ".listings .show"
-              if (!out.length) {
-                $('.listings .show').each((_, el) => {
-                  const title = $(el).find('.title,.show__title').first().text().trim()
-                  const start = $(el).find('time').first().attr('datetime') || ''
-                  const stop  = $(el).find('time').eq(1).attr('datetime') || ''
-                  if (title && start) out.push({ title, start, stop })
-                })
-              }
-
-              // 3) fallback generico
-              if (!out.length) {
-                $('table, .listings, .schedule').find('tr,.row').each((_, el) => {
-                  const timeText = $(el).find('time').first().attr('datetime') || $(el).find('.time').first().text().trim()
-                  const title = $(el).find('.title,.show__title,.program,.name').first().text().trim()
-                  if (title && timeText) out.push({ title, start: timeText, stop: '' })
-                })
-              }
-
-              return out
-            }
-          }
-          JS
-
-      # ------------------------ DEBUG (solo manuale) ------------------------
-      - name: DEBUG · Mostra riga WNYW in channels.xml
-        if: ${{ github.event_name == 'workflow_dispatch' }}
-        run: grep -n 'xmltv_id="wnyw"' channels.xml || true
-
-      - name: DEBUG · Grab WNYW via OnTVTonight (slug HDTV)
-        if: ${{ github.event_name == 'workflow_dispatch' }}
+      ##############################################
+      # DEBUG WNYW (tvpassport)
+      ##############################################
+      - name: (DEBUG) WNYW tvpassport - 1 giorno
+        shell: bash
         run: |
           set -euxo pipefail
-          echo '<?xml version="1.0" encoding="UTF-8"?><channels><channel site="ontvtonight.com" lang="en" xmltv_id="wnyw" site_id="us#69022188/wnyw-hdtv">FOX</channel></channels>' > debug_wnyw_ontv_hdtv.channels.xml
-          pushd epg >/dev/null
+          printf '%s\n' \
+            '<?xml version="1.0" encoding="UTF-8"?>' \
+            '<channels>' \
+            '<channel site="tvpassport.com" lang="en" xmltv_id="wnyw" site_id="fox-wnyw-new-york-ny-hd/4557">FOX</channel>' \
+            '</channels>' \
+            > "${GITHUB_WORKSPACE}/debug_wnyw_tvpass.channels.xml"
+
+          pushd epg
           npm run grab --- \
-            --channels="${GITHUB_WORKSPACE}/debug_wnyw_ontv_hdtv.channels.xml" \
+            --channels="${GITHUB_WORKSPACE}/debug_wnyw_tvpass.channels.xml" \
             --days=1 \
             --maxConnections=1 \
             --timeout=30000 \
             --curl \
-            --output="${GITHUB_WORKSPACE}/debug_wnyw_ontv_hdtv.xml" || true
-          popd >/dev/null
-          test -f debug_wnyw_ontv_hdtv.xml && grep -c '<programme ' debug_wnyw_ontv_hdtv.xml || echo "0"
+            --output="${GITHUB_WORKSPACE}/debug_wnyw_tvpass.xml"
+          popd
 
-      - name: DEBUG · Grab WNYW via OnTVTonight (slug non-HDTV)
-        if: ${{ github.event_name == 'workflow_dispatch' }}
+          test -f "${GITHUB_WORKSPACE}/debug_wnyw_tvpass.xml"
+          grep -c '<programme ' "${GITHUB_WORKSPACE}/debug_wnyw_tvpass.xml" || echo 0
+
+      ##############################################
+      # FALLBACK WNYW → tvinsider
+      ##############################################
+      - name: (Fallback) WNYW tvinsider se tvpassport è vuoto
+        shell: bash
         run: |
-          set -euxo pipefail
-          echo '<?xml version="1.0" encoding="UTF-8"?><channels><channel site="ontvtonight.com" lang="en" xmltv_id="wnyw" site_id="us#69022188/wnyw">FOX</channel></channels>' > debug_wnyw_ontv.channels.xml
-          pushd epg >/dev/null
-          npm run grab --- \
-            --channels="${GITHUB_WORKSPACE}/debug_wnyw_ontv.channels.xml" \
-            --days=1 \
-            --maxConnections=1 \
-            --timeout=30000 \
-            --curl \
-            --output="${GITHUB_WORKSPACE}/debug_wnyw_ontv.xml" || true
-          popd >/dev/null
-          test -f debug_wnyw_ontv.xml && grep -c '<programme ' debug_wnyw_ontv.xml || echo "0"
+          set -euo pipefail
+          PROGS=$(grep -c '<programme ' "${GITHUB_WORKSPACE}/debug_wnyw_tvpass.xml" || echo 0)
+          if [ "${PROGS}" -eq 0 ]; then
+            echo "WNYW tvpassport assente → fallback tvinsider"
+            printf '%s\n' \
+              '<?xml version="1.0" encoding="UTF-8"?>' \
+              '<channels>' \
+              '<channel site="tvinsider.com" lang="en" xmltv_id="wnyw" site_id="fox">FOX</channel>' \
+              '</channels>' \
+              > "${GITHUB_WORKSPACE}/wnyw_tvinsider.channels.xml"
 
-      - name: DEBUG · Grab WNYW via tvinsider (confronto)
-        if: ${{ github.event_name == 'workflow_dispatch' }}
-        run: |
-          set -euxo pipefail
-          echo '<?xml version="1.0" encoding="UTF-8"?><channels><channel site="tvinsider.com" lang="en" xmltv_id="wnyw" site_id="fox">FOX</channel></channels>' > debug_wnyw_tvi.channels.xml
-          pushd epg >/dev/null
-          npm run grab --- \
-            --channels="${GITHUB_WORKSPACE}/debug_wnyw_tvi.channels.xml" \
-            --days=1 \
-            --maxConnections=1 \
-            --timeout=30000 \
-            --curl \
-            --output="${GITHUB_WORKSPACE}/debug_wnyw_tvi.xml" || true
-          popd >/dev/null
-          test -f debug_wnyw_tvi.xml && grep -c '<programme ' debug_wnyw_tvi.xml || echo "0"
+            pushd epg
+            npm run grab --- \
+              --channels="${GITHUB_WORKSPACE}/wnyw_tvinsider.channels.xml" \
+              --days=1 \
+              --maxConnections=1 \
+              --timeout=30000 \
+              --curl \
+              --output="${GITHUB_WORKSPACE}/wnyw_tvinsider.xml"
+            popd
 
-      # ---------------------- MAIN GRAB ----------------------
+            echo "Programmi fallback WNYW: $(grep -c '<programme ' "${GITHUB_WORKSPACE}/wnyw_tvinsider.xml" || echo 0)"
+            echo "Fallback WNYW completato."
+          else
+            echo "WNYW tvpassport OK: ${PROGS} programmi."
+          fi
+
+      ##############################################
+      # Grab all EPGs in parallel (tuo script)
+      ##############################################
       - name: Grab all EPGs in parallel
         env:
           CHANNEL_OUTPUT_PAIRS: "channels.xml:epg.xml d_channels.xml:d_epg.xml"
         run: |
-          set -euxo pipefail
-          echo "$CHANNEL_OUTPUT_PAIRS"
+          set -e
+          echo "Pairs: $CHANNEL_OUTPUT_PAIRS"
 
           pids=()
           names=()
@@ -182,80 +173,60 @@ jobs:
             CHANNELS_FILE="${pair%%:*}"
             OUTPUT_FILE="${pair##*:}"
 
+            echo ">> Launching grab for $CHANNELS_FILE -> $OUTPUT_FILE"
+
             (
               pushd epg >/dev/null
-              npm run grab --- \
+              npm run grab -- \
                 --channels="${GITHUB_WORKSPACE}/${CHANNELS_FILE}" \
-                --days=7 \
-                --maxConnections=16 \
-                --timeout=15000 \
-                --output="${GITHUB_WORKSPACE}/${OUTPUT_FILE}"
+                --days 7 \
+                --maxConnections 16 \
+                --timeout 15000 \
+                --output "${GITHUB_WORKSPACE}/${OUTPUT_FILE}"
               popd >/dev/null
-              test -f "${OUTPUT_FILE}"
+
+              if [ -f "${OUTPUT_FILE}" ]; then
+                echo "---- EPG SUMMARY (${OUTPUT_FILE}) ----"
+                channels_count=$(grep -c "<channel" "${OUTPUT_FILE}" || true)
+                progs_count=$(grep -c "<programme " "${OUTPUT_FILE}" || true)
+                echo "Channels: $channels_count"
+                echo "Programmes: $progs_count"
+                ls -lh "${OUTPUT_FILE}"
+              else
+                echo "No ${OUTPUT_FILE} produced."
+                exit 1
+              fi
             ) &
 
             pids+=($!)
             names+=("${OUTPUT_FILE}")
           done
 
+          fail=0
           for i in "${!pids[@]}"; do
-            wait "${pids[$i]}" || exit 1
+            pid=${pids[$i]}
+            name=${names[$i]}
+            if wait "$pid"; then
+              echo "✔ Completed: ${name}"
+            else
+              echo "✖ Failed: ${name}"
+              fail=1
+            fi
           done
 
-      # ---------------------- FALLBACK WNYW ----------------------
-      - name: Fallback WNYW → tvinsider (merge se OnTVTonight è vuoto)
-        run: |
-          set -euo pipefail
+          exit $fail
 
-          # Assicura epg.xml esistente e chiuso con </tv>
-          if [ ! -f epg.xml ]; then
-            echo '<?xml version="1.0" encoding="UTF-8"?><tv></tv>' > epg.xml
-          fi
-          if [ "$(tail -n1 epg.xml | tr -d ' \r\n\t')" != "</tv>" ]; then
-            echo "Formato epg.xml inatteso (manca </tv> in ultima riga)."
-            exit 0
-          fi
-
-          # Se WNYW già presente, esci
-          COUNT=$(grep -c 'channel="wnyw"' epg.xml || true)
-          if [ "$COUNT" -gt 0 ]; then
-            echo "WNYW già presente in epg.xml → nessun fallback."
-            exit 0
-          fi
-
-          echo "WNYW assente → attivo fallback da tvinsider…"
-          echo '<?xml version="1.0" encoding="UTF-8"?><channels><channel site="tvinsider.com" lang="en" xmltv_id="wnyw" site_id="fox">FOX</channel></channels>' > wnyw_tvinsider.channels.xml
-
-          pushd epg >/dev/null
-          npm run grab --- \
-            --channels="${GITHUB_WORKSPACE}/wnyw_tvinsider.channels.xml" \
-            --days=7 \
-            --maxConnections=1 \
-            --timeout=30000 \
-            --curl \
-            --output="${GITHUB_WORKSPACE}/wnyw_tvinsider.xml" || true
-          popd >/dev/null
-
-          # Estrai i programme e appende dentro <tv>…</tv>
-          grep '<programme ' wnyw_tvinsider.xml > wnyw_programmes.tmp || true
-          FALLBACK_COUNT=$(grep -c '<programme ' wnyw_programmes.tmp || true)
-          echo "Programmi fallback trovati: $FALLBACK_COUNT"
-
-          if [ "$FALLBACK_COUNT" -gt 0 ]; then
-            sed -i '$d' epg.xml     # rimuovi </tv> finale
-            cat wnyw_programmes.tmp >> epg.xml
-            echo "</tv>" >> epg.xml
-            echo "Fallback WNYW completato."
-          fi
-
-          rm -f wnyw_programmes.tmp || true
-
-      # ---------------------- COMMIT ----------------------
+      ##############################################
+      # Commit changes if needed
+      ##############################################
       - name: Commit changes if needed
         run: |
-          set -euxo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add *_epg.xml epg.xml d_epg.xml || true
-          git diff --cached --quiet || git commit -m "EPG Updated! 📺"
-          git push || true
+          git add *_epg.xml epg.xml d_epg.xml 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "EPG Updated! 📺"
+            git push
+          else
+            echo "No EPG changes to commit."
+          fi
