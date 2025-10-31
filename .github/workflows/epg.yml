@@ -11,7 +11,7 @@ permissions:
 jobs:
   update_epg:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     concurrency:
       group: epg-update
       cancel-in-progress: true
@@ -35,6 +35,74 @@ jobs:
         working-directory: ./epg
         run: npm ci --no-audit --no-fund
 
+      ##############################################
+      # (DEBUG) DirecTV – WNBC e WNYW (1 giorno)
+      ##############################################
+      - name: (DEBUG) DirecTV WNBC (A/B) - 1 giorno
+        run: |
+          set -euxo pipefail
+          # A = market#station   |  B = station#market
+          # NYC market ~ 392 ; esempi station (ipotetici): WNBC=4237, WNYW=4238
+          # Proviamo entrambe le permutazioni per WNBC.
+          printf '%s\n' '<?xml version="1.0" encoding="UTF-8"?>' \
+            '<channels>' \
+            '<channel site="directv.com" lang="en" xmltv_id="wnbc" site_id="392#4237">NBC</channel>' \
+            '</channels>' > debug_wnbc_A.channels.xml
+
+          printf '%s\n' '<?xml version="1.0" encoding="UTF-8"?>' \
+            '<channels>' \
+            '<channel site="directv.com" lang="en" xmltv_id="wnbc" site_id="4237#392">NBC</channel>' \
+            '</channels>' > debug_wnbc_B.channels.xml
+
+          pushd epg
+          # A
+          npm run grab -- \
+            --channels="${GITHUB_WORKSPACE}/debug_wnbc_A.channels.xml" \
+            --days=1 --maxConnections=1 --timeout=30000 --curl \
+            --output="${GITHUB_WORKSPACE}/debug_wnbc_A.xml" || true
+          # B
+          npm run grab -- \
+            --channels="${GITHUB_WORKSPACE}/debug_wnbc_B.channels.xml" \
+            --days=1 --maxConnections=1 --timeout=30000 --curl \
+            --output="${GITHUB_WORKSPACE}/debug_wnbc_B.xml" || true
+          popd
+
+          echo "WNBC A programmes: $(grep -c '<programme ' debug_wnbc_A.xml || echo 0)"
+          echo "WNBC B programmes: $(grep -c '<programme ' debug_wnbc_B.xml || echo 0)"
+
+      - name: (DEBUG) DirecTV WNYW (A/B) - 1 giorno
+        run: |
+          set -euxo pipefail
+          # Proviamo entrambe le permutazioni per WNYW.
+          printf '%s\n' '<?xml version="1.0" encoding="UTF-8"?>' \
+            '<channels>' \
+            '<channel site="directv.com" lang="en" xmltv_id="wnyw" site_id="392#4238">FOX</channel>' \
+            '</channels>' > debug_wnyw_A.channels.xml
+
+          printf '%s\n' '<?xml version="1.0" encoding="UTF-8"?>' \
+            '<channels>' \
+            '<channel site="directv.com" lang="en" xmltv_id="wnyw" site_id="4238#392">FOX</channel>' \
+            '</channels>' > debug_wnyw_B.channels.xml
+
+          pushd epg
+          # A
+          npm run grab -- \
+            --channels="${GITHUB_WORKSPACE}/debug_wnyw_A.channels.xml" \
+            --days=1 --maxConnections=1 --timeout=30000 --curl \
+            --output="${GITHUB_WORKSPACE}/debug_wnyw_A.xml" || true
+          # B
+          npm run grab -- \
+            --channels="${GITHUB_WORKSPACE}/debug_wnyw_B.channels.xml" \
+            --days=1 --maxConnections=1 --timeout=30000 --curl \
+            --output="${GITHUB_WORKSPACE}/debug_wnyw_B.xml" || true
+          popd
+
+          echo "WNYW A programmes: $(grep -c '<programme ' debug_wnyw_A.xml || echo 0)"
+          echo "WNYW B programmes: $(grep -c '<programme ' debug_wnyw_B.xml || echo 0)"
+
+      ##############################################
+      # Grab completo in parallelo (7 giorni)
+      ##############################################
       - name: Grab all EPGs in parallel
         env:
           CHANNEL_OUTPUT_PAIRS: "channels.xml:epg.xml d_channels.xml:d_epg.xml"
@@ -55,9 +123,9 @@ jobs:
               pushd epg >/dev/null
               npm run grab -- \
                 --channels="${GITHUB_WORKSPACE}/${CHANNELS_FILE}" \
-                --days 7 \
-                --maxConnections 16 \
-                --timeout 15000 \
+                --days=7 \
+                --maxConnections=16 \
+                --timeout=15000 \
                 --output "${GITHUB_WORKSPACE}/${OUTPUT_FILE}"
               popd >/dev/null
 
@@ -78,7 +146,6 @@ jobs:
             names+=("${OUTPUT_FILE}")
           done
 
-          # Wait for all parallel grabs
           fail=0
           for i in "${!pids[@]}"; do
             pid=${pids[$i]}
@@ -97,7 +164,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add *_epg.xml epg.xml d_epg.xml 2>/dev/null || true
+          git add *_epg.xml epg.xml d_epg.xml || true
           if ! git diff --cached --quiet; then
             git commit -m "EPG Updated! 📺"
             git push
