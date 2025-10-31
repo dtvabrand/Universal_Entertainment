@@ -18,7 +18,7 @@
   <channel site="tvtv.us"    lang="en"    xmltv_id="wabc"    site_id="20453">ABC</channel>
   <channel site="tvtv.us"    lang="en"    xmltv_id="wnbc"    site_id="20459">NBC</channel>
   <channel site="tvtv.us"    lang="en"    xmltv_id="wcbs"    site_id="16689">CBS</channel>
-  <channel site="tvtv.us"    lang="en"    xmltv_id="wnyw"    site_id="20360">FOX</channel>
+  <channel site="streamingtvguides.com"    lang="en"    xmltv_id="wnyw"    site_id="DTV:FOXe:398">FOX</channel>
 
   <channel site="tvinsider.com"    lang="en" xmltv_id="bravo"              site_id="bravo">Bravo</channel>
   <channel site="tvinsider.com"    lang="en" xmltv_id="e-entertainment"    site_id="e">E!</channel>
