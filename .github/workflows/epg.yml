@@ -2,7 +2,7 @@ name: Update EPG
 
 on:
   schedule:
-    - cron: "0 4 * * *"
+    - cron: "0 4 * * *"  # 05:00 CET / 06:00 CEST
   workflow_dispatch:
 
 permissions:
@@ -25,6 +25,7 @@ jobs:
           set -euxo pipefail
           git clone --depth 1 https://github.com/iptv-org/epg.git
           cd epg
+          # Pin a un commit stabile per evitare bug recenti sul master (es. maxConnections: NaN)
           (git fetch --depth 50 origin +refs/heads/master:refs/remotes/origin/master || true)
           (git checkout 9d20d1f || git checkout "$(git rev-list -n 1 --before='2025-10-20' origin/master)")
           git rev-parse --short HEAD
@@ -40,8 +41,8 @@ jobs:
         working-directory: ./epg
         run: npm ci --no-audit --no-fund
 
-      # -------------------- PATCH HEADERS ONTVTONIGHT --------------------
-      - name: Patch · Hardening headers per ontvtonight.com
+      # -------------------- PATCH HEADERS + PARSER ONTVTONIGHT --------------------
+      - name: Patch · Hardening headers + parser tollerante per ontvtonight.com
         working-directory: ./epg/sites/ontvtonight.com
         run: |
           set -euo pipefail
@@ -51,6 +52,7 @@ jobs:
           const dayjs = require('dayjs')
           const utc = require('dayjs/plugin/utc')
           const tz = require('dayjs/plugin/timezone')
+          const cheerio = require('cheerio')
           dayjs.extend(utc)
           dayjs.extend(tz)
 
@@ -58,52 +60,87 @@ jobs:
             site: 'ontvtonight.com',
             request: {
               timeout: 30000,
-              delay: 750,
+              delay: 800,
               headers: {
-                'User-Agent':
-                  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
                 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
                 'Accept-Language': 'en-US,en;q=0.9',
                 'Connection': 'keep-alive',
                 'Referer': 'https://www.ontvtonight.com/guide/'
-              }
+              },
+              // alcuni mercati rispondono vuoti senza cookie regione/paese
+              cookies: 'country=us'
             },
+            // site_id atteso: "us#<numero>/<slug>"
             url({ date, channel }) {
               const m = String(channel.site_id || '').match(/^(..)#(\d+)\/([\w-]+)$/)
               if (!m) return null
               const dt = dayjs.tz(date, 'America/New_York').format('YYYY-MM-DD')
               return `https://www.ontvtonight.com/guide/listings/channel/${m[2]}/${m[3]}.html?dt=${dt}`
             },
+            // Parser robusto: prova vari layout; fallback a coppie orario+titolo
             parser({ content }) {
-              const cheerio = require('cheerio')
               const $ = cheerio.load(content)
-              const programmes = []
+              const out = []
 
-              $('.schedule .show, .listings .show, [data-epg-entry]').each((_, el) => {
+              // 1) layout ".schedule .show"
+              $('.schedule .show').each((_, el) => {
                 const title = $(el).find('.title,.show__title').first().text().trim()
                 const start = $(el).attr('data-start') || $(el).find('time').first().attr('datetime') || ''
                 const stop  = $(el).attr('data-stop')  || $(el).find('time').eq(1).attr('datetime') || ''
-                if (title && start) {
-                  programmes.push({ title, start, stop })
-                }
+                if (title && start) out.push({ title, start, stop })
               })
 
-              return programmes
+              // 2) layout ".listings .show"
+              if (!out.length) {
+                $('.listings .show').each((_, el) => {
+                  const title = $(el).find('.title,.show__title').first().text().trim()
+                  const start = $(el).find('time').first().attr('datetime') || ''
+                  const stop  = $(el).find('time').eq(1).attr('datetime') || ''
+                  if (title && start) out.push({ title, start, stop })
+                })
+              }
+
+              // 3) fallback generico: righe con orario + titolo anche senza datetime
+              if (!out.length) {
+                $('table, .listings, .schedule').find('tr,.row').each((_, el) => {
+                  const timeText = $(el).find('time').first().attr('datetime') || $(el).find('.time').first().text().trim()
+                  const title = $(el).find('.title,.show__title,.program,.name').first().text().trim()
+                  if (title && timeText) out.push({ title, start: timeText, stop: '' })
+                })
+              }
+
+              return out
             }
           }
           JS
 
-      # ------------------------ DEBUG SECTION ------------------------
-      - name: DEBUG · Mostra riga WABC
+      # ------------------------ DEBUG (solo manuale) ------------------------
+      - name: DEBUG · Mostra riga WABC in channels.xml
         if: ${{ github.event_name == 'workflow_dispatch' }}
         run: grep -n 'xmltv_id="wabc"' channels.xml || true
 
-      - name: DEBUG · Grab WABC via ontvtonight
+      - name: DEBUG · Grab WABC via OnTVTonight (slug HDTV)
         if: ${{ github.event_name == 'workflow_dispatch' }}
         run: |
           set -euxo pipefail
-          echo '<?xml version="1.0" encoding="UTF-8"?><channels><channel site="ontvtonight.com" lang="en" xmltv_id="wabc" site_id="us#69022306/wabc-hdtv">ABC</channel></channels>' > debug_wabc_ontv.channels.xml
+          echo '<?xml version="1.0" encoding="UTF-8"?><channels><channel site="ontvtonight.com" lang="en" xmltv_id="wabc" site_id="us#69022306/wabc-hdtv">ABC</channel></channels>' > debug_wabc_ontv_hdtv.channels.xml
+          pushd epg >/dev/null
+          npm run grab --- \
+            --channels="${GITHUB_WORKSPACE}/debug_wabc_ontv_hdtv.channels.xml" \
+            --days=1 \
+            --maxConnections=1 \
+            --timeout=30000 \
+            --curl \
+            --output="${GITHUB_WORKSPACE}/debug_wabc_ontv_hdtv.xml" || true
+          popd >/dev/null
+          test -f debug_wabc_ontv_hdtv.xml && grep -c '<programme ' debug_wabc_ontv_hdtv.xml || echo "0"
 
+      - name: DEBUG · Grab WABC via OnTVTonight (slug non-HDTV)
+        if: ${{ github.event_name == 'workflow_dispatch' }}
+        run: |
+          set -euxo pipefail
+          echo '<?xml version="1.0" encoding="UTF-8"?><channels><channel site="ontvtonight.com" lang="en" xmltv_id="wabc" site_id="us#69048654/wabc">ABC</channel></channels>' > debug_wabc_ontv.channels.xml
           pushd epg >/dev/null
           npm run grab --- \
             --channels="${GITHUB_WORKSPACE}/debug_wabc_ontv.channels.xml" \
@@ -113,15 +150,13 @@ jobs:
             --curl \
             --output="${GITHUB_WORKSPACE}/debug_wabc_ontv.xml" || true
           popd >/dev/null
+          test -f debug_wabc_ontv.xml && grep -c '<programme ' debug_wabc_ontv.xml || echo "0"
 
-          test -f debug_wabc_ontv.xml && grep -c "<programme " debug_wabc_ontv.xml || echo "0"
-
-      - name: DEBUG · Grab WABC via tvinsider
+      - name: DEBUG · Grab WABC via tvinsider (confronto)
         if: ${{ github.event_name == 'workflow_dispatch' }}
         run: |
           set -euxo pipefail
           echo '<?xml version="1.0" encoding="UTF-8"?><channels><channel site="tvinsider.com" lang="en" xmltv_id="wabc" site_id="abc">ABC</channel></channels>' > debug_wabc_tvi.channels.xml
-
           pushd epg >/dev/null
           npm run grab --- \
             --channels="${GITHUB_WORKSPACE}/debug_wabc_tvi.channels.xml" \
@@ -131,18 +166,7 @@ jobs:
             --curl \
             --output="${GITHUB_WORKSPACE}/debug_wabc_tvi.xml" || true
           popd >/dev/null
-
-          test -f debug_wabc_tvi.xml && grep -c "<programme " debug_wabc_tvi.xml || echo "0"
-
-      - name: DEBUG · Lista canali ufficiale ontvtonight
-        if: ${{ github.event_name == 'workflow_dispatch' }}
-        working-directory: ./epg
-        run: |
-          npm run channels:parse --- \
-            --config=./sites/ontvtonight.com/ontvtonight.com.config.js \
-            --output=./sites/ontvtonight.com/ontvtonight_us.xml \
-            --set=country:us
-          grep -ni -E 'wabc|wabc-hdtv' ./sites/ontvtonight.com/ontvtonight_us.xml || true
+          test -f debug_wabc_tvi.xml && grep -c '<programme ' debug_wabc_tvi.xml || echo "0"
 
       # ---------------------- MAIN GRAB ----------------------
       - name: Grab all EPGs in parallel
@@ -168,7 +192,6 @@ jobs:
                 --timeout=15000 \
                 --output="${GITHUB_WORKSPACE}/${OUTPUT_FILE}"
               popd >/dev/null
-
               test -f "${OUTPUT_FILE}"
             ) &
 
@@ -181,17 +204,27 @@ jobs:
           done
 
       # ---------------------- FALLBACK WABC ----------------------
-      - name: Fallback WABC → tvinsider
+      - name: Fallback WABC → tvinsider (merge se OnTVTonight è vuoto)
         run: |
           set -euo pipefail
 
+          # Assicura epg.xml esistente e chiuso con </tv>
           if [ ! -f epg.xml ]; then
             echo '<?xml version="1.0" encoding="UTF-8"?><tv></tv>' > epg.xml
           fi
+          if [ "$(tail -n1 epg.xml | tr -d ' \r\n\t')" != "</tv>" ]; then
+            echo "Formato epg.xml inatteso (manca </tv> in ultima riga)."
+            exit 0
+          fi
 
+          # Se WABC già presente, esci
           COUNT=$(grep -c 'channel="wabc"' epg.xml || true)
-          if [ "$COUNT" -gt 0 ]; then exit 0; fi
+          if [ "$COUNT" -gt 0 ]; then
+            echo "WABC già presente in epg.xml → nessun fallback."
+            exit 0
+          fi
 
+          echo "WABC assente → attivo fallback da tvinsider…"
           echo '<?xml version="1.0" encoding="UTF-8"?><channels><channel site="tvinsider.com" lang="en" xmltv_id="wabc" site_id="abc">ABC</channel></channels>' > wabc_tvinsider.channels.xml
 
           pushd epg >/dev/null
@@ -204,14 +237,24 @@ jobs:
             --output="${GITHUB_WORKSPACE}/wabc_tvinsider.xml" || true
           popd >/dev/null
 
-          grep '<programme ' wabc_tvinsider.xml > tmp || exit 0
-          sed -i '$d' epg.xml
-          cat tmp >> epg.xml
-          echo "</tv>" >> epg.xml
+          # Estrai i programme e appende dentro <tv>…</tv>
+          grep '<programme ' wabc_tvinsider.xml > wabc_programmes.tmp || true
+          FALLBACK_COUNT=$(grep -c '<programme ' wabc_programmes.tmp || true)
+          echo "Programmi fallback trovati: $FALLBACK_COUNT"
+
+          if [ "$FALLBACK_COUNT" -gt 0 ]; then
+            sed -i '$d' epg.xml     # rimuovi </tv> finale
+            cat wabc_programmes.tmp >> epg.xml
+            echo "</tv>" >> epg.xml
+            echo "Fallback WABC completato."
+          fi
+
+          rm -f wabc_programmes.tmp || true
 
       # ---------------------- COMMIT ----------------------
       - name: Commit changes if needed
         run: |
+          set -euxo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add *_epg.xml epg.xml d_epg.xml || true
