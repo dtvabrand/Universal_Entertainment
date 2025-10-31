@@ -18,7 +18,7 @@
   <channel site="epgshare01.online"     lang="en" xmltv_id="wabc"        site_id="US_LOCALS2#ABC.(WABC).New.York,.NY.us">ABC</channel>
   <channel site="epgshare01.online"     lang="en" xmltv_id="wnbc"        site_id="US_LOCALS2#NBC.(WNBC).New.York,.NY.us">NBC</channel>
   <channel site="epgshare01.online"     lang="en" xmltv_id="wcbs"        site_id="US_LOCALS2#CBS.(WCBS).New.York,.NY.us">CBS</channel>
-  <channel site="epgshare01.online"     lang="en" xmltv_id="wnyw"        site_id="US_LOCALS2#FOX.(WNYW).New.York,.NY.us">FOX</channel>
+  <channel site="epgshare01.online_US_LOCALS2"     lang="en" xmltv_id="wnyw"        site_id="US_LOCALS2#FOX.(WNYW).New.York,.NY.us">FOX</channel>
 
   <channel site="tvinsider.com"    lang="en" xmltv_id="bravo"              site_id="bravo">Bravo</channel>
   <channel site="tvinsider.com"    lang="en" xmltv_id="e-entertainment"    site_id="e">E!</channel>
