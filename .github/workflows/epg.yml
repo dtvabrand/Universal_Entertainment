@@ -108,29 +108,41 @@ jobs:
           : > "$PY"
           printf '%s\n' \
             'import sys, xml.etree.ElementTree as ET' \
+            'from xml.etree.ElementTree import Element' \
             'BASE = "epg.xml"; SRC = "/tmp/us_locals1.xml"; OUT = "epg.xml"' \
-            'TARGET = {"WABC-DT.us_locals1","WNBC-DT.us_locals1","WCBS-DT.us_locals1","WNYW-DT.us_locals1"}' \
+            'MAP = {' \
+            '  "wabc":"WABC-DT.us_locals1",' \
+            '  "wnbc":"WNBC-DT.us_locals1",' \
+            '  "wcbs":"WCBS-DT.us_locals1",' \
+            '  "wnyw":"WNYW-DT.us_locals1",' \
+            '}' \
+            'FEED2TARGET = {v:k for k,v in MAP.items()}' \
             'b = ET.parse(BASE); r = b.getroot()' \
             'if r.tag != "tv": print("Root base non è <tv>", file=sys.stderr)' \
-            'cids = {c.get("id") for c in r.findall("channel") if c.get("id")}' \
+            '# set dei programmi già presenti (id target)' \
             'pkeys = {(p.get("channel"), p.get("start"), p.get("stop")) for p in r.findall("programme")}' \
+            'added = 0; seen = 0' \
             'for _, e in ET.iterparse(SRC, events=("end",)):' \
-            '    if e.tag == "channel":' \
-            '        cid = e.get("id") or ""' \
-            '        if cid in TARGET and cid not in cids:' \
-            '            r.append(e); cids.add(cid)' \
-            '    e.clear()' \
-            'added = 0' \
-            'for _, e in ET.iterparse(SRC, events=("end",)):' \
-            '    if e.tag == "programme":' \
-            '        ch = e.get("channel")' \
-            '        if ch in TARGET:' \
-            '            key = (ch, e.get("start"), e.get("stop"))' \
-            '            if key not in pkeys:' \
-            '                r.append(e); pkeys.add(key); added += 1' \
+            '    if e.tag != "programme":' \
+            '        e.clear(); continue' \
+            '    ch = e.get("channel")' \
+            '    if ch not in FEED2TARGET:' \
+            '        e.clear(); continue' \
+            '    target_id = FEED2TARGET[ch]  # es. "wabc"' \
+            '    key = (target_id, e.get("start"), e.get("stop"))' \
+            '    seen += 1' \
+            '    if key in pkeys:' \
+            '        e.clear(); continue' \
+            '    # clona il programme e riscrivi l\'id canale sul target (wabc/w ...)' \
+            '    new = ET.fromstring(ET.tostring(e, encoding="utf-8"))' \
+            '    new.set("channel", target_id)' \
+            '    r.append(new)' \
+            '    pkeys.add(key)' \
+            '    added += 1' \
             '    e.clear()' \
             'b.write(OUT, encoding="utf-8", xml_declaration=True)' \
-            'print("Programmi US locals aggiunti:", added)'
+            'print(f"Programmi feed considerati: {seen}")' \
+            'print(f"Programmi US locals aggiunti: {added}")'
 
           python3 "$PY"
 
