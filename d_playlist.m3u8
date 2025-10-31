@@ -112,7 +112,7 @@ https://stream.antennasudwebtv.it:9443/hls/vod720.m3u8
 https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u8
 
 #EXTINF:-1 group-title="Campania" tvg-logo="https://www.infocilento.it/wp-content/uploads/2024/03/logo-retina-120.png",InfoCilento  
-https://nrvideo1.newradio.it:1936/pskfvahhcs/pskfvahhcs/chunklist_w513045666.m3u8
+https://nrvideo1.newradio.it:1936/pskfvahhcs/pskfvahhcs/playlist.m3u8
 
 #EXTINF:-1 group-title="Puglia" tvg-logo="http://odmsto.com/uploads/tv_image/sm/telebari.png",Telebari
 https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8
