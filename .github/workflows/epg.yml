@@ -11,7 +11,7 @@ permissions:
 jobs:
   update_epg:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     concurrency:
       group: epg-update
       cancel-in-progress: true
@@ -22,7 +22,14 @@ jobs:
 
       - name: Clone iptv-org/epg
         run: |
+          set -euxo pipefail
           git clone --depth 1 https://github.com/iptv-org/epg.git
+          cd epg
+          # ⚠️ Workaround per bug recente: maxConnections = NaN su master → nessuna queue
+          # Pinna a commit stabile; se non esiste, ripiega al commit più recente prima del 2025-10-20
+          (git fetch --depth 50 origin +refs/heads/master:refs/remotes/origin/master || true)
+          (git checkout 9d20d1f || git checkout "$(git rev-list -n 1 --before='2025-10-20' origin/master)")
+          git rev-parse --short HEAD
 
       - name: Set up Node.js (cache npm su epg/)
         uses: actions/setup-node@v4
@@ -35,6 +42,7 @@ jobs:
         working-directory: ./epg
         run: npm ci --no-audit --no-fund
 
+      # ============ DEBUG (solo manuale) ============
       - name: DEBUG · Mostra riga WABC in channels.xml
         if: ${{ github.event_name == 'workflow_dispatch' }}
         run: |
@@ -44,6 +52,7 @@ jobs:
       - name: DEBUG · Grab WABC via ontvtonight (1 giorno)
         if: ${{ github.event_name == 'workflow_dispatch' }}
         run: |
+          set -euxo pipefail
           cat > debug_wabc_ontv.channels.xml <<'XML'
           <?xml version="1.0" encoding="UTF-8"?>
           <channels>
@@ -52,23 +61,24 @@ jobs:
           XML
 
           pushd epg >/dev/null
-          npm run grab -- \
+          npm run grab --- \
             --channels="${GITHUB_WORKSPACE}/debug_wabc_ontv.channels.xml" \
             --days=1 \
             --maxConnections=1 \
             --timeout=30000 \
             --curl \
-            --output="${GITHUB_WORKSPACE}/debug_wabc_ontv.xml" || exit 1
+            --output="${GITHUB_WORKSPACE}/debug_wabc_ontv.xml"
           popd >/dev/null
 
           echo "---- SUMMARY (debug_wabc_ontv.xml) ----"
           test -f debug_wabc_ontv.xml || { echo "Manca debug_wabc_ontv.xml"; exit 1; }
           grep -c "<programme " debug_wabc_ontv.xml || true
-          tail -n 40 debug_wabc_ontv.xml || true
+          tail -n 60 debug_wabc_ontv.xml || true
 
       - name: DEBUG · Grab WABC via tvinsider (1 giorno, confronto)
         if: ${{ github.event_name == 'workflow_dispatch' }}
         run: |
+          set -euxo pipefail
           cat > debug_wabc_tvi.channels.xml <<'XML'
           <?xml version="1.0" encoding="UTF-8"?>
           <channels>
@@ -77,25 +87,26 @@ jobs:
           XML
 
           pushd epg >/dev/null
-          npm run grab -- \
+          npm run grab --- \
             --channels="${GITHUB_WORKSPACE}/debug_wabc_tvi.channels.xml" \
             --days=1 \
             --maxConnections=1 \
             --timeout=30000 \
             --curl \
-            --output="${GITHUB_WORKSPACE}/debug_wabc_tvi.xml" || exit 1
+            --output="${GITHUB_WORKSPACE}/debug_wabc_tvi.xml"
           popd >/dev/null
 
           echo "---- SUMMARY (debug_wabc_tvi.xml) ----"
           test -f debug_wabc_tvi.xml || { echo "Manca debug_wabc_tvi.xml"; exit 1; }
           grep -c "<programme " debug_wabc_tvi.xml || true
-          tail -n 40 debug_wabc_tvi.xml || true
+          tail -n 60 debug_wabc_tvi.xml || true
 
       - name: DEBUG · Elenco canali ufficiale · ontvtonight.com (US)
         if: ${{ github.event_name == 'workflow_dispatch' }}
         working-directory: ./epg
         run: |
-          npm run channels:parse -- \
+          set -euxo pipefail
+          npm run channels:parse --- \
             --config=./sites/ontvtonight.com/ontvtonight.com.config.js \
             --output=./sites/ontvtonight.com/ontvtonight.com_us.channels.xml \
             --set=country:us
@@ -110,12 +121,13 @@ jobs:
           echo "Channels totali: $(grep -c '<channel ' "$FILE" || true)"
           head -n 5 "$FILE"
           tail -n 5 "$FILE"
-          
+      # ============ FINE DEBUG ============
+
       - name: Grab all EPGs in parallel
         env:
           CHANNEL_OUTPUT_PAIRS: "channels.xml:epg.xml d_channels.xml:d_epg.xml"
         run: |
-          set -e
+          set -euxo pipefail
           echo "Pairs: $CHANNEL_OUTPUT_PAIRS"
 
           pids=()
@@ -129,12 +141,12 @@ jobs:
 
             (
               pushd epg >/dev/null
-              npm run grab -- \
+              npm run grab --- \
                 --channels="${GITHUB_WORKSPACE}/${CHANNELS_FILE}" \
                 --days=7 \
                 --maxConnections=16 \
                 --timeout=15000 \
-                --output "${GITHUB_WORKSPACE}/${OUTPUT_FILE}"
+                --output="${GITHUB_WORKSPACE}/${OUTPUT_FILE}"
               popd >/dev/null
 
               if [ -f "${OUTPUT_FILE}" ]; then
@@ -171,6 +183,7 @@ jobs:
 
       - name: Commit changes if needed
         run: |
+          set -euxo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add *_epg.xml epg.xml d_epg.xml 2>/dev/null || true
