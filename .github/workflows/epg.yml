@@ -55,10 +55,10 @@ jobs:
               pushd epg >/dev/null
               npm run grab -- \
                 --channels="${GITHUB_WORKSPACE}/${CHANNELS_FILE}" \
-                --days 7 \
-                --maxConnections 16 \
-                --timeout 15000 \
-                --output "${GITHUB_WORKSPACE}/${OUTPUT_FILE}"
+                --days=7 \
+                --maxConnections=16 \
+                --timeout=15000 \
+                --output="${GITHUB_WORKSPACE}/${OUTPUT_FILE}"
               popd >/dev/null
 
               if [ -f "${OUTPUT_FILE}" ]; then
@@ -97,7 +97,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
+          git add epg.xml d_epg.xml *_epg.xml 2>/dev/null || true
+          git reset -q epg || true
           if ! git diff --cached --quiet; then
             git commit -m "EPG Updated! 📺"
             git push
