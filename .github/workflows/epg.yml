@@ -35,6 +35,83 @@ jobs:
         working-directory: ./epg
         run: npm ci --no-audit --no-fund
 
+              # 🔎 DEBUG (parte solo su workflow_dispatch)
+      - name: DEBUG · Mostra riga WABC in channels.xml
+        if: ${{ github.event_name == 'workflow_dispatch' }}
+        run: |
+          echo "Cerco la riga di WABC…"
+          grep -n 'xmltv_id="wabc"' channels.xml || true
+
+      - name: DEBUG · Grab WABC via ontvtonight (1 giorno, curl)
+        if: ${{ github.event_name == 'workflow_dispatch' }}
+        run: |
+          cat > debug_wabc_ontv.channels.xml <<'XML'
+          <?xml version="1.0" encoding="UTF-8"?>
+          <channels>
+            <channel site="ontvtonight.com" lang="en" xmltv_id="wabc" site_id="us#69022306/wabc-hdtv">ABC</channel>
+          </channels>
+          XML
+
+          pushd epg >/dev/null
+          npm run grab -- \
+            --channels="${GITHUB_WORKSPACE}/debug_wabc_ontv.channels.xml" \
+            --days 1 \
+            --maxConnections 1 \
+            --timeout 20000 \
+            --curl \
+            --output "${GITHUB_WORKSPACE}/debug_wabc_ontv.xml"
+          popd >/dev/null
+
+          echo "---- SUMMARY (debug_wabc_ontv.xml) ----"
+          grep -c "<programme " debug_wabc_ontv.xml || true
+          tail -n 40 debug_wabc_ontv.xml || true
+
+      - name: DEBUG · Grab WABC via tvinsider (1 giorno, confronto)
+        if: ${{ github.event_name == 'workflow_dispatch' }}
+        run: |
+          cat > debug_wabc_tvi.channels.xml <<'XML'
+          <?xml version="1.0" encoding="UTF-8"?>
+          <channels>
+            <channel site="tvinsider.com" lang="en" xmltv_id="wabc" site_id="abc">ABC</channel>
+          </channels>
+          XML
+
+          pushd epg >/dev/null
+          npm run grab -- \
+            --channels="${GITHUB_WORKSPACE}/debug_wabc_tvi.channels.xml" \
+            --days 1 \
+            --maxConnections 1 \
+            --timeout 20000 \
+            --output "${GITHUB_WORKSPACE}/debug_wabc_tvi.xml"
+          popd >/dev/null
+
+          echo "---- SUMMARY (debug_wabc_tvi.xml) ----"
+          grep -c "<programme " debug_wabc_tvi.xml || true
+          tail -n 40 debug_wabc_tvi.xml || true
+
+      - name: DEBUG · Elenco canali ufficiale · ontvtonight.com (US)
+        if: ${{ github.event_name == 'workflow_dispatch' }}
+        working-directory: ./epg
+        run: |
+          # Genera la lista canali dal parser ufficiale
+          npm run channels:parse -- --config=./sites/ontvtonight.com/ontvtonight.com.config.js
+
+          FILE="sites/ontvtonight.com/ontvtonight.com.channels.xml"
+          if [ ! -f "$FILE" ]; then
+            echo "Manca $FILE (channels:parse non ha prodotto il file)"; exit 1
+          fi
+
+          echo "---- Righe che contengono WABC (con contesto) ----"
+          grep -ni -C2 -E 'xmltv_id="wabc"|wabc-hdtv|>WABC<' "$FILE" || true
+
+          echo "---- Eventuali righe ABC (per confronto) ----"
+          grep -ni -C1 -E 'xmltv_id="wabc"|>ABC<' "$FILE" || true
+
+          echo "---- Statistiche file generato ----"
+          echo "Channels totali: $(grep -c '<channel ' "$FILE" || true)"
+          head -n 5 "$FILE"
+          tail -n 5 "$FILE"
+          
       - name: Grab all EPGs in parallel
         env:
           CHANNEL_OUTPUT_PAIRS: "channels.xml:epg.xml d_channels.xml:d_epg.xml"
@@ -97,7 +174,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # committa tutti i file *_epg.xml presenti
           git add *_epg.xml epg.xml d_epg.xml 2>/dev/null || true
           if ! git diff --cached --quiet; then
             git commit -m "EPG Updated! 📺"
