@@ -25,7 +25,7 @@ jobs:
           set -euxo pipefail
           git clone --depth 1 https://github.com/iptv-org/epg.git
           cd epg
-          # Pin a un commit stabile per evitare bug recenti sul master (es. maxConnections: NaN)
+          # Pin a un commit stabile per evitare bug recenti sul master
           (git fetch --depth 50 origin +refs/heads/master:refs/remotes/origin/master || true)
           (git checkout 9d20d1f || git checkout "$(git rev-list -n 1 --before='2025-10-20' origin/master)")
           git rev-parse --short HEAD
@@ -68,10 +68,9 @@ jobs:
                 'Connection': 'keep-alive',
                 'Referer': 'https://www.ontvtonight.com/guide/'
               },
-              // alcuni mercati rispondono vuoti senza cookie regione/paese
               cookies: 'country=us'
             },
-            // site_id atteso: "us#<numero>/<slug>"
+            // site_id: "us#<numero>/<slug>"
             url({ date, channel }) {
               const m = String(channel.site_id || '').match(/^(..)#(\d+)\/([\w-]+)$/)
               if (!m) return null
@@ -101,7 +100,7 @@ jobs:
                 })
               }
 
-              // 3) fallback generico: righe con orario + titolo anche senza datetime
+              // 3) fallback generico
               if (!out.length) {
                 $('table, .listings, .schedule').find('tr,.row').each((_, el) => {
                   const timeText = $(el).find('time').first().attr('datetime') || $(el).find('.time').first().text().trim()
@@ -116,57 +115,57 @@ jobs:
           JS
 
       # ------------------------ DEBUG (solo manuale) ------------------------
-      - name: DEBUG · Mostra riga WABC in channels.xml
+      - name: DEBUG · Mostra riga WNYW in channels.xml
         if: ${{ github.event_name == 'workflow_dispatch' }}
-        run: grep -n 'xmltv_id="wabc"' channels.xml || true
+        run: grep -n 'xmltv_id="wnyw"' channels.xml || true
 
-      - name: DEBUG · Grab WABC via OnTVTonight (slug HDTV)
+      - name: DEBUG · Grab WNYW via OnTVTonight (slug HDTV)
         if: ${{ github.event_name == 'workflow_dispatch' }}
         run: |
           set -euxo pipefail
-          echo '<?xml version="1.0" encoding="UTF-8"?><channels><channel site="ontvtonight.com" lang="en" xmltv_id="wabc" site_id="us#69022306/wabc-hdtv">ABC</channel></channels>' > debug_wabc_ontv_hdtv.channels.xml
+          echo '<?xml version="1.0" encoding="UTF-8"?><channels><channel site="ontvtonight.com" lang="en" xmltv_id="wnyw" site_id="us#69022188/wnyw-hdtv">FOX</channel></channels>' > debug_wnyw_ontv_hdtv.channels.xml
           pushd epg >/dev/null
           npm run grab --- \
-            --channels="${GITHUB_WORKSPACE}/debug_wabc_ontv_hdtv.channels.xml" \
+            --channels="${GITHUB_WORKSPACE}/debug_wnyw_ontv_hdtv.channels.xml" \
             --days=1 \
             --maxConnections=1 \
             --timeout=30000 \
             --curl \
-            --output="${GITHUB_WORKSPACE}/debug_wabc_ontv_hdtv.xml" || true
+            --output="${GITHUB_WORKSPACE}/debug_wnyw_ontv_hdtv.xml" || true
           popd >/dev/null
-          test -f debug_wabc_ontv_hdtv.xml && grep -c '<programme ' debug_wabc_ontv_hdtv.xml || echo "0"
+          test -f debug_wnyw_ontv_hdtv.xml && grep -c '<programme ' debug_wnyw_ontv_hdtv.xml || echo "0"
 
-      - name: DEBUG · Grab WABC via OnTVTonight (slug non-HDTV)
+      - name: DEBUG · Grab WNYW via OnTVTonight (slug non-HDTV)
         if: ${{ github.event_name == 'workflow_dispatch' }}
         run: |
           set -euxo pipefail
-          echo '<?xml version="1.0" encoding="UTF-8"?><channels><channel site="ontvtonight.com" lang="en" xmltv_id="wabc" site_id="us#69048654/wabc">ABC</channel></channels>' > debug_wabc_ontv.channels.xml
+          echo '<?xml version="1.0" encoding="UTF-8"?><channels><channel site="ontvtonight.com" lang="en" xmltv_id="wnyw" site_id="us#69022188/wnyw">FOX</channel></channels>' > debug_wnyw_ontv.channels.xml
           pushd epg >/dev/null
           npm run grab --- \
-            --channels="${GITHUB_WORKSPACE}/debug_wabc_ontv.channels.xml" \
+            --channels="${GITHUB_WORKSPACE}/debug_wnyw_ontv.channels.xml" \
             --days=1 \
             --maxConnections=1 \
             --timeout=30000 \
             --curl \
-            --output="${GITHUB_WORKSPACE}/debug_wabc_ontv.xml" || true
+            --output="${GITHUB_WORKSPACE}/debug_wnyw_ontv.xml" || true
           popd >/dev/null
-          test -f debug_wabc_ontv.xml && grep -c '<programme ' debug_wabc_ontv.xml || echo "0"
+          test -f debug_wnyw_ontv.xml && grep -c '<programme ' debug_wnyw_ontv.xml || echo "0"
 
-      - name: DEBUG · Grab WABC via tvinsider (confronto)
+      - name: DEBUG · Grab WNYW via tvinsider (confronto)
         if: ${{ github.event_name == 'workflow_dispatch' }}
         run: |
           set -euxo pipefail
-          echo '<?xml version="1.0" encoding="UTF-8"?><channels><channel site="tvinsider.com" lang="en" xmltv_id="wabc" site_id="abc">ABC</channel></channels>' > debug_wabc_tvi.channels.xml
+          echo '<?xml version="1.0" encoding="UTF-8"?><channels><channel site="tvinsider.com" lang="en" xmltv_id="wnyw" site_id="fox">FOX</channel></channels>' > debug_wnyw_tvi.channels.xml
           pushd epg >/dev/null
           npm run grab --- \
-            --channels="${GITHUB_WORKSPACE}/debug_wabc_tvi.channels.xml" \
+            --channels="${GITHUB_WORKSPACE}/debug_wnyw_tvi.channels.xml" \
             --days=1 \
             --maxConnections=1 \
             --timeout=30000 \
             --curl \
-            --output="${GITHUB_WORKSPACE}/debug_wabc_tvi.xml" || true
+            --output="${GITHUB_WORKSPACE}/debug_wnyw_tvi.xml" || true
           popd >/dev/null
-          test -f debug_wabc_tvi.xml && grep -c '<programme ' debug_wabc_tvi.xml || echo "0"
+          test -f debug_wnyw_tvi.xml && grep -c '<programme ' debug_wnyw_tvi.xml || echo "0"
 
       # ---------------------- MAIN GRAB ----------------------
       - name: Grab all EPGs in parallel
@@ -203,8 +202,8 @@ jobs:
             wait "${pids[$i]}" || exit 1
           done
 
-      # ---------------------- FALLBACK WABC ----------------------
-      - name: Fallback WABC → tvinsider (merge se OnTVTonight è vuoto)
+      # ---------------------- FALLBACK WNYW ----------------------
+      - name: Fallback WNYW → tvinsider (merge se OnTVTonight è vuoto)
         run: |
           set -euo pipefail
 
@@ -217,39 +216,39 @@ jobs:
             exit 0
           fi
 
-          # Se WABC già presente, esci
-          COUNT=$(grep -c 'channel="wabc"' epg.xml || true)
+          # Se WNYW già presente, esci
+          COUNT=$(grep -c 'channel="wnyw"' epg.xml || true)
           if [ "$COUNT" -gt 0 ]; then
-            echo "WABC già presente in epg.xml → nessun fallback."
+            echo "WNYW già presente in epg.xml → nessun fallback."
             exit 0
           fi
 
-          echo "WABC assente → attivo fallback da tvinsider…"
-          echo '<?xml version="1.0" encoding="UTF-8"?><channels><channel site="tvinsider.com" lang="en" xmltv_id="wabc" site_id="abc">ABC</channel></channels>' > wabc_tvinsider.channels.xml
+          echo "WNYW assente → attivo fallback da tvinsider…"
+          echo '<?xml version="1.0" encoding="UTF-8"?><channels><channel site="tvinsider.com" lang="en" xmltv_id="wnyw" site_id="fox">FOX</channel></channels>' > wnyw_tvinsider.channels.xml
 
           pushd epg >/dev/null
           npm run grab --- \
-            --channels="${GITHUB_WORKSPACE}/wabc_tvinsider.channels.xml" \
+            --channels="${GITHUB_WORKSPACE}/wnyw_tvinsider.channels.xml" \
             --days=7 \
             --maxConnections=1 \
             --timeout=30000 \
             --curl \
-            --output="${GITHUB_WORKSPACE}/wabc_tvinsider.xml" || true
+            --output="${GITHUB_WORKSPACE}/wnyw_tvinsider.xml" || true
           popd >/dev/null
 
           # Estrai i programme e appende dentro <tv>…</tv>
-          grep '<programme ' wabc_tvinsider.xml > wabc_programmes.tmp || true
-          FALLBACK_COUNT=$(grep -c '<programme ' wabc_programmes.tmp || true)
+          grep '<programme ' wnyw_tvinsider.xml > wnyw_programmes.tmp || true
+          FALLBACK_COUNT=$(grep -c '<programme ' wnyw_programmes.tmp || true)
           echo "Programmi fallback trovati: $FALLBACK_COUNT"
 
           if [ "$FALLBACK_COUNT" -gt 0 ]; then
             sed -i '$d' epg.xml     # rimuovi </tv> finale
-            cat wabc_programmes.tmp >> epg.xml
+            cat wnyw_programmes.tmp >> epg.xml
             echo "</tv>" >> epg.xml
-            echo "Fallback WABC completato."
+            echo "Fallback WNYW completato."
           fi
 
-          rm -f wabc_programmes.tmp || true
+          rm -f wnyw_programmes.tmp || true
 
       # ---------------------- COMMIT ----------------------
       - name: Commit changes if needed
