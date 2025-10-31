@@ -16,9 +16,9 @@
   <channel site="plex.tv"          lang="en" xmltv_id="reuters-tv"            site_id="5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc">Reuters TV</channel>
   
   <channel site="tvinsider.com"    lang="en" xmltv_id="wabc"               site_id="abc">ABC</channel>
-  <channel site="tvinsider.com"    lang="en" xmltv_id="wnbc"               site_id="nbc">NBC</channel>
+  <channel site="directv.com"      lang="en" xmltv_id="wnbc"               site_id="392#4237">NBC</channel>
   <channel site="tvinsider.com"    lang="en" xmltv_id="wcbs"               site_id="cbs">CBS</channel>
-  <channel site="ontvtonight.com"  lang="en" xmltv_id="wnyw"               site_id="us#5447310802/fox-5-wnyw">FOX</channel>
+  <channel site="directv.com"      lang="en" xmltv_id="wnyw"               site_id="398#4238">FOX</channel>
 
   <channel site="tvinsider.com"    lang="en" xmltv_id="bravo"              site_id="bravo">Bravo</channel>
   <channel site="tvinsider.com"    lang="en" xmltv_id="e-entertainment"    site_id="e">E!</channel>
