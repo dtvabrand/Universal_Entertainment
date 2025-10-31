@@ -67,10 +67,8 @@ jobs:
 
               if [ -f "${OUTPUT_FILE}" ]; then
                 echo "---- EPG SUMMARY (${OUTPUT_FILE}) ----"
-                channels_count=$(grep -c "<channel" "${OUTPUT_FILE}" || true)
-                progs_count=$(grep -c "<programme " "${OUTPUT_FILE}" || true)
-                echo "Channels: $channels_count"
-                echo "Programmes: $progs_count"
+                grep -c "<channel" "${OUTPUT_FILE}" || true
+                grep -c "<programme " "${OUTPUT_FILE}" || true
                 ls -lh "${OUTPUT_FILE}"
               else
                 echo "No ${OUTPUT_FILE} produced."
@@ -96,49 +94,49 @@ jobs:
 
           exit $fail
 
-      - name: Auto-split epgshare01.online (ONLY 4 locals, 7 days via curl) and merge
+      - name: Inject only 4 US locals (WABC/WNBC/WCBS/WNYW) into epg.xml
         shell: bash
         run: |
           set -euo pipefail
 
-          tmp_ch="epgshare_tmp_channels.xml"
-          {
-            echo '<?xml version="1.0" encoding="UTF-8"?>'
-            echo '<channels>'
-            awk '/<channel/ && /site="epgshare01.online"/ && /xmltv_id="(wabc|wnbc|wcbs|wnyw)"/ { print $0 }' channels.xml
-            echo '</channels>'
-          } > "$tmp_ch"
+          echo ">> Fetching US locals feed..."
+          curl -fsSL "https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz" -o /tmp/us_locals1.xml.gz
+          gzip -dc /tmp/us_locals1.xml.gz > /tmp/us_locals1.xml
 
-          if ! grep -q '<channel' "$tmp_ch"; then
-            echo "Nessun canale epgshare01.online dei 4 richiesti trovato: skip."
-            exit 0
-          fi
+          # Scrivi lo script Python evitando heredoc (per non triggerare il linter YAML)
+          PY=/tmp/us_locals_merge.py
+          : > "$PY"
+          printf '%s\n' \
+            'import sys, xml.etree.ElementTree as ET' \
+            'BASE = "epg.xml"; SRC = "/tmp/us_locals1.xml"; OUT = "epg.xml"' \
+            'TARGET = {"WABC-DT.us_locals1","WNBC-DT.us_locals1","WCBS-DT.us_locals1","WNYW-DT.us_locals1"}' \
+            'b = ET.parse(BASE); r = b.getroot()' \
+            'if r.tag != "tv": print("Root base non è <tv>", file=sys.stderr)' \
+            'cids = {c.get("id") for c in r.findall("channel") if c.get("id")}' \
+            'pkeys = {(p.get("channel"), p.get("start"), p.get("stop")) for p in r.findall("programme")}' \
+            'for _, e in ET.iterparse(SRC, events=("end",)):' \
+            '    if e.tag == "channel":' \
+            '        cid = e.get("id") or ""' \
+            '        if cid in TARGET and cid not in cids:' \
+            '            r.append(e); cids.add(cid)' \
+            '    e.clear()' \
+            'added = 0' \
+            'for _, e in ET.iterparse(SRC, events=("end",)):' \
+            '    if e.tag == "programme":' \
+            '        ch = e.get("channel")' \
+            '        if ch in TARGET:' \
+            '            key = (ch, e.get("start"), e.get("stop"))' \
+            '            if key not in pkeys:' \
+            '                r.append(e); pkeys.add(key); added += 1' \
+            '    e.clear()' \
+            'b.write(OUT, encoding="utf-8", xml_declaration=True)' \
+            'print("Programmi US locals aggiunti:", added)'
 
-          tmp_epg="epgshare_tmp_epg.xml"
-          pushd epg >/dev/null
-          npm run grab -- \
-            --channels="${GITHUB_WORKSPACE}/${tmp_ch}" \
-            --days=7 \
-            --maxConnections=4 \
-            --timeout=60000 \
-            --curl \
-            --output="${GITHUB_WORKSPACE}/${tmp_epg}"
-          popd >/dev/null
+          python3 "$PY"
 
-          echo "---- EPG SUMMARY (${tmp_epg}) ----"
-          grep -c "<channel" "${tmp_epg}" || true
-          grep -c "<programme " "${tmp_epg}" || true
-          ls -lh "${tmp_epg}"
-
-          pushd epg >/dev/null
-          npm run merge -- \
-            --output "${GITHUB_WORKSPACE}/epg_merged.xml" \
-            "${GITHUB_WORKSPACE}/epg.xml" \
-            "${GITHUB_WORKSPACE}/${tmp_epg}"
-          popd >/dev/null
-
-          mv -f epg_merged.xml epg.xml
-          rm -f "$tmp_ch" "$tmp_epg"
+          echo "---- EPG SUMMARY (epg.xml after US locals merge) ----"
+          grep -c "<programme " epg.xml || true
+          ls -lh epg.xml
 
       - name: Commit changes if needed
         shell: bash
@@ -149,13 +147,9 @@ jobs:
           shopt -s nullglob
           files=(epg.xml *_epg.xml)
           to_add=()
-          for f in "${files[@]}"; do
-            [[ -e "$f" ]] && to_add+=("$f")
-          done
+          for f in "${files[@]}"; do [[ -e "$f" ]] && to_add+=("$f"); done
 
-          if ((${#to_add[@]})); then
-            git add "${to_add[@]}"
-          fi
+          if ((${#to_add[@]})); then git add "${to_add[@]}"; fi
 
           if ! git diff --cached --quiet; then
             git commit -m "EPG Updated! 📺"
