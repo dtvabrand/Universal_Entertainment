@@ -32,6 +32,6 @@
   <channel site="guidatv.sky.it"    lang="it" xmltv_id="TV8.it"           site_id="DTH#8195">TV8</channel>
   <channel site="guidatv.sky.it"    lang="it" xmltv_id="SkyTG24.it"       site_id="DTH#9117">SkyTG24</channel>
   <channel site="guidatv.sky.it"    lang="it" xmltv_id="TV2000.it"        site_id="DTH#7588">TV2000</channel>
-  <channel site="epgshare01.online" lang="de" xmltv_id="Sportitalia.it"   site_id="CH1#SPORTITALIA.ch">Sportitalia</channel>
+  <channel site="guida.tv"          lang="it" xmltv_id="Sportitalia.it"   site_id="83807384/sport-italia">Sportitalia</channel>
 
 </channels>
