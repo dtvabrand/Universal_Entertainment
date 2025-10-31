@@ -35,63 +35,57 @@ jobs:
         working-directory: ./epg
         run: npm ci --no-audit --no-fund
 
-      - name: Grab all EPGs in parallel
-        env:
-          CHANNEL_OUTPUT_PAIRS: "channels.xml:epg.xml d_channels.xml:d_epg.xml"
+      - name: Grab EPGs (robust + logs)
+        shell: bash
         run: |
-          set -e
-          echo "Pairs: $CHANNEL_OUTPUT_PAIRS"
+          set -euo pipefail
 
-          pids=()
-          names=()
+          # pulizia log/errori precedenti (facoltativo ma utile)
+          rm -rf epg/errors epg/logs || true
 
-          for pair in $CHANNEL_OUTPUT_PAIRS; do
-            CHANNELS_FILE="${pair%%:*}"
-            OUTPUT_FILE="${pair##*:}"
+          run_grab() {
+            local CHANNELS_FILE="$1"
+            local OUTPUT_FILE="$2"
 
             echo ">> Launching grab for $CHANNELS_FILE -> $OUTPUT_FILE"
 
-            (
-              pushd epg >/dev/null
-              npm run grab -- \
-                --channels="${GITHUB_WORKSPACE}/${CHANNELS_FILE}" \
-                --days=7 \
-                --maxConnections=16 \
-                --timeout=15000 \
-                --output="${GITHUB_WORKSPACE}/${OUTPUT_FILE}"
-              popd >/dev/null
+            pushd epg >/dev/null
+            # uso tsx diretto per evitare stranezze di parsing (es. maxConnections: NaN)
+            npx tsx scripts/commands/epg/grab.ts \
+              --channels="${GITHUB_WORKSPACE}/${CHANNELS_FILE}" \
+              --days=7 \
+              --maxConnections=16 \
+              --timeout=30000 \
+              --output="${GITHUB_WORKSPACE}/${OUTPUT_FILE}" \
+              2>&1 | tee "${GITHUB_WORKSPACE}/grab_${OUTPUT_FILE%.xml}.log"
+            popd >/dev/null
 
-              if [ -f "${OUTPUT_FILE}" ]; then
-                echo "---- EPG SUMMARY (${OUTPUT_FILE}) ----"
-                channels_count=$(grep -c "<channel" "${OUTPUT_FILE}" || true)
-                progs_count=$(grep -c "<programme " "${OUTPUT_FILE}" || true)
-                echo "Channels: $channels_count"
-                echo "Programmes: $progs_count"
-                ls -lh "${OUTPUT_FILE}"
-              else
-                echo "No ${OUTPUT_FILE} produced."
-                exit 1
-              fi
-            ) &
-
-            pids+=($!)
-            names+=("${OUTPUT_FILE}")
-          done
-
-          # Wait for all parallel grabs
-          fail=0
-          for i in "${!pids[@]}"; do
-            pid=${pids[$i]}
-            name=${names[$i]}
-            if wait "$pid"; then
-              echo "✔ Completed: ${name}"
-            else
-              echo "✖ Failed: ${name}"
-              fail=1
+            if [[ ! -s "${OUTPUT_FILE}" ]]; then
+              echo "❌ ${OUTPUT_FILE} è vuoto."
+              echo "---- epg/errors ----"; ls -lah epg/errors || true; tail -n +1 epg/errors/* || true
+              echo "---- Log (${OUTPUT_FILE}) ----"; tail -n 200 "grab_${OUTPUT_FILE%.xml}.log" || true
+              exit 1
             fi
-          done
 
-          exit $fail
+            echo "---- EPG SUMMARY (${OUTPUT_FILE}) ----"
+            channels_count=$(grep -c "<channel" "${OUTPUT_FILE}" || true)
+            progs_count=$(grep -c "<programme " "${OUTPUT_FILE}" || true)
+            echo "Channels: $channels_count"
+            echo "Programmes: $progs_count"
+            ls -lh "${OUTPUT_FILE}"
+
+            if (( channels_count > 0 && progs_count == 0 )); then
+              echo "❌ Canali caricati ma 0 programmes in ${OUTPUT_FILE}."
+              echo "---- epg/errors ----"; ls -lah epg/errors || true; tail -n +1 epg/errors/* || true
+              echo "---- Log (${OUTPUT_FILE}) ----"; tail -n 200 "grab_${OUTPUT_FILE%.xml}.log" || true
+              exit 1
+            fi
+          }
+
+          # DEBUG: esegui serialmente per vedere bene i log
+          run_grab channels.xml epg.xml
+          run_grab d_channels.xml d_epg.xml
+
 
       - name: Commit changes if needed
         shell: bash
