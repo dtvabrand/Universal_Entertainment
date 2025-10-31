@@ -103,13 +103,13 @@ https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/p
 https://stream10.xdevel.com/video14s975955-1911/stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Campania" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/Tvoggisalerno.jpg",Tv Oggi
-https://dotfvxkfj90ca.cloudfront.net/live/tvoggi_aac/playlist.m3u8
+https://dotfvxkfj90ca.cloudfront.net/live/tvoggi_aac/chunklist.m3u8?token=f047e3dc-886b-4ec2-b181-7af3920f4ae5&streamSessionId=622cab3a-0b96-4f4c-b416-0a131a8921fa&code=REGIA1982&expires=1762000308553&ctrl=79a9f1269bfd945703d23263f0b12ba3fa500e517314dff95413be3b5359626e075b4fd41fb3d64addf309cddcf46c1e3c211c9b197b82ebf1540f3977a05c57
 
 #EXTINF:-1 group-title="Campania" tvg-logo="https://i.imgur.com/b8y6ImZ.png",Antenna Sud
 https://stream.antennasudwebtv.it:9443/hls/vod720.m3u8
 
 #EXTINF:-1 group-title="Campania" tvg-logo="https://i.imgur.com/ZP3cJi7.png",StileTV
-https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u8
+https://nrvideo1.newradio.it:1936/pskfvahhcs/pskfvahhcs/chunklist_w513045666.m3u8
 
 #EXTINF:-1 group-title="Campania" tvg-logo="https://www.infocilento.it/wp-content/uploads/2024/03/logo-retina-120.png",InfoCilento  
 https://proxy.media.convergenze.it/InfoCilento/streams/EToxBtWHNs1xJzsx1719408453352.m3u8
