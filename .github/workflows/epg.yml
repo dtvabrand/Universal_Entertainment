@@ -103,37 +103,32 @@ jobs:
           curl -fsSL "https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz" -o /tmp/us_locals1.xml.gz
           gzip -dc /tmp/us_locals1.xml.gz > /tmp/us_locals1.xml
 
-          # Scrivi lo script Python evitando heredoc (per non triggerare il linter YAML)
           PY=/tmp/us_locals_merge.py
           : > "$PY"
           printf '%s\n' \
             'import sys, xml.etree.ElementTree as ET' \
-            'from xml.etree.ElementTree import Element' \
             'BASE = "epg.xml"; SRC = "/tmp/us_locals1.xml"; OUT = "epg.xml"' \
-            'MAP = {' \
-            '  "wabc":"WABC-DT.us_locals1",' \
-            '  "wnbc":"WNBC-DT.us_locals1",' \
-            '  "wcbs":"WCBS-DT.us_locals1",' \
-            '  "wnyw":"WNYW-DT.us_locals1",' \
+            'FEED_TO_TARGET = {' \
+            '  "WABC-DT.us_locals1": "wabc",' \
+            '  "WNBC-DT.us_locals1": "wnbc",' \
+            '  "WCBS-DT.us_locals1": "wcbs",' \
+            '  "WNYW-DT.us_locals1": "wnyw",' \
             '}' \
-            'FEED2TARGET = {v:k for k,v in MAP.items()}' \
             'b = ET.parse(BASE); r = b.getroot()' \
-            'if r.tag != "tv": print("Root base non è <tv>", file=sys.stderr)' \
-            '# set dei programmi già presenti (id target)' \
+            'if r.tag != "tv": print("Root base non e <tv>", file=sys.stderr)' \
             'pkeys = {(p.get("channel"), p.get("start"), p.get("stop")) for p in r.findall("programme")}' \
             'added = 0; seen = 0' \
             'for _, e in ET.iterparse(SRC, events=("end",)):' \
             '    if e.tag != "programme":' \
             '        e.clear(); continue' \
             '    ch = e.get("channel")' \
-            '    if ch not in FEED2TARGET:' \
+            '    if ch not in FEED_TO_TARGET:' \
             '        e.clear(); continue' \
-            '    target_id = FEED2TARGET[ch]  # es. "wabc"' \
+            '    target_id = FEED_TO_TARGET[ch]' \
             '    key = (target_id, e.get("start"), e.get("stop"))' \
             '    seen += 1' \
             '    if key in pkeys:' \
             '        e.clear(); continue' \
-            '    # clona il programme e riscrivi l\'id canale sul target (wabc/w ...)' \
             '    new = ET.fromstring(ET.tostring(e, encoding="utf-8"))' \
             '    new.set("channel", target_id)' \
             '    r.append(new)' \
@@ -141,8 +136,8 @@ jobs:
             '    added += 1' \
             '    e.clear()' \
             'b.write(OUT, encoding="utf-8", xml_declaration=True)' \
-            'print(f"Programmi feed considerati: {seen}")' \
-            'print(f"Programmi US locals aggiunti: {added}")'
+            'print("Programmi feed considerati:", seen)' \
+            'print("Programmi US locals aggiunti:", added)'
 
           python3 "$PY"
 
