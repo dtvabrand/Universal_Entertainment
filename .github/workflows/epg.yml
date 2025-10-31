@@ -33,132 +33,8 @@ jobs:
 
       - name: Install grabber deps
         working-directory: ./epg
-        run: |
-          npm ci --no-audit --no-fund
+        run: npm ci --no-audit --no-fund
 
-      ##############################################
-      # DEBUG WNBC (tvpassport)
-      ##############################################
-      - name: (DEBUG) WNBC tvpassport - 1 giorno
-        shell: bash
-        run: |
-          set -euxo pipefail
-          printf '%s\n' \
-            '<?xml version="1.0" encoding="UTF-8"?>' \
-            '<channels>' \
-            '<channel site="tvpassport.com" lang="en" xmltv_id="wnbc" site_id="nbc-wnbc-new-york-ny/1767">NBC</channel>' \
-            '</channels>' \
-            > "${GITHUB_WORKSPACE}/debug_wnbc_tvpass.channels.xml"
-
-          pushd epg
-          npm run grab --- \
-            --channels="${GITHUB_WORKSPACE}/debug_wnbc_tvpass.channels.xml" \
-            --days=1 \
-            --maxConnections=1 \
-            --timeout=30000 \
-            --curl \
-            --output="${GITHUB_WORKSPACE}/debug_wnbc_tvpass.xml"
-          popd
-
-          test -f "${GITHUB_WORKSPACE}/debug_wnbc_tvpass.xml"
-          grep -c '<programme ' "${GITHUB_WORKSPACE}/debug_wnbc_tvpass.xml" || echo 0
-
-      ##############################################
-      # FALLBACK WNBC → tvinsider
-      ##############################################
-      - name: (Fallback) WNBC tvinsider se tvpassport è vuoto
-        shell: bash
-        run: |
-          set -euo pipefail
-          PROGS=$(grep -c '<programme ' "${GITHUB_WORKSPACE}/debug_wnbc_tvpass.xml" || echo 0)
-          if [ "${PROGS}" -eq 0 ]; then
-            echo "WNBC tvpassport assente → fallback tvinsider"
-            printf '%s\n' \
-              '<?xml version="1.0" encoding="UTF-8"?>' \
-              '<channels>' \
-              '<channel site="tvinsider.com" lang="en" xmltv_id="wnbc" site_id="nbc">NBC</channel>' \
-              '</channels>' \
-              > "${GITHUB_WORKSPACE}/wnbc_tvinsider.channels.xml"
-
-            pushd epg
-            npm run grab --- \
-              --channels="${GITHUB_WORKSPACE}/wnbc_tvinsider.channels.xml" \
-              --days=1 \
-              --maxConnections=1 \
-              --timeout=30000 \
-              --curl \
-              --output="${GITHUB_WORKSPACE}/wnbc_tvinsider.xml"
-            popd
-
-            echo "Programmi fallback WNBC: $(grep -c '<programme ' "${GITHUB_WORKSPACE}/wnbc_tvinsider.xml" || echo 0)"
-            echo "Fallback WNBC completato."
-          else
-            echo "WNBC tvpassport OK: ${PROGS} programmi."
-          fi
-
-      ##############################################
-      # DEBUG WNYW (tvpassport)
-      ##############################################
-      - name: (DEBUG) WNYW tvpassport - 1 giorno
-        shell: bash
-        run: |
-          set -euxo pipefail
-          printf '%s\n' \
-            '<?xml version="1.0" encoding="UTF-8"?>' \
-            '<channels>' \
-            '<channel site="tvpassport.com" lang="en" xmltv_id="wnyw" site_id="fox-wnyw-new-york-ny-hd/4557">FOX</channel>' \
-            '</channels>' \
-            > "${GITHUB_WORKSPACE}/debug_wnyw_tvpass.channels.xml"
-
-          pushd epg
-          npm run grab --- \
-            --channels="${GITHUB_WORKSPACE}/debug_wnyw_tvpass.channels.xml" \
-            --days=1 \
-            --maxConnections=1 \
-            --timeout=30000 \
-            --curl \
-            --output="${GITHUB_WORKSPACE}/debug_wnyw_tvpass.xml"
-          popd
-
-          test -f "${GITHUB_WORKSPACE}/debug_wnyw_tvpass.xml"
-          grep -c '<programme ' "${GITHUB_WORKSPACE}/debug_wnyw_tvpass.xml" || echo 0
-
-      ##############################################
-      # FALLBACK WNYW → tvinsider
-      ##############################################
-      - name: (Fallback) WNYW tvinsider se tvpassport è vuoto
-        shell: bash
-        run: |
-          set -euo pipefail
-          PROGS=$(grep -c '<programme ' "${GITHUB_WORKSPACE}/debug_wnyw_tvpass.xml" || echo 0)
-          if [ "${PROGS}" -eq 0 ]; then
-            echo "WNYW tvpassport assente → fallback tvinsider"
-            printf '%s\n' \
-              '<?xml version="1.0" encoding="UTF-8"?>' \
-              '<channels>' \
-              '<channel site="tvinsider.com" lang="en" xmltv_id="wnyw" site_id="fox">FOX</channel>' \
-              '</channels>' \
-              > "${GITHUB_WORKSPACE}/wnyw_tvinsider.channels.xml"
-
-            pushd epg
-            npm run grab --- \
-              --channels="${GITHUB_WORKSPACE}/wnyw_tvinsider.channels.xml" \
-              --days=1 \
-              --maxConnections=1 \
-              --timeout=30000 \
-              --curl \
-              --output="${GITHUB_WORKSPACE}/wnyw_tvinsider.xml"
-            popd
-
-            echo "Programmi fallback WNYW: $(grep -c '<programme ' "${GITHUB_WORKSPACE}/wnyw_tvinsider.xml" || echo 0)"
-            echo "Fallback WNYW completato."
-          else
-            echo "WNYW tvpassport OK: ${PROGS} programmi."
-          fi
-
-      ##############################################
-      # Grab all EPGs in parallel (tuo script)
-      ##############################################
       - name: Grab all EPGs in parallel
         env:
           CHANNEL_OUTPUT_PAIRS: "channels.xml:epg.xml d_channels.xml:d_epg.xml"
@@ -202,6 +78,7 @@ jobs:
             names+=("${OUTPUT_FILE}")
           done
 
+          # Wait for all parallel grabs
           fail=0
           for i in "${!pids[@]}"; do
             pid=${pids[$i]}
@@ -216,9 +93,6 @@ jobs:
 
           exit $fail
 
-      ##############################################
-      # Commit changes if needed
-      ##############################################
       - name: Commit changes if needed
         run: |
           git config user.name "github-actions[bot]"
