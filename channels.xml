@@ -18,7 +18,7 @@
   <channel site="tvinsider.com"    lang="en" xmltv_id="wabc"               site_id="abc">ABC</channel>
   <channel site="tvinsider.com"    lang="en" xmltv_id="wnbc"               site_id="nbc">NBC</channel>
   <channel site="tvinsider.com"    lang="en" xmltv_id="wcbs"               site_id="cbs">CBS</channel>
-  <channel site="ontvtonight.com"  lang="en" xmltv_id="wnyw"               site_id="us#69022188/wnyw-hdtv">FOX</channel>
+  <channel site="ontvtonight.com"  lang="en" xmltv_id="wnyw"               site_id="us#5447310802/fox-5-wnyw">FOX</channel>
 
   <channel site="tvinsider.com"    lang="en" xmltv_id="bravo"              site_id="bravo">Bravo</channel>
   <channel site="tvinsider.com"    lang="en" xmltv_id="e-entertainment"    site_id="e">E!</channel>
