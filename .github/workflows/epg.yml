@@ -96,34 +96,32 @@ jobs:
 
           exit $fail
 
-      - name: Auto-split epgshare01.online (2 days) and merge
+      - name: Auto-split epgshare01.online (ONLY 4 locals, 7 days via curl) and merge
         shell: bash
         run: |
           set -euo pipefail
 
-          # 1) Estrai al volo i canali epgshare01.online
           tmp_ch="epgshare_tmp_channels.xml"
           {
             echo '<?xml version="1.0" encoding="UTF-8"?>'
             echo '<channels>'
-            awk '/<channel/ && /site="epgshare01.online"/ { print $0 }' channels.xml
+            awk '/<channel/ && /site="epgshare01.online"/ && /xmltv_id="(wabc|wnbc|wcbs|wnyw)"/ { print $0 }' channels.xml
             echo '</channels>'
           } > "$tmp_ch"
 
-          # Se non ci sono canali epgshare, esci pulito
           if ! grep -q '<channel' "$tmp_ch"; then
-            echo "Nessun canale epgshare01.online trovato: skip."
+            echo "Nessun canale epgshare01.online dei 4 richiesti trovato: skip."
             exit 0
           fi
 
-          # 2) Grab epgshare con meno giorni (evita payload troppo grandi)
           tmp_epg="epgshare_tmp_epg.xml"
           pushd epg >/dev/null
           npm run grab -- \
             --channels="${GITHUB_WORKSPACE}/${tmp_ch}" \
-            --days=2 \
-            --maxConnections=8 \
-            --timeout=20000 \
+            --days=7 \
+            --maxConnections=4 \
+            --timeout=60000 \
+            --curl \
             --output="${GITHUB_WORKSPACE}/${tmp_epg}"
           popd >/dev/null
 
@@ -132,17 +130,14 @@ jobs:
           grep -c "<programme " "${tmp_epg}" || true
           ls -lh "${tmp_epg}"
 
-          # 3) Merge dentro epg.xml
           pushd epg >/dev/null
-          npx tsx scripts/commands/epg/merge.ts \
+          npm run merge -- \
             --output "${GITHUB_WORKSPACE}/epg_merged.xml" \
             "${GITHUB_WORKSPACE}/epg.xml" \
             "${GITHUB_WORKSPACE}/${tmp_epg}"
           popd >/dev/null
 
           mv -f epg_merged.xml epg.xml
-
-          # 4) Pulizia temp
           rm -f "$tmp_ch" "$tmp_epg"
 
       - name: Commit changes if needed
