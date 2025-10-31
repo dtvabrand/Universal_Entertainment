@@ -20,9 +20,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Clone iptv-org/epg
+      - name: Clone iptv-org/epg (hotfix branch)
         run: |
-          git clone --depth 1 https://github.com/iptv-org/epg.git
+          git clone --depth 1 --branch patch-2025.10.2 https://github.com/iptv-org/epg.git
+          cd epg
+          git rev-parse --abbrev-ref HEAD
+          git rev-parse --short HEAD
 
       - name: Set up Node.js (cache npm su epg/)
         uses: actions/setup-node@v4
@@ -35,95 +38,70 @@ jobs:
         working-directory: ./epg
         run: npm ci --no-audit --no-fund
 
-      - name: Grab EPGs per-site (diagnostic + merge)
+      - name: Grab all EPGs in parallel
+        env:
+          CHANNEL_OUTPUT_PAIRS: "channels.xml:epg.xml d_channels.xml:d_epg.xml"
         shell: bash
         run: |
-          set -euo pipefail
+          set -e
+          echo "Pairs: $CHANNEL_OUTPUT_PAIRS"
 
-          mkdir -p tmp_epg
-          rm -f tmp_epg/*.xml epg.xml || true
+          pids=()
+          names=()
 
-          # Estrai i siti unici dal tuo channels.xml
-          mapfile -t SITES < <(awk -F'site="' '/<channel/{split($2,a,"\""); print a[1]}' channels.xml | sort -u)
+          for pair in $CHANNEL_OUTPUT_PAIRS; do
+            CHANNELS_FILE="${pair%%:*}"
+            OUTPUT_FILE="${pair##*:}"
 
-          echo "Siti trovati in channels.xml:"
-          printf ' - %s\n' "${SITES[@]}"
+            echo ">> Launching grab for $CHANNELS_FILE -> $OUTPUT_FILE"
 
-          success_files=()
+            (
+              pushd epg >/dev/null
+              npm run grab -- \
+                --channels="${GITHUB_WORKSPACE}/${CHANNELS_FILE}" \
+                --days=7 \
+                --maxConnections=16 \
+                --timeout=15000 \
+                --output="${GITHUB_WORKSPACE}/${OUTPUT_FILE}"
+              popd >/dev/null
 
-          run_site() {
-            local site="$1"
-            local site_safe="${site//[^A-Za-z0-9._-]/_}"  # filename-safe
-            local chfile="tmp_epg/${site_safe}_channels.xml"
-            local outfile="tmp_epg/${site_safe}_epg.xml"
-
-            # Crea un sotto-channels.xml solo per quel site
-            {
-              echo '<?xml version="1.0" encoding="UTF-8"?>'
-              echo '<channels>'
-              # prendi solo le righe con site="..."
-              # Attenzione: preserva l'indentazione/righe come sono
-              awk -v s="$site" '/<channel/{if($0 ~ "site=\"" s "\"") print $0}' channels.xml
-              echo '</channels>'
-            } > "$chfile"
-
-            echo ""
-            echo ">> [$site] grabbing -> $outfile"
-            pushd epg >/dev/null
-            npx tsx scripts/commands/epg/grab.ts \
-              --channels="${GITHUB_WORKSPACE}/${chfile}" \
-              --days=7 \
-              --maxConnections=16 \
-              --timeout=30000 \
-              --output="${GITHUB_WORKSPACE}/${outfile}" || true
-            popd >/dev/null
-
-            if [[ -s "$outfile" ]]; then
-              ch_cnt=$(grep -c "<channel" "$outfile" || true)
-              pr_cnt=$(grep -c "<programme " "$outfile" || true)
-              echo "   ✓ [$site] Channels: $ch_cnt | Programmes: $pr_cnt"
-              if (( pr_cnt > 0 )); then
-                success_files+=("$outfile")
+              if [ -f "${OUTPUT_FILE}" ]; then
+                echo "---- EPG SUMMARY (${OUTPUT_FILE}) ----"
+                channels_count=$(grep -c "<channel" "${OUTPUT_FILE}" || true)
+                progs_count=$(grep -c "<programme " "${OUTPUT_FILE}" || true)
+                echo "Channels: $channels_count"
+                echo "Programmes: $progs_count"
+                ls -lh "${OUTPUT_FILE}"
               else
-                echo "   ⚠ [$site] 0 programmes: escludo dal merge."
+                echo "No ${OUTPUT_FILE} produced."
+                exit 1
               fi
-            else
-              echo "   ✖ [$site] output vuoto: escludo dal merge."
-            fi
-          }
+            ) &
 
-          # Esegui per ogni site
-          for s in "${SITES[@]}"; do
-            run_site "$s"
+            pids+=($!)
+            names+=("${OUTPUT_FILE}")
           done
 
-          echo ""
-          echo "File con programmes > 0 da unire: ${#success_files[@]}"
-          if ((${#success_files[@]} == 0)); then
-            echo "❌ Nessun site ha prodotto programmes. epg.xml non verrà creato."
-            exit 1
-          fi
+          fail=0
+          for i in "${!pids[@]}"; do
+            pid=${pids[$i]}
+            name=${names[$i]}
+            if wait "$pid"; then
+              echo "✔ Completed: ${name}"
+            else
+              echo "✖ Failed: ${name}"
+              fail=1
+            fi
+          done
 
-          # Merge in un unico epg.xml
-          pushd epg >/dev/null
-          npx tsx scripts/commands/epg/merge.ts \
-            --output "${GITHUB_WORKSPACE}/epg.xml" \
-            "${success_files[@]}"
-          popd >/dev/null
-
-          echo "---- EPG SUMMARY (epg.xml) ----"
-          ch_all=$(grep -c "<channel" epg.xml || true)
-          pr_all=$(grep -c "<programme " epg.xml || true)
-          echo "Channels: $ch_all"
-          echo "Programmes: $pr_all"
-          ls -lh epg.xml
-
+          exit $fail
 
       - name: Commit changes if needed
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           shopt -s nullglob
           files=(epg.xml *_epg.xml)
           to_add=()
