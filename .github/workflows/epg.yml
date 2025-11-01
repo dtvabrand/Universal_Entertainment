@@ -20,12 +20,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Clone iptv-org/epg (hotfix branch)
+      - name: Clone iptv-org/epg
         run: |
-          git clone --depth 1 --branch patch-2025.10.2 https://github.com/iptv-org/epg.git
-          cd epg
-          git rev-parse --abbrev-ref HEAD
-          git rev-parse --short HEAD
+          git clone --depth 1 https://github.com/iptv-org/epg.git
 
       - name: Set up Node.js (cache npm su epg/)
         uses: actions/setup-node@v4
