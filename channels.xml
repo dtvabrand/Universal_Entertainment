@@ -11,7 +11,7 @@
   <channel site="guidatv.sky.it"                   lang="it" xmltv_id="TV2000.it"       site_id="DTH#7588">TV 2000</channel>
 
   <!-- ================== USA ================== -->
-  <channel site="pluto.tv"         lang="en" xmltv_id=""                   site_id="63d025db4e83e700086eaa96">LiveNOW from FOX</channel>
+  <channel site="pluto.tv"         lang="en" xmltv_id="livenowfromfox"     site_id="63d025db4e83e700086eaa96">LiveNOW from FOX</channel>
 
   <channel site="tvinsider.com"    lang="en" xmltv_id="wabc"               site_id="abc">ABC</channel>
   <channel site="tvinsider.com"    lang="en" xmltv_id="wnbc"               site_id="nbc">NBC</channel>
